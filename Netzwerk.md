@@ -10,8 +10,6 @@ Zum dritten gibt es verschiedene Knoten im Mesh-Netzerk die ihre Internetleitung
 
 Bisher fahren wir die [[Komplettes-Briding|http://kbu.freifunk.net/index.php/Netzwerk-Konfiguration#Komplettes_Bridging]] Strategie. Das heißt für jedes Gerät im Mesh-Netzwerk scheint alles nur wie ein großer Switch zu sein, alles ist virtuell nur einen einzigen Hop entfernt.
 
-[[Planung zur Dynamisches Bridging Architektur|DynamischesBridging]]
-
 ## DNS
 
 Wir haben für unser Netz die TLD ffhl ausgewählt. Auf burgtor und holstentor läuft ein bind und die Zonefiles liegen vorerst auf https://github.com/MetaMeute/ffhl-dns
