@@ -1,6 +1,6 @@
-//Wissensstadt Lübeck für freies Wissen!//
-
 = Freifunk Lübeck 
+
+//Wissensstadt Lübeck für freies Wissen!//
 
  * [[About]] - Was ist Freifunk?
  * [[Lübeck-Freifunk-Router]] - Was tun, damit's bei mir funkt?
