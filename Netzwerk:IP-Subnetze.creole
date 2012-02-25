@@ -18,15 +18,15 @@ die Hexadezimaldarstellungen von a bzw. b sind.
 
 === Internet Gateways
 
-Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[http://www.open-mesh.org/wiki/batman-adv/Gateways|Gateway-Server aktivieren]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
+Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[Gateway-Server aktivieren|http://www.open-mesh.org/wiki/batman-adv/Gateways]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
 
-| =Name      |    =Gateway | =DHCP(Range) | =DNS                | =batman-adv GW server | =Status | =Notizen |       |
+|=Name       |=Gateway     |=DHCP(Range)  |=DNS                 |=batman-adv GW server  |=Status  |=Notizen  |       |
 | holstentor | 10.130.15.1 |              | ja (10.130.15.0/24) | ja                    | ja      |          | aktiv |
 | burgtor    | 10.130.14.1 |              | ja (10.130.14.0/24) | ja                    | ja      |          | aktiv |
 
 === Reservierte Subnetze des Mesh-Netzes
 
-| =Subnetz      | =IP Bereich | =Notizen                                                               |
+|=Subnetz       |=IP Bereich  |=Notizen                                                                |
 | 10.130.0.0/22 | 0.1...3.254 | zur statischen Konfiguration frei zur Verfügung (siehe unten)          |
 | 10.130.3.0/24 |     1...254 | temporäre IPs. Einfach verwenden und bei Kollision eine andere nehmen. |
 | 10.130.4.0/27 |      1...30 | Netz von tcatm                                                         |
@@ -37,27 +37,27 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 
 === Reservierte, Statische Mesh-IP-Adressen
 
-||'''IP-Adresse'''      ||'''Notizen'''                  ||'''Hostname'''    ||
-||10.130.0.1            ||dn42 gateway                   ||aftermath.ffhl    ||
-||10.130.0.8            ||Avahi: krtek.local             ||krtek.ffhl        ||
-||10.130.0.9            || rec.metameute.de              ||                  ||
-||10.130.0.11           || Freifunkbotschaft in Georgien ||                  ||
-||10.130.0.12           || draic                         ||draic.ffhl        ||
-||10.130.0.13           || Tjorvens ServerBox            ||                  ||
-||10.130.0.14           || tcatm's laptop                ||                  ||
-||10.130.0.16           ||Avahi: bluedog.local           ||                  ||
-||10.130.0.17           ||                               ||                  ||
-||10.130.1.46           ||Georg (Pirat)                  ||                  ||
-||10.130.2.127          ||Avahi: Linus-Debian.local      ||                  ||
-||10.130.2.128          ||                               ||                  ||
+|=IP-Adresse   |=Notizen                       |=Hostname       |
+|   10.130.0.1 | dn42 gateway                  | aftermath.ffhl |
+|   10.130.0.8 | Avahi: krtek.local            | krtek.ffhl     |
+|   10.130.0.9 | rec.metameute.de              |                |
+|  10.130.0.11 | Freifunkbotschaft in Georgien |                |
+|  10.130.0.12 | draic                         | draic.ffhl     |
+|  10.130.0.13 | Tjorvens ServerBox            |                |
+|  10.130.0.14 | tcatm's laptop                |                |
+|  10.130.0.16 | Avahi: bluedog.local          |                |
+|  10.130.0.17 |                               |                |
+|  10.130.1.46 | Georg (Pirat)                 |                |
+| 10.130.2.127 | Avahi: Linus-Debian.local     |                |
+| 10.130.2.128 |                               |                |
 
 === Andere reservierte Subnetze
 
-||'''Subnetz'''         ||'''Beschreibung''' ||
-||10.130.16.0/24        ||Client-VPN auf Burgtor||
+|=Subnetz        |=Beschreibung           |
+| 10.130.16.0/24 | Client-VPN auf Burgtor |
 
 === 10.130.16.0/24
 
-||'''IP-Adresse'''      ||'''Hostname''' || '''Notizen'''   ||
-||10.130.16.1           ||burgtor        ||                 ||
-||10.130.16.2           ||               || Pascal's Server ||
+|=IP-Adresse  |=Hostname |=Notizen         |
+| 10.130.16.1 | burgtor  |                 |
+| 10.130.16.2 |          | Pascal's Server |
