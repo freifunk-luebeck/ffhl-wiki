@@ -1,6 +1,7 @@
  * [[About]]
  * [[Lübeck-Freifunk-Router]]
  * [[Netzwerk]]
+ ** [[IP-Subnetze|Netzwerk:IP-Subnetze]]
  * [[ExterneQuellen]]
  * [[Visuell]]
  * [[Knoten]]
