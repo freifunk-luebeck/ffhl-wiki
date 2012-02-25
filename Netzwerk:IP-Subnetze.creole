@@ -20,9 +20,9 @@ die Hexadezimaldarstellungen von a bzw. b sind.
 
 Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[Gateway-Server aktivieren|http://www.open-mesh.org/wiki/batman-adv/Gateways]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
 
-|=Name       |=Gateway     |=DHCP(Range)  |=DNS                 |=batman-adv GW server  |=Status  |=Notizen  |       |
-| holstentor | 10.130.15.1 |              | ja (10.130.15.0/24) | ja                    | ja      |          | aktiv |
-| burgtor    | 10.130.14.1 |              | ja (10.130.14.0/24) | ja                    | ja      |          | aktiv |
+|=Name       |=Gateway     |=DHCP(Range)         |=DNS  |=batman-adv GW server  |=Status  |=Notizen  |
+| holstentor | 10.130.15.1 | ja (10.130.15.0/24) | ja   | ja                    |         | aktiv    |
+| burgtor    | 10.130.14.1 | ja (10.130.14.0/24) | ja   | ja                    |         | aktiv    |
 
 === Reservierte Subnetze des Mesh-Netzes
 
