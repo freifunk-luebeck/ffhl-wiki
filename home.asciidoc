@@ -1,5 +1,3 @@
-= Freifunk Lübeck 
-
 //Wissensstadt Lübeck für freies Wissen!//
 
  * [[About]] - Was ist Freifunk?
