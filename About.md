@@ -1,16 +1,16 @@
-# Wissensstadt Lübeck für freies Wissen
+## Wissensstadt Lübeck für freies Wissen
 
 Geht man heute durch Lübeck, und hat den Laptop oder das Handy dabei, findet man viele private Funknetzwerke, aus fast jeder Wohnung funkt es einem förmlich entgegen. Standardmäßig werden viele Router und Access-Points heute (zum Glück des Besitzers) so gesichert ausgeliefert, dass sie vor Fremdzugriff einigermaßen geschützt sind. Man steht also in einer Menge von Infrastruktur, die man nicht nutzen kann. Vergleicht man dies mit Straßen, so gibt es viele viele Straßen, aber benutzt werden dürfen sie nur von einzelnen Personen, im wesentlichen aus rechtlichen Gründen.
 
-# Freies Funknetz
+## Freies Funknetz
 
 -- [[http://www.wikipedia.org|Wikipedia]] zu [[https://secure.wikimedia.org/wikipedia/de/w/index.php?title=Freies_Funknetz&oldid=89683127|Freies Funknetz]], 5. Jun. 2011 19:09:
 
-## Idee und Funktionsweise
+### Idee und Funktionsweise
 
 Jeder Nutzer im Freifunk-Netz stellt seinen WLAN-Router für den Datentransfer der anderen Teilnehmer zur Verfügung. Im Gegenzug kann er oder sie ebenfalls Daten, wie zum Beispiel Text, Musik und Filme über das interne Freifunk-Netz übertragen oder über von Teilnehmern eingerichtete Dienste im Netz chatten, telefonieren und gemeinsam Onlinegames spielen. Viele Teilnehmer stellen zudem ihren Internetzugang zur Verfügung und ermöglichen anderen den Zugang zum weltweiten Netz. Freifunk-Netze sind Selbstmach-Netze. Für den Aufbau nutzen Teilnehmer auf ihren WLAN-Routern spezielle Linuxdistributionen, z. B. die Freifunk-Firmware. Lokale Gruppen stellen die auf eigene Bedürfnisse angepasste Software dann auf ihren Websites zur Verfügung. In vielen Dörfern und Städten gibt es mittlerweile Freifunk-Gruppen und Zusammenkünfte, wo sich Interessierte treffen.
 
-## Vision und Hintergründe
+### Vision und Hintergründe
 
 Die Freifunk-Community ist Teil einer globalen Bewegung für freie Infrastrukturen. Die Vision von Freifunk-Initiativen ist die Verbreitung freier Netzwerke, die Demokratisierung der Kommunikationsmedien und die Förderung lokaler Sozialstrukturen. Durch die Vernetzung ganzer Stadtteile, Dörfer und Regionen möchten die Initiativen der digitalen Kluft entgegenwirken und freie unabhängige Netzwerkstrukturen aufbauen. In diesen freien Netzen können zum Beispiel lizenzfreies Community-Radio, die Übertragung lokaler Ereignisse, private Tauschbörsen und die gemeinsame kostengünstige Nutzung eines Internetzugangs möglich werden. Der Austausch in den freien Netzen basiert dabei nicht auf kommerziellen Interessen, sondern auf dem freiwilligen Geben und Nehmen jedes Einzelnen im Netzwerk. Diese Idee wurde im Pico Peering Agreement[1] formuliert.
 
