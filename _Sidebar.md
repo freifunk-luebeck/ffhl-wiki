@@ -1,3 +1,4 @@
+ * [[home]]
  * [[About]]
  * [[Lübeck-Freifunk-Router]]
  * [[Netzwerk]]
