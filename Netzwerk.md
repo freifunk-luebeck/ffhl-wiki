@@ -4,7 +4,7 @@ Zum zweiten gibt es verschiedene Knoten, die kleine Wolken in Lübeck durch eine
 
 Zum dritten gibt es verschiedene Knoten im Mesh-Netzerk die ihre Internetleitung nicht nur für den VPN-Tunnel zur Verfügung, sondern auch anderen Benutzern direkt als Ausgang ins Internet, als sogenannter Internet-Gateway. Hierzu sollte man sich aber zuvor über die rechtlichen Konsequenzen informieren (die Gesetzeslage ist hierbei leider auch nach dem BGH-Gerichtsurteil immernoch unklar... siehe auch: [[hier|http://freifunkstattangst.de/2010/06/17/das-wlan-urteil-des-bgh-und-seine-auswirkungen-auf-offene-netze/]] und [[hier|http://www.elektrischer-reporter.de/labor/video/235/]])
 
-[[IP-Subnetze]]
+[[Netzwerk:IP-Subnetze]]
 
 ## Architektur 
 
