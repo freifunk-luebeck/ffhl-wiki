@@ -12,7 +12,7 @@ Zum dritten gibt es verschiedene Knoten im Mesh-Netzerk die ihre Internetleitung
 
 Bisher fahren wir die [[http://kbu.freifunk.net/index.php/Netzwerk-Konfiguration#Komplettes_Bridging|Komplettes-Briding]] Strategie. Das heißt für jedes Gerät im Mesh-Netzwerk scheint alles nur wie ein großer Switch zu sein, alles ist virtuell nur einen einzigen Hop entfernt.
 
-[[/DynamischesBridging|Planung zur Dynamisches Bridging Architektur]]
+[[DynamischesBridging|Planung zur Dynamisches Bridging Architektur]]
 
 ## DNS
 
