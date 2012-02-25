@@ -11,7 +11,7 @@
  * [[Gruppenaktionen]] - Gemeinsame Aktionen
  * [[VOIP]] -  Kostenloses Telefonieren im Freifunk
 
-== Kontakt ==
+== Kontakt
 
 Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [[http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck|Mailing-Liste]]
 
