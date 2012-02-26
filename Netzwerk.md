@@ -1,3 +1,5 @@
+# Netzwerk
+
 Prinzipiell besteht das Freifunk Lübeck Mesh Netzwerk aus verschiedenen Schichten. Zum einen gibt es natürlich die WLAN-Router, die über die Luft ein WLAN Mesh-Netzwerk aufbauen und hier die Datenpakete weiterleiten. Wer schon "luebeck.freifunk.net" z.B. an seinem Fenster empfangen kann, aber auf der gemütlichen Wohnzimmer-Couch nicht mehr, der kann so ein vorkonfiguriertes Gerät bei uns abholen (30€ Pfand) oder [[selber zusammenbasteln|Lübeck-Freifunk-Firmware]] und muss dieses nur noch an sein Fenster stellen und an die Steckdose anschließen. Durch diesen intelligenten "WLAN-Repeater" vergrößert sich die Mesh-Wolke und der Empfang im Wohnzimmer wird möglich - und auch für die nächsten Nachbarn.
 
 Zum zweiten gibt es verschiedene Knoten, die kleine Wolken in Lübeck durch einen verschlüsselten Tunnel durch das Internet mit einander verbinden. Wer einen schnellen Internetzugang hat (VDSL oder schneller?) und sich mit VPNs auskennt, kann somit gerne seine eigene kleine Wolke bei sich zu Hause starten. Die Internetleitung wird hierbei ''nicht'' als Ausgang für andere Mesh-Nutzer ins Internet benutzt. Siehe auch: [[IntraCityVPN]].
