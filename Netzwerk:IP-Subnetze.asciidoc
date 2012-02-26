@@ -60,4 +60,4 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 
 |=IP-Adresse  |=Hostname |=Notizen         |
 | 10.130.16.1 | burgtor  |                 |
-| 10.130.16.2 |          | Pascal's Server |
+| 10.130.16.2 |          | Pascals Server |
