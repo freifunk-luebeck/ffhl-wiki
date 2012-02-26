@@ -1,3 +1,5 @@
+<iframe width="560" height="315" src="http://www.youtube.com/embed/vNtxTgzgrwo" frameborder="0" allowfullscreen></iframe>
+
 ## Wissensstadt Lübeck für freies Wissen
 
 Geht man heute durch Lübeck, und hat den Laptop oder das Handy dabei, findet man viele private Funknetzwerke, aus fast jeder Wohnung funkt es einem förmlich entgegen. Standardmäßig werden viele Router und Access-Points heute (zum Glück des Besitzers) so gesichert ausgeliefert, dass sie vor Fremdzugriff einigermaßen geschützt sind. Man steht also in einer Menge von Infrastruktur, die man nicht nutzen kann. Vergleicht man dies mit Straßen, so gibt es viele viele Straßen, aber benutzt werden dürfen sie nur von einzelnen Personen, im wesentlichen aus rechtlichen Gründen.
