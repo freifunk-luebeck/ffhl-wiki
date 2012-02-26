@@ -55,10 +55,10 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 
 |=Subnetz        |=Beschreibung           |
 | 10.130.16.0/24 | Client-VPN auf Burgtor |
-| 10.130.17.0/24 | L2TP-Client-VPN auf Pascals Server |
+| 10.130.17.0/24 | L2TP-Client-VPN auf Pascal's Server |
 
 === 10.130.16.0/24
 
 |=IP-Adresse  |=Hostname |=Notizen         |
 | 10.130.16.1 | burgtor  |                 |
-| 10.130.16.2 |          | Pascals Server |
+| 10.130.16.2 |          | Pascal's Server |
