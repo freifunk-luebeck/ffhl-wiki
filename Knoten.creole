@@ -1,16 +1,13 @@
 = Freifunk Knoten
 
+== Visuell
+
+ * [[Open Streetmap Karte|http://burgtor.ffhl/freifunk/mesh.html]] ([[IP|http://10.130.14.1/freifunk/mesh.html]], [[Extern|http://188.138.99.158/freifunk/mesh.html]])
+ * [[Batman Graph|http://aftermath.ffhl/batman.svg]] (oder .png oder .dot) ([[IP|http://10.130.0.1/batman.svg]], [[Extern|http://aftermath.universe-factory.net/batman.svg]])
+ * [[Interaktiver Graph|http://draic.ffhl/ffmap-d3/nodes.html]] Interaktiv. Javascript und SVG nötig. ([[IP|http://10.130.0.12/ffmap-d3/nodes.html]], [[Extern|http://188.138.99.157/ffmap-d3/nodes.html]])
+ * [[Statistiken|http://krtek.ffhl/cacti-export]] ([[IP|http://10.130.0.8/cacti-export]], [[Extern|http://www.metameute.de/cacti-export]])
+
 == Bereits vorhandene Knoten
-
-Dies soll eine Auflistung der bereits vorhandenen Freifunk-Router sein, die von uns installiert wurden.
-
-Karte: http://burgtor.ffhl/freifunk/mesh.html (IP: http://10.130.14.1/freifunk/mesh.html Mirror: http://188.138.99.158/freifunk/mesh.html )
-
-BATMAN-Graph: http://aftermath.ffhl/batman.svg (oder .png oder .dot) (IP: http://10.130.0.1/batman.svg Extern: http://aftermath.universe-factory.net/batman.svg )
-
-Noch ein Batman-Graph: http://draic.ffhl/ffmap-d3/nodes.html (Interaktiv. Javascript und SVG nötig, IP: http://10.130.0.12/ffmap-d3/nodes.html)
-
-Statistiken: http://krtek.ffhl/cacti-export (IP: http://10.130.0.8/cacti-export oder: http://krtek.local/cacti-export oder: http://www.metameute.de/cacti-export )
 
 |=Ort                                |=GPS                                                        |=Betreiber/Eigentümer |=Router     |=LFF Version |=Hinweise                                                                                                                                                                                                                        |=MAC                                                    |
 | Meute-Keller                        | 53.834384 10.702304                                         | Meta-Meute            | DIR-300     | v0.1-rc2     | Versuchskaninchen für neue Versionen                                                                                                                                                                                             | 00:22:b0:98:94:06, b0:48:7a:e7:d3:64                    |
