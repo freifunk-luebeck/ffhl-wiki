@@ -1,9 +1,6 @@
-# Wissensstadt Lübeck für freies Wissen!
+*Hier sollte etwas schönes stehen.*
 
-
-*Hier sollte etwas schönes stehen.
-
-Z.B. was Freifunk ist, was man damit machen kann und warum es Spaß bringt.*
+*Z.B. was Freifunk ist, was man damit machen kann und warum es Spaß bringt.*
 
 ## Kontakt
 
