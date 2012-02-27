@@ -42,4 +42,4 @@ Du kannst dir auch für einen Pfand einen fertig eingerichteten Router bei unser
 
 ## Coole Features für Fortgeschrittene
 
-Der Router basiert auf Linux, das heißt es steht eine Menge freier Software zu Verfügung, die du auch auf deinem Freifunk Router installieren kannst. Praktische Tools und Konfigurationsbeispiele findest du [[hier|AdvancedSetups]].
+Der Router basiert auf Linux, das heißt es steht eine Menge freier Software zu Verfügung, die du auch auf deinem Freifunk Router installieren kannst. Praktische Tools und Konfigurationsbeispiele findest du [[hier|Freifunk verwenden]].
