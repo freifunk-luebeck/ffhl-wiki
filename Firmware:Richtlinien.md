@@ -34,6 +34,7 @@ Zusätzlich:
  * gebridget mit bat0
 
 Sowie:
+
  * Modus: Master/AP
  * ESSID: `luebeck.freifunk.net - Info`
  * Leitet jeden Webseitenzugriff auf einen Info-Seite um.
