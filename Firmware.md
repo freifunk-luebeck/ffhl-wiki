@@ -2,8 +2,6 @@
 
 Wer bei Freifunk Lübeck mitmeshen will, dem steht grundsätzlich frei entweder auf Basis der folgendenen [[Firmware:Richtlinien]] zur Sicherung der Kompatibilität seine eigene Firmware für seinen Router zu basteln (z.B. auf Basis von [[OpenWRT|http://www.openwrt.org]]). Oder die hier zur Verfügung gestellte, "offizielle" Firmware zu nutzen.
 
------
-
  * [[Firmware:Installation]] - So führt man eine Erst-Installation der Lübeck-Freifunk-Firmware durch
  * [[Firmware:Update]] - So aktualisiert man eine Lübeck Freifunk Firmware
 
@@ -15,8 +13,6 @@ Wer bei Freifunk Lübeck mitmeshen will, dem steht grundsätzlich frei entweder 
 Download: https://krtek.metameute.de/~tux/Freifunk/lff/
 
 Aktuelle Version: v0.2.1 ([[Firmware:ChangeLog]])
-
------
 
 ## Unterstützte Router Modelle
 
