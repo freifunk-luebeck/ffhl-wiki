@@ -2,6 +2,8 @@
 
 *Z.B. was Freifunk ist, was man damit machen kann und warum es Spaß bringt.*
 
+*Hier sollte wirklich bald was schöneres stehen!*
+
 ## Kontakt
 
 Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [Mailing-Liste](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck)
