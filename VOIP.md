@@ -1,3 +1,5 @@
+# VOIP
+
 Wir haben am 17. Februar 2012 ein paar Erfahrungen mit VOIP und SIP im Freifunk gesammelt. VOIP im Freifunk bringt definitiv Spaß und man kann damit auch eine ziemlich gute Sprachqualität erreichen (einige Codecs schaffen sogar 48 kHz).
 
 In der Meute steht nun ein SIP fähiges Telefon und auch paul ist via SIP zu erreichen (dort läuft Asterisk ohne weitere Konfiguration). 
