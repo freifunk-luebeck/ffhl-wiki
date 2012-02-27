@@ -1,4 +1,4 @@
-== Freifunk Lübeck Subnetz
+= Freifunk Lübeck Subnetz
 
 Für den Lübecker Raum ist das folgende Subnetz reserviert:
 
@@ -8,7 +8,7 @@ Dabei wird für das eigentliche Mesh bisher 10.130.0.0/20 genutzt.
 
 Und hier eingetragen: [[http://wiki.freifunk.net/IP-Netze]]
 
-=== IPv6
+== IPv6
 
 Für IPv6 wird der Prefix fdef:ffc0:3dd7::/48 verwendet.
 Davon ist bisher nur fdef:ffc0:3dd7::/64 in Benutzung; Geräte
@@ -16,7 +16,7 @@ mit statischer Adresse 10.130.a.b SOLLTEN die IPv6-Adresse
 fdef:ffc0:3dd7::XXYY/64 zugeteilt bekommen, wobei XX und YY
 die Hexadezimaldarstellungen von a bzw. b sind.
 
-=== Internet Gateways
+== Internet Gateways
 
 Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[Gateway-Server aktivieren|http://www.open-mesh.org/wiki/batman-adv/Gateways]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
 
@@ -24,7 +24,7 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 | holstentor | 10.130.15.1 | ja (10.130.15.0/24) | ja   | ja                    | aktiv   |
 | burgtor    | 10.130.14.1 | ja (10.130.14.0/24) | ja   | ja                    | aktiv   |
 
-=== Reservierte Subnetze des Mesh-Netzes
+== Reservierte Subnetze des Mesh-Netzes
 
 |=Subnetz       |=IP Bereich  |=Notizen                                                                |
 | 10.130.0.0/22 | 0.1...3.254 | zur statischen Konfiguration frei zur Verfügung (siehe unten)          |
@@ -35,7 +35,7 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 
 Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange uns nicht die /24 ausgehen. Ist das /27 voll, kann man dann problemlos auf ein /26 oder /25 aufstocken, sodass keine übermäßige Fragmentierung der Adress-Bereiche entsteht.
 
-=== Reservierte, Statische Mesh-IP-Adressen
+== Reservierte, Statische Mesh-IP-Adressen
 
 |=IP-Adresse   |=Notizen                       |=Hostname       |
 |   10.130.0.1 | dn42 gateway                  | aftermath.ffhl |
@@ -51,13 +51,13 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 | 10.130.2.127 | Avahi: Linus-Debian.local     |                |
 | 10.130.2.128 |                               |                |
 
-=== Andere reservierte Subnetze
+== Andere reservierte Subnetze
 
 |=Subnetz        |=Beschreibung           |
 | 10.130.16.0/24 | Client-VPN auf Burgtor |
 | 10.130.17.0/24 | L2TP-Client-VPN auf Chip |
 
-=== 10.130.16.0/24
+== 10.130.16.0/24
 
 |=IP-Adresse  |=Notizen         |=Hostname
 | 10.130.16.1 |   | Burgtor                 |
