@@ -1,6 +1,7 @@
  * [[Home|home]]
  * [[About]]
  * [[Lübeck-Freifunk-Router]]
+   * [[Firmware]]
  * [[Netzwerk]]
    * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
  * [[ExterneQuellen]]
