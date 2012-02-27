@@ -8,4 +8,5 @@
  * [[Visuell]]
  * [[Knoten]]
  * [[Gruppenaktionen]]
- * [[VOIP]]
+ * [[Freifunk verwenden]]
+   * [[VOIP]]
