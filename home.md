@@ -10,3 +10,4 @@ Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [Mailing-List
 
 Twitter: Freifunk Lübeck [@Twitter](http://twitter.com/freifunkluebeck)
 
+Persönlich: Lerne uns direkt kennen, denn es geht auch um den sozialen Aspekt. Wir treffen uns jeden Donnerstag zusammen mit dem CCCHL (http://ccchl.de) in der Röhre (http://www.kjhroehre-luebeck.de/), dem Kinder- & Jugendkulturhaus in der Geraden Querstraße 2.
