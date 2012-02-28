@@ -1,0 +1,1 @@
+Git repo: [[http://git.metameute.de/luebeck.freifunk.net/]]
