@@ -1,8 +1,8 @@
 # Freifunk verwenden
 
-## [[Freifunk:Verzeichnis]]
+## [[Freifunk Verzeichnis]]
 
-Das [[Freifunk Verzeichnis|Freifunk:Verzeichnis]] enthält eine Liste von Webseiten, die im Freifunk Netzwerk verfügbar sind.
+Das [[Freifunk Verzeichnis]] enthält eine Liste von Webseiten, die im Freifunk Netzwerk verfügbar sind.
 
 ## [[Voice-Over-IP|VOIP]]
 
