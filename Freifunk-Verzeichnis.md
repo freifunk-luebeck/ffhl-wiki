@@ -7,7 +7,7 @@
  * Open Streetmap Karte der Knoten<br>
    [[http://burgtor.ffhl/freifunk/mesh.html]]
  * Batman Graph<br>
-   [[http://aftermath.ffhl/batman.png]]
+   <http://aftermath.ffhl/batman.png>
 
 ## Statistiken
 
