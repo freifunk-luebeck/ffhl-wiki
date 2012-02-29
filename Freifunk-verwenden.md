@@ -1,5 +1,9 @@
 # Freifunk verwenden
 
+## [[Freifunk:Verzeichnis]]
+
+Das [[Freifunk Verzeichnis|Freifunk:Verzeichnis]] enthält eine Liste von Webseiten, die im Freifunk Netzwerk verfügbar sind.
+
 ## [[Voice-Over-IP|VOIP]]
 
 Dank SIP und VOIP kann man im Freifunk kostenlos telefonieren. Das geht sogar mit WLAN fähigen Telefonen! Ausprobieren? [[So geht's|VOIP]]
