@@ -10,3 +10,4 @@
  * [[Gruppenaktionen]]
  * [[Freifunk verwenden]]
    * [[VOIP]]
+   * [[Freifunk Verzeichnis]]
