@@ -41,6 +41,7 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 |   10.130.0.1 | dn42 gateway                  | aftermath.ffhl |
 |   10.130.0.8 | Avahi: krtek.local            | krtek.ffhl     |
 |   10.130.0.9 | rec.metameute.de              |                |
+|  10.130.0.10 | urmel                         | urmel.ffhl     |
 |  10.130.0.11 | Freifunkbotschaft in Georgien |                |
 |  10.130.0.12 | draic                         | draic.ffhl     |
 |  10.130.0.13 | Tjorvens ServerBox            |                |
