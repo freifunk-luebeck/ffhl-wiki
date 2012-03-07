@@ -37,7 +37,7 @@ Leider kann Android Roaming nicht richtig, sodass Verbindungen sehr schnell abbr
 
 Bei manchen Clients muss noch @sip.ffhl angefügt werden.
 
- * meute (oder direkt per IP 10.130.214.124)
+ * meute (oder direkt per IP 10.130.14.58)
  * paul
  * kaspar
  * nils (Handy)
@@ -46,6 +46,10 @@ Bei manchen Clients muss noch @sip.ffhl angefügt werden.
  * derderwish
  * derderwish_netbook
  * neoraider
+
+### Vanity Nummern
+
+Alle Telefonnummern sind auch als Vanity Nummer erreichbar. D.h. statt **meute** kann auch **63883** gewählt werden. Dies soll in Zukunft dazu dienen die Telefone auch aus dem Festnetz erreichbar zu machen. Bei Mehrdeutigkeit ist das Verhalten derzeit undefiniert.
 
 ## VOIP und Freifunk
 
