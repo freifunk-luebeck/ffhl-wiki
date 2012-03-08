@@ -11,3 +11,4 @@
  * [[Freifunk verwenden]]
    * [[Freifunk Verzeichnis]]
    * [[VOIP]]
+   * [[DNS]]
