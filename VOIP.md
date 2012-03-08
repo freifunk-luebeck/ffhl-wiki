@@ -51,6 +51,14 @@ Bei manchen Clients muss noch @sip.ffhl angefügt werden.
 
 Alle Telefonnummern sind auch als Vanity Nummer erreichbar. D.h. statt **meute** kann auch **63883** gewählt werden. Dies soll in Zukunft dazu dienen die Telefone auch aus dem Festnetz erreichbar zu machen. Bei Mehrdeutigkeit ist das Verhalten derzeit undefiniert.
 
+### Aus dem Festnetz
+
+Weiterhin sind alle SIP Telefone aus dem Festnetz erreichbar:
+
+ 1. **045130504399** anrufen
+ 2. Ansage abwarten
+ 3. Vanity nummer + **#** eingeben. (z.B. **63883#** für die Meute) 
+
 ## VOIP und Freifunk
 
 VOIP über mehrere DIR-300 funktioniert. Es gibt jedoch Aussetzer. 
