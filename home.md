@@ -1,8 +1,8 @@
-*Hier sollte etwas schönes stehen.*
+## Blog
 
-*Z.B. was Freifunk ist, was man damit machen kann und warum es Spaß bringt.*
+### VOIP und Festnetz (2012-03-08)
 
-*Hier sollte wirklich bald was schöneres stehen!*
+Seit heute sind wir aus dem Festnetz erreichbar, und wer ein Geheimnis kennt, kann sogar ins Festnetz telefonieren. Mehr unter [[VOIP]].
 
 ## Kontakt
 
