@@ -8,7 +8,7 @@
  * [[Werbung]]
  * [[Knoten]]
  * [[Gruppenaktionen]]
- * [[Freifunk verwenden|Dienste im Netz]]
+ * [[Dienste im Netz|Freifunk verwenden]]
    * [[Freifunk Verzeichnis]]
    * [[VoIP]]
    * [[DNS]]
