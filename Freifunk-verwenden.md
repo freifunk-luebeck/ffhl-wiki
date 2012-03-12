@@ -1,4 +1,4 @@
-# Freifunk verwenden
+# Dienste im Netz
 
 ## [[Freifunk Verzeichnis]]
 
