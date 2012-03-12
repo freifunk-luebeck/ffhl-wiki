@@ -1,4 +1,4 @@
-# VOIP
+# VoIP
 
 Wir haben am 17. Februar 2012 ein paar Erfahrungen mit VOIP und SIP im Freifunk gesammelt. VOIP im Freifunk bringt definitiv Spaß und man kann damit auch eine ziemlich gute Sprachqualität erreichen (einige Codecs schaffen sogar 48 kHz).
 
