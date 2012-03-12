@@ -5,7 +5,7 @@
  * [[Netzwerk]]
    * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
  * [[ExterneQuellen]]
- * [[Visuell]]
+ * [[Werbung]]
  * [[Knoten]]
  * [[Gruppenaktionen]]
  * [[Freifunk verwenden]]
