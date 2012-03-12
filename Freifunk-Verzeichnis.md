@@ -1,15 +1,17 @@
 # Freifunk Verzeichnis
 
+Wir haben einige Dienste aufgesetzt, die die Struktur des Netzes überwachen und visualisieren sollen. Diese wollen wir hier einmal vorstellen.
+
 ## Graphen und Karten
 
- * Interaktive Karte der Batman Knoten<br>
+ * Interaktive Karte der Batman-Knoten<br>
    <http://draic.ffhl/ffmap-d3/nodes.html>
- * Open Streetmap Karte der Knoten<br>
+ * OpenStreetMap-Karte der Knoten<br>
    <http://burgtor.ffhl/freifunk/mesh.html>
- * Batman Graph<br>
+ * Batman-Graph<br>
    <http://aftermath.ffhl/batman.png>
 
 ## Statistiken
 
- * Knoten Statistiken<br>
+ * Knotenstatistiken<br>
    <http://krtek.ffhl/cacti-export>
