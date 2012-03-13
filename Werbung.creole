@@ -18,4 +18,4 @@ Auch dieses Banner darf gern weiterverarbeitet werden.
 Dieser wurde erstellt, damit einheitlich & auffällig auf Knoten hingewiesen werden kann.
 
 * Hier der Link zur PDF:
-[[https://krtek.asta.uni-luebeck.de/meutewiki/Freifunk/Hotspotaufkleber?action=AttachFile&do=view&target=Hotspotaufkleber.pdf|https://krtek.asta.uni-luebeck.de/meutewiki/Freifunk/Hotspotaufkleber?action=AttachFile&do=view&target=Hotspotaufkleber.pdf]]
+[[Hotspotaufkleber.pdf|pdf/Hotspotaufkleber.pdf]]
