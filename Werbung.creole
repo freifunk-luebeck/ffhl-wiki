@@ -4,15 +4,15 @@
 Die Logos dürfen gern weiterverarbeitet werden. Bitte macht die neuen Werke dann auch wieder im Freifunk zugänglich.
 
 * Hier in Farbe und bunt:
-{{https://krtek.asta.uni-luebeck.de/meutewiki/Freifunk/Logo?action=AttachFile&do=get&target=Logo_farbe.png|https://krtek.asta.uni-luebeck.de/meutewiki/Freifunk/Logo?action=AttachFile&do=get&target=Logo_farbe.png}}
+[[bilder/logo_farbe.png]]
 * Und hier in schwarz/weiß:
-{{https://krtek.asta.uni-luebeck.de/meutewiki/Freifunk/Logo?action=AttachFile&do=get&target=Logo_sw.png|https://krtek.asta.uni-luebeck.de/meutewiki/Freifunk/Logo?action=AttachFile&do=get&target=Logo_sw.png}}
+[[bilder/logo_sw.png]]
 
 == Banner
 Auch dieses Banner darf gern weiterverarbeitet werden.
 
 * Das gibt's im Moment nur in Farbe.
-{{https://krtek.asta.uni-luebeck.de/meutewiki/Freifunk/Logo?action=AttachFile&do=get&target=Banner.png|https://krtek.asta.uni-luebeck.de/meutewiki/Freifunk/Logo?action=AttachFile&do=get&target=Banner.png}}
+[[bilder/banner.png]]
 
 == Hotspot-Aufkleber
 Dieser wurde erstellt, damit einheitlich & auffällig auf Knoten hingewiesen werden kann.
