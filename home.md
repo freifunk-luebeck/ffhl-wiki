@@ -1,11 +1,3 @@
-# Freifunk in Lübeck
-
-## Blog
-
-### VOIP und Festnetz (2012-03-08)
-
-Seit heute sind wir aus dem Festnetz erreichbar, und wer ein Geheimnis kennt, kann sogar ins Festnetz telefonieren. Mehr unter [[VOIP]].
-
 ## Kontakt
 
 Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [Mailing-Liste](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck)
