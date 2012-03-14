@@ -2,6 +2,9 @@
 
 Wir haben einige Dienste aufgesetzt, die die Struktur des Netzes überwachen und visualisieren sollen. Diese wollen wir hier einmal vorstellen.
 
+ * MeuteBlog<br>
+   <http://blog.ffhl>
+
 ## Graphen und Karten
 
  * Interaktive Karte der Batman-Knoten<br>
