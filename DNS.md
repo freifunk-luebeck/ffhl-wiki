@@ -14,6 +14,9 @@ Wir haben derzeit zwei DNS Server um die TLD `.ffhl` aufzulösen.
         allow-transfer { any; };
     };
 
+## FFHL zone files
+
+Zu finden im Repo [auf github.](https://github.com/MetaMeute/ffhl-dns)
 
 ## DNS anderer Netze
 
