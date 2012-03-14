@@ -3,7 +3,7 @@
 Wir haben einige Dienste aufgesetzt, die die Struktur des Netzes überwachen und visualisieren sollen. Diese wollen wir hier einmal vorstellen.
 
  * MeuteBlog<br>
-   <http://blog.ffhl>
+   <http://meuteblog.ffhl>
 
 ## Graphen und Karten
 
