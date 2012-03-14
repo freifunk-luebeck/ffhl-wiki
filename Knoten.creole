@@ -4,7 +4,7 @@
 
  * [[Open Streetmap Karte|http://burgtor.ffhl/freifunk/mesh.html]] ([[IP|http://10.130.14.1/freifunk/mesh.html]], [[Extern|http://188.138.99.158/freifunk/mesh.html]])
  * [[Batman Graph|http://aftermath.ffhl/batman.svg]] (oder .png oder .dot) ([[IP|http://10.130.0.1/batman.svg]], [[Extern|http://aftermath.universe-factory.net/batman.svg]])
- * [[Interaktiver Graph|http://draic.ffhl/ffmap-d3/nodes.html]] Interaktiv. Javascript und SVG nötig. ([[IP|http://10.130.0.12/ffmap-d3/nodes.html]], [[Extern|http://188.138.99.157/ffmap-d3/nodes.html]])
+ * [[Interaktiver Graph|http://draic.ffhl/ffmap-d3/nodes.html]] Interaktiv. Javascript und SVG nötig. ([[IP|http://10.130.0.12/ffmap-d3/nodes.html]], [[Extern|http://188.138.99.157/ffmap-d3/nodes.html]]) (Code https://github.com/tcatm/ffmap-d3)
  * [[Statistiken|http://krtek.ffhl/cacti-export]] ([[IP|http://10.130.0.8/cacti-export]], [[Extern|http://www.metameute.de/cacti-export]])
 
 == Bereits vorhandene Knoten
