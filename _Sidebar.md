@@ -9,6 +9,7 @@
    * [[VoIP]]
    * [[DNS]]
    * [[Zugang zu anderen Netzen|Peerings]]
+   * [[Zeroconf/Avahi|Zeroconf]]
  * [[Technische Details]]
    * [[Netzwerk]]
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
