@@ -16,6 +16,7 @@
    * [[Netzwerk]]
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
      * [[B.A.T.M.A.N]]
+     * [[Intercity-VPN]]
    * [[Lübeck-Freifunk-Router]]
      * [[Schnelleinstieg]]
      * [[Empfohlene Router]]
