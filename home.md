@@ -1,3 +1,5 @@
+# Freifunk in Lübeck
+
 ## Kontakt
 
 Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [Mailing-Liste](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck)
