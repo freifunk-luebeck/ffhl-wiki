@@ -12,6 +12,7 @@
    * [[VoIP]]
    * [[DNS]]
    * [[Zugang zu anderen Netzen|Peerings]]
+   * [[YaCy]]
  * [[Technische Details]]
    * [[Netzwerk]]
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
@@ -21,3 +22,5 @@
      * [[Schnelleinstieg]]
      * [[Empfohlene Router]]
      * [[Individuelle Firmware|Firmware]]
+ * [[Probleme]]
+   * [[Verschlüsselung]]
