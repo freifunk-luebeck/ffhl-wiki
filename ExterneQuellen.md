@@ -21,7 +21,7 @@
 ## Audio
 
 ### Freifunk
- * http://open-radio.nl/nl/files/audio/2009/01/02/9774.ogg -> [[more|http://open-radio.nl/nl/node/9775]]
+ * [[http://open-radio.nl/nl/files/audio/2009/01/02/9774.ogg]] -> [[Weitere Informationen|http://open-radio.nl/nl/node/9775]]
 
 ### B.A.T.M.A.N.
  * [[http://sendungsarchiv.o94.at/listen.php/id__094pr1627/fileid__094mf3737/audio.m3u]] -> [[Weitere Informationen|http://sendungsarchiv.o94.at/get.php/094pr1627]] 
