@@ -1,5 +1,10 @@
 # Freifunk in Lübeck
 
+## Dieses Wiki
+
+Mit diesem Wiki wollen wir anderen Freifunkern und uns helfen, das Netz zu verbessern. Dafür werden hier unsere Entwicklungen festgehalten und veröffentlicht.
+Dieses Wiki ist übrigens auch [[via SSL|https://freifunk.metameute.de]] erreichbar.
+
 ## Kontakt
 
 Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [Mailing-Liste](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck)

@@ -63,3 +63,12 @@ stub/ffa.zone
     ns1.stubdns     A       10.11.63.26
     ns2.stubdns     A       10.11.10.15
     ns3.stubdns     A       10.11.0.8
+
+### .ffc
+
+    zone "ffc" in {
+        type stub;
+        file "stub/ffc.zone";
+        masters { 10.8.6.6; };
+    };
+
