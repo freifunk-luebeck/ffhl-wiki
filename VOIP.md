@@ -61,4 +61,6 @@ Weiterhin sind alle SIP Telefone aus dem Festnetz erreichbar:
 
 ## VOIP und Freifunk
 
-VOIP über mehrere DIR-300 funktioniert. Es gibt jedoch Aussetzer. 
+ * VOIP über mehrere DIR-300 funktioniert. Es gibt jedoch Aussetzer. 
+
+ * VOIP mit einem Nokia N900 (nativer SIP Client) funktioniert auch mit Roaming erstaunlich gut.

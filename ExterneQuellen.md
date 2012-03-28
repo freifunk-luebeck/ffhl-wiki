@@ -21,23 +21,23 @@
 ## Audio
 
 ### Freifunk
- * http://open-radio.nl/nl/files/audio/2009/01/02/9774.ogg -> [[more|http://open-radio.nl/nl/node/9775]]
+ * [[http://open-radio.nl/nl/files/audio/2009/01/02/9774.ogg]] -> [[Weitere Informationen|http://open-radio.nl/nl/node/9775]]
 
 ### B.A.T.M.A.N.
- * http://sendungsarchiv.o94.at/listen.php/id__094pr1627/fileid__094mf3737/audio.m3u -> [[more|http://sendungsarchiv.o94.at/get.php/094pr1627]] 
+ * [[http://sendungsarchiv.o94.at/listen.php/id__094pr1627/fileid__094mf3737/audio.m3u]] -> [[Weitere Informationen|http://sendungsarchiv.o94.at/get.php/094pr1627]] 
 
 ## Linkliste
 
- * http://www.freifunk.net -> main Freifunk page on the net, with blog+wiki
- * https://freifunk.net/downloads -> promo material, Flyers+presentations for download
- * http://www.openwrt.org -> THE Linux distro for embedded devices
- * https://dev.open-mesh.net/batman -> the developer page of the routing protocol B.A.T.M.A.N.(Better Approach To Mobile Adhoc Networking)
- * http://wiki.leipzig.freifunk.net/Hauptseite -> the wiki page of a veeery active community in Leipzig, lots of information here
- * https://wiki.freifunk.net/Wireless_Community_Weekend_2009
- * https://www.opensourcepress.de/fileadmin/osp/pdf/mesh_leseprobe.pdf -> Buch über Mesh von Elektra
- * http://tools.ietf.org/html/draft-wunderlich-openmesh-manet-routing-00 -> an rfc-draft explaining the routing algorithm used in batman 0.2
- * http://freifunk.net/downloads/031021_ffn_flyer_A4nutzen.pdf -> The Freifunk-Flyer from www.freifunk.net
- * http://freifunk.net/downloads/050406_ffn_present_v10_jpn.pdf -> A short presentation about advantages of free-networks from www.freifunk.net
+ * [[http://www.freifunk.net]] -> Hauptseite mit Wiki, Blog & Links zu weiteren Freifunk-Gruppen
+ * [[https://freifunk.net/downloads]] -> Werbematerial, Flyer & Präsentationen
+ * [[http://www.openwrt.org]] -> Die genutzte Linux-Distribution
+ * [[https://dev.open-mesh.net/batman]] -> Entwicklerseite des Routing-Protokolls B.A.T.M.A.N.(Better Approach To Mobile Adhoc Networking)
+ * [[http://wiki.leipzig.freifunk.net/Hauptseite]] -> Das umfangreiche Wiki der Leipziger Freifunker
+ * [[https://wiki.freifunk.net/Wireless_Community_Weekend_2009]]
+ * [[https://www.opensourcepress.de/fileadmin/osp/pdf/mesh_leseprobe.pdf]] -> Buch über Mesh von Elektra
+ * [[http://tools.ietf.org/html/draft-wunderlich-openmesh-manet-routing-00]] -> RFC über den Routing-Algorithmus in B.A.T.M.A.N.
+ * [[http://freifunk.net/downloads/031021_ffn_flyer_A4nutzen.pdf]] -> Der Flyer von freifunk.net
+ * [[http://freifunk.net/downloads/050406_ffn_present_v10_jpn.pdf]] -> Eine kurze Präsentation über freie Netzwerke
 
 ## Media Feedback
 
