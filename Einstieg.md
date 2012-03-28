@@ -17,11 +17,9 @@ Folgende Modelle werden aktuell unterstützt:
 Smartphones mit W-Lan können sich einfach, wie oben erwähnt, in einen nahen Knoten einwählen.
 Da sie aber auch selbst Internetfähig sind, wurde für sie auch eine Möglichkeit geschaffen, diese zu nutzen.
 PPTP heißt hier das Zauberwort und die Einrichtung ist leicht.
-Für Folgende Geräte gibt es eine Schritt-für-Schritt-Anleitung:
- * [[IPhone|Einstieg:IPhone]]
- * [[Android|Einstieg:Android]]
+Für weitere Informationen und Zugangsmöglichkeiten wenden Sie sich bitte persönlich an uns.
 
 ## Server
 Auch ganze Server können eingebunden werden. Das ist besonders dann nützlich, wenn Inhalte wie Webseiten und Ähnliches eingebracht werden sollen.
-Da hier schon etwas umfangreicheres Wissen nötig ist, bietet sich ein persönlicher Besuch an. Damit wird gern geholfen.
-Aber auch dafür gibt es eine [[Anleitung|Einstieg:Server]].
+Da hier schon etwas umfangreicheres Wissen nötig ist, bietet sich ein persönlicher Besuch an. Dabei helfen wir gern.
+Aber auch dafür gibt es eine [[Anleitung|Einstieg:Server]] mit den Grundlagen.
