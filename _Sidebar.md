@@ -1,6 +1,7 @@
  * [[Home|home]]
  * [[Die Projektidee|About]]
-   * [[ExterneQuellen]]
+   * [[Externe Quellen|ExterneQuellen]]
+   * [[Gründe zum Mitmachen|Warum]]
  * [[Einstieg]]
  * [[Material]]
    * [[Grafiken]]
