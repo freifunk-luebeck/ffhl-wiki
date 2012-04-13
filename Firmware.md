@@ -10,7 +10,7 @@ Wer bei Freifunk Lübeck mitmeshen will, dem steht grundsätzlich frei entweder 
  * [[Firmware:Build]] - So baut man die Lübeck Freifunk Firmware aus den Quellen
  * [[Firmware:Develop]] - Dokumentation zur Nutzung der Entwicklungsumgebung
 
-Download: https://krtek.metameute.de/~tux/Freifunk/lff/
+Download: [[https://krtek.metameute.de/~tux/Freifunk/lff/]]
 
 Aktuelle Version: v0.2.1 ([[Firmware:ChangeLog]])
 
