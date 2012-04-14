@@ -1,1 +1,1 @@
-[[ffhllogo.png|height=100px]]
+[[bilder/ffhllogo.png|height=100px]]
