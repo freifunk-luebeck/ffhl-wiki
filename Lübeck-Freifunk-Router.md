@@ -3,7 +3,10 @@
 ## Unterstützte Router
 
 Wir empfehlen den Einsatz dieser Geräte, da wir mit diesen gute Erfahrungen gemacht haben:
-[[bilder/Freifunkrouter/TP-Links.JPG|height=100px]]
+
+[[bilder/Freifunkrouter/TP-Links.JPG|height=200px]]
+
+Abgebildet sind der TP-Link 741nd und der TP-Link 1043nd.
 
 ## Für Ungeduldige
 
