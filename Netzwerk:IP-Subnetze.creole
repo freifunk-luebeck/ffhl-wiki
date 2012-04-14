@@ -50,6 +50,7 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 |  10.130.0.17 |                               |                |
 |  10.130.0.18 | meuteblog                     | meuteblog.ffhl |
 |  10.130.0.19 | server von tcatm              |                |
+|  10.130.0.20 | Bergbauer in der Meute        |                |
 |  10.130.1.46 | Georg (Pirat)                 |                |
 | 10.130.2.127 | Avahi: Linus-Debian.local     |                |
 | 10.130.2.128 |                               |                |
@@ -63,5 +64,6 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 == 10.130.16.0/24
 
 |=IP-Adresse  |=Notizen         |=Hostname
-| 10.130.16.1 |   | Burgtor                 |
+| 10.130.16.1 |     | Burgtor                 |
 | 10.130.16.2 | Pascals Server    | chip.ffhl |
+| 10.130.16.5 | nils' N900        |           |
