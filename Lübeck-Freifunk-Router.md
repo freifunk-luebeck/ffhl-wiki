@@ -12,7 +12,7 @@ Für beide stehen fertige Images bereit.
 ## Für Ungeduldige
 
 Du hast Lust bei Freifunk mit zu machen oder möchtest dich nicht mit den technischen Details rumschlagen?
-Dann schreibe doch einfach kurz eine [Email an den Verteiler http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck] und hol dir dann einen fertigen Router bei der [MetaMeute http://metameute.de] oder dem [CCCHL http://www.ccchl.de] ab.
+Dann schreibe doch einfach kurz eine [[Email an den Verteiler|http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck]] und hol dir dann einen fertigen Router bei der [[MetaMeute|http://metameute.de]] oder dem [[CCCHL|http://www.ccchl.de]] ab.
 
 ## Freifunk-Router Selbst Gemacht
 
