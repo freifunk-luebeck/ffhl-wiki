@@ -15,4 +15,4 @@ Blog: [[http://meuteblog.ffhl]]
 
 Telefon: meute@sip.ffhl (meute@10.130.0.12) oder 045130504399 und dann 63883#
 
-Persönlich: Lerne uns direkt kennen, denn es geht auch um den sozialen Aspekt. Wir treffen uns jeden Donnerstag zusammen mit dem [[CCCHL|http://ccchl.de]] in der [[Röhre|http://www.kjhroehre-luebeck.de/]], dem Kinder- & Jugendkulturhaus in der Geraden Querstraße 2.
+Persönlich: Lerne uns direkt kennen, schließlich geht es bei Freifunk auch um den sozialen Aspekt. Wir treffen uns jeden Donnerstag zusammen mit dem [[CCCHL|http://ccchl.de]] in der [[Röhre|http://www.kjhroehre-luebeck.de/]], dem Kinder- & Jugendkulturhaus in der Geraden Querstraße 2.
