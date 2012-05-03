@@ -61,7 +61,7 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 |=Subnetz         |=IP Bereich |=Beschreibung            |
 | 10.130.16.0/24  | 1..254     |Client-VPN auf Burgtor   |
 | 10.130.17.0/24  | 1..254     |L2TP-Client-VPN auf Chip |
-| 10.130.127.0/27 | 1..30      |                         |
+| 10.130.127.0/27 | 1..30      |Jamalakas Netz           |
 
 == 10.130.16.0/24
 
