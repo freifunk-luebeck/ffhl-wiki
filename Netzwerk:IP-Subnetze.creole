@@ -45,9 +45,9 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 |  10.130.0.11 | Freifunkbotschaft in Georgien |                |
 |  10.130.0.12 | draic                         | draic.ffhl     |
 |  10.130.0.13 | Tjorvens ServerBox            |                |
-|  10.130.0.14 | tcatm's laptop                |                |
+|  10.130.0.14 | (frei)                        |                |
 |  10.130.0.16 | Avahi: bluedog.local          |                |
-|  10.130.0.17 |                               |                |
+|  10.130.0.17 | blubbbel                      |                |
 |  10.130.0.18 | meuteblog                     | meuteblog.ffhl |
 |  10.130.0.19 | server von tcatm              |                |
 |  10.130.0.20 | Bergbauer in der Meute        |                |
