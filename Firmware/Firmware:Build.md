@@ -2,10 +2,10 @@
 
 ## Build instructions - latest development version
 
-    git clone --recursive http://www.metameute.de/git/lff.git
+    git clone http://www.metameute.de/git/lff.git -b experimental
     cd lff
-    scripts/feeds install -a
-    scripts/env switch lff-dlink-dir300
+    echo 'src-git lff ssh://git.metameute.de/var/git/lffpkg.git;experimental' >> feeds.conf.default
+    scripts/feeds update -a
     make
 
 ## Build instructions - v0.2.1 release version
