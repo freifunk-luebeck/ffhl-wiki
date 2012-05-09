@@ -6,6 +6,7 @@
     cd lff
     echo 'src-git lff ssh://git.metameute.de/var/git/lffpkg.git;experimental' >> feeds.conf.default
     scripts/feeds update -a
+    scripts/feeds install -a
     make
 
 ## Build instructions - v0.2.1 release version
