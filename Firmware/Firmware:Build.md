@@ -2,7 +2,11 @@
 
 ## Build instructions - latest development version
 
+    # für 741nd
     git clone http://www.metameute.de/git/lff.git -b experimental
+    # für 1043nd
+    git clone http://www.metameute.de/git/lff.git -b experimental-tl-wr-1043nd
+
     cd lff
     echo 'src-git lff ssh://git.metameute.de/var/git/lffpkg.git;experimental' >> feeds.conf.default
     scripts/feeds update -a
