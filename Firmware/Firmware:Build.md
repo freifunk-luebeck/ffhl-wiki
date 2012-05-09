@@ -2,7 +2,7 @@
 
 ## Build instructions - latest development version
 
-Diese Version sollte ist wirklich nur für Entwicklungszwecke gedacht und sollte nicht produktiv verwendet werden!
+Diese Version ist wirklich nur für Entwicklungszwecke gedacht und sollte nicht produktiv verwendet werden!
 
     # für 741nd
     git clone http://www.metameute.de/git/lff.git -b experimental
