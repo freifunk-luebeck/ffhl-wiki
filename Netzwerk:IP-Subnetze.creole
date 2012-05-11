@@ -29,7 +29,6 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 |=Subnetz       |=IP Bereich  |=Notizen                                                                |
 | 10.130.0.0/22 | 0.1...3.254 | zur statischen Konfiguration frei zur Verfügung (siehe unten)          |
 | 10.130.3.0/24 |     1...254 | temporäre IPs. Einfach verwenden und bei Kollision eine andere nehmen. |
-| 10.130.4.0/27 |      1...30 | Netz von tcatm                                                         |
 | 10.130.5.0/27 |      1...30 | Netz von j.ohny.b                                                      |
 | 10.130.6.0/27 |      1...30 | Netz von DerDerwish                                                    |
 
