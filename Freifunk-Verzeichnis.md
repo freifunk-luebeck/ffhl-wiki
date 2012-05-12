@@ -12,9 +12,9 @@ Wir haben einige Dienste aufgesetzt, die die Struktur des Netzes überwachen und
 ## Graphen und Karten
 
  * Interaktive Karte der Batman-Knoten<br>
-   <http://draic.ffhl/ffmap-d3/nodes.html>
+   <http://burgtor.ffhl/mesh/nodes.html>
  * OpenStreetMap-Karte der Knoten<br>
-   <http://burgtor.ffhl/freifunk/mesh.html>
+   <http://burgtor.ffhl/mesh/geomap.html>
  * Batman-Graph<br>
    <http://aftermath.ffhl/batman.png>
 
