@@ -17,7 +17,7 @@ Auch dieses Banner darf gern weiterverarbeitet werden und steht unter der Lizenz
 
 == Hotspot-Aufkleber
 Dieser wurde erstellt, damit einheitlich & auffällig auf Knoten hingewiesen werden kann.
-Die genaue Lizenz ist auch hier leier unklar und wird demnächst ergänzt.
+Die genaue Lizenz ist auch hier leider unklar und wird demnächst ergänzt.
 
 * Hier der Link zur PDF:
 [[Hotspotaufkleber.pdf|pdf/Hotspotaufkleber.pdf]]
