@@ -52,6 +52,7 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 |  10.130.0.20 | Bergbauer in der Meute        |                |
 |  10.130.0.21 | NeoRaider (WG)                | confusion      |
 |  10.130.0.22 | Jamalaka                      | techem         |
+|  10.130.0.42 | Tjorven                       | nasbox         |
 |  10.130.1.46 | Georg (Pirat)                 |                |
 | 10.130.2.127 | Avahi: Linus-Debian.local     |                |
 | 10.130.2.128 |                               |                |
