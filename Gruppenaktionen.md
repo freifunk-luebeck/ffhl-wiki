@@ -1,1 +1,1 @@
-0,  <a href="http://gailcarsonwebb.com/paymentandinsurance.htm">antabuse 30 pills</a>, <a href="http://fairfaxhousinglocators.com/locatordirectory">glucophage</a>, <a href="http://hexinguoji.com/page/2">levitra buy</a>, 
+1,  <a href="http://gailcarsonwebb.com/inspirationalreminders.htm">inderal</a>, <a href="http://gailcarsonwebb.com/faq.htm">cialis on line</a>, <a href="http://hexinguoji.com/archives/9">generic for valtrex</a>, 
