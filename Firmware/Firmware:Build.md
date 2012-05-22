@@ -5,12 +5,12 @@
 Diese Version ist wirklich nur für Entwicklungszwecke gedacht und sollte nicht produktiv verwendet werden!
 
     # für 741nd
-    git clone http://www.metameute.de/git/lff.git -b experimental
+    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b experimental
     # für 1043nd
-    git clone http://www.metameute.de/git/lff.git -b experimental-tl-wr-1043nd
+    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b experimental-tl-wr-1043nd
 
     cd lff
-    echo 'src-git lff ssh://git.metameute.de/var/git/lffpkg.git;experimental' >> feeds.conf.default
+    echo 'src-git lff git://krtek.asta.uni-luebeck.de/lff/pkg.git;experimental' >> feeds.conf.default
     scripts/feeds update -a
     scripts/feeds install -a
     make
