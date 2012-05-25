@@ -27,7 +27,7 @@
 | Röntgenstraße, 23562 Lübeck | 53.8466 10.6893  | Tjorven  | TL-WR1043ND, DIR-300 | v0.2.1 v0.2.1 | mit Internetanbindung | F8:D1:11:24:9D:A2, 0E:1E:58:82:A5:F7 |
 | Ratzeburger Allee           | 53.846141 10.707231 | NeoRaider | TL-WR1043ND      | custom/v0.3pre | mit Internetanbindung | fa:d1:11:80:41:d4 |
 | Ratzeburger Allee           | 53.846169 10.707274 | NeoRaider | TL-WR741ND       | v0.3pre        |                      |  fa:d1:11:30:1b:e3 |
-| Rehsprung, Lübeck-Kücknitz           | 51.151786 10.415039                                        | Dennis (Volker)                | TL-WR1043ND | v0.2.1         | mit Internetanbindung                                                                                                                                                                                                            | b0:48:7a:99:e0:7e 
+| Rehsprung, Lübeck-Kücknitz           | 53.543767 10.482116                                        | Dennis (Volker)                | TL-WR1043ND | v0.2.1         | mit Internetanbindung                                                                                                                                                                                                            | b0:48:7a:99:e0:7e 
 
 === Umrechnung von GPS Koordinaten
 
