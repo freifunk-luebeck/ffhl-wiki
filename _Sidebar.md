@@ -7,6 +7,7 @@
    * [[Grafiken]]
    * [[Flyer]]
  * [[Aktive Knoten|Knoten]]
+   * [[mobiler Knoten|mobilerKnoten]]
  * [[Gruppenaktionen]]
  * [[Dienste im Netz|Freifunk verwenden]]
    * [[Freifunk Verzeichnis]]
