@@ -1,9 +1,9 @@
-# Intercity-VPN
+# Mesh-VPN
 ## Grundidee
-Das Intercity-VPN verbindet einzelne Freifunkrouter, die sich nicht direkt sehen können, über das Internet miteinander. Es stellt damit eine virtuelle Brücke dar.
+Das Mesh-VPN verbindet einzelne Freifunkrouter, die sich nicht direkt sehen können, über das Internet miteinander. Es stellt damit eine virtuelle Brücke dar.
 
 ## Funktionsweise
-Die einzelnen Knoten werden mit einen vorhandenen Internetanschluss. In der Regel wird das ein eigener bereits vorhandener Router sein. Nun sind unsere Knoten standardmäßig so eingestellt, dass sie versuchen, ob sie eine Verbindung zum restlichen Intercity-VPN herstellen können. Genauer gesagt versuchen sie unsere großen Gateways [[Burgtor|Knoten:Burgtor]] und [[Holstentor|Knoten:Holstentor]] zu kontaktieren. Wenn dies gelingt, wird mit diesen eine verschlüsselte Verbindung aufgebaut und darüber ist dann der Zugang zum Rest des Netzes möglich.
+Die einzelnen Knoten werden mit einen vorhandenen Internetanschluss. In der Regel wird das ein eigener bereits vorhandener Router sein. Nun sind unsere Knoten standardmäßig so eingestellt, dass sie versuchen, ob sie eine Verbindung zum restlichen Mesh-VPN herstellen können. Genauer gesagt versuchen sie unsere großen Gateways [[Burgtor|Knoten:Burgtor]] und [[Holstentor|Knoten:Holstentor]] zu kontaktieren. Wenn dies gelingt, wird mit diesen eine verschlüsselte Verbindung aufgebaut und darüber ist dann der Zugang zum Rest des Netzes möglich.
 Die öffentliche IP-Adresse des genutzen Internetanschlusses ist nur der Gegenseite (also den Gateways) bekannt, denn diese müssen natürlich wissen, wohin sie die Daten schicken sollen.
 Diese Adresse (über die eine Identifizierung des Anschlusses & Inhabers möglich wäre) ist nicht den anderen Teilnehmern des Netzes bekannt. Sie kann auch nicht von Dritten, die den Knoten nutzen, herausgefunden werden.
 
