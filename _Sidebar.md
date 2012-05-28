@@ -19,7 +19,7 @@
    * [[Netzwerk]]
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
      * [[B.A.T.M.A.N.]]
-     * [[Mesh-VPN|Intercity-VPN]]
+     * [[Mesh-VPN]]
    * [[Lübeck-Freifunk-Router]]
      * [[Schnelleinstieg]]
      * [[TP-Link 741nd|Firmware:741nd]]
