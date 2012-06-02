@@ -28,7 +28,7 @@
 | Ratzeburger Allee           | 53.846141 10.707231 | NeoRaider | TL-WR1043ND      | custom/v0.3pre | mit Internetanbindung | fa:d1:11:80:41:d4 |
 | Ratzeburger Allee           | 53.846169 10.707274 | NeoRaider | TL-WR741ND       | v0.3pre        |                      |  fa:d1:11:30:1b:e3 |
 | Rehsprung, Lübeck-Kücknitz           | 53.910475 10.805865                                        | Dennis (Volker)                | TL-WR1043ND | v0.2.1         | mit Internetanbindung                                                                                                                                                                                                            | b0:48:7a:99:e0:7e 
-| Rübenkoppel, Eichholz           | 53.857763 10.719022 | Georg | TL-WR741ND       | v0.3pre        |       Im Aufbau, mit Internet               |  b0:48:7a:bb:50:54 |
+| Rübenkoppel, Eichholz           | 53.857763 10.719022 | Georg | TL-WR741ND       | v0.3pre        |       Im Aufbau, mit Internet               | b0:48:7a:cb:30:47  |
 
 === Umrechnung von GPS Koordinaten
 
