@@ -1,5 +1,8 @@
 # Richtlinien
 
+**Der Inhalt dieser Seite ist veraltet**
+
+
 Solange du dich an folgende Richtlinien hälst, sollte deine gebaute Firmware kompatibel zu allen anderen Lübeck Freifunk Routern sein.
 
 ## Notwendig
