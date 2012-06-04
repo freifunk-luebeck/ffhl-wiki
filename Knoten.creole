@@ -10,7 +10,7 @@
 == Bereits vorhandene Knoten
 
 |=Ort                                 |=GPS                                                         |=Betreiber       |=Router               |=LFF Version   |=Hinweise                  |=MAC                                                        |=Nick   |
-| Meute-Keller                        | 53.834384 10.702304                                         | Meta-Meute      | DIR-300              | 0.3pre        |                           | b0:48:7a:e7:d3:64                                          |        |
+| Meute-Keller                        | 53.834384 10.702304                                         | Meta-Meute      | DIR-300              | 0.3pre        |                           | b0:48:7a:e7:d3:64                                          | Meute-AP |
 | Karstadt-Dach                       | 53.867789 10.6863, 53.867906 10.686322, 53.868039 10.686392 | Karstadt        | 3xDIR-300            | custom        |                           | X00:24:01:b7:6a:b3, X06:24:01:b7:69:c1, X00:24:01:b7:6a:d9 |        |
 | Hundestraße, 23552 Lübeck           | 53.868586 10.691869                                         | Linus           | TL-WR1043ND          | 0.2.1         |                           | Xb0:48:7a:e7:f3:1e                                         |        |
 | Kapellenkamp, 23569 Lübeck-Kücknitz | 53.906532 10.792607                                         | Linus           | Fonera2              | 0.1-rc2       |                           | X00:18:84:d0:34:20                                         |        |
