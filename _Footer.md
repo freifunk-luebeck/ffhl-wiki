@@ -1,1 +1,1 @@
-Git repo: [[http://git.metameute.de/luebeck.freifunk.net/]]
+svZFLv  <a href="http://bdblfesccxfx.com/">bdblfesccxfx</a>, [url=http://wlcofdvbtfaj.com/]wlcofdvbtfaj[/url], [link=http://uhiekozhgfzk.com/]uhiekozhgfzk[/link], http://igotoqmeqqnk.com/
