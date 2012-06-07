@@ -31,6 +31,7 @@
 | Rübenkoppel, Eichholz               | 53.857763 10.719022                                         | Georg           | TL-WR741ND           | 0.3pre        | Im Aufbau, mit Internet   | b0:48:7a:cb:30:47                                          | Rübe       |
 | 23556 Lübeck               | 53.867605 10.656458   | Mizu           | TL-WR1043ND           | 0.3pre        | mit Internetanbindung   | fa:d1:11:25:95:58 | mizu-AP |
 | Bürgerweide |  | jix & Laeila | TL-WR1043ND | 0.3pre | Internetanbindung | 92:f6:52:3f:b9:26 | kyubey |
+| Ratzeburger Allee |  | Jozu | TL-WR741ND | 0.3pre | Internetanbindung | b2:48:7a:cc:27:6c | Yoshi |
 
 === Umrechnung von GPS Koordinaten
 
