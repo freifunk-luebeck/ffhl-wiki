@@ -32,6 +32,7 @@
 | 23556 Lübeck               | 53.867605 10.656458   | Mizu           | TL-WR1043ND           | 0.3pre        | mit Internetanbindung   | fa:d1:11:25:95:58 | mizu-AP |
 | Bürgerweide |  | jix & Laeila | TL-WR1043ND | 0.3pre | Internetanbindung | 92:f6:52:3f:b9:26 | kyubey |
 | Ratzeburger Allee |  | Jozu | TL-WR741ND | 0.3pre | Internetanbindung | b2:48:7a:cc:27:6c | Yoshi |
+| St. Jürgen |  | Kaspar | TL-WR1043ND | 0.3pre | Internetanbindung | b2:48:7a:a1:16:de | Yangshuo |
 
 === Umrechnung von GPS Koordinaten
 
