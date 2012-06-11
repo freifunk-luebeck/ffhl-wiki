@@ -33,7 +33,8 @@
 | Bürgerweide |  | jix & Laeila | TL-WR1043ND | 0.3pre | Internetanbindung | 92:f6:52:3f:b9:26 | kyubey |
 | Ratzeburger Allee |  | Jozu | TL-WR741ND | 0.3pre | Internetanbindung | b2:48:7a:cc:27:6c | Yoshi |
 | St. Jürgen |  | Kaspar | TL-WR1043ND | 0.3pre | Internetanbindung | b2:48:7a:a1:16:de | Yangshuo |
-
+| Hansetraße, Ecke Wendische | | Pascal | TL-WR741ND | 0.3pre | mit Internetanbindung | b2:48:7a:cc:26:8c | Banane |
+| Hansetraße, Ecke Wendische | | Pascal | TL-WR1043ND | 0.3pre | mit Internetanbindung | fa:d1:11:25:be:42 | Apfel |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
