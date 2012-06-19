@@ -27,6 +27,7 @@
 |  | 53.846618 10.68938 | 7jM | DIR-300 | 0.2.1 |  | X0E:1E:58:82:A5:F7 |  |
 | Ratzeburger Allee | 53.846141 10.707231 | NeoRaider | TL-WR1043ND | custom/0.3pre | mit Internetanbindung | fa:d1:11:80:41:d4 | confusion |
 | Ratzeburger Allee | 53.846169 10.707274 | NeoRaider | TL-WR741ND  | 0.3pre        |                       | fa:d1:11:30:1b:e3 | sweetmorn |
+| Ratzeburger Allee |                     | NeoRaider | TL-WR741ND  | 0.3pre        |                       | fa:d1:11:37:fc:39 | boomtime |
 | Rehsprung, Lübeck-Kücknitz          | 53.910475 10.805865                                         | Dennis (Volker) | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | b0:48:7a:99:e0:7e                                          |        |
 | Rübenkoppel, Eichholz               | 53.857763 10.719022                                         | Georg           | TL-WR741ND           | 0.3pre        | Im Aufbau, mit Internet   | b0:48:7a:cb:30:47                                          | Rübe       |
 | 23556 Lübeck               | 53.867605 10.656458   | Mizu           | TL-WR1043ND           | 0.3pre        | mit Internetanbindung   | fa:d1:11:25:95:58 | mizu-AP |
