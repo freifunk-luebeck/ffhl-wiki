@@ -1,2 +1,2 @@
-|= Type       |= MAC         |= Timestamp |= Firmware                                       |
-| 1043nd v1.8 | 54e6fc9867e0 | 2012-06-21 | 0.3pre 0c21e4ec8e9386e3f0d20ba20c75935c8d0777fc |
+|= Type       |= MAC         |= Timestamp |= Firmware |
+| 1043nd v1.8 | 54e6fc9867e0 | 2012-06-21 | 0.3pre    |
