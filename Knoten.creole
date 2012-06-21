@@ -29,14 +29,15 @@
 | Ratzeburger Allee | 53.846169 10.707274 | NeoRaider | TL-WR741ND  | 0.3pre        |                       | fa:d1:11:30:1b:e3 | sweetmorn |
 | Ratzeburger Allee | 53.846064 10.707203 | NeoRaider | TL-WR741ND  | 0.3pre        |                       | fa:d1:11:37:fc:39 | boomtime |
 | Rehsprung, Lübeck-Kücknitz          | 53.910475 10.805865                                         | Dennis (Volker) | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | b0:48:7a:99:e0:7e                                          |        |
-| Rübenkoppel, Eichholz               | 53.857763 10.719022                                         | Georg           | TL-WR741ND           | 0.3pre        | Im Aufbau, mit Internet   | b0:48:7a:cb:30:47                                          | Rübe       |
+| Rübenkoppel, Eichholz               | 53.857763 10.719022                                         | Georg           | TL-WR741ND           | 0.3pre        | mit Internet   | b0:48:7a:cb:30:47                                          | Rübe       |
+| Rübenkoppel, Tanne, Eichholz               | 53.857763 10.719022                                         | Georg           | TL-WR741ND           | 0.3pre        | Verteiler / Richtfunk   | 54:e6:fc:98:58:f2                                          | Rübe 2       |
 | 23556 Lübeck               | 53.867605 10.656458   | Mizu           | TL-WR1043ND           | 0.3pre        | mit Internetanbindung   | fa:d1:11:25:95:58 | mizu-AP |
 | Bürgerweide |  | jix & Laeila | TL-WR1043ND | 0.3pre | Internetanbindung | 92:f6:52:3f:b9:26 | kyubey |
 | Ratzeburger Allee |  | Jozu | TL-WR741ND | 0.3pre | Internetanbindung | b2:48:7a:cc:27:6c | Yoshi |
 | St. Jürgen |  | Kaspar | TL-WR1043ND | 0.3pre | Internetanbindung | b2:48:7a:a1:16:de | Yangshuo |
 | Hansetraße, Ecke Wendische | | Pascal | TL-WR741ND | 0.3pre | mit Internetanbindung | b2:48:7a:cc:26:8c | Banane |
 | Hansetraße, Ecke Wendische | | Pascal | TL-WR1043ND | 0.3pre | mit Internetanbindung | fa:d1:11:25:be:42 | Apfel |
-|                            | 53.84598 10.70838 |        | TL-WR1043ND | 0.3pre | mit Internetanbindung | b2:48:7a:df:20:fa | Rapture |
+|                            | |        | TL-WR1043ND | 0.3pre | mit Internetanbindung | b2:48:7a:df:20:fa | Rapture |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
