@@ -9,6 +9,7 @@ Dafür einfach in das W-Lan ''luebeck.freifunk.net'' einwählen und schon geht's
 Nach einiger Zeit oder wenn es keinen Knoten in der Nähe gibt, kommt vielleicht der Wunsch auf, einen eigenen Knoten aufzustellen. Das ist recht leicht möglich.
 Zunächst braucht man einen W-Lan-Router, der von unserer Firmware unterstützt wird. Auf diesen spielt man dann unsere Firmware auf. Nach ein paar Minuten ist es so weit und der eigene Knoten ist einsatzbereit.
 Folgende Modelle werden aktuell unterstützt:
+
  * [[TP-Link 1043ND|Einstieg:TP-Link 1043ND]] (Standardgerät & besonders geeignet für Knoten mit VPN-Anbindung)
  * [[TP-Link 741|Einstieg:TP-Link 741]] (Standardgerät & besonders zum Erweitern der lokalen Wolke geeignet)
  * [[Dir300:Einstieg:Dir 300]] (Auslaufmodell & wird nur noch unterstützt, da noch einige davon im Einsatz sind)
