@@ -55,6 +55,7 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 |  10.130.0.25 | Schrebergarten Tanne          |                |
 |  10.130.0.26 | Ida & Martin                  | Rapture        |
 |  10.130.0.28 | stpetri (vm auf krtek)        |                |
+|  10.130.0.42 | 7jM                           | nasbox.ffhl    |
 |  10.130.1.46 | Georg (Pirat)                 |                |
 | 10.130.2.127 | Avahi: Linus-Debian.local     |                |
 | 10.130.2.128 |                               |                |
