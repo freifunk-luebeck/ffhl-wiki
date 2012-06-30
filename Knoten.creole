@@ -9,7 +9,7 @@
 
 == Bereits vorhandene Knoten
 
-<strong style="color: #800000">Es sollten keine fremden Einträge ohne Erlaubnis des Besitzer bearbeitet werden. Insbesondere dürfen keine GPS-Koordinaten oder Adresse angegeben werden, wenn der Besitzer dies nicht will!</strong>
+**Es sollten keine fremden Einträge ohne Erlaubnis des Besitzer bearbeitet werden. Insbesondere dürfen keine GPS-Koordinaten oder Adresse angegeben werden, wenn der Besitzer dies nicht will!**
 
 |=Ort                                 |=GPS                                                         |=Betreiber       |=Router               |=LFF Version   |=Hinweise                  |=MAC                                                        |=Nick   |
 | Meute-Keller                        | 53.834384 10.702304                                         | Meta-Meute      | DIR-300              | 0.3pre        |                           | b0:48:7a:e7:d3:64                                          | Meute-AP |
