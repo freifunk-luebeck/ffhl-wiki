@@ -55,11 +55,13 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 |  10.130.0.25 | Schrebergarten Tanne          |                |
 |  10.130.0.26 | Ida & Martin                  | Rapture        |
 |  10.130.0.28 | stpetri (vm auf krtek)        |                |
-|  10.130.0.30 | magu node                     |                |
-|  10.130.0.31 | magu node                     |                |
-|  10.130.0.32 | magu node                     |                |
+|  10.130.0.29 | namshub  [node] {magu}        | namshub.ffhl   |
+|  10.130.0.30 | enki [node] {magu}            | enki.ffhl      |
+|  10.130.0.31 | innana [node] {magu}          | innana.ffhl    |
+|  10.130.0.32 | opz [x21] {magu}              | opz.ffhl       |
+|  10.130.0.33 | me {magu}                     | me.ffhl        |
 |  10.130.0.42 | NasBox                        | nasbox.ffhl    |
-|  10.130.0.64 | magu Server                   |                |
+|  10.130.0.64 | magu Server                   | cic.ffhl       |
 |  10.130.1.46 | Georg (Pirat)                 |                |
 | 10.130.2.127 | Avahi: Linus-Debian.local     |                |
 | 10.130.2.128 |                               |                |
