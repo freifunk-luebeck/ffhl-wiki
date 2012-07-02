@@ -90,4 +90,5 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 | 10.130.16.7  | Jamalaka Calvin               |                 |
 | 10.130.16.8  | dysis                         | dysis.ffhl      |
 | 10.130.16.9  | tcatm t410                    |                 |
+| 10.130.16.10 | magu                          |                 |
 | 10.130.16.17 | blubbbel                      |                 |
