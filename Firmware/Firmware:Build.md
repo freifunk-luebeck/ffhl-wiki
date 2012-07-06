@@ -9,7 +9,7 @@ Diese Version ist wirklich nur für Entwicklungszwecke gedacht und sollte nicht 
     # für 1043nd
     git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b experimental-tl-wr-1043nd
 
-    cd lff
+    cd firmware
     echo 'src-git lff git://krtek.asta.uni-luebeck.de/lff/pkg.git;experimental' > feeds.conf
     echo 'src-svn luci http://svn.luci.subsignal.org/luci/trunk/contrib/package' >> feeds.conf
     scripts/feeds update -a
