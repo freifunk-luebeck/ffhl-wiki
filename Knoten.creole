@@ -19,7 +19,8 @@
 | Kapellenkamp, 23569 Lübeck-Kücknitz | 53.906532 10.790607                                         | Linus           | TL-WR1043ND          | 0.2.1         |                           | Xf4:ec:38:eb:f1:f2                                         |        |
 | Roter Löwe                          | 53.850746 10.659036                                         | Julian          | DIR-300              | 0.3pre        | mit Internetanbindung     | 02:22:b0:44:94:b0                                          | jables-ap |
 | 23560 Lübeck                        | 53.838783 10.639233                                         | Groeni           | TL-WR1043ND          | 0.3pre        |                           | 54:e6:fc:b0:1a:7e                                          | Groeni       |
-| 23562 Lübeck                        | 53.85038 10.69014                                           | Blubbbel        | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | 56:e6:fc:99:64:9c                                          | BLUBBBEL |
+| 23562 Lübeck                        | 53.85038 10.69014                                           | Eichi        | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | 56:e6:fc:99:64:9c                                          | Odin |
+| Rübenkoppel, Eichholz               | 53.858067 10.723117                                         | Eichi           | TL-WR1043ND           | 0.3pre       | im Aufbau                  | f6:ec:38:e9:73:91                                          | Gilgameš     |
 | Lanzentrum Lübeck                   | 53.87643 10.65837                                           | Volker          | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | 56:e6:fc:b0:43:80                                          | LAN-Zentrum       |
 | Stodo, Lohstrasse/Hohlweg           | 53.895625 10.652161                                         | Volker          | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | 56:e6:fc:b0:43:ba                                          | Fluse       |
 | Poggenpohl           | 53.847387 10.602944                                         | Kai          | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | 56:e6:fc:99:58:aa                                          | Kai
@@ -34,8 +35,9 @@
 | Ratzeburger Allee | 53.846064 10.707203 | NeoRaider | TL-WR741ND  | 0.3pre        |                       | fa:d1:11:37:fc:39 | boomtime |
 | Rehsprung, Lübeck-Kücknitz          | 53.910475 10.805865                                         | Dennis (Volker) | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | b0:48:7a:99:e0:7e                                          |        |
 | Rübenkoppel, Eichholz               | 53.857763 10.719022                                         | Groeni           | TL-WR741ND           | 0.3pre        | mit Internet   | b0:48:7a:cb:30:47                                          | Rübe       |
-| Rübenkoppel, Eichholz               | 53.856122 10.721074                                         | Groeni           | TL-WR1043ND           | 0.4       | Verteiler / Richtfunk   | 56:e6:fc:98:58:f3                                          | Rübe 2       |
-| 23556 Lübeck               | 53.867605 10.656458   | Mizu           | TL-WR1043ND           | 0.3pre        | mit Internetanbindung   | fa:d1:11:25:95:58 | mizu-AP |
+| Rübenkoppel, Eichholz               | 53.856122 10.721074                                         | Groeni           | TL-WR1043ND           | 0.3pre       | Verteiler / Richtfunk   | 56:e6:fc:98:58:f3                                          | Rübe 2       |
+| 23556 Lübeck               | 53.867605 10.656458   | Mizu           | TL-WR1043ND           | 0.3pre        | mit Internetanbindung   | 
+fa:d1:11:25:95:58 | mizu-AP |
 | Bürgerweide |  | jix & Laeila | TL-WR1043ND | 0.3pre | Internetanbindung | 92:f6:52:3f:b9:26 | kyubey |
 | Ratzeburger Allee |  | Jozu | TL-WR741ND | 0.3pre | Internetanbindung | b2:48:7a:cc:27:6c | Yoshi |
 | St. Jürgen |  | Kaspar | TL-WR1043ND | 0.3pre | Internetanbindung | b2:48:7a:a1:16:de | Yangshuo |
