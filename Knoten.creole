@@ -45,7 +45,7 @@
 |                            | 53.84598 10.70838 |        | TL-WR1043ND | 0.3pre | mit Internetanbindung | b2:48:7a:df:20:fa | Rapture |
 | St. Lorenz Nord | | magu |TL-WR1043ND | 0.3pre (build 12Jun21) | | b2:48:7a:97:fa:56 | namshub |
 |                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:29:0e | enki |
-|                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:18:31 | innana |
+|                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:18:2f | innana |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
