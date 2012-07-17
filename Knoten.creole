@@ -37,7 +37,7 @@
 | Rübenkoppel, Brandenbaum               | 53.857763 10.719022                                         | Groeni           | TL-WR741ND           | 0.3pre        | mit Internet   | b0:48:7a:cb:30:47                                          | Rübe       |
 | Rübenkoppel, Brandenbaum               | 53.856122 10.721074                                         | Groeni           | TL-WR1043ND           | 0.4       | Verteiler / Richtfunk   | 56:e6:fc:98:58:f3                                          | Rübe 2       |
 | 23556 Lübeck               | 53.867605 10.656458   | Mizu           | TL-WR1043ND           | 0.3pre        | mit Internetanbindung   | fa:d1:11:25:95:58 | mizu-AP |
-| Bürgerweide |  | jix & Laeila | TL-WR1043ND | 0.3pre | Internetanbindung | 92:f6:52:3f:b9:26 | kyubey |
+| Bürgerweide | 53.842003 10.704269 | jix & Laeila | TL-WR1043ND | 0.3pre | Internetanbindung | 92:f6:52:3f:b9:26 | kyubey |
 | Ratzeburger Allee |  | Jozu | TL-WR741ND | 0.3pre | Internetanbindung | b2:48:7a:cc:27:6c | Yoshi |
 | St. Jürgen |  | Kaspar | TL-WR1043ND | 0.3pre | Internetanbindung | b2:48:7a:a1:16:de | Yangshuo |
 | Hansetraße, Ecke Wendische | 53.861241 10.662248 | Pascal | TL-WR741ND | 0.3pre | mit Internetanbindung | b2:48:7a:cc:26:8c | Banane |
