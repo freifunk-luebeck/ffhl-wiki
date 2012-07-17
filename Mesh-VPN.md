@@ -13,6 +13,6 @@ Der wichtigste Vorteil ist, wie bereits erwähnt, die Verbindung von Knoten, die
 Auch kann so die Verbindung mit Rechnern hergestellt werden, die als Server in Rechenzentren stehen. Diese können dann ihre [[Dienste|Freifunk-verwenden]] (wie Webseiten, [[VOIP]] oder [[Zugang zu anderen Netzen|Peerings]]) anbieten.
 
 ## Nachteile
-Eigentlich läuft die Nutzung des Internets dem Freifunkgedanken etwas entgegen, da wir eine alternative Infrasturktur aufbauen wollen. Aber leider stellt sie zum gegenwärtigen Zeitpunkt die einzige gute Lösung dar.
+Eigentlich läuft die Nutzung des Internets dem Freifunkgedanken etwas entgegen, da wir eine alternative Infrastruktur aufbauen wollen. Aber leider stellt sie zum gegenwärtigen Zeitpunkt die einzige gute Lösung dar.
 
 Die notwendige Verschlüsselung belastet die Hardware der Router ziemlich. Auch aus diesem Grund wird die Verwendung des [[TP-Link 741nd|Firmware:741nd]] oder des besseren [[TP-Link 1043nd|Firmware:1043nd]] empfohlen. Diese sind in der Lage, die Verschlüsselung auch schnell genug zu berechnen, da sonst die Übertragungsrate deutlich einbricht.
