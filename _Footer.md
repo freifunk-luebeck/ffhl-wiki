@@ -1,1 +1,1 @@
-Git repo: [[http://git.metameute.de/luebeck.freifunk.net/]]
+Git repo: [[https://git.metameute.de/lff/wiki/]]
