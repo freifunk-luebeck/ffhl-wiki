@@ -21,8 +21,6 @@
 | Lanzentrum Lübeck                   | 53.87643 10.65837                                           | Volker          | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | 56:e6:fc:b0:43:80                                          | LAN-Zentrum       |
 | Stodo, Lohstrasse/Hohlweg           | 53.895625 10.652161                                         | Volker          | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | 56:e6:fc:b0:43:ba                                          | Fluse       |
 | Poggenpohl           | 53.847387 10.602944                                         | Kai          | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | 56:e6:fc:99:58:aa                                          | Kai
-       |
-| Stodo, Stolper Strasse              | 53.902275 10.665858                                         | Tim             | TL-WR1043ND          | 0.2.1         | mit Internetanbindung     | 54:e6:fc:98:67:e0                                         | Tim       |
 | St. Lorenz Süd                      | 53.8595 10.6563                                             | Alex            | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | b2:48:7a:9a:d8:ce, b2:48:7a:99:d8:d0                       | techem |
 |                                     | 53.871641 10.716619                                         | Nils            | TL-WR1043ND          | 0.3pre        | nur manchmal mit Internet | 76:ea:3a:be:22:40                                          | tcatm  |
 | Röntgenstraße, 23562 Lübeck | 53.846658 10.68926 | 7jM | TL-WR1043ND | 0.3pre | mit Internetanbindung | FA:D1:11:25:9D:A2 | 7jM-1043 |
