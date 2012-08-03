@@ -1,22 +1,22 @@
 # Lübeck Freifunk Firmware Repository Checkout/Build
 
-## Build instructions - latest development version
+## Build instructions - v0.3 development version
 
-Diese Version ist wirklich nur für Entwicklungszwecke gedacht und sollte nicht produktiv verwendet werden!
+Da diese Version noch in Entwicklung ist, kann sie noch problematische Bugs enthalten.
 
     # für 741nd
-    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b experimental
+    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git
     # für 1043nd
-    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b experimental-tl-wr-1043nd
+    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b tl-wr-1043nd
 
     cd firmware
-    echo 'src-git lff git://krtek.asta.uni-luebeck.de/lff/pkg.git;experimental' > feeds.conf
-    echo 'src-svn luci http://svn.luci.subsignal.org/luci/trunk/contrib/package' >> feeds.conf
     scripts/feeds update -a
     scripts/feeds install -a
     make
 
 ## Build instructions - v0.2.1 release version
+
+Diese Version ist obsolet und sollte nicht mehr verwendet werden.
 
     git clone --recursive http://www.metameute.de/git/lff.git
     cd lff
