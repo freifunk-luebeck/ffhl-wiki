@@ -7,7 +7,7 @@ Dieses Wiki ist übrigens auch [[via SSL|https://freifunk.metameute.de]] erreich
 
 ## Kontakt
 
-Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [Mailing-Liste](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck)
+Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [Mailing-Liste](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck); Mailingliste für Firmware-Entwicklung unter [freifunk.luebeck-devel AT asta.uni-luebeck.de](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck-devel)
 
 Twitter: Freifunk Lübeck [@Twitter](http://twitter.com/freifunkluebeck)
 
