@@ -18,8 +18,6 @@
 | 23560 Lübeck                        | 53.838783 10.639233                                         | Groeni           | TL-WR1043ND          | 0.3pre        |                           | 54:e6:fc:b0:1a:7e                                          | Groeni       |
 | 23562 Lübeck                        | 53.85038 10.69014                                           | Eichi        | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | 56:e6:fc:99:64:9c                                          | Odin |
 | Rübenkoppel, Eichholz               | 53.858067 10.723117                                         | Eichi           | TL-WR1043ND           | 0.3pre       | im Aufbau                  | f6:ec:38:e9:73:91                                          | Gilgameš     |
-| Lanzentrum Lübeck         | 53.87643 10.65837   | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:80 | LAN-Zentrum |
-| Stodo, Lohstrasse/Hohlweg | 53.895625 10.652161 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:ba | Fluse |
 | Poggenpohl                | 53.847387 10.602944 | Kai       | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:99:58:aa | Kai |
 | St. Lorenz Süd            | 53.8595 10.6563     | Alex      | TL-WR1043ND | 0.3pre | mit Internetanbindung | b2:48:7a:9a:d8:ce, b2:48:7a:99:d8:d0 | techem |
 |                           | 53.871641 10.716619 | Nils      | TL-WR1043ND | 0.3pre | nur manchmal Internet | 76:ea:3a:be:22:40 | tcatm |
@@ -28,7 +26,6 @@
 | Ratzeburger Allee         | 53.846141 10.707231 | NeoRaider | TL-WR1043ND | custom/0.3pre | mit Internet   | fa:d1:11:80:41:d4 | confusion |
 | Ratzeburger Allee         | 53.846169 10.707274 | NeoRaider | TL-WR741ND  | 0.3pre |                       | fa:d1:11:30:1b:e3 | sweetmorn |
 | Ratzeburger Allee         | 53.846064 10.707203 | NeoRaider | TL-WR741ND  | 0.3pre |                       | fa:d1:11:37:fc:39 | boomtime |
-| Rehsprung, Lübeck         | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
 | Rübenkoppel, Brandenbaum  | 53.857763 10.719022 | Groeni    | TL-WR741ND  | 0.3pre | mit Internetanbindung | b0:48:7a:cb:30:47 | Rübe |
 | Rübenkoppel, Brandenbaum  | 53.856122 10.721074 | Groeni    | TL-WR1043ND | 0.3pre | Verteiler / Richtfunk | 56:e6:fc:98:58:f3 | Rübe 2 |
 | 23556 Lübeck              | 53.867605 10.656458 | Mizu      | TL-WR1043ND | 0.3pre | mit Internetanbindung | fa:d1:11:25:95:58 | mizu-AP |
@@ -42,6 +39,20 @@
 |                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:29:0e | enki |
 |                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:18:2f | innana |
 | Mölln | | mkm | TL_WR741ND  | 0.3pre | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9f:86 | Fluse011 |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:98 | Fluse001 |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:d8 | Fluse010 |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | Fluse003 |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:0b:64 | Fluse006 |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:58:0c | Fluse008 |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2c:76 | Fluse007 |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:76 | Fluse002 |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:d4 | Fluse005 |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Fluse004 |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
+| Lanzentrum      | 53.87643 10.65837   | Volker |TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:80 | LAN-Zentrum |
+| Stodo, Lohstrasse/Hohlweg | 53.895625 10.652161 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:ba | Fluse |
+| Rehsprung, Lübeck         | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
