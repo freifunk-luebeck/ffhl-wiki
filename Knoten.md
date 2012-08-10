@@ -42,6 +42,7 @@
 |                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:29:0e | enki |
 |                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:18:2f | innana |
 | Mölln | | mkm | TL_WR741ND  | 0.3pre | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
+|                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9f:86 | Fluse011 |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
