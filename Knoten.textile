@@ -43,6 +43,16 @@
 |                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:18:2f | innana |
 | Mölln | | mkm | TL_WR741ND  | 0.3pre | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
 |                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9f:86 | Fluse011 |
+|                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:98 | Fluse001 |
+|                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:d8 | Fluse010 |
+|                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | Fluse003 |
+|                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:0b:64 | Fluse006 |
+|                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:58:0c | Fluse008 |
+|                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2c:76 | Fluse007 |
+|                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:76 | Fluse002 |
+|                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:d4 | Fluse005 |
+|                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Fluse004 |
+|                 | | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
