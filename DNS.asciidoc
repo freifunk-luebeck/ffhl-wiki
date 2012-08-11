@@ -2,8 +2,8 @@
 
 Wir haben derzeit zwei DNS Server um die TLD `.ffhl` aufzulösen.
 
- * 10.130.14.1
- * 10.130.15.1
+ * 10.130.14.1 / fdef:ffc0:3dd7::e01
+ * 10.130.15.1 / fdef:ffc0:3dd7::f01
 
 ## BIND Konfiguration
 
@@ -27,6 +27,7 @@ Zu finden im Repo [auf github.](https://github.com/MetaMeute/ffhl-dns)
         file "slave/slave.hack";
         masters {172.31.0.5;};
         allow-transfer { any; };
+        forwarders { };
     };
 
 
@@ -37,6 +38,7 @@ Zu finden im Repo [auf github.](https://github.com/MetaMeute/ffhl-dns)
         file "slave/dn42.zone";
         masters { 172.22.184.1; };
         allow-transfer { any; };
+        forwarders { };
     };
 
 ### .ffa
@@ -70,5 +72,15 @@ stub/ffa.zone
         type stub;
         file "stub/ffc.zone";
         masters { 10.8.6.6; };
+    };
+
+### .ffki
+
+    zone "ffki" IN {
+        type slave;
+        file "slave/ffki.zone";
+        masters { fda1:384a:74de:4242::66; fda1:384a:74de:4242::2; };
+        allow-transfer { any; };
+        forwarders { };
     };
 
