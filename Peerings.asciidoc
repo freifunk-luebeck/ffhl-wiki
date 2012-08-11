@@ -7,6 +7,7 @@ Aus unserem Netzwerk kann man Knoten (Rechner) in anderen Netzwerken ebenfalls e
 * DN42
 * IC-VPN
 * Chaos-VPN
+* Freifunk Kiel (IPv6 only)
 
 == Internetzugang
 Wir stellen allen Nutzern einen Internetzugang zur Verfügung. Dieser läuft über einen ausländischen Anonymisierungsdienst, der zum Schutz dazwischen geschaltet wird.
