@@ -53,7 +53,8 @@
 | Lanzentrum      | 53.87643 10.65837   | Volker |TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:80 | LAN-Zentrum |
 | Stodo, Lohstrasse/Hohlweg | 53.895625 10.652161 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:ba | Fluse |
 | Rehsprung, Lübeck         | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
-| Lübeck ZOB/HBF         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | mit Internetanbindung | f8:d1:11:55:9f:9b | Garuda-HBF |
+| Lübeck ZOB/HBF         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre | | f8:d1:11:55:9f:9b | Garuda-ZOB |
+| Lübeck ZOB/HBF         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 06:0d:a2:b1:34:f0 | Garuda-HBF |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
