@@ -40,7 +40,7 @@
 |                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:18:2f | innana |
 | Mölln | | mkm | TL_WR741ND  | 0.3pre | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
 |                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:98 | Fluse001 |
-| ZOB             | 53.866346 10.671321 | Volker |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7e:57:76 | Fluse002 |
+|                 |                     | Volker |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7e:57:76 | Fluse002 |
 |                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | Fluse003 |
 |                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Fluse004 |
 |                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:d4 | Fluse005 |
@@ -51,6 +51,7 @@
 |                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:d8 | Fluse010 |
 |                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9f:86 | Fluse011 |
 |                 |                     | Volker |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9b:e4 | Fluse016 |
+| ZOB             | 53.866346 10.671321 | Volker |TL_WR741ND  | 0.3pre (build 1208013)| | b0:48:7a:cb:2c:b8 | Fluse017 |
 | Lanzentrum      | 53.87643 10.65837   | Volker |TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:80 | LAN-Zentrum |
 | Stodo, Lohstrasse/Hohlweg | 53.895625 10.652161 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:ba | Fluse |
 | Rehsprung, Lübeck         | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
