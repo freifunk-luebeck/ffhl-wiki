@@ -80,6 +80,7 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 | 10.130.125.0/27 | 1..30      |Netz von 7jM             |
 | 10.130.126.0/27 | 1..30      |Netz von Laeila & jix    |
 | 10.130.127.0/27 | 1..30      |Jamalakas Netz           |
+| 10.130.128.0/27 | 1..30      | MHintz                  |
 
 
 == 10.130.16.0/24
