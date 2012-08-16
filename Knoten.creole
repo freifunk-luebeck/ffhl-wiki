@@ -38,8 +38,8 @@
 | St. Lorenz Nord | | magu |TL-WR1043ND | 0.3pre (build 12Jun21) | | b2:48:7a:97:fa:56 | namshub |
 |                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:29:0e | enki |
 |                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:18:2f | innana |
-| Mölln | | mkm | TL_WR741ND  | 0.3pre | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
-|                 |                     | Fluse001 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:98 | Fluse001 |
+| Mölln | | mkm | TL_WR741ND  | 0.3pre  | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
+|                 | 53.869601 10.681018 | Fluse001 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:98 | Fluse001 |
 |                 |                     | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7e:57:76 | Fluse002 |
 |                 |                     | Fluse003 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | Fluse003 |
 |                 |                     | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Fluse004 |
