@@ -42,7 +42,7 @@
 | Beckergrube     | 53.869575 10.681018 | Fluse001 |TL_WR741ND  | 0.3pre (build 120809) | Tadeusz | f8:d1:11:7e:57:98 | Fluse001 |
 |                 |                     | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7e:57:76 | Fluse002 |
 |                 |                     | Fluse003 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | Fluse003 |
-|                 |                     | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Fluse004 |
+|                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Fluse004 |
 |                 |                     | Fluse005 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:d4 | Fluse005 |
 |                 |                     | Fluse006 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:0b:64 | Fluse006 |
 | ZOB LU          | 53.866408 10.671088 | Fluse007 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2c:76 | ZOB LU   |
