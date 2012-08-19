@@ -7,7 +7,7 @@ Diese Karten kannst Du abrufen wenn Du direkt aus dem Internet auf dieser Seite 
 Aus dem Internet:
 
  * ([[Stadtkarte|http://188.138.99.158/mesh/geomap.html]])
- * [[Interaktiver Graph (v0.3-pre)| ([[Extern|http://holstentor.metameute.de/nodes/nodes.html]]) (enthält nur Knoten, die eine aktuelle Beta-Firmware verwenden, Code: https://github.com/tcatm/ffmap-d3)
+ * [[Interaktiver Graph (v0.3-pre)| [[Extern|http://holstentor.metameute.de/nodes/nodes.html]]) (enthält nur Knoten, die eine aktuelle Beta-Firmware verwenden, Code: https://github.com/tcatm/ffmap-d3)
  * [[Statistiken|http://krtek.ffhl/cacti-export]] ([[IP|http://10.130.0.8/cacti-export]], [[Extern|http://www.metameute.de/cacti-export]])
 
 Aus dem Freifunknetz:
