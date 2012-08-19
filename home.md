@@ -3,7 +3,7 @@
 ## 
 
 Hallo :-)
-Wir freuen uns DIch auf unserer kleinen Webseite ( Wiki )begrüßen zu dürfen.
+<>Wir freuen uns DIch auf unserer kleinen Webseite ( Wiki )begrüßen zu dürfen.
 Vermutlich bist Du auf uns durch ein WLAN Signal mit dem Namen luebeck.freifunk.net aufmerksam geworden, oder einer Deiner Freunde kenn uns bereits und Dich hierher gelenkt.
 An der rechten Leiste findest Du unser Projekt in einzelne Abschnitte aufgeteilt.
 In kurzen Worten aber soviel vorweg:
