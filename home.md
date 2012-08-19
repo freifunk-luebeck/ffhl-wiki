@@ -1,4 +1,4 @@
-# Freifunk in Lübeck
+# Willkommen beim Freifunk in Lübeck
 
 ## Dieses Wiki
 
