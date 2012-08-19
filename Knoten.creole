@@ -7,7 +7,7 @@ Diese Karten kannst Du abrufen wenn Du direkt aus dem Internet auf dieser Seite 
 Aus dem Internet:
 
  * ([[Stadtkarte|http://188.138.99.158/mesh/geomap.html]])
- * ([[Extern|http://holstentor.metameute.de/nodes/nodes.html]]) (enthält nur Knoten, die eine aktuelle Beta-Firmware verwenden, Code: https://github.com/tcatm/ffmap-d3)
+ * ([[Interaktiver Graph (v0.3-pre)|http://holstentor.metameute.de/nodes/nodes.html]]) (enthält nur Knoten, die eine aktuelle Beta-Firmware verwenden, Code: https://github.com/tcatm/ffmap-d3)
 
 Aus dem Freifunknetz:
 
