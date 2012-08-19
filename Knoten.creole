@@ -44,7 +44,7 @@
 |                 |                     | Fluse003 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | Fluse003 |
 |                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | fa:d1:11:7e:57:e2 | Fluse004 |
 |                 |                     | Fluse005 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:d4 | Fluse005 |
-|                 |                     | Fluse006 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:0b:64 | Fluse006 |
+|                 | 53.895471 10.652496 | Fluse006 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:0b:64 | Fluse006 |
 | ZOB LU          | 53.866408 10.671088 | Fluse007 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2c:76 | ZOB LU   |
 | ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:58:0c | ZOB L    |
 |                 | 53.895581 10.652755 | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
