@@ -49,14 +49,14 @@ Aus dem Freifunknetz:
 |                 |                     | magu     |TL_WR741ND  | 0.3pre (build 12Jul06)| | f8:d1:11:58:18:2f | innana |
 | Mölln           |                     | mkm      |TL_WR741ND  | 0.3pre                | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
 | Beckergrube     | 53.869575 10.681018 | Fluse001 |TL_WR741ND  | 0.3pre (build 120809) | Tadeusz | f8:d1:11:7e:57:98 | Fluse001 |
-|                 |                     | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | fa:d1:11:7f:57:76 | Fluse002 |
+|                 | 53.895581 10.652755 | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7f:57:76 | Christopher |
 |                 |                     | Fluse003 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | Fluse003 |
 |                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Prians |
 |                 |                     | Fluse005 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:d4 | Fluse005 |
 |                 | 53.895471 10.652496 | Fluse006 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:0b:64 | Fluse006 |
 | ZOB LU          | 53.866408 10.671088 | Fluse007 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2c:76 | ZOB LU   |
 | ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:58:0c | ZOB L    |
-|                 | 53.895581 10.652755 | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Christopher |
+|                 |                     | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
 |                 |                     | Fluse010 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:d8 | Fluse010 |
 |                 | 53.902516,10.669674 | Fluse011 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9f:86 | Kinder |
 |                 |                     | Fluse016 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9b:e4 | Fluse016 |
