@@ -49,7 +49,7 @@ Aus dem Freifunknetz:
 |                 |                     | magu     |TL_WR741ND  | 0.3pre (build 12Jul06)| | f8:d1:11:58:18:2f | innana |
 | Mölln           |                     | mkm      |TL_WR741ND  | 0.3pre                | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
 | Beckergrube     | 53.869575 10.681018 | Fluse001 |TL_WR741ND  | 0.3pre (build 120809) | Tadeusz | f8:d1:11:7e:57:98 | Fluse001 |
-|                 | 53.895581 10.652755 | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7f:57:76 | Christopher |
+|                 | 53.895581 10.652755 | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7e:57:76 | Christopher |
 |                 |                     | Fluse003 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | Fluse003 |
 |                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Prians |
 |                 |                     | Fluse005 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:d4 | Fluse005 |
