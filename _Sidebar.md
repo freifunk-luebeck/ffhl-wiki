@@ -20,9 +20,10 @@
    * Firmware
      * [[Version 0.3|Firmware:Version03]]
    * [[Lübeck-Freifunk-Router|Router]]
-     * [[TP-Link 741nd|Firmware:741nd]]
-     * [[TP-Link 841nd|Firmware:841nd]]
-     * [[TP-Link 1043nd|Firmware:1043nd]]
+     * [[TP-Link WR741nd|Firmware:741nd]]
+     * [[TP-Link WR841nd|Firmware:841nd]]
+     * [[TP-Link WR1043nd|Firmware:1043nd]]
+     * [[TP-Link WDR3600|Firmware:3600]]
      * [[Individuelle Firmware|Firmware]]
      * [[Knotenlog]]
  * [[Probleme]]
