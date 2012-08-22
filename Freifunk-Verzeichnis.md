@@ -6,8 +6,6 @@ Wir haben einige Dienste aufgesetzt, die die Struktur des Netzes überwachen und
 
  * MeuteBlog<br>
    <http://meuteblog.ffhl>
- * Blog von DerDerwish<br>
-   <http://derderwish.ffhl/ffhl>
 
 ## Graphen und Karten
 
