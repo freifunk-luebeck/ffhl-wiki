@@ -1,5 +1,5 @@
 # TP-Link 741nd
-[[../bilder/Freifunkrouter/TP-Link_741nd_300px.JPG]]
+[[/bilder/Freifunkrouter/TP-Link_741nd_300px.JPG]]
 
 <span style="color:darkred;height:2em;">Nicht jede Version dieses Routers funktioniert mit unserer aktuellen Firmware.</span><br />
 <span style="color:darkred;height:2em;">Auf der Geräterückseite findest Du die Rev. Nr. 1 bis 4.xx
