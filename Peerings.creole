@@ -14,8 +14,9 @@ Wir stellen allen Nutzern einen Internetzugang zur Verfügung. Dieser läuft üb
 Es kann daher vorkommen, dass man auf Webseiten nicht die gewohnte deutsche Seite, sondern eine andere angezeigt bekommt.
 Dieser Zugang ist nicht sonderlich schnell, aber ausreichend für kleinere Downloads und dem allgemeinen Surfen im Web.
 
-== DN42
-Das DN42 ist ein privates Netzwerk ähnlich dem Freifunk, unterscheidet sich aber von diesem dahingehend grundlegend, dass es in erster Linie nur zwischen Servern aufgespannt wird. Es soll nicht - wie beim Freifunk - ein leichter Zugang für die Allgemeinheit gewährleistet werden.
+== Dn42
+Das Dn42 ist ein privates Netzwerk ähnlich dem Freifunk, unterscheidet sich aber von diesem dahingehend grundlegend, dass es in erster Linie nur zwischen Servern aufgespannt wird. Es soll allerdings nicht - wie beim Freifunk - ein leichter Zugang für die Allgemeinheit gewährleistet werden, sondern es wird zum Beitreten ein gewisser Kenntnisstand mit Netzwerken erwartet. Zur Nutzung ist dies aber nicht notwendig.<br>
+[[Dn42 in der englischen Wikipedia|http://en.wikipedia.org/wiki/Dn42]]
 
 == IC-VPN
 Das **I**nter**c**ity-**VPN** stellt eine Verbindung zwischen vielen regionalen Freifunk-Netzen dar und bildet den Grundstein dafür, dass man aus unserem Netz Knoten in andern Regionen (z.B. Augsburg, Oldenburg oder Dresden) erreichen kann.
@@ -25,8 +26,9 @@ Eine gute Karte mit den beteiligten Gruppen findet sich bei den Dresdnern unter 
 Dieses Netzwerk soll eine Möglichkeit zur unabhängigen Vernetzung für Computerbegeisterte der ganzen Welt darstellen.
 
 == IP-Bereiche
-| IP-Bereich    | TLD   | Netz              |
-| 10.8.0.0/16   | .ffc  | Freifunk Chemnitz |
-| 10.11.0.0/16  | .ffa  | Freifunk Augsburg |
-| 10.130.0.0/16 | .ffhl | Freifunk Lübeck   |
-| 172.22.0.0/15 | .dn42 | DN42              |
+| IP-Bereich                | TLD   | Netz              |
+| 10.8.0.0/16               | .ffc  | Freifunk Chemnitz |
+| 10.11.0.0/16              | .ffa  | Freifunk Augsburg |
+| 10.130.0.0/16             | .ffhl | Freifunk Lübeck   |
+| fda1:384a:74de:4242::1/48 | .ffki | Freifunk Kiel     |
+| 172.22.0.0/15             | .dn42 | Dn42              |
