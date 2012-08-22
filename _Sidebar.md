@@ -1,7 +1,7 @@
  * [[Home|home]]
  * [[Die Projektidee|About]]
    * [[Externe Quellen|ExterneQuellen]]
-   * [[Gruende zum Mitmachen|Warum]]
+   * [[Gründe zum Mitmachen|Warum]]
  * [[Einstieg]]
  * [[Material]]
    * [[Grafiken]]
@@ -19,7 +19,7 @@
      * [[Mesh-VPN]]
    * Firmware
      * [[Version 0.3|Firmware:Version03]]
-   * [[Luebeck-Freifunk-Router|Router]]
+   * [[Lübeck-Freifunk-Router|Router]]
      * [[TP-Link 741nd|Firmware:741nd]]
      * [[TP-Link 841nd|Firmware:841nd]]
      * [[TP-Link 1043nd|Firmware:1043nd]]
