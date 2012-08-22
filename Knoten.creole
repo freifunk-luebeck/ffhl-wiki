@@ -52,7 +52,7 @@ Aus dem Freifunknetz:
 | Mölln           |                     | mkm      |TL_WR741ND  | 0.3pre                | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
 | Beckergrube     | 53.869575 10.681018 | Fluse001 |TL_WR741ND  | 0.3pre (build 120809) | Tadeusz | f8:d1:11:7e:57:98 | Fluse001 |
 |                 | 53.895581 10.652755 | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7e:57:76 | Christopher |
-|                 |                     | Fluse003/Abdi |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | ZOB RU |
+| ZOB RU          | 53.866414 10.671173 | Fluse003/Abdi |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | ZOB RU |
 |                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Prians |
 |                 |                     | Fluse005 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:d4 | Fluse005 |
 |                 | 53.895471 10.652496 | Fluse006 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:0b:64 | Fluse006 |
