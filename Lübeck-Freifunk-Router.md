@@ -4,7 +4,7 @@
 
 Wir empfehlen den Einsatz dieser Geräte, da wir mit diesen gute Erfahrungen gemacht haben:
 
-[[bilder/Freifunkrouter/TP-Links.JPG|width=250px]]
+[[bilder/Freifunkrouter/TP-Links_300px.JPG]]
 
 Abgebildet sind der [[TP-Link 741nd|Firmware:741nd]] und der [[TP-Link 1043nd|Firmware:1043nd]].
 Für beide stehen fertige Images bereit.
