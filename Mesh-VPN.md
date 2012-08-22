@@ -15,4 +15,5 @@ Auch kann so die Verbindung mit Rechnern hergestellt werden, die als Server in R
 ## Nachteile
 Eigentlich läuft die Nutzung des Internets dem Freifunkgedanken etwas entgegen, da wir eine alternative Infrastruktur aufbauen wollen. Aber leider stellt sie zum gegenwärtigen Zeitpunkt die einzige gute Lösung dar.
 
-Die notwendige Verschlüsselung belastet die Hardware der Router ziemlich. Auch aus diesem Grund wird die Verwendung des [[TP-Link 741nd|Firmware:741nd]] oder des besseren [[TP-Link 1043nd|Firmware:1043nd]] empfohlen. Diese sind in der Lage, die Verschlüsselung auch schnell genug zu berechnen, da sonst die Übertragungsrate deutlich einbricht.
+## Empfohlene Geräte
+Prinzipiell sind alle Geräte, die wir unterstützen, zu dem VPN in der Lage. Aus Geschwindigkeitsgründen empfehlen wir jedoch die Verwendung der [[TP-Link WR1043nd|Firmware:1043nd]] und [[TP-Link WDR3600|Firmware:3600]].
