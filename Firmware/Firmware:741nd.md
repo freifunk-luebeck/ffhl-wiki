@@ -1,15 +1,25 @@
 # TP-Link 741nd
 [[/bilder/Freifunkrouter/TP-Link_741nd_300px.JPG]]
 
-Nicht jede Version dieses Routers funktioniert mit unserer aktuellen Firmware.
-Auf der Geräterückseite findest Du die Rev. Nr. 1 bis 4.xx
-Aktuelle Firmware findest Du zur Zeit unter der URL: http://krtek.asta.uni-luebeck.de/~magu/firmware/fw120809/
-Achte dabei darauf, dass Du die für Deine Rev.Nr. korrekte Firmware herunterlädst.
-Mit dieser Firmware ist nun auch erstmals ein Webinterface integriert. Es befindet sich noch in der Alphaphase.
-In Kürze werden wir aber die komplett überarbeitete und vorerst fertige Version 0.3 zum Download anbieten.</span><br />
-
 ## Verwendungszweck
 Diese Router sind in erster Linie dazu gedacht, die vorhandene Wolke direkt zu erweitern.
-Jedoch kannst Du mit der jetzigen neuen Firmware auch locker einen Knoten mit diesem Gerät betreiben.
+Sie beinhalten jedoch auch die Möglichkeit eine VPN-Verbindung zum Rest des Netzes aufzubauen und sind damit auch für neue Wolken geeignet.
+
+Da bei ihnen nur ein Antennenanschluss vorhanden ist, sind sie die empfohlenen Geräte für den Aufbau von Richtfunkstrecken.
+
+Über ein modifiziertes Anschlusskabel lassen sie sich mit 5V über einen USB-Port betreiben und sind daher auch zum Testen im Freien brauchbar.
 
 ## Eigenschaften
+* 4MB Flash
+* 32MB RAM
+* gleicher Prozessor wie [[Firmware:1043nd]]
+* 1 Antennenanschluss
+* kein USB-Anschluss
+* 9V-Stromanschluss
+
+## Unterstützte Hardwarerevisionen:
+Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision.
+
+* v1.X [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr741nd-v1-squashfs-factory.bin]]
+* v2.X [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr741nd-v2-squashfs-factory.bin]]
+* v4.X [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr741nd-v4-squashfs-factory.bin]]
