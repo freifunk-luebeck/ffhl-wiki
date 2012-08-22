@@ -12,7 +12,7 @@
    * [[VoIP]]
    * [[DNS]]
    * [[Zugang zu anderen Netzen|Peerings]]
-   * [[YaCy]]
+   * [[Suchmaschine|Suchmaschine]]
  * Technische Details
    * [[Netzwerk]]
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
