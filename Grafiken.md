@@ -1,6 +1,6 @@
-= Grafiken
+# Grafiken
 
-== Logos
+## Logos
 Die Logos dürfen gern weiterverarbeitet werden. Bitte macht die neuen Werke dann auch wieder im Freifunk zugänglich.
 Die Logos stehen unter der Lizenz [[http://creativecommons.org/licenses/by-nc-sa/3.0/|[[http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png]]]] Tjorven Mintzlaff.
 
@@ -9,13 +9,13 @@ Die Logos stehen unter der Lizenz [[http://creativecommons.org/licenses/by-nc-sa
 * Und hier in schwarz/weiß:
 [[bilder/logo_sw.png]]
 
-== Banner
+## Banner
 Auch dieses Banner darf gern weiterverarbeitet werden und steht unter der Lizenz: [[http://creativecommons.org/licenses/by-nc-sa/3.0/|[[http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png]]]] Tjorven Mintzlaff
 
 * Das gibt's im Moment nur in Farbe.
 [[bilder/banner.png]]
 
-== Hotspot-Aufkleber
+## Hotspot-Aufkleber
 Dieser wurde erstellt, damit einheitlich & auffällig auf Knoten hingewiesen werden kann.
 Auch dieser Aufkleber darf gerne weiterverarbeitet werden und steht unter der Lizenz: [[http://creativecommons.org/licenses/by-nc-sa/3.0/|[[http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png]]]]
 
