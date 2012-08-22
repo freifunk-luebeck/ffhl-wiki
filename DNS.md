@@ -31,7 +31,7 @@ Zu finden im Repo [auf github.](https://github.com/MetaMeute/ffhl-dns)
     };
 
 
-### .dn42
+### .dn42 (Dn42)
 
     zone "dn42" {
         type slave;
@@ -41,7 +41,7 @@ Zu finden im Repo [auf github.](https://github.com/MetaMeute/ffhl-dns)
         forwarders { };
     };
 
-### .ffa
+### .ffa (Freifunk Augsburg)
 
     zone "ffa" in {
         type stub;
@@ -66,7 +66,7 @@ stub/ffa.zone
     ns2.stubdns     A       10.11.10.15
     ns3.stubdns     A       10.11.0.8
 
-### .ffc
+### .ffc (Freifunk Chemnitz)
 
     zone "ffc" in {
         type stub;
@@ -74,7 +74,7 @@ stub/ffa.zone
         masters { 10.8.6.6; };
     };
 
-### .ffki
+### .ffki (Freifunk Kiel)
 
     zone "ffki" IN {
         type slave;
