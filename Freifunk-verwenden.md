@@ -1,12 +1,12 @@
 # Dienste im Netz
 
-## [[Freifunk Verzeichnis]]
+## [[Freifunk-Verzeichnis]]
 
-Das [[Freifunk Verzeichnis]] enthält eine Liste von Webseiten, die im Freifunk Netzwerk verfügbar sind.
+Das [[Freifunk-Verzeichnis]] enthält eine Liste von Webseiten, die im Freifunk Netzwerk verfügbar sind.
 
 ## [[Voice-Over-IP|VOIP]]
 
-Dank SIP und VOIP kann man im Freifunk kostenlos telefonieren. Das geht sogar mit WLAN fähigen Telefonen! Ausprobieren? [[So geht's|VOIP]]
+Dank SIP kann im Freifunk kostenlos telefoniert werden. Das geht sogar mit WLAN fähigen Telefonen! Ausprobieren? [[So geht's|VOIP]]
 
 ## Zeroconf Dienste
 
@@ -14,12 +14,15 @@ Unter Linux [[Avahi|http://avahi.org]] oder unter Windows [[Bonjour for Print Se
 
 ## Bonjour-Chat
 
-Unter Linux oder Windows Das Chat-Programm [[Pidgin|http://pidgin.im]] installieren. Hier dann einen Bonjour-Account anlegen. Bei Mac OS X sollte schon alles soweit eingerichtet sein und iChat funktionieren (wer möchte kann aber auch auf Mac OS X pidgin oder Adium installieren).
+Dieser Dienst basiert auf dem Zeroconf-Protokoll und ermöglicht sehr schnell seinen Teilnehmern die Nutzung.
+Er ist dezentral und arbeitet ausfallsicher ohne Registrierung bei einem speziellen Server.
 
-Dieser Chat ist dezentral, dh. es ist sehr ausfallsicher und praktisch unmöglich die Nutzung dieses Dienstes zu unterbinden.
+Unter Linux oder Windows kann das Chat-Programm [[Pidgin|http://pidgin.im]] installiert und genutzt werden. Hier muss man einen Bonjour-Account unter _Konten -> Konten verwalten -> Hinzufügen_ anlegen.
 
-Außerdem kann es zum Versenden von Dateien benutzt werden.
+Bei Mac OS X sollte schon alles soweit eingerichtet sein und iChat funktionieren. Wer möchte, kann aber auch auf Mac OS X Pidgin oder Adium installieren.
+
+Bonjour kann neben dem dem Verschicken von Textnachrichten auch zum Übertragen von Dateien benutzt werden.
 
 ## DNSSD for Firefox
 
-Hiermit können Webseiten, die im Mesh-Netzwerk verfügbar sind mit einem Klick angschaut und mit einem zweiten besurft werden. Wenn auf einem Lübeck Freifunk Router ein Passwort gesetzt wurde, erscheint auch dieser im Firefox in der Liste vom DNSSD Addon.
+Hiermit können Webseiten, die im Mesh-Netzwerk verfügbar sind mit einem Klick angschaut und mit einem zweiten besurft werden.

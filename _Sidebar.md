@@ -19,6 +19,7 @@
      * [[Mesh-VPN]]
    * [[Lübeck-Freifunk-Router]]
      * [[TP-Link 741nd|Firmware:741nd]]
+     * [[TP-Link 841nd|Firmware:841nd]]
      * [[TP-Link 1043nd|Firmware:1043nd]]
      * [[Individuelle Firmware|Firmware]]
      * [[Knotenlog]]
