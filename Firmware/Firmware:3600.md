@@ -1,5 +1,5 @@
 # TP-Link WDR3600
-WDR3600
+
 **Dieser Router wird aktuell noch nicht unterstützt.**
 
 ## Verwendungszweck
