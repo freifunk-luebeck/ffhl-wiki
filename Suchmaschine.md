@@ -1,4 +1,6 @@
-# YaCy - Die Suchmaschine
+# Die Suchmaschine im internen Netz
+
+**Aktuell ist dieses Projekt in Überarbeitung, da sich YaCy leider doch nicht wirklich eignet.**
 
 ## Zugang
 Da der Suchindex nur Seiten enthält, die aus unserem Freifunknetz aus erreichbar sind, ist der Zugang auch nur aus diesen Netzen möglich.
