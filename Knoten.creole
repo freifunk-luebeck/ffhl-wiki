@@ -2,7 +2,8 @@
 
 == Karte mit den aktiven Knoten im Raum Lübeck
 
-Diese Karten kannst Du abrufen wenn Du direkt aus dem Internet auf dieser Seite bist, oder Dich im Freifunknetz befindest.
+Diese Karten kannst Du abrufen, wenn Du direkt aus dem Internet auf dieser Seite bist oder Dich im Freifunknetz befindest.
+Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, ob Knoten online sind.
 
 Aus dem Internet:
 
@@ -20,7 +21,7 @@ Aus dem Freifunknetz:
 
 **Es sollten keine fremden Einträge ohne Erlaubnis des Betreibers bearbeitet werden. Insbesondere dürfen keine GPS-Koordinaten oder Adresse angegeben werden, wenn der Betreiber dies nicht will!**
 
-|=Ort                                 |=GPS                                                         |=Betreiber       |=Router               |=LFF Version   |=Hinweise                  |=MAC                                                        |=Nick   |
+|=Ort                                 |=GPS                                                         |=Betreiber       |=Router               |=LFF Version   |=Hinweise                  |=MAC                                                        |=Knotenname   |
 | Meute-Keller                        | 53.834384 10.702304                                         | Meta-Meute      | DIR-300              | 0.3pre        |                           | b0:48:7a:e7:d3:64                                          | Meute-AP |
 | Karstadt-Dach                       | 53.867789 10.6863, 53.867906 10.686322, 53.868039 10.686392 | Karstadt        | 3xDIR-300            | custom        |                           | X00:24:01:b7:6a:b3, X06:24:01:b7:69:c1, X00:24:01:b7:6a:d9 |        |
 | Roter Löwe                          | 53.850746 10.659036                                         | Julian          | DIR-300              | 0.3pre        | mit Internetanbindung     | 02:22:b0:44:94:b0                                          | jables-ap |
