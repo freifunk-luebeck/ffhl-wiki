@@ -1,4 +1,4 @@
-# TP-Link 1043nd
+# TP-Link WR1043nd
 [[/bilder/Freifunkrouter/TP-Link_1043nd_300px.JPG]]
 
 ## Verwendungszweck

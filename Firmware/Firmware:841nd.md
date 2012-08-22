@@ -1,4 +1,4 @@
-# TP-Link 841nd
+# TP-Link WR841nd
 
 ## Verwendungszweck
 Diese Router sind in erster Linie dazu gedacht, die vorhandene Wolke direkt zu erweitern.
