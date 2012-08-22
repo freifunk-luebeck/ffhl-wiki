@@ -31,4 +31,4 @@ Blog: [[http://meuteblog.ffhl]]
 
 Redmine/Issue Tracker: [[https://projects.universe-factory.net/projects/ffhl]]
 
-Telefon: meute@sip.ffhl (meute@10.130.0.12) oder 045130504399 und dann 63883#
+Telefon: meute@&zwj;sip.ffhl (meute@&zwj;10.130.0.12) oder 045130504399 und dann 63883#
