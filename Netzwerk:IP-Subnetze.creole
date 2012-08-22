@@ -2,7 +2,7 @@
 
 Für den Lübecker Raum ist das folgende Subnetz reserviert:
 
-10.130.0.0/16
+''10.130.0.0/16''
 
 Dabei wird für das eigentliche Mesh bisher 10.130.0.0/20 genutzt.
 
@@ -10,7 +10,7 @@ Und hier eingetragen: [[http://wiki.freifunk.net/IP-Netze]]
 
 == IPv6
 
-Für IPv6 wird der Prefix fdef:ffc0:3dd7::/48 verwendet.
+Für IPv6 wird der Prefix ''fdef:ffc0:3dd7::/48'' verwendet.
 Davon ist bisher nur fdef:ffc0:3dd7::/64 in Benutzung; Geräte
 mit statischer Adresse 10.130.a.b SOLLTEN die IPv6-Adresse
 fdef:ffc0:3dd7::XXYY/64 zugeteilt bekommen, wobei XX und YY
@@ -30,7 +30,6 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 | 10.130.0.0/22 | 0.1...3.254 | zur statischen Konfiguration frei zur Verfügung (siehe unten)          |
 | 10.130.3.0/24 |     1...254 | temporäre IPs. Einfach verwenden und bei Kollision eine andere nehmen. |
 | 10.130.5.0/27 |      1...30 | Netz von j.ohny.b                                                      |
-| 10.130.6.0/27 |      1...30 | Netz von DerDerwish                                                    |
 
 Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange uns nicht die /24 ausgehen. Ist das /27 voll, kann man dann problemlos auf ein /26 oder /25 aufstocken, sodass keine übermäßige Fragmentierung der Adress-Bereiche entsteht.
 
