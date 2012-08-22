@@ -1,8 +1,8 @@
 # TP-Link 741nd
 [[/bilder/Freifunkrouter/TP-Link_741nd_300px.JPG]]
 
-<span style="color:darkred;height:2em;">Nicht jede Version dieses Routers funktioniert mit unserer aktuellen Firmware.</span><br />
-<span style="color:darkred;height:2em;">Auf der Geräterückseite findest Du die Rev. Nr. 1 bis 4.xx
+Nicht jede Version dieses Routers funktioniert mit unserer aktuellen Firmware.
+Auf der Geräterückseite findest Du die Rev. Nr. 1 bis 4.xx
 Aktuelle Firmware findest Du zur Zeit unter der URL: http://krtek.asta.uni-luebeck.de/~magu/firmware/fw120809/
 Achte dabei darauf, dass Du die für Deine Rev.Nr. korrekte Firmware herunterlädst.
 Mit dieser Firmware ist nun auch erstmals ein Webinterface integriert. Es befindet sich noch in der Alphaphase.
