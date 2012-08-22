@@ -6,7 +6,7 @@ In der Meute steht nun ein SIP-fähiges Telefon. Auch Paul ist via SIP zu erreic
 
 ## Mitmachen 
 
-Wer mitmachen will, sollte sich zuerst einen freien Nutzernamen wählen und diesen dann mit _NUTZERNAME_@sip.ffhl im SIP Client einstellen. Danach sollte man für Tests meute@sip.ffhl oder paul@sip.ffhl anrufen! Bei vielen Clients klappt es auch, wenn man nur 'meute' bzw. 'paul' anruft.
+Wer mitmachen will, sollte sich zuerst einen freien Nutzernamen wählen und diesen dann mit _NUTZERNAME_@&zwj;sip.ffhl im SIP Client einstellen. Danach sollte man für Tests meute@&zwj;sip.ffhl oder paul@&zwj;sip.ffhl anrufen! Bei vielen Clients klappt es auch, wenn man nur 'meute' bzw. 'paul' anruft.
 
 Falls es nicht mit sip.ffhl klappt, kann auch direkt die IP des SIP-Servers (10.130.0.12) genommen werden.
 
@@ -40,7 +40,7 @@ Leider kann Android Roaming nicht richtig, sodass Verbindungen durchaus abbreche
 
 ## Telefonbuch
 
-Bei manchen Clients muss noch @sip.ffhl angefügt werden.
+Bei manchen Clients muss noch @&zwj;sip.ffhl angefügt werden.
 
  * meute (oder direkt per IP 10.130.14.58)
  * paul
