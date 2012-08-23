@@ -5,6 +5,7 @@
  * [[Einstieg]]
  * [[Material]]
    * [[Grafiken]]
+   * [[Texte]]
  * [[Aktive Knoten|Knoten]]
    * [[mobiler Knoten|mobilerKnoten]]
  * [[Dienste im Netz|Freifunk verwenden]]
