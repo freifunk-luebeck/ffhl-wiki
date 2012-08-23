@@ -69,6 +69,7 @@ Aus dem Freifunknetz:
 | Rehsprung, Lübeck         | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
 | Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre | | f8:d1:11:55:9f:9a | Garuda-ZOB |
 | Lübeck ZOB         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 54:e6:fc:98:67:e1 | Garuda-HBF |
+|                 |                     | Peter    | TL-WR741ND | 0.3 | mit Internetanbindung | F8:D1:11:58:18:2E | Peter |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
