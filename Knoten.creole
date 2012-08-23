@@ -60,6 +60,7 @@ Aus dem Freifunknetz:
 | ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:58:0c | ZOB L    |
 |                 |                     | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
 |                 |                     | Fluse010 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:d8 | Fluse010 |
+|                 |                     | Fluse019 |TL_WR741ND  | 0.3pre (build 120809) | | 90:f6:52:b1:95:1c | Fluse019 |
 |                 | 53.902516 10.669674 | Fluse011 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9f:86 | Kinder |
 |                 | 53.867027 10.672108 | Fluse016 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9b:e4 | TimeOut |
 | ZOB R             | 53.866346 10.671321 | Fluse017 |TL_WR741ND  | 0.3pre (build 1208013)| | b0:48:7a:cb:2c:b8 | ZOB R  |
