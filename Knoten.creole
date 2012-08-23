@@ -28,7 +28,7 @@ Aus dem Freifunknetz:
 | 23560 Lübeck                        | 53.838783 10.639233                                         | Groeni           | TL-WR1043ND          | 0.3pre        |                           | 54:e6:fc:b0:1a:7e                                          | Groeni       |
 | 23562 Lübeck                        | 53.85038 10.69014                                           | Eichi        | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | 56:e6:fc:99:64:9c                                          | Odin |
 | Rübenkoppel, Eichholz               | 53.858067 10.723117                                         | Eichi           | TL-WR1043ND           | 0.3pre       | im Aufbau                  | f6:ec:38:e9:73:91                                          | Gilgameš     |
-| Poggenpohl                | 53.847387 10.602944 | Kai       | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:98:58:aa | Kai |
+| Poggenpohl                |                     | Kai       | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:98:58:aa | Kai |
 | St. Lorenz Süd            | 53.8595 10.6563     | Alex      | TL-WR1043ND | 0.3pre | mit Internetanbindung | b2:48:7a:9a:d8:ce, b2:48:7a:99:d8:d0 | techem |
 |                           | 53.871641 10.716619 | Nils      | TL-WR1043ND | 0.3pre | nur manchmal Internet | 76:ea:3a:be:22:40 | tcatm |
 | Röntgenstraße, 23562 HL   | 53.846658 10.68926  | 7jM       | TL-WR1043ND | 0.3pre | mit Internetanbindung | FA:D1:11:25:9D:A2 | 7jM-1043 |
@@ -50,7 +50,7 @@ Aus dem Freifunknetz:
 |                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:29:0e | enki |
 |                 |                     | magu     |TL_WR741ND  | 0.3pre (build 12Jul06)| | f8:d1:11:58:18:2f | innana |
 | Mölln           |                     | mkm      |TL_WR741ND  | 0.3pre                | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
-| Beckergrube     | 53.869575 10.681018 | Fluse001 |TL_WR741ND  | 0.3pre (build 120809) | Tadeusz | f8:d1:11:7e:57:98 | Fluse001 |
+| Beckergrube     | 53.869575 10.681018 | Fluse001 |TL_WR741ND  | 0.3pre (build 120809) | Tadeusz | f8:d1:11:7e:57:98 | Tadeus |
 |                 | 53.895581 10.652755 | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7e:57:76 | Christopher |
 | ZOB RU          | 53.866414 10.671173 | Fluse003/Abdi |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | ZOB RU |
 |                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Prians |
@@ -60,12 +60,12 @@ Aus dem Freifunknetz:
 | ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:58:0c | ZOB L    |
 |                 |                     | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
 |                 |                     | Fluse010 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:d8 | Fluse010 |
-|                 |                     | Fluse019 |TL_WR741ND  | 0.3pre (build 120809) | | 90:f6:52:b1:95:1c | Fluse019 |
+| Stodo, Lohstrasse/Hohlweg | 53.895625 10.652161 | Fluse019 |TL_3600     | 0.3pre (build 120809) | | 90:f6:52:b1:95:1c | Fluse3600 |
 |                 | 53.902516 10.669674 | Fluse011 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9f:86 | Kinder |
 |                 | 53.867027 10.672108 | Fluse016 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9b:e4 | TimeOut |
 | ZOB R             | 53.866346 10.671321 | Fluse017 |TL_WR741ND  | 0.3pre (build 1208013)| | b0:48:7a:cb:2c:b8 | ZOB R  |
 | Lanzentrum      | 53.87643 10.65837   | Fluse012 |TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:80 | LAN-Zentrum |
-| Stodo, Lohstrasse/Hohlweg | 53.895625 10.652161 | Fluse015 | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:ba | Fluse |
+|  |  | Fluse015 | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:ba | Fluse |
 | Rehsprung, Lübeck         | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
 | Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre | | f8:d1:11:55:9f:9a | Garuda-ZOB |
 | Lübeck ZOB         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 54:e6:fc:98:67:e1 | Garuda-HBF |
