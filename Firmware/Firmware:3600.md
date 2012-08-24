@@ -16,4 +16,4 @@ Durch die gleichzeitig Nutzbarkeit des 2,4GHz- und 5GHz-Netzes ist eine höhere 
 * 12V-Stromanschluss
 
 ## Unterstützte Hardwarerevisionen:
-* v1.X ist in Erprobung
+* v1.x ist in Erprobung
