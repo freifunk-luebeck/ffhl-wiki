@@ -17,6 +17,15 @@ Wenn Du den Router behalten möchtest, so kostet er lediglich den Ladenpreis von
 Alle Fragen werden wir Dir bestimmt auf dieser Seite nicht sofort und ausführlich beantworten können. 
 Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccchl.de]] in der [[Röhre|http://www.kjhroehre-luebeck.de/]], dem Kinder- & Jugendkulturhaus in der Geraden Querstraße 2.
 
+
+
+
+
+
+
+
+
+
 ## Kontakt
 
 Mail: freifunk.luebeck@asta.uni-luebeck.de
