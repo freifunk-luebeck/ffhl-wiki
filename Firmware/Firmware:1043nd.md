@@ -1,4 +1,4 @@
-# TP-Link WR1043nd
+# TP-Link WR1043ND
 [[/bilder/Freifunkrouter/TP-Link_1043nd_300px.JPG]]
 
 ## Verwendungszweck
@@ -18,4 +18,4 @@ Da der USB-Port im System nutzbar ist und noch ca. 3MB Flash frei ist, ist es m√
 Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision.
 Von diesem Ger√§t ist uns nur eine Version bekannt.
 
-* v1.X [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr1043nd-v1-squashfs-factory.bin]]
+* v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr1043nd-v1-squashfs-factory.bin]]
