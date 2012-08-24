@@ -9,7 +9,7 @@ Durch ihre 2 Antennen bieten sie ein stabileres und schnelleres Funknetzwerk als
 ## Eigenschaften
 * 4MB Flash
 * 32MB RAM
-* gleicher Prozessor wie [[Firmware:741nd]] & [[Firmware:1043nd]]
+* gleicher Prozessor wie [[Tp-Link 714ND|Firmware:741nd]] & [[TP-Link 1043ND|Firmware:1043nd]]
 * 2 Antennenanschlüsse
 * kein USB-Anschluss
 * 12V-Stromanschluss

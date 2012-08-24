@@ -12,7 +12,7 @@ Da bei ihnen nur ein Antennenanschluss vorhanden ist, sind sie die empfohlenen G
 ## Eigenschaften
 * 4MB Flash
 * 32MB RAM
-* gleicher Prozessor wie [[Firmware:1043nd]]
+* gleicher Prozessor wie [[Firmware:1043nd]] & [[TP-Link 841ND|Firmware:841nd]]
 * 1 Antennenanschluss
 * kein USB-Anschluss
 * 9V-Stromanschluss

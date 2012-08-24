@@ -9,7 +9,7 @@ Da der USB-Port im System nutzbar ist und noch ca. 3MB Flash frei ist, ist es m√
 ## Eigenschaften
 * 8MB Flash
 * 32MB RAM
-* gleicher Prozessor wie [[Firmware:741nd]]
+* gleicher Prozessor wie [[TP-Link 741ND|Firmware:741nd]] & [[TP-Link 841ND|Firmware:841nd]]
 * 3 Antennenanschl√ºsse
 * 1 USB-Anschluss
 * 12V-Stromanschluss
