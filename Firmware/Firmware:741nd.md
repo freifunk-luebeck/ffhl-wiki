@@ -1,4 +1,4 @@
-# TP-Link WR741nd
+# TP-Link WR741ND
 [[/bilder/Freifunkrouter/TP-Link_741nd_300px.JPG]]
 
 ## Verwendungszweck
