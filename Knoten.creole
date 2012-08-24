@@ -53,11 +53,11 @@ Aus dem Freifunknetz:
 | ZOB RU          | 53.866414 10.671173 | Fluse003/Abdi |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | ZOB RU |
 |                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Prians |
 |                 |                     | Fluse005 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:d4 | Fluse005 |
-|                 | 53.86734 10.671757  | Fluse006 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:0b:64 | HanseDiner |
+|                 | 53.86734 10.671757  | Fluse006 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:0b:64 | HanseDiner 1 |
 | ZOB LU          | 53.866408 10.671088 | Fluse007 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2c:76 | ZOB LU   |
 | ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:58:0c | ZOB L    |
 |                 |                     | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
-|                 |                     | Fluse010 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:d8 | Fluse010 |
+|                 | 53.867266,10.671742 | Fluse010 |TL_WR741ND  | 0.3pre                | | f8:d1:11:7e:2a:d8 | HanseDiner 2 |
 |                 |                     | Fluse018 |TL_WR841ND  | 0.3                   | | 64:70:02:91:53:5a | Fluse3600 |
 | Stockelsdorf    | 53.895625 10.652161 | Fluse019 |TL_3600     | 0.3                   | | 90:f6:52:b1:95:1c | Fluse841nd |
 |                 | 53.902516 10.669674 | Fluse011 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:55:9f:86 | Kinder |
