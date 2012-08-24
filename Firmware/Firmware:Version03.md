@@ -7,6 +7,6 @@
 *
 
 ## Unterstützte Geräte
-* [[TP-Link 741nd|Firmware:741nd]]
-* [[TP-Link 841nd|Firmware:841nd]]
-* [[TP-Link 1043nd|Firmware:1043nd]]
+* [[TP-Link TL-WR741ND|Firmware:741nd]]
+* [[TP-Link TL-WR841ND|Firmware:841nd]]
+* [[TP-Link TL-WR1043ND|Firmware:1043nd]]
