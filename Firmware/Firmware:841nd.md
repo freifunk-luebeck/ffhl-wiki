@@ -1,4 +1,4 @@
-# TP-Link WR841nd
+# TP-Link WR841ND
 
 ## Verwendungszweck
 Diese Router sind in erster Linie dazu gedacht, die vorhandene Wolke direkt zu erweitern.
@@ -17,4 +17,4 @@ Durch ihre 2 Antennen bieten sie ein stabileres und schnelleres Funknetzwerk als
 ## Unterstützte Hardwarerevisionen:
 Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision.
 
-* v1.X [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr841nd-v7-squashfs-factory.bin]]
+* v7.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr841nd-v7-squashfs-factory.bin]]
