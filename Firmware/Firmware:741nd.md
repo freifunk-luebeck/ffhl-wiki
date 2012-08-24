@@ -20,6 +20,6 @@ Da bei ihnen nur ein Antennenanschluss vorhanden ist, sind sie die empfohlenen G
 ## Unterstützte Hardwarerevisionen:
 Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision.
 
-* v1.X [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr741nd-v1-squashfs-factory.bin]]
-* v2.X [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr741nd-v2-squashfs-factory.bin]]
-* v4.X [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr741nd-v4-squashfs-factory.bin]]
+* v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr741nd-v1-squashfs-factory.bin]]
+* v2.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr741nd-v2-squashfs-factory.bin]]
+* v4.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3/lff-0.3-ar71xx-generic-tl-wr741nd-v4-squashfs-factory.bin]]
