@@ -3,7 +3,7 @@
 **Dieser Router wird aktuell noch nicht unterstützt.**
 
 ## Verwendungszweck
-Diese Router sollen auf lange Zeit die [[TP-Link 1043nd|Firmware:1043]] ersetzen.
+Diese Router sollen auf lange Zeit die [[TP-Link 1043ND|Firmware:1043nd]] ersetzen.
 
 Durch die gleichzeitig Nutzbarkeit des 2,4GHz- und 5GHz-Netzes ist eine höhere Geschwindigkeit des Funknetzwerkes möglich. Die Vorteile sind in Regionen mit sehr vielen anderen Funknetzwerken am größten, da hier das 2,4GHz-Netz meist überlaufen ist.
 
