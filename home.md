@@ -18,7 +18,9 @@ Alle Fragen werden wir Dir bestimmt auf dieser Seite nicht sofort und ausführli
 Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccchl.de]] in der [[Röhre|http://www.kjhroehre-luebeck.de/]], dem Kinder- & Jugendkulturhaus in der Geraden Querstraße 2.
 
  
- 
+## AKTUELL: 25.08.2012
+Wir erhalten in Kürze eine begrenzte Anzahl fertig konfigurierter Router. Wenn Du Dich am Freifunk beteiligen möchtest, kannst Du gerne ein Gerät für einmalig 20;- € von uns erwerben. Mail unsbitte einfach kurz an :-)
+
  
  
  
