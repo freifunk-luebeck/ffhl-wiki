@@ -11,8 +11,7 @@ Auf der linke Seite findest Du unser Projekt in einzelne Abschnitte aufgeteilt.
 In kurzen Worten aber soviel vorweg:
 Wenn Du ein Freifunksignal findest, so nutze es gerne und informiere Deine Freunde, dass man dort kostenfrei und unzensiert das Freifunknetz nutzen kann.
 Jeder kann mitmachen und die WLAN Wolke weiter vergrößern, indem er sich auch einen Freifunkrouter zu Hause hinstellt. Wenn bereits ein Freifunksignal in Deiner Nähe zu finden ist, so wird sich Dein Router automatisch anonym mit dem vorhandenen Netz verbinden. So kannst Du Freifunk auch bei Dir wesentlich stärker empfangen.
-Wir stellen Dir gerne einen solchen Router zum Testen kostenfrei für einige Zeit zur Verfügung.
-Wenn Du den Router behalten möchtest, so kostet er lediglich den Ladenpreis von einmal 20 ,- Euro. Damit hast Du Deinen eigenen anonymen Freifunkknoten. Und das völlig legal! Du bist nicht für die Nutzung anderer Personen auf Deinem Knoten / Router verantwortlich.
+Wenn Du am Freiuknetz teilnehmen möchtest, so kostet er lediglich den Ladenpreis von einmal 20 ,- Euro. Damit hast Du Deinen eigenen anonymen Freifunkknoten. Und das völlig legal! Du bist nicht für die Nutzung anderer Personen auf Deinem Knoten / Router verantwortlich.
 
 Alle Fragen werden wir Dir bestimmt auf dieser Seite nicht sofort und ausführlich beantworten können. 
 Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccchl.de]] in der [[Röhre|http://www.kjhroehre-luebeck.de/]], dem Kinder- & Jugendkulturhaus in der Geraden Querstraße 2.
