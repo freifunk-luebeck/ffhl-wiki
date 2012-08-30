@@ -18,7 +18,7 @@ Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccch
 
  
 ## AKTUELL: 25.08.2012
-Wir erhalten in Kürze eine begrenzte Anzahl fertig konfigurierter Router. Wenn Du Dich am lübecker Freifunk beteiligen möchtest, kannst Du gerne ein Gerät für einmalig 20;- € von uns erwerben. Mail uns bitte einfach kurz an :-)
+Wir haben derzeit eine begrenzte Anzahl fertig konfigurierter Router. Wenn Du Dich am lübecker Freifunk beteiligen möchtest, kannst Du gerne ein Gerät für einmalig 20;- € von uns erwerben. Mail uns bitte einfach kurz an :-)
 
  
  
