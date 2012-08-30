@@ -64,6 +64,7 @@ Aus dem Freifunknetz:
 | ZOB R           | 53.866346 10.671321 | Fluse017 |TL_WR741ND  | 0.3                   | | b0:48:7a:cb:2c:b8 | ZOB R  |
 | Lanzentrum      | 53.87643 10.65837   | Fluse012 |TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:80 | LAN-Zentrum |
 |  |  | Fluse015 | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:ba | Fluse |
+| Dankwartsgrube | 53.862968 10.682708 | Andre | TL_WR741ND | 0.3 | mit Internetanbindung | f8:d1:11:7b:e4:ca | Andre |
 | Rehsprung, Lübeck         | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
 | Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre | | f8:d1:11:55:9f:9a | Garuda-ZOB |
 | Lübeck ZOB         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 54:e6:fc:98:67:e1 | Garuda-HBF |
