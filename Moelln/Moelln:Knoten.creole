@@ -22,7 +22,7 @@ Aus dem Freifunknetz:
 **Es sollten keine fremden Einträge ohne Erlaubnis des Betreibers bearbeitet werden. Insbesondere dürfen keine GPS-Koordinaten oder Adresse angegeben werden, wenn der Betreiber dies nicht will!**
 
 |=Ort                                 |=GPS                                                         |=Betreiber       |=Router               |=LFF Version   |=Hinweise                  |=MAC                                                        |=Knotenname   |
-| Mölln           |                     | mkm      |TL_WR741ND  | 0.3pre                | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
+| Hauptstraße 86           |                     | mkm      |TL_WR741ND  | 0.3                | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
