@@ -1,7 +1,5 @@
 # Willkommen beim Freifunk in Lübeck
 
-## 
-
 Hallo :-)
 
 Wir freuen uns Dich auf unserer kleinen Webseite ( Wiki ) begrüßen zu dürfen.
@@ -20,11 +18,9 @@ Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccch
 ## AKTUELL: 25.08.2012
 Wir haben derzeit eine begrenzte Anzahl fertig konfigurierter Router. Wenn Du Dich am lübecker Freifunk beteiligen möchtest, kannst Du gerne ein Gerät für einmalig 20;- € von uns erwerben. Mail uns bitte einfach kurz an :-)
 
- 
- 
- 
- 
- 
+
+## Mölln
+In Mölln wird gerade mit Unterstützung der Lübecker Community ein neues Netz aufgebaut. Näheres dazu findet sich im entsprechenden [[Unterpunkt|Moelln]].
  
  
 ## Kontakt
@@ -41,4 +37,4 @@ Blog: [[http://blog.metameute.de/]]
 
 Redmine/Issue Tracker: [[https://projects.universe-factory.net/projects/ffhl]]
 
-Telefon: meute@&zwj;sip.ffhl (meute@&zwj;10.130.0.12) oder 045130504399 und dann 63883#
+Telefon: meute@&zwj;sip.ffhl (meute@&zwj;10.130.0.12) oder 0451/30504399 und dann 63883#
