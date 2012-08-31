@@ -1,0 +1,38 @@
+= Freifunk Knoten
+
+== Karte mit den aktiven Knoten im Raum Lübeck
+
+Diese Karten kannst Du abrufen, wenn Du direkt aus dem Internet auf dieser Seite bist oder Dich im Freifunknetz befindest.
+Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, ob Knoten online sind.
+
+**Aktuell befinden sich in allen Karten noch die Möllner & Lübecker Knoten gemeinsam.**
+
+Aus dem Internet:
+
+ * ([[Stadtkarte|http://188.138.99.158/mesh/geomap.html]])
+ * ([[Interaktiver Graph|http://holstentor.metameute.de/nodes/nodes.html]]) (Code: https://github.com/tcatm/ffmap-d3)
+
+Aus dem Freifunknetz:
+
+ * [[Stadtkarte|http://burgtor.ffhl/mesh/geomap.html]] ([[IP|http://10.130.14.1/mesh/geomap.html]])
+ * [[Interaktiver Graph|http://holstentor.ffhl/nodes/nodes.html]] ([[Extern|http://holstentor.metameute.de/nodes/nodes.html]]) (enthält nur Knoten, die eine aktuelle Beta-Firmware verwenden, Code: https://github.com/tcatm/ffmap-d3)
+
+== Bereits vorhandene Knoten
+
+**Es sollten keine fremden Einträge ohne Erlaubnis des Betreibers bearbeitet werden. Insbesondere dürfen keine GPS-Koordinaten oder Adresse angegeben werden, wenn der Betreiber dies nicht will!**
+
+|=Ort                                 |=GPS                                                         |=Betreiber       |=Router               |=LFF Version   |=Hinweise                  |=MAC                                                        |=Knotenname   |
+| Mölln           |                     | mkm      |TL_WR741ND  | 0.3pre                | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
+=== Umrechnung von GPS Koordinaten
+
+http://rechneronline.de/geo-koordinaten/
+
+== Bereits vorhandene Services
+
+Als Services zähle ich alle Knoten, die keine Router darstellen und eventuell Dienste im Netz anbieten.
+
+|=Name       |=Betreiber/Eigentümer  |=MAC               |=Netzanbindung  |=angebotene Dienste                   |
+
+== Per Zeroconf bekannt gegebene Web-Dienste
+
+http://10.130.0.8:8080/  (nur aus dem Mesh erreichbar)
