@@ -71,6 +71,7 @@ Aus dem Freifunknetz:
 |                 |                     | Peter    | TL-WR741ND | 0.3 | mit Internetanbindung | F8:D1:11:58:18:2E | Peter |
 | wechselnd       |                     | DerDerwish |TL_WR1043ND | 0.3                   | | F4:EC:38:C9:C7:20 | Frank000 |
 | wechselnd       |                     | DerDerwish |TL_WR741ND  | 0.3                   | | F8:D1:11:58:00:3A | Frank001 |
+| Rosenstr., Innenstadt | 53.871580,10.691900 | bo         | TL-WR1043ND  | 0.3                 | mit Internetanbindung | 54:e6:fc:98:5a:2e | kbct |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
