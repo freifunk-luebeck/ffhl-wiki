@@ -19,7 +19,7 @@ Eintrag in diese Liste ist freiwillig. Daher kann es durchaus sein, dass
 du auf mehr als die hier aufgeführten Netzwerke stößt.
 
 ## Knoten
-Auf der [[Knotenseite|Moelln/Knoten]] findet sich eine Übersicht, der aktiven Knoten.
+Auf der [[Knotenseite|Moelln:Knoten]] findet sich eine Übersicht, der aktiven Knoten.
 
 * Hauptstraße, gegenüber vom ehem. Karstadt<br>
   Reichweite: von der Post bis zum ehem. Möllner Grill

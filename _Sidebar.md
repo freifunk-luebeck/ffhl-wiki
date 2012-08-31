@@ -14,8 +14,8 @@
    * [[DNS]]
    * [[Zugang zu anderen Netzen|Peerings]]
    * [[Suchmaschine|Suchmaschine]]
- * [[Moelln]]
-   * [[Aktive Knoten|Moelln/Knoten]]
+ * [[Mölln|Moelln]]
+   * [[Aktive Knoten|Moelln:Knoten]]
  * Technische Details
    * [[Netzwerk]]
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
