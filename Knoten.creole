@@ -70,6 +70,7 @@ Aus dem Freifunknetz:
 | Lübeck ZOB         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 54:e6:fc:98:67:e1 | Garuda-HBF |
 |                 |                     | Peter    | TL-WR741ND | 0.3 | mit Internetanbindung | F8:D1:11:58:18:2E | Peter |
 | wechselnd       |                     | Frank000 |TL_WR1043ND | 0.3                   | | F4:EC:38:C9:C7:20 | Frank000 |
+| wechselnd       |                     | Frank001 |TL_WR741ND  | 0.3                   | | F8:D1:11:58:00:3A | Frank001 |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
