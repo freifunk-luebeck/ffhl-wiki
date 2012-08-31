@@ -3,16 +3,13 @@ Alle Interessierten sollen diese Seiten bei den ersten Schritten in unserem Netz
 
 ## Schnelleinstieg
 Um sich nur als Nutzer im Netzwerk zu befinden, reicht es, wenn eine Verbindung mit einem Knoten in der Nähe hergestellt wird.
-Dafür einfach in das W-Lan ''luebeck.freifunk.net'' einwählen und schon geht's los. Jeder Router strahlt dieses aus.
+Dafür einfach in das passende W-Lan einwählen und los geht's. Dabei strahlt jeder ROuter ein Netz mit der ID ''http://luebeck.freifunk.net'' oder ''luebeck.freifunk.net (5GHz)'' aus. Zugangsdaten werden nicht benötigt.
 
 ## Der eigene Knoten
 Nach einiger Zeit oder wenn es keinen Knoten in der Nähe gibt, kommt vielleicht der Wunsch auf, einen eigenen Knoten aufzustellen. Das ist recht leicht möglich.
 Zunächst braucht man einen W-Lan-Router, der von unserer Firmware unterstützt wird. Auf diesen spielt man dann unsere Firmware auf. Nach ein paar Minuten ist es so weit und der eigene Knoten ist einsatzbereit.
-Folgende Modelle werden aktuell unterstützt:
 
- * [[TP-Link 1043ND|Einstieg:TP-Link 1043ND]] (Standardgerät & besonders geeignet für Knoten mit VPN-Anbindung)
- * [[TP-Link 741|Einstieg:TP-Link 741]] (Standardgerät & besonders zum Erweitern der lokalen Wolke geeignet)
- * [[Dir300:Einstieg:Dir 300]] (Auslaufmodell & wird nur noch unterstützt, da noch einige davon im Einsatz sind)
+Nähere Informationen befinden sich auf [[dieser Seite|Router]].
 
 ## Smartphones
 Smartphones mit W-Lan können sich einfach, wie oben erwähnt, in einen nahen Knoten einwählen.
