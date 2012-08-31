@@ -62,6 +62,7 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 |  10.130.0.34 | Blubbbel (Garten)             |                |
 |  10.130.0.35 | Silber1                       |                |
 |  10.130.0.36 | nutch                         | nutch.ffhl     |
+|  10.130.0.37 | bo                            |                |
 |  10.130.0.42 | NasBox                        | nasbox.ffhl    |
 |  10.130.0.64 | magu Server                   | cic.ffhl       |
 |  10.130.1.46 | Georg (Pirat)                 |                |
@@ -73,6 +74,7 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 |=Subnetz         |=IP Bereich |=Beschreibung            |
 | 10.130.16.0/24  | 1..254     |Client-VPN auf Burgtor   |
 | 10.130.17.0/24  | 1..254     |L2TP-Client-VPN auf Chip |
+| 10.130.121.0/27 | 1..30      |bo                       |
 | 10.130.122.0/27 | 1..30      |Magu Network             |
 | 10.130.123.0/24 | 1..254     |Meutekeller              |
 | 10.130.124.0/27 | 1..30      |Netz von Martin & Ida    |
