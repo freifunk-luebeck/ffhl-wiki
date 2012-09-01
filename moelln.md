@@ -8,7 +8,7 @@ einer Begrüßung/Einführung auch unsere Kontaktinformationen.
 ## Organisation
 Das Möllner Freifunk-Netz wird von der Lübecker Freifunk-Gruppe betreut.
 Dies umfasst die speziell zu Freifunkzwecken angepasste Software für die
-WLAN-Router sowie die für den Betrieb benötige Netzwerkinfrastruktur.
+WLAN-Router sowie die für den Betrieb benötigte Netzwerkinfrastruktur.
 Somit ist das Möllner Freifunk-Netz technisch weitesgehend identisch mit
 dem in Lübeck.
 
