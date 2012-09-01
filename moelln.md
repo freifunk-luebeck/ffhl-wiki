@@ -12,14 +12,6 @@ WLAN-Router sowie die für den Betrieb benötige Netzwerkinfrastruktur.
 Somit ist das Möllner Freifunk-Netz technisch weitesgehend identisch mit
 dem in Lübeck.
 
-## Bestehende Freifunk-Netze
-Es wird zukünftig eine Karte geben, auf der die Positionen der Möllner
-Freifunk-Router eingetragen sind. Bis dahin gibt es hier eine Liste. Der
-Eintrag in diese Liste ist freiwillig. Daher kann es durchaus sein, dass
-du auf mehr als die hier aufgeführten Netzwerke stößt.
-
 ## Knoten
-Auf der [[Knotenseite|Moelln:Knoten]] findet sich eine Übersicht, der aktiven Knoten.
-
-* Hauptstraße, gegenüber vom ehem. Karstadt<br>
-  Reichweite: von der Post bis zum ehem. Möllner Grill
+Auf der [[Knotenseite|Moelln:Knoten]] findet sich eine Übersicht der aktiven Router.
+Es wird dort zukünftig eine Karte geben, auf der die Positionen der Möllner Freifunk-Router eingetragen sind. Aktuell sind die Möllner Knoten technisch gesehen jedoch noch Teil des Lübecker Freifunk-Netzes. Daher befinden sich in allen Karten noch die Möllner & Lübecker Knoten gemeinsam. Bis Mölln eine eigene Karte hat, gibt es auf der [[Knotenseite|Moelln:Knoten]] aber bereits eine Liste der Möllner Freifunk-Router. Der Eintrag in diese Liste ist freiwillig. Daher kann es durchaus sein, dass du auf mehr als die dort aufgeführten Netzwerke stößt.
