@@ -66,9 +66,12 @@ Aus dem Freifunknetz:
 | Lanzentrum      | 53.87643 10.65837   | Fluse012 |TL-WR1043ND | 0.3                   | | 56:e6:fc:b0:43:80 | LAN-Zentrum |
 | Hanseatic 1     | 53.865151 10.670697 | Fluse027 |TL_WR741ND | 0.3 | mit Internetanbindung | F8:d1:11:7b:e4:de | Hanseatic 1 |
 | Hanseatic 2     | 53.865157 10.6709   | Fluse020 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:de:58 | Hanseatic 2 |
-| Hanseatic 3     | 53.86516 10.670615   | Fluse024 |TL_WR741ND | 0.3 |                       | fa:d1:11:7c:e3:02 | Hanseatic 3 |
-| Hanseatic 4     | 53.865119 10.670505   | Fluse023 |TL_WR741ND | 0.3 |                       | fa:d1:11:7c:e4:f0 | Hanseatic 4 |
-|  |  | Fluse015 | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:b0:43:ba | Fluse |
+| Hanseatic 3     | 53.86516 10.670615  | Fluse024 |TL_WR741ND | 0.3 |                       | fa:d1:11:7c:e3:02 | Hanseatic 3 |
+| Hanseatic 4     | 53.865119 10.670505 | Fluse023 |TL_WR741ND | 0.3 |                       | fa:d1:11:7c:e4:f0 | Hanseatic 4 |
+| Königspassage   | 53.86728 10.688387  | Fluse022 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:28 | E-Zig |
+| Königspassage   | 53.867398 10.68891  | Fluse023 |TL_WR741ND | 0.3 |                       | fa:d1:11:7c:e4:f0 | Cafe Moment |
+| Königspassa     | 53.866792 10.688535 | Fluse021 |TL_WR741ND | 0.3 |                       | F8:d1:11:7b:e5:2c | China |
+|                 |                     | Fluse015 | TL-WR1043ND | 0.3 | mit Internetanbindung | 56:e6:fc:b0:43:ba | Fluse |
 | Dankwartsgrube | 53.862968 10.682708 | Andre | TL_WR741ND | 0.3 | mit Internetanbindung | f8:d1:11:7b:e4:ca | Andre |
 | Rehsprung, Lübeck         | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
 | Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre | | f8:d1:11:55:9f:9a | Garuda-ZOB |
