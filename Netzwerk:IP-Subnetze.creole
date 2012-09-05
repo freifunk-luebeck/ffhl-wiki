@@ -33,7 +33,11 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 
 Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange uns nicht die /24 ausgehen. Ist das /27 voll, kann man dann problemlos auf ein /26 oder /25 aufstocken, sodass keine übermäßige Fragmentierung der Adress-Bereiche entsteht.
 
-== Reservierte, Statische Mesh-IP-Adressen
+== Reservierte, statische Mesh-IP-Adressen
+
+Einzelne Adressen kann jeder selbst für sich reservieren. Es ist zu empfehlen, einmal per Ping zu testen, ob eine Adresse wirklich frei ist.
+
+Mögliche Adressen: 10.130.0.1 bis 10.130.2.254
 
 |=IP-Adresse   |=Notizen                       |=Hostname       |
 |   10.130.0.1 | dn42 gateway                  | aftermath.ffhl |
@@ -73,6 +77,8 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 
 Vergabe von 10.130.127.0 abwärts, alles ab 10.130.128.0 muss frei bleiben!
 
+Die Reservierung eines solchen Netzes sollte mit anderen Freifunkern abgesprochen werden.
+
 |=Subnetz         |=IP Bereich |=Beschreibung            |
 | 10.130.16.0/24  | 1..254     |Client-VPN auf Burgtor   |
 | 10.130.17.0/24  | 1..254     |L2TP-Client-VPN auf Chip |
@@ -88,6 +94,8 @@ Vergabe von 10.130.127.0 abwärts, alles ab 10.130.128.0 muss frei bleiben!
 
 
 == 10.130.16.0/24
+
+Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
 
 |=IP-Adresse   |=Notizen                       |=Hostname        |
 | 10.130.16.1  |                               | Burgtor         |
