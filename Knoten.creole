@@ -39,8 +39,8 @@ Aus dem Freifunknetz:
 | Rübenkoppel, Brandenbaum  | 53.856122 10.721074 | Groeni    | TL-WR1043ND | 0.3pre | Verteiler / Richtfunk | 56:e6:fc:98:58:f3 | Rübe 2 |
 | 23556 Lübeck              | 53.867605 10.656458 | Mizu      | TL-WR1043ND | 0.3pre | mit Internetanbindung | fa:d1:11:25:95:58 | mizu-AP |
 | Bürgerweide               | 53.842003 10.704269 | jix & Laeila | TL-WR1043ND | 0.3pre | Internetanbindung  | 92:f6:52:3f:b9:26 | kyubey |
-| Ratzeburger Allee |  | Jozu | TL-WR741ND | 0.3pre | Internetanbindung | b2:48:7a:cc:27:6c | Yoshi |
-| St. Jürgen |  | Kaspar | TL-WR1043ND | 0.3pre | Internetanbindung | b2:48:7a:a1:16:de | Yangshuo |
+| Ratzeburger Allee         |  | Jozu | TL-WR741ND | 0.3pre | Internetanbindung | b2:48:7a:cc:27:6c | Yoshi |
+| St. Jürgen                |  | Kaspar | TL-WR1043ND | 0.3pre | Internetanbindung | b2:48:7a:a1:16:de | Yangshuo |
 | Hansestraße, Ecke Wendische | 53.861241 10.662248 | Pascal | TL-WR741ND | 0.3pre | mit Internetanbindung | b2:48:7a:cb:26:8c | Banane |
 | Hansestraße, Ecke Wendische | 53.861161 10.662335 | Pascal | TL-WDR3600 | 0.3no | mit Internetanbindung | 64:70:02:92:51:b4 | Birne |
 |                            | 53.84598 10.70838 |        | TL-WR1043ND | 0.3pre | mit Internetanbindung | b2:48:7a:df:20:fa | Rapture |
@@ -60,7 +60,7 @@ Aus dem Freifunknetz:
 |                 | 53.867266 10.671742 | Fluse010 |TL_WR741ND  | 0.3                   | | f8:d1:11:7e:2a:d8 | HanseDiner 2 |
 |                 | 53.895523 10.65213  | Fluse018 |TL_WR841ND  | 0.3                   | | 64:70:02:91:53:5a | Fluse3600 |
 | Stockelsdorf    | 53.895625 10.652161 | Fluse019 |TL_3600     | 0.3                   | | 90:f6:52:b1:95:1c | Fluse841nd |
-|                 | 53.902516 10.669674 | Fluse011 |TL_WR741ND  | 0.3                   | | f8:d1:11:55:9f:86 | Kinder |
+| Stockelsdorf    | 53.902516 10.669674 | Fluse011 |TL_WR741ND  | 0.3                   | | f8:d1:11:55:9f:86 | Kinder |
 |                 | 53.867027 10.672108 | Fluse016 |TL_WR741ND  | 0.3                   | | f8:d1:11:55:9b:e4 | TimeOut |
 | ZOB R           | 53.866346 10.671321 | Fluse017 |TL_WR741ND  | 0.3                   | | b0:48:7a:cb:2c:b8 | ZOB R  |
 | Lanzentrum      | 53.87643 10.65837   | Fluse012 |TL-WR1043ND | 0.3                   | | 56:e6:fc:b0:43:80 | LAN-Zentrum |
