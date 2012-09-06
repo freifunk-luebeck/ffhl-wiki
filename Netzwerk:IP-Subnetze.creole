@@ -38,6 +38,7 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 Einzelne Adressen kann jeder selbst für sich reservieren. Es ist zu empfehlen, einmal per Ping zu testen, ob eine Adresse wirklich frei ist.
 
 Mögliche Adressen: 10.130.0.1 bis 10.130.2.254
+Netmask: 255.255.240.0 (/20)
 
 |=IP-Adresse   |=Notizen                       |=Hostname       |
 |   10.130.0.1 | dn42 gateway                  | aftermath.ffhl |
