@@ -16,6 +16,7 @@ Da bei ihnen nur ein Antennenanschluss vorhanden ist, sind sie die empfohlenen G
 * 1 Antennenanschluss
 * kein USB-Anschluss
 * 9V-Stromanschluss
+* 50mW Sendeleistung (2,4 GHz)
 
 ## Unterstützte Hardwarerevisionen:
 Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision.
