@@ -13,6 +13,7 @@ Da der USB-Port im System nutzbar ist und noch ca. 3MB Flash frei ist, ist es m�
 * 3 Antennenanschlüsse
 * 1 USB-Anschluss
 * 12V-Stromanschluss
+* 100mW Sendeleistung (2,4 GHz)
 
 ## Unterstützte Hardwarerevisionen:
 Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision.
