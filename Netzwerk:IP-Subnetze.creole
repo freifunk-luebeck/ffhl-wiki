@@ -23,7 +23,7 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 |=Name       |=Gateway     |=DHCP(Range)         |=DNS  |=batman-adv GW server  |=Status  |
 | holstentor | 10.130.15.1 | ja (10.130.15.0/24 + 10.130.13.0/24) | ja   | ja | aktiv   |
 | burgtor    | 10.130.14.1 | ja (10.130.14.0/24 + 10.130.12.0/24) | ja   | ja | aktiv   |
-| muehlentor | 10.130.10.1 | ja (10.130.10.0/23) | ja   | nein | im Aufbau   |
+| muehlentor | 10.130.10.1 | ja (10.130.10.0/23) | ja   | ja | aktiv   |
 
 == Reservierte Subnetze des Mesh-Netzes
 
