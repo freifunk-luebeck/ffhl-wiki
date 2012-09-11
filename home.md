@@ -1,7 +1,5 @@
 # Willkommen beim Freifunk in Lübeck
 
-Hallo :-)
-
 Wir freuen uns Dich auf unserer kleinen Webseite ( Wiki ) begrüßen zu dürfen.
 Vermutlich bist Du auf uns durch ein WLAN Signal mit dem Namen luebeck.freifunk.net aufmerksam geworden, oder einer Deiner Freunde kennt uns bereits und hat Dich hierher gelenkt.
 
