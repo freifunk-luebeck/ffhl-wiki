@@ -28,7 +28,7 @@ Aus dem Freifunknetz:
 | 23560 Lübeck                        | 53.838783 10.639233                                         | Groeni           | TL-WR1043ND          | 0.3pre        |                           | 54:e6:fc:b0:1a:7e                                          | Groeni       |
 | 23562 Lübeck                        | 53.85038 10.69014                                           | Eichi        | TL-WR1043ND          | 0.3pre        | mit Internetanbindung     | 56:e6:fc:99:64:9c                                          | Odin |
 | Rübenkoppel, Eichholz               | 53.858067 10.723117                                         | Eichi           | TL-WR1043ND           | 0.3pre       | im Aufbau                  | f6:ec:38:e9:73:91                                          | Gilgameš     |
-| Poggenpohl                |                     | Kai       | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:98:58:aa | Pupswindel |
+| Poggenpohl                |                     | Kai       | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:98:58:aa | Mr.Pupswindel |
 | St. Lorenz Süd            | 53.8595 10.6563     | Alex      | TL-WR1043ND | 0.3pre | mit Internetanbindung | b2:48:7a:9a:d8:ce, b2:48:7a:99:d8:d0 | techem |
 |                           | 53.871641 10.716619 | Nils      | TL-WR1043ND | 0.3pre | nur manchmal Internet | 76:ea:3a:be:22:40 | tcatm |
 | Röntgenstraße, 23562 HL   | 53.846658 10.68926  | 7jM       | TL-WR1043ND | 0.3pre | mit Internetanbindung | FA:D1:11:25:9D:A2 | 7jM-1043 |
