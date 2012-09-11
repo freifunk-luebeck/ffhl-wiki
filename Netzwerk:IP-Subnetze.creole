@@ -72,8 +72,7 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.42 | NasBox                        | nasbox.ffhl    |
 |  10.130.0.64 | magu Server                   | cic.ffhl       |
 |  10.130.1.46 | Georg (Pirat)                 |                |
-| 10.130.2.127 | Avahi: Linus-Debian.local     |                |
-| 10.130.2.128 |                               |                |
+| 10.130.2.0/24  | Fluse Knoten     |                |
 
 == Andere reservierte Subnetze
 
