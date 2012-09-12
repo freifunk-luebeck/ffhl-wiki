@@ -31,7 +31,7 @@ Aus dem Freifunknetz:
 | Poggenpohl                |                     | Kai       | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:98:58:aa | Mr.Pupswindel |
 | St. Lorenz Süd            | 53.8595 10.6563     | Alex      | TL-WR1043ND | 0.3pre | mit Internetanbindung | b2:48:7a:9a:d8:ce, b2:48:7a:99:d8:d0 | techem |
 |                           | 53.871641 10.716619 | Nils      | TL-WR1043ND | 0.3pre | nur manchmal Internet | 76:ea:3a:be:22:40 | tcatm |
-| Röntgenstraße | 53.846658 10.68926  | 7jM       | TL-WR1043ND | 0.3 | mit Internetanbindung | FA:D1:11:25:9D:A2 | Birke |
+| Röntgenstraße | 53.846658 10.68926  | 7jM       | TL-WR1043ND | 0.3 | mit Internetanbindung | f8:d1:11:24:9d:a2 | Birke |
 | Ratzeburger Allee         | 53.846141 10.707231 | NeoRaider | TL-WR1043ND | custom/0.3pre | mit Internet   | f8:d1:11:7f:41:d4 | confusion |
 | Ratzeburger Allee         | 53.846169 10.707274 | NeoRaider | TL-WR741ND  | 0.3 |                       | f8:d1:11:30:1b:e2 | sweetmorn |
 | Ratzeburger Allee         | 53.846064 10.707203 | NeoRaider | TL-WR741ND  | 0.3 |                       | f8:d1:11:37:fc:38 | boomtime |
