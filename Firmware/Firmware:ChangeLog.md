@@ -2,6 +2,7 @@
 
 ## v0.3 (Release 2012-08-22)
 
+* Aktueller OpenWRT Attitude Adjustment Trunk als Grundlage der Firmware
 * Vollständige Überarbeitung der Netz-Topologie, neues Mesh-VPN
 * Config Mode zur initialen Konfiguration des Nodes
 * Unterstützte Geräte:
