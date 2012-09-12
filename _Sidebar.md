@@ -21,7 +21,7 @@
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
      * [[Mesh-VPN]]
    * [[Firmware|Firmware:Changelog]]
-     * [[Individuelle Firmware|Firmware]]
+     * [[Individuelle Firmware|Firmware:Individuell]]
    * [[Lübeck-Freifunk-Router|Router]]
      * [[TP-Link WR741ND|Firmware:741nd]]
      * [[TP-Link WR841ND|Firmware:841nd]]
