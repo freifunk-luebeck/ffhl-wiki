@@ -4,6 +4,7 @@
 
 * Aktueller OpenWRT Attitude Adjustment Trunk als Grundlage der Firmware
 * Vollständige Überarbeitung der Netz-Topologie, neues Mesh-VPN
+* Die Bandbreite, die für VPN-Verbindungen genutzt wird, kann beschränkt werden
 * Config Mode zur initialen Konfiguration des Nodes
 * Unterstützte Geräte:
  * [[TP-Link TL-WR741ND|Firmware:741nd]]
