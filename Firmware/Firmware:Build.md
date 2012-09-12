@@ -1,37 +1,41 @@
 # Lübeck Freifunk Firmware Repository Checkout/Build
 
-## Build instructions - v0.3 development version
+## Build instructions - v0.4.x development version
 
-Da diese Version noch in Entwicklung ist, kann sie noch problematische Bugs enthalten.
+Die Entwicklung der Firmware v0.4 ist noch in der Planungsphase, es existiert noch kein benutzbarer Code.
+
+## Build instructions - v0.3.x development version
+
+Da diese Version in Entwicklung ist, kann sie möglicherweise problematische Bugs enthalten.
 
     # für 741nd
-    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git
+    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b v0.3.x
     # für 1043nd
-    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b tl-wr-1043nd
+    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b v0.3.x-tl-wr1043nd
 
     cd firmware
     scripts/feeds update -a
     scripts/feeds install -a
     make
 
-## Build instructions - v0.2.1 release version
+## Build instructions - v0.3 release version
 
-Diese Version ist obsolet und sollte nicht mehr verwendet werden.
+Diese Version ist das aktuelle Release und sollte normalerweise verwendet werden.
 
-    git clone --recursive http://www.metameute.de/git/lff.git
-    cd lff
-    git checkout lff-v0.2.1
+    # für 741nd
+    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b v0.3
+    # für 841nd
+    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b v0.3-tl-wr841nd
+    # für 1043nd
+    git clone git://krtek.asta.uni-luebeck.de/lff/firmware.git -b v0.3-tl-wr1043nd
+
+    cd firmware
+    scripts/feeds update -a
     scripts/feeds install -a
-    scripts/env switch lff-dlink-dir300-v0.2.1
     make
 
-Or substitute `lff-dlink-dir300` with any other available profile branch in LFF-Profiles.
+## Webseiten der verwendeten Repositories
 
-## Web pages of various (sub-)repositories
-
- * http://git.metameute.de/LuebeckFreifunkFirmware/
- * http://git.metameute.de/LFF-Packages/
- * http://git.metameute.de/LFF-Profiles/
- * http://git.metameute.de/LFF-Info/
-
-[[Firmware:Repository-Design-Concept]]
+ * http://git.metameute.de/lff/firmware/
+ * http://git.metameute.de/lff/pkg_config_mode/
+ * http://git.metameute.de/lff/pkg_fastd/
