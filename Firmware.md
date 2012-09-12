@@ -14,19 +14,6 @@ Download: [[http://metameute.de/~freifunk/firmware/0.3/]]
 
 Aktuelle Version: v0.3 ([[Firmware:ChangeLog]])
 
-## Unterstützte Router Modelle
-
- * [[Dlink DIR-300 rev. A|http://wiki.openwrt.org/toh/d-link/dir-300]] (Profil: lff-dlink-dir300)
- * [[TP-Link TL-WR1043ND|http://wiki.openwrt.org/toh/tp-link/tl-wr1043nd]] (Profil: lff-tl-wr1043nd)
- * [[TP-Link TL-WR741ND|http://wiki.openwrt.org/toh/tp-link/tl-wr741nd]] (Profil: lff-tl-wr741nd)
-
-### Teilweise
- * [[Fonera2|http://wiki.openwrt.org/toh/fon/fonera2]] (Profil: lff-dlink-dir300)
-
-### Mit Eigenaufwand
- * Siehe [[OpenWRT - Supported Devices|http://wiki.openwrt.org/toh/start]]
-
-
 ----
 
 [[Firmware:Roadmap]]
