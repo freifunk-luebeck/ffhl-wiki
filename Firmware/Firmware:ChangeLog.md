@@ -6,9 +6,9 @@
 * Config Mode zur initialen Konfiguration des Nodes
 * Unterstützte Geräte:
 
-** [[TP-Link TL-WR741ND|Firmware:741nd]]
-** [[TP-Link TL-WR841ND|Firmware:841nd]]
-** [[TP-Link TL-WR1043ND|Firmware:1043nd]]
+ * [[TP-Link TL-WR741ND|Firmware:741nd]]
+ * [[TP-Link TL-WR841ND|Firmware:841nd]]
+ * [[TP-Link TL-WR1043ND|Firmware:1043nd]]
 
 ## v0.2.1
 
