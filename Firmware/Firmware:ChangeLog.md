@@ -1,5 +1,14 @@
 # ChangeLog
 
+## v0.3 (Release 2012-08-22)
+
+* Vollständige Überarbeitung der Netz-Topologie, neues Mesh-VPN
+* Config Mode zur initialen Konfiguration des Nodes
+* Unterstützte Geräte:
+** [[TP-Link TL-WR741ND|Firmware:741nd]]
+** [[TP-Link TL-WR841ND|Firmware:841nd]]
+** [[TP-Link TL-WR1043ND|Firmware:1043nd]]
+
 ## v0.2.1
 
  * Einige neue VPN (intracity) Zugänge. Sollte die Internetzugänge zum Lübeck Freifunk Netz entlasten.
