@@ -75,7 +75,7 @@ Aus dem Freifunknetz:
 | Königspassage   | 53.86703 10.688718  | Fluse028 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:36 | Eis |
 |                 | 53.869929 10.663736 | Fluse031 |TL_WR741ND  | 0.3|                       | f8:d1:11:58:28:e7 | Candys |
 |                 | 53.866417 10.670609 | Fluse032 |TL_WR741ND  | 0.3|                       | b0:48:7a:cb:1f:97 | CoCo 2a |
-| Dankwartsgrube  | 53.862968 10.682708 | Andre    | TL_WR741ND | 0.3 | mit Internetanbindung | f8:d1:11:7b:e4:ca | Andre |
+| Dankwartsgrube  | 53.862968 10.682708 | Andre    | TL_WR741ND | 0.3 | mit Internetanbindung | f8:d1:11:7b:e4:ca | 9to5 |
 | Rehsprung, Lübeck         | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
 | Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre | | f8:d1:11:55:9f:9a | Garuda-ZOB |
 | Lübeck ZOB         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 54:e6:fc:98:67:e1 | Garuda-HBF |
