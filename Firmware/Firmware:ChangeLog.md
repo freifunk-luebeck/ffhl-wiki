@@ -10,6 +10,8 @@
  * [[TP-Link TL-WR841ND|Firmware:841nd]]
  * [[TP-Link TL-WR1043ND|Firmware:1043nd]]
 
+Download: [[http://metameute.de/~freifunk/firmware/0.3/]]
+
 ## v0.2.1
 
  * Einige neue VPN (intracity) Zugänge. Sollte die Internetzugänge zum Lübeck Freifunk Netz entlasten.
