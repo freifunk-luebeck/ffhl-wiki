@@ -12,7 +12,7 @@ Wer bei Freifunk Lübeck mitmeshen will, dem steht grundsätzlich frei entweder 
 
 Download: [[https://krtek.metameute.de/~tux/Freifunk/lff/]]
 
-Aktuelle Version: v0.2.1 ([[Firmware:ChangeLog]])
+Aktuelle Version: v0.3 ([[Firmware:ChangeLog]])
 
 ## Unterstützte Router Modelle
 
