@@ -77,6 +77,9 @@ Aus dem Freifunknetz:
 |                 | 53.869929 10.663736 | Fluse031 |TL_WR741ND | 0.3|                        | f8:d1:11:58:28:e7 | Candys |
 |                 | 53.866417 10.670609 | Fluse032 |TL_WR741ND | 0.3|                        | b0:48:7a:cb:1f:97 | CoCo 2a |
 |                 |                     | Fluse033 |TL_WR741ND | 0.3|                        | B0:48:7A:CB:1F:B8 | Fluse033 |
+|                 |                     | Fluse034 |TL_WR741ND | 0.3|                        | Bo:48:7a:cb:1f:90 | Fluse034 |
+|                 |                     | Fluse035 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fa | Fluse035 |
+|                 |                     | Fluse036 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:be | Fluse036 |
 | Dankwartsgrube  | 53.862968 10.682708 | Andre    | TL_WR741ND| 0.3 | mit Internetanbindung | f8:d1:11:7b:e4:ca | 9to5 |
 | Rehsprung, Lübeck         | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
 | Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre | | f8:d1:11:55:9f:9a | Garuda-ZOB |
