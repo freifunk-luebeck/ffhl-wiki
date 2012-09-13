@@ -15,7 +15,7 @@ Durch die gleichzeitige Nutzbarkeit des 2,4GHz- und 5GHz-Netzes ist eine höhere
 * 2 USB-Anschlüsse
 * 12V-Stromanschluss
 * 100mW Sendeleistung (2,4 GHz)
-* 31mW Sendeleistung (5 GHz)
+*  31mW Sendeleistung (5 GHz)
 
 ## Unterstützte Hardwarerevisionen:
 * v1.x ist in Erprobung
