@@ -6,6 +6,7 @@
  * [[Material]]
    * [[Grafiken]]
    * [[Texte]]
+   * [[Pressebeiträge|Pressebeitraege]]
  * [[Aktive Knoten|Knoten]]
    * [[mobiler Knoten|mobilerKnoten]]
  * [[Dienste im Netz|Freifunk verwenden]]
