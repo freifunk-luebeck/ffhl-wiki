@@ -15,7 +15,8 @@ Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccch
 
  
 ## AKTUELL: 
-
+Wir hatten glücklicherweise die Möglichkeit für eine Radio-Sendung im [[OKL|http://www.okluebeck.de/]] machen zu können.
+Hier befindet sich eine Aufnahme der Sendung: 
 <audio controls="controls">
   <source src="http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.opus" type="audio/ogg" />
   Your browser does not support the audio tag.
