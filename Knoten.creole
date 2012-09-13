@@ -7,8 +7,8 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 
 Aus dem Internet:
 
- * ([[Stadtkarte|http://188.138.99.158/mesh/geomap.html]])
- * ([[Interaktiver Graph|http://holstentor.metameute.de/nodes/nodes.html]]) (Code: https://github.com/tcatm/ffmap-d3)
+ * [[Stadtkarte|http://188.138.99.158/mesh/geomap.html]]
+ * [[Interaktiver Graph|http://holstentor.metameute.de/nodes/nodes.html]] (Code: https://github.com/tcatm/ffmap-d3)
 
 Aus dem Freifunknetz:
 
