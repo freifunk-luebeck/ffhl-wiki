@@ -7,7 +7,7 @@ Geht man heute durch Lübeck, und hat den Laptop oder das Handy dabei, findet ma
 ## Freifunk
 
 ### Idee und Funktionsweise
-An geeigneten Orten werden einige WLAN-Router mit veränderter Software (der sog. "Firmware") aufgestellt. Diese Geräte werden Knoten bezeichnet, nehmen sich untereinander wahr und spannen ein gemeinsames Netz auf. In dieses Netz können sich auch Endgeräte (wie Notebooks, PCs, Smartphones, etc.) einwählen und es dann kostenlos zum Datenaustausch nutzen.
+An geeigneten Orten werden einige WLAN-Router mit veränderter Software (der sog. "Firmware") aufgestellt. Diese Geräte werden als Knoten bezeichnet, nehmen sich untereinander wahr und spannen ein gemeinsames Netz auf. In dieses Netz können sich auch Endgeräte (wie Notebooks, PCs, Smartphones, etc.) einwählen und es dann kostenlos zum Datenaustausch nutzen.
 Die Knotenbetreiber stellen damit eine Möglichkeit des Datentransportes für jeden in der Nähe zur Verfügung. Da sich die Knoten untereinander sehen, reicht die Erreichbarkeit eines Zugangspunktes zum Netz aus, um alle Dienste zu nutzen.
 
 ### Vision und Hintergründe
