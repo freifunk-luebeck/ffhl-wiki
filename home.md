@@ -15,6 +15,12 @@ Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccch
 
  
 ## AKTUELL: 
+
+<audio controls="controls">
+  <source src="http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.opus" type="audio/ogg" />
+  Your browser does not support the audio tag.
+</audio> 
+
 Wir haben wieder eine begrenzte Anzahl fertig konfigurierter Router. Wenn Du Dich am lübecker Freifunk beteiligen möchtest, kannst Du gerne ein Gerät für einmalig 20;- € von uns erwerben. Mail uns bitte einfach kurz an :-)
 
 Beonders interessant für Gastronomiebetriebe und Hotels. Mit dem Freifunkrouter können die Gäse frei im Netz surfen, ohne das der Betreiber sich durch die mißbräuchliche Nutzung des Internets von einem Gast haftbar macht. (Störerhaftung)
