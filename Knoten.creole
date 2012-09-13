@@ -52,7 +52,7 @@ Aus dem Freifunknetz:
 |                 | 53.895581 10.652755 | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7e:57:76 | Christopher |
 | ZOB RU          | 53.866414 10.671173 | Fluse003/Abdi |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | ZOB RU |
 |                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Prians |
-|                 | 53.866401 10.670819 | Fluse006 |TL_WR741ND  | 0.3                   | | f8:d1:11:7e:0b:65 | CoCo 2b |
+| defekt. nocvh im switchmode           |  | Fluse006 |TL_WR741ND  | 0.3                   | | f8:d1:11:7e:0b:65 |  |
 | ZOB LU          | 53.866408 10.671088 | Fluse007 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2c:76 | ZOB LU   |
 | ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:58:0c | ZOB L    |
 |                 |                     | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
@@ -77,7 +77,7 @@ Aus dem Freifunknetz:
 |                 | 53.869929 10.663736 | Fluse031 |TL_WR741ND | 0.3|                        | f8:d1:11:58:28:e7 | Candys |
 |                 | 53.866417 10.670609 | Fluse032 |TL_WR741ND | 0.3|                        | b0:48:7a:cb:1f:97 | CoCo 2a |
 |                 |                     | Fluse033 |TL_WR741ND | 0.3|                        | B0:48:7A:CB:1F:B8 | Fluse033 |
-|                 |                     | Fluse034 |TL_WR741ND | 0.3|                        | Bo:48:7a:cb:1f:90 | Fluse034 |
+|                 | 53.866401 10.670819 | Fluse034 |TL_WR741ND | 0.3|  Uplink                | Bo:48:7a:cb:1f:90 | CoCo 2b  |
 |                 |                     | Fluse035 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fa | Fluse035 |
 |                 |                     | Fluse037 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:d0 | Fluse037 |
 |                 |                     | Fluse038 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:12:9c | Fluse038 |
