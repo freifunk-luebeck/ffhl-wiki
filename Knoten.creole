@@ -79,8 +79,8 @@ Aus dem Freifunknetz:
 |                 |                     | Fluse033 |TL_WR741ND | 0.3|                        | B0:48:7A:CB:1F:B8 | Fluse033 |
 |                 |                     | Fluse034 |TL_WR741ND | 0.3|                        | Bo:48:7a:cb:1f:90 | Fluse034 |
 |                 |                     | Fluse035 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fa | Fluse035 |
-|                 |                     | Fluse036 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:be | Fluse036 |
-|                 |                     | Fluse037 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:d0 | Fluse037 |
+|                 |                     | 
+Fluse037 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:d0 | Fluse037 |
 |                 |                     | Fluse038 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:12:9c | Fluse038 |
 |                 |                     | Fluse039 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:2e | Fluse039 |
 |                 |                     | Fluse040 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fc | Fluse040 |
