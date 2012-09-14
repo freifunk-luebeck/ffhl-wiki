@@ -50,6 +50,7 @@ Bei manchen Clients muss noch @&zwj;sip.ffhl angefügt werden.
  * ak-mobil
  * derderwish
  * neoraider
+ * berik (Handy)
 
 ### Vanity Nummern
 
