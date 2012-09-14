@@ -81,7 +81,7 @@ Aus dem Freifunknetz:
 |                 |                     | Fluse035 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fa | Fluse035 |
 |                 |                     | Fluse037 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:d0 | Fluse037 |
 |                 |                     | Fluse038 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:12:9c | Fluse038 |
-|                 | 53.867587 10.689464 | Fluse039 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:2e | Fluse039 |
+| König. Werkstatt| 53.867587 10.689464 | Fluse039 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:2e | Fluse039 |
 | König. Görtz    | 53.867306 10.689003 | Fluse040 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fc | Fluse040 |
 |                 |                     | Fluse041 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:20 | Fluse041 |
 |                 |                     | Fluse042 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:c0 | Fluse042 |
