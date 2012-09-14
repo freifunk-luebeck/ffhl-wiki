@@ -65,8 +65,8 @@ Aus dem Freifunknetz:
 | Lanzentrum      | 53.87643 10.65837   | Fluse012 |TL-WR1043ND | 0.3                   | | 56:e6:fc:b0:43:80 | LAN-Zentrum |
 |                 |                     | Fluse015 | TL-WR1043ND | 0.3 | mit Internetanbindung | 56:e6:fc:b0:43:ba | Fluse |
 | Hanseatic 2     | 53.865157 10.6709   | Fluse020 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:de:58 | Hanseatic 2 |
-| Königspassage   | 53.866792 10.688535 | Fluse021 |TL_WR741ND | 0.3 |                       | F8:d1:11:7b:e5:2c | China |
-| Königspassage   | 53.86728 10.688387  | Fluse022 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:28 | E-Zig |
+| König. China    | 53.866844 10.6886   | Fluse021 |TL_WR741ND | 0.3 |                       | F8:d1:11:7b:e5:2c | China |
+| König. E.-Zig.  | 53.86728 10.688387  | Fluse022 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:28 | E-Zig |
 | Hanseatic 3     | 53.865119 10.670505 | Fluse023 |TL_WR741ND | 0.3 |                       | fa:d1:11:7c:e4:f0 | Hanseatic 3 |
 | Hanseatic 4     | 53.86516 10.670615  | Fluse024 |TL_WR741ND | 0.3 |                       | fa:d1:11:7c:e3:02 | Hanseatic 4 |
 |                 | 53.86734 10.671757  | Fluse025 |TL_WR741ND  | 0.3                   | | F8:d1:11:7b:e2:fe | HanseDiner 1 |
@@ -86,7 +86,7 @@ Aus dem Freifunknetz:
 |                 |                     | Fluse041 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:20 | Fluse041 |
 |                 |                     | Fluse042 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:c0 | Fluse042 |
 | Dankwartsgrube  | 53.862968 10.682708 | Andre    | TL_WR741ND| 0.3 | mit Internetanbindung | F8:d1:11:7b:e4:ca | 9to5 |
-| Rehsprung, Lübeck         | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
+| Rehsprung, Lübeck | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
 | Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre | | f8:d1:11:55:9f:9a | Garuda-ZOB |
 | Lübeck ZOB         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 54:e6:fc:98:67:e1 | Garuda-HBF |
 |                 |                     | Peter    | TL-WR741ND | 0.3 | mit Internetanbindung | F8:D1:11:58:18:2E | Peter |
