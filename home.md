@@ -16,11 +16,14 @@ Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccch
  
 ## AKTUELL: 
 Wir hatten glücklicherweise die Möglichkeit für eine Radio-Sendung im [[OKL|http://www.okluebeck.de/]] machen zu können.
-Hier befindet sich eine Aufnahme der Sendung: 
+Hier befindet sich eine Aufnahme der Sendung:
+ 
 <audio controls="controls">
   <source src="http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.opus" type="audio/ogg" />
   Your browser does not support the audio tag.
-</audio> 
+</audio>
+
+(Alternativ kannst Du das Interview auch als [MP3 herunterladen](http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.mp3))
 
 Wir haben wieder eine begrenzte Anzahl fertig konfigurierter Router. Wenn Du Dich am lübecker Freifunk beteiligen möchtest, kannst Du gerne ein Gerät für einmalig 20;- € von uns erwerben. Mail uns bitte einfach kurz an :-)
 
