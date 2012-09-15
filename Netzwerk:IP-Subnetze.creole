@@ -45,8 +45,6 @@ Netmask: 255.255.240.0 (/20)
 |   10.130.0.1 | dn42 gateway                  | aftermath.ffhl |
 |   10.130.0.8 | Avahi: krtek.local            | krtek.ffhl     |
 |   10.130.0.9 | rec.metameute.de              |                |
-|  10.130.0.11 | Freifunkbotschaft in Georgien |                |
-|  10.130.0.12 | draic                         | draic.ffhl     |
 |  10.130.0.13 | 7jM                           | serverbox      |
 |  10.130.0.14 | tcatm's 1043nd                |                |
 |  10.130.0.16 | Avahi: bluedog.local          |                |
