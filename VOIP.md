@@ -1,4 +1,8 @@
+
+# *Der SIP-Server wurde ABGESCHALTET, derzeit funktioniert SIP NICHT!*
+
 # VoIP - Internettelefonie
+
 
 Im Freifunk konnten wir bereits seit einiger Zeit Erfahrungen mit VoIP sammeln. Es bringt definitiv Spaß, da eine recht gute Sprachqualität erreicht werden kann. Wenn Du Lust hast, bist du herzlich zum Ausprobieren eingeladen.
 
