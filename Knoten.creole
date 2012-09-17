@@ -90,7 +90,6 @@ Aus dem Freifunknetz:
 | Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre | | f8:d1:11:55:9f:9a | Garuda-ZOB |
 | Lübeck ZOB         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 54:e6:fc:98:67:e1 | Garuda-HBF |
 |                 |                     | Peter    | TL-WR741ND | 0.3 | mit Internetanbindung | F8:D1:11:58:18:2E | Peter |
-| wechselnd       |  | DerDerwish |TL_WR1043ND | 0.3                   | | F4:EC:38:C9:C7:20 | Frank000 |
 | Koberg       | 53.87164921 10.6898507 | DerDerwish |TL_WR741ND  | 0.3                   | | F8:D1:11:58:00:3A | Frank001 |
 | wechselnd       |  | DerDerwish |TL_WR741ND  | 0.3                   | mit USB-Stromversorgung | F8:D1:11:38:05:F6 | Frank002 |
 | Rosenstr., Innenstadt | 53.871580 10.691900 | bo         | TL-WR1043ND  | 0.3                 | mit Internetanbindung | 54:e6:fc:98:5a:2e | kbct |
