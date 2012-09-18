@@ -69,7 +69,7 @@ Aus dem Freifunknetz:
 | König. E.-Zig.  | 53.86728 10.688387  | Fluse022 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:28 | E-Zig |
 | Hanseatic 3     | 53.865119 10.670505 | Fluse023 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e4:f0 | Hanseatic 3 |
 | Hanseatic 4     | 53.86516 10.670615  | Fluse024 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e3:02 | Hanseatic 4 |
-|                 | 53.86734 10.671757  | Fluse025 |TL_WR741ND | 0.3 |                       | F8:d1:11:7b:e2:ff | HanseDiner 1 |
+|                 |                       | Fluse025 |TL_WR741ND | 0.3 |                       | F8:d1:11:7b:e2:ff | Fluse025 |
 | Hanseatic 1     | 53.865151 10.670697 | Fluse027 |TL_WR741ND | 0.3 | mit Internetanbindung | F8:d1:11:7b:e4:de | Hanseatic 1 |
 | Königspassage   | 53.867398 10.68891  | Fluse029 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e4:80 | Cafe Moment |
 | Königspassage   | 53.86703 10.688718  | Fluse028 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:36 | Eis |
@@ -83,7 +83,7 @@ Aus dem Freifunknetz:
 |                 |                     | Fluse038 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:12:9c | Fluse038 |
 | König. Werkstatt| 53.867587 10.689464 | Fluse039 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:2e | Fluse039 |
 | König. Görtz    | 53.867306 10.689003 | Fluse040 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fc | Fluse040 |
-|                 |                     | Fluse041 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:20 | Fluse041 |
+|                 | 53.86734 10.671757  | Fluse041 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:20 | HanseDiner 1 |
 |                 |                     | Fluse042 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:c0 | Fluse042 |
 | Dankwartsgrube  | 53.862968 10.682708 | Andre    | TL_WR741ND| 0.3 | mit Internetanbindung | F8:d1:11:7b:e4:ca | 9to5 |
 | Rehsprung, Lübeck | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
