@@ -1,4 +1,4 @@
-////= Freifunk Knoten
+= Freifunk Knoten
 
 == Karte mit den aktiven Knoten im Raum Lübeck
 
