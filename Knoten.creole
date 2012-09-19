@@ -12,7 +12,7 @@ Aus dem Internet:
 
 Aus dem Freifunknetz:
 
- * [[Stadtkarte|http://burgtor.ffhl/mesh/geomap.html]] ([////[IP|http://10.130.14.1/mesh/geomap.html]])
+ * [[Stadtkarte|http://burgtor.ffhl/mesh/geomap.html]] ([[IP|http://10.130.14.1/mesh/geomap.html]])
  * [[Interaktiver Graph|http://holstentor.ffhl/nodes/nodes.html]] ([[Extern|http://holstentor.metameute.de/nodes/nodes.html]]) (enthält nur Knoten, die eine aktuelle Beta-Firmware verwenden, Code: https://github.com/tcatm/ffmap-d3)
 
 == Bereits vorhandene Knoten
