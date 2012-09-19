@@ -7,7 +7,7 @@ Auf der linke Seite findest Du unser Projekt in einzelne Abschnitte aufgeteilt.
 In kurzen Worten aber soviel vorweg:
 Wenn Du ein Freifunksignal findest, so nutze es gerne und informiere Deine Freunde, dass man dort kostenfrei und unzensiert das Freifunknetz nutzen kann.
 Jeder kann mitmachen und die WLAN Wolke weiter vergrößern, indem er sich auch einen Freifunkrouter zu Hause hinstellt. Wenn bereits ein Freifunksignal in Deiner Nähe zu finden ist, so wird sich Dein Router automatisch anonym mit dem vorhandenen Netz verbinden. So kannst Du Freifunk auch bei Dir wesentlich stärker empfangen.
-Wenn Du am Freiuknetz teilnehmen möchtest, so kostet er lediglich den Ladenpreis von einmalig 20 ,- Euro für einen Router. Es entstehen keine Folgekosten! 
+Wenn Du am Freifunknetz teilnehmen möchtest, so kostet dich ein Router lediglich den Ladenpreis von einmalig 20,- Euro. Es entstehen keine Folgekosten! 
 Damit hast Du Deinen eigenen anonymen Freifunkknoten. Und das völlig legal! Du bist nicht für die Nutzung anderer Personen auf Deinem Knoten / Router verantwortlich.
 
 Alle Fragen werden wir Dir bestimmt auf dieser Seite nicht sofort und ausführlich beantworten können. 
