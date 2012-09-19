@@ -74,7 +74,7 @@ Aus dem Freifunknetz:
 | Königspassage   | 53.867398 10.68891  | Fluse029 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e4:80 | Cafe Moment |
 | Königspassage   | 53.86703 10.688718  | Fluse028 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:36 | Eis |
 |                 |                     | Fluse030 |TL_WR741ND | 0.3|                        | B0:48:7A:CB:20:08 | Fluse030 |
-|                 | 53.869929 10.663736 | Fluse031 |TL_WR741ND | 0.3|                        | f8:d1:11:58:28:e7 | Candys |
+|                 | 53.869929 10.663736 | Fluse031 |TL_WR741ND | 0.3|                        | b0:48:7a:cb:21:24 | Candys |
 |                 | 53.866417 10.670609 | Fluse032 |TL_WR741ND | 0.3|                        | b0:48:7a:cb:1f:98 | CoCo 2a |
 |                 |                     | Fluse033 |TL_WR741ND | 0.3|                        | B0:48:7A:CB:1F:B8 | Fluse033 |
 |                 | 53.866401 10.670819 | Fluse034 |TL_WR741ND | 0.3|  Uplink                | f8:d1:11:7e:0b:65 | CoCo 2b |
