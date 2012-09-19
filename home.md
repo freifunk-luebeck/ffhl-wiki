@@ -41,6 +41,8 @@ Mail: freifunk.luebeck@asta.uni-luebeck.de
 
 Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [Mailing-Liste](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck); Mailingliste für Firmware-Entwicklung unter [freifunk.luebeck-devel AT asta.uni-luebeck.de](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck-devel)
 
+Persönlich: Im Rahmen des [[Chaostreffs Lübeck|http://ccchl.de]] treffen wir uns wöchentlich in der [[Röhre|http://www.kjhroehre-luebeck.de/]], dem Kinder- & Jugendkulturhaus in der Geraden Querstraße 2. Du kannst gern unverbindlich vorbeischauen.
+
 IRC: [#ffhl](irc://irc.hackint.eu/ffhl) im [Hackint](http://hackint.eu/)
 
 Twitter: Freifunk Lübeck [@Twitter](http://twitter.com/freifunkluebeck)
