@@ -12,7 +12,7 @@ Aus dem Internet:
 
 Aus dem Freifunknetz:
 
- * [[Stadtkarte|http://burgtor.ffhl/mesh/geomap.html]] ([[IP|http://10.130.14.1/mesh/geomap.html]])
+ * [[Stadtkarte|http://burgtor.ffhl/mesh/geomap.html]] ([////[IP|http://10.130.14.1/mesh/geomap.html]])
  * [[Interaktiver Graph|http://holstentor.ffhl/nodes/nodes.html]] ([[Extern|http://holstentor.metameute.de/nodes/nodes.html]]) (enthält nur Knoten, die eine aktuelle Beta-Firmware verwenden, Code: https://github.com/tcatm/ffmap-d3)
 
 == Bereits vorhandene Knoten
@@ -30,7 +30,7 @@ Aus dem Freifunknetz:
 | Rübenkoppel, Eichholz               | 53.858067 10.723117                                         | Eichi           | TL-WR1043ND           | 0.3pre       | im Aufbau                  | f6:ec:38:e9:73:91                                          | Gilgameš     |
 | Poggenpohl                |                     | Kai       | TL-WR1043ND | 0.3pre | mit Internetanbindung | 56:e6:fc:98:58:aa | Mr.Pupswindel |
 | St. Lorenz Süd            | 53.8595 10.6563     | Alex      | TL-WR1043ND | 0.3pre | mit Internetanbindung | b2:48:7a:9a:d8:ce, b2:48:7a:99:d8:d0 | techem |
-|                           | 53.871641 10.716619 | Nils      | TL-WR1043ND | 0.3pre | nur manchmal Internet | 76:ea:3a:be:22:40 | tcatm |
+|                           | 53.871641 10.716619 | Nils      | TL-WR1043ND | 0.3pre | nur manchmal Internet | 92:f6:52:3e:b9:52 | tcatm |
 | Röntgenstraße | 53.846658 10.68926  | 7jM       | TL-WR1043ND | 0.3 | mit Internetanbindung | f8:d1:11:24:9d:a2 | Birke |
 | Ratzeburger Allee         | 53.846141 10.707231 | NeoRaider | TL-WR1043ND | custom/0.3pre | mit Internet   | f8:d1:11:7f:41:d4 | confusion |
 | Ratzeburger Allee         | 53.846169 10.707274 | NeoRaider | TL-WR741ND  | 0.3 |                       | f8:d1:11:30:1b:e2 | sweetmorn |
