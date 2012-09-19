@@ -69,7 +69,7 @@ Aus dem Freifunknetz:
 | König. E.-Zig.  | 53.86728 10.688387  | Fluse022 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:28 | E-Zig |
 | Hanseatic 3     | 53.865119 10.670505 | Fluse023 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e4:f0 | Hanseatic 3 |
 | Hanseatic 4     | 53.86516 10.670615  | Fluse024 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e3:02 | Hanseatic 4 |
-|                 |                     | Fluse025 |TL_WR741ND | 0.3 |                       | F8:d1:11:7b:e2:fe | Daisy |
+|                 | 53.840828 10.70465  | Fluse025 |TL_WR741ND | 0.3 |                       | F8:d1:11:7b:e2:fe | Daisy |
 | Hanseatic 1     | 53.865151 10.670697 | Fluse027 |TL_WR741ND | 0.3 | mit Internetanbindung | F8:d1:11:7b:e4:de | Hanseatic 1 |
 | Königspassage   | 53.867398 10.68891  | Fluse029 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e4:80 | Cafe Moment |
 | Königspassage   | 53.86703 10.688718  | Fluse028 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:36 | Eis |
