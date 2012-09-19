@@ -1,4 +1,4 @@
-| Hersteller | Geeignet? | Modell | Preis (ca.) | WLAN Standard | Sendeleistung                 | MIMO | Signalrate (max.) | fastd Durchsatz   | Antennenanschluss | Frequenzband |
-|------------+-----------+--------+-------------+---------------+-------------------------------+------+-------------------+-------------------+-------------------+--------------|
-| TP-Link    | ja        | 1043nd | 45 Euro     | 802.11bgn     | HW 1.0: 27 dBm, HW 1.8: 24dBm |  3x3 | 300 Mbps          | 6 Mbps (xsalsa20) | 3x RP-SMA         | 2,4 GHz      |
-| TP-Link    | ja        | 741nd  | 17 Euro     | 802.11bgn     | HW 4.21: 18 dBm               |  1x1 | 150 Mbps          | 6 Mbps (xsalsa20) | 1x RP-SMA         | 2,4 GHz      |
+| Hersteller | Modell | Geeignet? | Preis (ca.) | Frequenzband | WLAN Standard | Signalrate (max.) | MIMO | Antennenanschluss | Sendeleistung                 | fastd Durchsatz   |
+|------------+--------+-----------+-------------+--------------+---------------+-------------------+------+-------------------+-------------------------------+-------------------|
+| TP-Link    | 1043nd | ja        | 45 Euro     | 2,4 GHz      | 802.11bgn     | 300 Mbps          |  3x3 | 3x RP-SMA         | HW 1.0: 27 dBm, HW 1.8: 24dBm | 6 Mbps (xsalsa20) |
+| TP-Link    | 741nd  | ja        | 17 Euro     | 2,4 GHz      | 802.11bgn     | 150 Mbps          |  1x1 | 1x RP-SMA         | HW 4.21: 18 dBm               | 6 Mbps (xsalsa20) |
