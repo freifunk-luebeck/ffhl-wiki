@@ -1,4 +1,3 @@
-
 # *Der SIP-Server wurde ABGESCHALTET, derzeit funktioniert SIP NICHT!*
 
 # VoIP - Internettelefonie
@@ -55,6 +54,7 @@ Bei manchen Clients muss noch @&zwj;sip.ffhl angefügt werden.
  * derderwish
  * neoraider
  * berik (Handy)
+ * irallia (Laptop)
 
 ### Vanity Nummern
 
