@@ -73,6 +73,7 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.118 | zenforyens node              |                |
 |  10.130.1.46 | Georg (Pirat)                 |                |
 | 10.130.2.0/24  | Fluse Knoten     |                |
+| 10.130.0.124 | beriks ampache                |                |
 
 == Andere reservierte Subnetze
 
