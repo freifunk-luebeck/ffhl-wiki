@@ -78,7 +78,7 @@ Aus dem Freifunknetz:
 |                 | 53.866417 10.670609 | Fluse032 |TL_WR741ND | 0.3|                        | b0:48:7a:cb:1f:91 | CoCo 2a |
 |                 |                     | Fluse033 |TL_WR741ND | 0.3|                        | B0:48:7A:CB:1F:B8 | Fluse033 |
 |                 | 53.866401 10.670819 | Fluse034 |TL_WR741ND | 0.3|  Uplink                | f8:d1:11:7e:0b:65 | CoCo 2b |
-|                 |                     | Fluse035 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fa | Fluse035 |
+|                 |                     | Fluse035 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fa | Blau BHF |
 | König Mall 3    | 53.867167 10.688595 | Fluse037 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:d0 | König Mall 3 |
 | König. Mall mitte| 53.867249 10.688965 | Fluse038 |TL_WR741ND | 0.3|                       | B0:48:7a:cb:12:9c | König Mall 2 |
 | König. Werkstatt| 53.867587 10.689464 | Fluse039 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:2e | Werkstatt |
