@@ -1,19 +1,33 @@
 # Mesh-VPN
+
 ## Grundidee
-Das Mesh-VPN verbindet einzelne Freifunkrouter, die sich nicht direkt sehen können, über das Internet miteinander. Es stellt damit eine virtuelle Brücke dar.
 
+Das Mesh-VPN verbindet einzelne Freifunkrouter, die sich nicht direkt sehen können, über das Internet miteinander.
+__
 ## Funktionsweise
-Die einzelnen Knoten werden mit einen vorhandenen Internetanschluss. In der Regel wird das ein eigener bereits vorhandener Router sein. Nun sind unsere Knoten standardmäßig so eingestellt, dass sie versuchen, ob sie eine Verbindung zum restlichen Mesh-VPN herstellen können. Genauer gesagt versuchen sie unsere großen Gateways [[Burgtor|Knoten:Burgtor]] und [[Holstentor|Knoten:Holstentor]] zu kontaktieren. Wenn dies gelingt, wird mit diesen eine verschlüsselte Verbindung aufgebaut und darüber ist dann der Zugang zum Rest des Netzes möglich.
-Die öffentliche IP-Adresse des genutzen Internetanschlusses ist nur der Gegenseite (also den Gateways) bekannt, denn diese müssen natürlich wissen, wohin sie die Daten schicken sollen.
-Diese Adresse (über die eine Identifizierung des Anschlusses & Inhabers möglich wäre) ist nicht den anderen Teilnehmern des Netzes bekannt. Sie kann auch nicht von Dritten, die den Knoten nutzen, herausgefunden werden.
 
-## Vorteile
-Der wichtigste Vorteil ist, wie bereits erwähnt, die Verbindung von Knoten, die sich sonst nicht sehen könnten.
+Wird ein Knoten über den WAN-Port mit dem Internet verbunden, baut dieser eine verschlüsselte Verbindung zu unseren VPN-Gateways auf.
+Das sind von freiwilligen betriebene Server, die u.a. auch die getunnelten Routen ins Internet bereitstellen. In erster Linie ersetzen sie jedoch die ansonsten nötigen Richtfunkstrecken um Freifunk-"Inseln" zu verbinden.
 
-Auch kann so die Verbindung mit Rechnern hergestellt werden, die als Server in Rechenzentren stehen. Diese können dann ihre [[Dienste|Freifunk-verwenden]] (wie Webseiten, [[VOIP]] oder [[Zugang zu anderen Netzen|Peerings]]) anbieten.
+# Technisches
 
-## Nachteile
-Eigentlich läuft die Nutzung des Internets dem Freifunkgedanken etwas entgegen, da wir eine alternative Infrastruktur aufbauen wollen. Aber leider stellt sie zum gegenwärtigen Zeitpunkt die einzige gute Lösung dar.
+Das VPN basiert zur Zeit auf [fastd][https://projects.universe-factory.net/projects/fastd]. fastd ist ein sehr einfacher und kleiner Tunneldaemon, der sichere Handshakes und Verschlüsselung bietet.
 
-## Empfohlene Geräte
-Prinzipiell sind alle Geräte, die wir unterstützen, zu dem VPN in der Lage. Aus Geschwindigkeitsgründen empfehlen wir jedoch die Verwendung der [[TP-Link WR1043nd|Firmware:1043nd]] und [[TP-Link WDR3600|Firmware:3600]].
+## Vorraussetzungen
+
+Um einen Freifunkknoten am Internet zu betreiben, sind folgenden Vorraussetzungen nötig:
+
+1. Der Knoten versucht eine IP mittels DHCP zu beziehen. (Das Konfigurieren einer statischen IP ist möglich)
+1. Offene Ports:
+  1. UDP 53 (DNS) wird benötigt um die DNS Adressen der Gateways aufzulösen
+  1. UDP 10000 (fastd) wird für die eigentliche VPN Verbindung verwendet.
+
+Weiterhin versuchen die Knoten mittels NTP ihre Uhrzeit abzugleichen und über den WAN Port weitere Knoten zu finden. Das finden
+weiterer Knoten geschieht mittels Ethernet Paketen des Typs 0x4305.
+
+Alle anderen Ports dürfen (oder sollten sogar!) gesperrt werden, um einen Zugriff aufs eigene Netzwerk völlig auszuschließen.
+Die Firmware der Knoten trennt die Netzwerke selber schon voneinander. Dazu werden mehrere virtuelle Netzwerkbrücken innerhalb des Knotens angelegt. Eine enthält alle Interfaces, auf denen Freifunk-Nutzdaten, (das Client WLAN mit der ESSID `luebeck.freifunk.net`, das VPN und die gelben LAN Ports das Knotens). Ein Routing zwischen dieser Brücke und dem WAN Port wird durch mehrere Mechanismen ausgeschlossen.
+
+## Verschlüsselung
+
+Als Cipher werden wahlweise xsalsa20-poly1305 oder aes128-gcm eingesetzt. xsalsa20-poly1305 eignet sich besonders für Prozessoren ohne spezielle Kryptobeschleunigung, also für die normalen Freifunkknoten.
