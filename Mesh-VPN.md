@@ -3,7 +3,7 @@
 ## Grundidee
 
 Das Mesh-VPN verbindet einzelne Freifunkrouter, die sich nicht direkt sehen können, über das Internet miteinander.
-__
+
 ## Funktionsweise
 
 Wird ein Knoten über den WAN-Port mit dem Internet verbunden, baut dieser eine verschlüsselte Verbindung zu unseren VPN-Gateways auf.
@@ -11,7 +11,7 @@ Das sind von freiwilligen betriebene Server, die u.a. auch die getunnelten Route
 
 # Technisches
 
-Das VPN basiert zur Zeit auf [fastd][https://projects.universe-factory.net/projects/fastd]. fastd ist ein sehr einfacher und kleiner Tunneldaemon, der sichere Handshakes und Verschlüsselung bietet.
+Das VPN basiert zur Zeit auf [[fastd|https://projects.universe-factory.net/projects/fastd]]. fastd ist ein sehr einfacher und kleiner Tunneldaemon, der sichere Handshakes und Verschlüsselung bietet.
 
 ## Vorraussetzungen
 
