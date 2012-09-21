@@ -63,7 +63,7 @@ Aus dem Freifunknetz:
 |                 | 53.867027 10.672108 | Fluse016 |TL_WR741ND  | 0.3                   | | f8:d1:11:55:9b:e4 | TimeOut |
 | ZOB R           | 53.866346 10.671321 | Fluse017 |TL_WR741ND  | 0.3                   | | b0:48:7a:cb:2c:b8 | ZOB R  |
 | Lanzentrum      | 53.87643 10.65837   | Fluse012 |TL-WR1043ND | 0.3                   | | 56:e6:fc:b0:43:80 | LAN-Zentrum |
-|                 |                     | Fluse015 | TL-WR1043ND | 0.3 | mit Internetanbindung | 56:e6:fc:b0:43:ba | Fluse |
+| FF an UMTS      |                     | Fluse015 |TL-WR1043ND | 0.? | Internet per UMTS | 54:e6:fc:af:43:ba | Mobiler Knoten |
 | Hanseatic 2     | 53.865157 10.6709   | Fluse020 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:de:58 | Hanseatic 2 |
 | König. China    | 53.866844 10.6886   | Fluse021 |TL_WR741ND | 0.3 |                       | F8:d1:11:7b:e5:2c | China |
 | König. E.-Zig.  | 53.86728 10.688387  | Fluse022 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:28 | E-Zig |
