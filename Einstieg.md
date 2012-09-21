@@ -3,7 +3,7 @@ Alle Interessierten sollen diese Seiten bei den ersten Schritten in unserem Netz
 
 ## Schnelleinstieg
 Um sich nur als Nutzer im Netzwerk zu befinden, reicht es, wenn eine Verbindung mit einem Knoten in der Nähe hergestellt wird.
-Dafür einfach in das passende W-Lan einwählen und los geht's. Dabei strahlt jeder ROuter ein Netz mit der ID ''http://luebeck.freifunk.net/'' oder ''luebeck.freifunk.net (5GHz)'' aus. Zugangsdaten werden nicht benötigt.
+Dafür einfach in das passende W-Lan einwählen und los geht's. Dabei strahlt jeder Router ein Netz mit der ID ''http://luebeck.freifunk.net/'' oder ''luebeck.freifunk.net (5GHz)'' aus. Zugangsdaten werden nicht benötigt.
 
 ## Der eigene Knoten
 Nach einiger Zeit oder wenn es keinen Knoten in der Nähe gibt, kommt vielleicht der Wunsch auf, einen eigenen Knoten aufzustellen. Das ist recht leicht möglich.
