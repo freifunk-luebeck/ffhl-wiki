@@ -2,18 +2,18 @@
 
 Für den Lübecker Raum ist das folgende Subnetz reserviert:
 
-''10.130.0.0/16''
+//10.130.0.0/16//
 
-Dabei wird für das eigentliche Mesh bisher 10.130.0.0/20 genutzt.
+Dabei wird für das eigentliche Mesh bisher //10.130.0.0/20// genutzt.
 
 Und hier eingetragen: [[http://wiki.freifunk.net/IP-Netze]]
 
 == IPv6
 
-Für IPv6 wird der Prefix ''fdef:ffc0:3dd7::/48'' verwendet.
-Davon ist bisher nur fdef:ffc0:3dd7::/64 in Benutzung; Geräte
+Für IPv6 wird der Prefix //fdef:ffc0:3dd7::/48// verwendet.
+Davon ist bisher nur //fdef:ffc0:3dd7::/64// in Benutzung; Geräte
 mit statischer Adresse 10.130.a.b SOLLTEN die IPv6-Adresse
-fdef:ffc0:3dd7::XXYY/64 zugeteilt bekommen, wobei XX und YY
+//fdef:ffc0:3dd7::XXYY/64// zugeteilt bekommen, wobei XX und YY
 die Hexadezimaldarstellungen von a bzw. b sind.
 
 == Internet-Gateways
@@ -41,45 +41,45 @@ Einzelne Adressen kann jeder selbst für sich reservieren. Es ist zu empfehlen, 
 Mögliche Adressen: 10.130.0.1 bis 10.130.2.254
 Netmask: 255.255.240.0 (/20)
 
-|=IP-Adresse   |=Notizen                       |=Hostname       |
-|   10.130.0.1 | reserviert                    | reserviert     |
-|   10.130.0.2 | reserviert                    | reserviert     |
-|   10.130.0.3 | reserviert                    | reserviert     |
-|   10.130.0.4 | reserviert                    | reserviert     |
-|   10.130.0.5 | reserviert                    | reserviert     |
-|   10.130.0.6 | reserviert                    | reserviert     |
-|   10.130.0.7 | reserviert                    | reserviert     |
-|   10.130.0.8 | Avahi: krtek.local            | krtek.ffhl     |
-|   10.130.0.9 | rec.metameute.de              |                |
-|  10.130.0.12 | stmarien (vm auf krtek)       | stmarien.ffhl  |
-|  10.130.0.13 | 7jM                           | serverbox      |
-|  10.130.0.14 | tcatm's 1043nd                |                |
-|  10.130.0.16 | Avahi: bluedog.local          |                |
-|  10.130.0.17 | blubbbel                      |                |
-|  10.130.0.18 | meuteblog                     | meuteblog.ffhl |
-|  10.130.0.19 | server                        |                |
-|  10.130.0.21 | NeoRaider (WG)                | confusion      |
-|  10.130.0.22 | Jamalaka                      | techem         |
-|  10.130.0.23 | Laeila & jix                  | kyubey         |
-|  10.130.0.24 | Georg (Schrebergärten)        |                |
-|  10.130.0.25 | Schrebergarten Tanne          |                |
-|  10.130.0.26 | Ida & Martin                  | Rapture        |
-|  10.130.0.28 | stpetri (vm auf krtek)        |                |
-|  10.130.0.29 | namshub  [node] {magu}        | namshub.ffhl   |
-|  10.130.0.30 | enki [node] {magu}            | enki.ffhl      |
-|  10.130.0.31 | innana [node] {magu}          | innana.ffhl    |
-|  10.130.0.32 | opz [x21] {magu}              | opz.ffhl       |
-|  10.130.0.33 | me {magu}                     | me.ffhl        |
-|  10.130.0.34 | Blubbbel (Garten)             |                |
-|  10.130.0.35 | Silber1                       |                |
-|  10.130.0.36 | nutch                         | nutch.ffhl     |
-|  10.130.0.37 | bo                            |                |
-|  10.130.0.42 | NasBox                        | nasbox.ffhl    |
-|  10.130.0.64 | magu Server                   | cic.ffhl       |
-|  10.130.0.118 | zenforyens node              |                |
-|  10.130.1.46 | Georg (Pirat)                 |                |
-| 10.130.2.0/24  | Fluse Knoten     |                |
-| 10.130.0.123 | 10.130.0.123/ampache testuser, pw:1234             |                |
+|=IP-Adresse    |=Notizen                       |=Hostname       |
+|   10.130.0.1  | reserviert                    | reserviert     |
+|   10.130.0.2  | reserviert                    | reserviert     |
+|   10.130.0.3  | reserviert                    | reserviert     |
+|   10.130.0.4  | reserviert                    | reserviert     |
+|   10.130.0.5  | reserviert                    | reserviert     |
+|   10.130.0.6  | reserviert                    | reserviert     |
+|   10.130.0.7  | reserviert                    | reserviert     |
+|   10.130.0.8  | Avahi: krtek.local            | krtek.ffhl     |
+|   10.130.0.9  | rec.metameute.de              |                |
+|  10.130.0.12  | stmarien (vm auf krtek)       | stmarien.ffhl  |
+|  10.130.0.13  | 7jM                           | serverbox      |
+|  10.130.0.14  | tcatm's 1043nd                |                |
+|  10.130.0.16  | Avahi: bluedog.local          |                |
+|  10.130.0.17  | blubbbel                      |                |
+|  10.130.0.18  | meuteblog                     | meuteblog.ffhl |
+|  10.130.0.19  | server                        |                |
+|  10.130.0.21  | NeoRaider (WG)                | confusion      |
+|  10.130.0.22  | Jamalaka                      | techem         |
+|  10.130.0.23  | Laeila & jix                  | kyubey         |
+|  10.130.0.24  | Georg (Schrebergärten)        |                |
+|  10.130.0.25  | Schrebergarten Tanne          |                |
+|  10.130.0.26  | Ida & Martin                  | Rapture        |
+|  10.130.0.28  | stpetri (vm auf krtek)        |                |
+|  10.130.0.29  | namshub  [node] {magu}        | namshub.ffhl   |
+|  10.130.0.30  | enki [node] {magu}            | enki.ffhl      |
+|  10.130.0.31  | innana [node] {magu}          | innana.ffhl    |
+|  10.130.0.32  | opz [x21] {magu}              | opz.ffhl       |
+|  10.130.0.33  | me {magu}                     | me.ffhl        |
+|  10.130.0.34  | Blubbbel (Garten)             |                |
+|  10.130.0.35  | Silber1                       |                |
+|  10.130.0.36  | nutch                         | nutch.ffhl     |
+|  10.130.0.37  | bo                            |                |
+|  10.130.0.42  | NasBox                        | nasbox.ffhl    |
+|  10.130.0.64  | magu Server                   | cic.ffhl       |
+|  10.130.0.118 | zenforyens node               |                |
+|  10.130.0.123 | 10.130.0.123/ampache testuser, pw:1234 |       |
+|  10.130.1.46  | Georg (Pirat)                 |                |
+| 10.130.2.0/24 | Fluse Knoten                  |                |
 
 == Andere reservierte Subnetze
 
