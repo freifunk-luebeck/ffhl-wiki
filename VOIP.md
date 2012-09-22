@@ -1,5 +1,3 @@
-# *Der SIP-Server wurde ABGESCHALTET, derzeit funktioniert SIP NICHT!*
-
 # VoIP - Internettelefonie
 
 
