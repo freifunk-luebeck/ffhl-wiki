@@ -20,6 +20,7 @@ Hier befindet sich eine Aufnahme der Sendung:
  
 <audio controls="controls">
   <source src="http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.opus"/>
+  <source src="http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.ogg"/>
   <source src="http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.mp3" />
   Your browser does not support the audio tag.
 </audio>
