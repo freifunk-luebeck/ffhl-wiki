@@ -119,4 +119,4 @@ Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
 | 10.130.16.9  | tcatm t410                    |                 |
 | 10.130.16.10 | magu                          |                 |
 | 10.130.16.17 | blubbbel                      |                 |
-| 10.130.16.18 | berik                         |                 |
+| 10.130.16.18 | berik /ampache testuser pw 1234| hinkelstein.ffhl|
