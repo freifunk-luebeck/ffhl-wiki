@@ -52,7 +52,7 @@ Aus dem Freifunknetz:
 |                 | 53.895581 10.652755 | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7e:57:76 | Christopher |
 | ZOB RU          | 53.866414 10.671173 | Fluse003/Abdi |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | ZOB RU |
 |                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Prians |
-| defekt. nocvh im switchmode           |  | Fluse006 |TL_WR741ND  | 0.3                   | | f8:d1:11:7e:0b:65 |  |
+|                 |                     | Fluse006 |TL_WR741ND  | 0.3                   | | f8:d1:11:7e:0b:65 | testfluse |
 | ZOB LU          | 53.866408 10.671088 | Fluse007 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2c:76 | ZOB LU   |
 | ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:58:0c | ZOB L    |
 |                 |                     | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
