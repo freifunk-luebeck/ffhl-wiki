@@ -14,7 +14,7 @@
  * [[TP-Link TL-WR841ND|Firmware:841nd]]
  * [[TP-Link TL-WR842ND|Firmware:842nd]]
  * [[TP-Link TL-WR1043ND|Firmware:1043nd]]
- * [[TP-Link TL-WDR3600|Firmware:3600nd]]
+ * [[TP-Link TL-WDR3600|Firmware:3600]]
 
 Download: [[http://metameute.de/~freifunk/firmware/0.3.1/]]
 
