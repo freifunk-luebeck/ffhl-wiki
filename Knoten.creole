@@ -97,7 +97,7 @@ Aus dem Freifunknetz:
 | | | Devil | | custom | | 02:13:13:13:13:13 | Hellgate |
 |Stadtgüterweg, Dornbreite|53.88137 10.64877 | berik | | |mit Internetanbindung |B0:48:7a:cb:20:be| randomweb |
 | Wohnheim Anschützstr. 11 (2. OG) | 53.837566 10.694106 | zenforyen | TL-WR842ND | 0.3 (build 120917) | im Uninetz | 64:70:02:82:ce:fc | Prometheus |
-|                 | 53°51.581´N 10°40.218´O | Smarty |TL_WR741ND | 0.3|  Uplink                | B0:48:7A:CB:2F:1D | FFHL-Smarty-1 |
+| Georgstrasse 34 | 53°51.581´N 10°40.218´O | Smarty |TL_WR741ND | 0.3|  Uplink | B0:48:7A:CB:2F:1D | FFHL-Smarty-1 |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
