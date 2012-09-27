@@ -18,4 +18,5 @@ Durch die gleichzeitige Nutzbarkeit des 2,4GHz- und 5GHz-Netzes ist eine höhere
 *  31mW Sendeleistung (5 GHz)
 
 ## Unterstützte Hardwarerevisionen:
-* v1.x ist in Erprobung
+
+* v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.1/lff-0.3.1-ar71xx-generic-tl-wdr3600-v1-squashfs-factory.bin]]
