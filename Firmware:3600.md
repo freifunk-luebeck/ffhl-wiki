@@ -1,7 +1,5 @@
 # TP-Link WDR3600
 
-**Dieser Router wird aktuell noch nicht unterstützt.**
-
 ## Verwendungszweck
 Diese Router sollen auf lange Zeit die [[TP-Link 1043ND|Firmware:1043nd]] ersetzen.
 
