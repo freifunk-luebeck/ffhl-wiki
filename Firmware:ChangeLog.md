@@ -1,5 +1,23 @@
 # ChangeLog
 
+## v0.3.1 (Release 2012-09-27)
+
+* Update auf den aktuellen OpenWRT Attitude Adjustment Trunk
+* Feste MAC-Adresse der Knoten im Mesh
+* Erhöhtes batman-adv-OGM-Intervall von 5s zur Verringerung der Grundlast
+* VPN-Peer muehlentor hinzugefügt
+* Umbenennung des Client-WLANs von http://luebeck.freifunk.net/ auf luebeck.freifunk.net
+* Support für neue Router-Modelle
+* Unterstützung von 5GHz-WLAN auf TL-WDR3600 (ESSID 'luebeck.freifunk.net (5GHz)'
+* Unterstützte Geräte:
+ * [[TP-Link TL-WR741ND|Firmware:741nd]]
+ * [[TP-Link TL-WR841ND|Firmware:841nd]]
+ * [[TP-Link TL-WR842ND|Firmware:842nd]]
+ * [[TP-Link TL-WR1043ND|Firmware:1043nd]]
+ * [[TP-Link TL-WDR3600|Firmware:3600nd]]
+
+Download: [[http://metameute.de/~freifunk/firmware/0.3.1/]]
+
 ## v0.3 (Release 2012-08-22)
 
 * Aktueller OpenWRT Attitude Adjustment Trunk als Grundlage der Firmware
