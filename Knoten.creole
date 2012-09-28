@@ -54,7 +54,7 @@ Aus dem Freifunknetz:
 |                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Prians |
 |                 |                     | Fluse006 |TL_WR741ND  | 0.3                   | | f8:d1:11:7e:0b:65 | testfluse |
 | ZOB LU          | 53.866408 10.671088 | Fluse007 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2c:76 | ZOB LU   |
-| ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:58:0c | ZOB L    |
+| ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3.1 | | f8:d1:11:7e:58:0c | ZOB L    |
 |                 |                     | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
 |                 | 53.867266 10.671742 | Fluse010 |TL_WR741ND  | 0.3                   | | f8:d1:11:7e:2a:d8 | HanseDiner 2 |
 |Reserve 1043     |                     | Fluse014 |TL_WR741ND  | 0.3.1                 | | b0:48:7a:bb:50:54 | Fluse014 |
@@ -62,8 +62,8 @@ Aus dem Freifunknetz:
 | Stockelsdorf    | 53.895625 10.652161 | Fluse019 |TL_3600     | 0.3                   | | 90:f6:52:b1:95:1c | Fluse841nd |
 | Stockelsdorf    | 53.902516 10.669674 | Fluse011 |TL_WR741ND  | 0.3                   | | f8:d1:11:55:9f:86 | Kinder |
 |                 | 53.867027 10.672108 | Fluse016 |TL_WR741ND  | 0.3                   | | f8:d1:11:55:9b:e4 | TimeOut |
-| ZOB R           | 53.866346 10.671321 | Fluse017 |TL_WR741ND  | 0.3                   | | b0:48:7a:cb:2c:b8 | ZOB R  |
-| Lanzentrum      | 53.87643 10.65837   | Fluse012 |TL-WR1043ND | 0.3                   | | 56:e6:fc:b0:43:80 | LAN-Zentrum |
+| ZOB R           | 53.866346 10.671321 | Fluse017 |TL_WR741ND  | 0.3.1                   | | b0:48:7a:cb:2c:b8 | ZOB R  |
+| Lanzentrum      | 53.87643 10.65837   | Fluse012 |TL-WR1043ND | 0.3.1                   | | 56:e6:fc:b0:43:80 | LAN-Zentrum |
 | FF an UMTS      |                     | Fluse015 |TL-WR1043ND | 0.? | Internet per UMTS | 54:e6:fc:af:43:ba | Mobiler Knoten |
 | Hanseatic 2     | 53.865157 10.6709   | Fluse020 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:de:58 | Hanseatic 2 |
 | König. China    | 53.866844 10.6886   | Fluse021 |TL_WR741ND | 0.3 |                       | F8:d1:11:7b:e5:2c | China |
