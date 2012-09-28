@@ -96,7 +96,7 @@ Aus dem Freifunknetz:
 | Rosenstr., Innenstadt | 53.871580 10.691900 | bo         | TL-WR1043ND  | 0.3                 | mit Internetanbindung | 54:e6:fc:98:5a:2e | kbct |
 | | | BKA | | custom | | 02:b4:ab:4a:42:42 | BKA-van017 |
 | | | Devil | | custom | | 02:13:13:13:13:13 | Hellgate |
-|Stadtgüterweg, Dornbreite|53.88137 10.64877 | berik | | |mit Internetanbindung |B0:48:7a:cb:20:be| randomweb |
+|Stadtgüterweg, Dornbreite|53.88137 10.64877 | berik | | 0.3.1|mit Internetanbindung |B0:48:7a:cb:20:be| randomweb |
 | Wohnheim Anschützstr. 11 (2. OG) | 53.837566 10.694106 | zenforyen | TL-WR842ND | 0.3 (build 120917) | im Uninetz | 64:70:02:82:ce:fc | Prometheus |
 | Georgstrasse 34 | 53.860217 10.670361 | Smarty |TL_WR741ND | 0.3|  Uplink | B0:48:7A:CB:2F:1D | FFHL-Smarty-1 |
 | | | Zafer | TL-WDR3600 | 0.3.1 | mit Internetanbindung | 64:70:02:aa:b6:dc | zafer |
