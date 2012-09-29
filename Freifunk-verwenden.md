@@ -4,9 +4,9 @@
 
 Das [[Freifunk-Verzeichnis]] enthält eine Liste von Webseiten, die im Freifunk Netzwerk verfügbar sind.
 
-## [[Voice-Over-IP|VOIP]]
+## [[Telefon (Voice-over-IP)|telefon-voice-over-ip]]
 
-Dank SIP kann im Freifunk kostenlos telefoniert werden. Das geht sogar mit WLAN fähigen Telefonen! Ausprobieren? [[So geht's|VOIP]]
+Dank SIP kann im Freifunk kostenlos telefoniert werden. Das geht sogar mit WLAN fähigen Telefonen! Ausprobieren? [[So geht's|telefon-voice-over-ip]]
 
 ## Zeroconf Dienste
 
