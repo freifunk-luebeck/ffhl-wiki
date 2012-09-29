@@ -1,7 +1,7 @@
 # VoIP - Internettelefonie
 
 
-Im Freifunk konnten wir bereits seit einiger Zeit Erfahrungen mit VoIP sammeln. Es bringt definitiv Spaß, da eine recht gute Sprachqualität erreicht werden kann. Wenn Du Lust hast, bist du herzlich zum Ausprobieren eingeladen.
+Im Freifunk konnten wir bereits seit einiger Zeit Erfahrungen mit VoIP (Voice-over-Internet-Protocol) sammeln. Es bringt definitiv Spaß, da eine recht gute Sprachqualität erreicht werden kann. Wenn Du Lust hast, bist du herzlich zum Ausprobieren eingeladen.
 
 In der Meute steht nun ein SIP-fähiges Telefon. Auch Paul ist via SIP zu erreichen, denn dort läuft ein Asterisk-Telefonserver. Dieser nimmt immer ab und spielt für Testzwecke Audiodateien ab. 
 
