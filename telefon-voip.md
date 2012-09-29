@@ -53,6 +53,7 @@ Bei manchen Clients muss noch @&zwj;sip.ffhl angefügt werden.
  * neoraider
  * berik (Handy)
  * irallia (Laptop)
+ * tux
 
 ### Vanity Nummern
 
