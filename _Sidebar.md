@@ -11,7 +11,7 @@
    * [[mobiler Knoten|mobilerKnoten]]
  * [[Dienste im Netz|Freifunk verwenden]]
    * [[Freifunk Verzeichnis]]
-   * [[Telefon (VoIP)]]
+   * [[Telefon (VoIP)|Telefon-voip]]
    * [[DNS]]
    * [[Zugang zu anderen Netzen|Peerings]]
    * [[Highscore|Nodegame]]
