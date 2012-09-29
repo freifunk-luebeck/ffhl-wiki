@@ -44,8 +44,6 @@ Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [Mailing-List
 
 Persönlich: Im Rahmen des [[Chaostreffs Lübeck|http://ccchl.de]] treffen wir uns wöchentlich in der [[Röhre|http://www.kjhroehre-luebeck.de/]], dem Kinder- & Jugendkulturhaus in der Geraden Querstraße 2. Du kannst gern unverbindlich vorbeischauen.
 
-IRC: [#ffhl](irc://irc.hackint.eu/ffhl) im [Hackint](http://hackint.eu/)
-
 Twitter: Freifunk Lübeck [@Twitter](http://twitter.com/freifunkluebeck)
 
 Blog: [[http://blog.metameute.de/]]
@@ -53,3 +51,6 @@ Blog: [[http://blog.metameute.de/]]
 Redmine/Issue Tracker: [[https://projects.universe-factory.net/projects/ffhl]]
 
 Telefon: meute@&zwj;sip.ffhl (meute@&zwj;10.130.0.12) oder 0451/30504399 und dann 63883#
+
+Internet Relay Chat (IRC): [#ffhl](irc://irc.hackint.eu/ffhl) im [Hackint](http://hackint.eu/)
+<iframe src="https://kthx.de:9090/?channels=ffhl&uio=MTE9NDEb6" width="647" height="400"></iframe>
