@@ -52,7 +52,7 @@ Aus dem Freifunknetz:
 |                 | 53.895581 10.652755 | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7e:57:76 | Christopher |
 | ZOB RU          | 53.866414 10.671173 | Fluse003/Abdi |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | ZOB RU |
 |                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Prians |
-|                 |                     | Fluse006 |TL_WR741ND  | 0.3                   | | f8:d1:11:7e:0b:65 | testfluse |
+|                 | 53.866379 10.670689 | Fluse006 |TL_WR741ND  | 0.3                   | | f8:d1:11:7e:0b:65 | Coco2 b |
 | ZOB LU          | 53.866408 10.671088 | Fluse007 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2c:76 | ZOB LU   |
 | ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3.1 | | f8:d1:11:7e:58:0c | ZOB L    |
 |                 |                     | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
@@ -74,11 +74,11 @@ Aus dem Freifunknetz:
 | Hanseatic 1     | 53.865151 10.670697 | Fluse027 |TL_WR741ND | 0.3.1 | mit Internetanbindung | F8:d1:11:7b:e4:de | Hanseatic 1 |
 | Königspassage   | 53.867398 10.68891  | Fluse029 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e4:80 | Cafe Moment |
 | Königspassage   | 53.86703 10.688718  | Fluse028 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:36 | Eis |
-|                 | 53.86898 10.684700                   | Fluse030 |TL_WR741ND | 0.3|                        | B0:48:7A:CB:20:08 | AliBaba |
+|                 | 53.86898 10.684700  | Fluse030 |TL_WR741ND | 0.3|       | B0:48:7A:CB:20:08 | AliBaba |
 |                 | 53.869929 10.663736 | Fluse031 |TL_WR741ND | 0.3|                        | b0:48:7a:cb:21:24 | Candys |
-|                 | 53.855360 10.692420 | Pauline |TL_WR741ND | 0.3|                        | b0:48:7a:cb:1f:98 | Pauline |
+|                 | 53.855360 10.692420 | Pauline  |TL_WR741ND | 0.3|                        | b0:48:7a:cb:1f:98 | Pauline |
 |                 | 53.868922 10.671525 | Fluse033 |TL_WR741ND | 0.3|                        | B0:48:7A:CB:1F:B8 | Bl NO |
-|                 | 53.866401 10.670819 | Fluse034 |TL_WR741ND | 0.3|  Uplink                | Bo:48:7a:cb:1f:90 | CoCo 2a |
+|                 | 53.866401 10.670819 | Fluse034 |TL_WR741ND | 0.3|  Uplink                | bo:48:7a:cb:1f:90 | CoCo 2a |
 |                 | 53.86875 10.6712898 | Fluse035 |TL_WR741ND | 0.3|  Uplink                | B0:48:7a:cb:1f:fa | Bl SW |
 | König Mall 3    | 53.867167 10.688595 | Fluse037 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:d0 | König Mall 3 |
 | König. Mall mitte| 53.867249 10.688965 | Fluse038 |TL_WR741ND | 0.3|                       | B0:48:7a:cb:12:9c | König Mall 2 |
@@ -87,7 +87,7 @@ Aus dem Freifunknetz:
 |                 | 53.86734 10.671757  | Fluse041 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:20 | HanseDiner 1 |
 | König. Mall 1   | 53.86735 10.688445  | Fluse042 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:c0 | König Mall 1 |
 | Dankwartsgrube  | 53.862968 10.682708 | Andre    | TL_WR741ND| 0.3 | mit Internetanbindung | F8:d1:11:7b:e4:ca | 9to5 |
-| Rehsprung, Lübeck | 53.910475 10.805865 | Volker    | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
+| Rehsprung, Lübeck | 53.910475 10.805865 | Volker | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
 | Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre | | f8:d1:11:55:9f:9a | Garuda-ZOB |
 | Lübeck ZOB         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 54:e6:fc:98:67:e1 | Garuda-HBF |
 |                 |                     | Peter    | TL-WR741ND | 0.3 | mit Internetanbindung | F8:D1:11:58:18:2E | Peter |
