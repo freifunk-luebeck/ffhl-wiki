@@ -25,3 +25,5 @@ Die theoretische Akkulaufzeit liegt über 55 Stunden, tatsächlich sollten 48 St
 [[hoehere Aufloesung|/bilder/Freifunkrouter/mopedknoten2.jpg]]
 
 ##Todo:
+Da derzeit alles noch relativ provisorisch ist, müsste man in Zukunft den Router noch besser verbauen, das noch zu lange Antennenkabel kürzen und vor allem eine vernünftige Spannungsversorgung bauen.
+Optional, möchte ich noch einen 2.Router verbauen, mit dem man Richtfunkverbindungen aufbauen könnte.
