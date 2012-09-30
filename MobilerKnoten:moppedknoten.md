@@ -9,3 +9,12 @@ Letztlich ist der einbau des Knotens keine große Angelegenheit: Eine Kiste für
 1. Problem war die Spannungsversorgung: Die Simson hat ein 12V Bordnetz, das keine saubere Gleichspannung hat. Der Router möchte eigentlich 9V Eingangsspannung haben, läut aber auch auf 5V noch problemlos. Daher ist die derzeitige Lösung, das der Router über ein USB-Stromadapter betrieben wird. 
 Der Router selbst ist in einer Alukiste seitlich am Mopped verbaut und ist so vor witterungseinflüssen geschützt.
 Als Antenne ist eine  
+
+## Bilder
+[[/bilder/Freifunkrouter/mopedknoten1_300px.jpg]]
+
+[[hoehere Aufloesung|mopedknoten1.jpg]]
+
+[[/bilder/Freifunkrouter/mopedknoten2_300px.jpg]]
+
+[[hoehere Aufloesung|mopedknoten2.jpg]]
