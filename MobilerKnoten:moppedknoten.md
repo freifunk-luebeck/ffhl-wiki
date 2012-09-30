@@ -12,6 +12,9 @@ Letztlich ist der einbau des Knotens keine große Angelegenheit: Eine Kiste für
 
 3. Als Antenne ist eine 9dBi Omniantenne verbaut. Die Antenne hat überm Rücklicht neben der 11m Antenne platz gefunden. Als Halter dient eine gummiegelagerte Rohrschelle. 
 
+Erste Tests haben gezeigt, das das System Problemlos funktioniert. Der Empfang ist super und die Alltagstauglichkeit wird sich im laufe der Zeit zeigen. Problem könnte die Antenne werden, da sie relativ empfindlich ist und eventuell beim auf und absteigen beschädigt werden könnte.
+Die theoretische Akkulaufzeit liegt über 55 Stunden, tatsächlich sollten 48 Stunden Dauerbetrieb auf Akku die Höchstgrenze sein.
+
 ## Bilder
 [[/bilder/Freifunkrouter/mopedknoten1_300px.jpg]]
 
@@ -20,3 +23,5 @@ Letztlich ist der einbau des Knotens keine große Angelegenheit: Eine Kiste für
 [[/bilder/Freifunkrouter/mopedknoten2_300px.jpg]]
 
 [[hoehere Aufloesung|/bilder/Freifunkrouter/mopedknoten2.jpg]]
+
+##Todo:
