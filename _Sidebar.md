@@ -8,7 +8,7 @@
    * [[Texte]]
    * [[Pressebeiträge|Pressebeitraege]]
  * [[Aktive Knoten|Knoten]]
-   * [[mobiler Knoten|mobilerKnoten]]
+   * [[mobile Knoten|mobileKnoten]]
  * [[Dienste im Netz|Freifunk verwenden]]
    * [[Freifunk Verzeichnis]]
    * [[Telefon (VoIP)|Telefon-voip]]
