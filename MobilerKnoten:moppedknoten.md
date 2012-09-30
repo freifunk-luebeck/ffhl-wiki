@@ -15,8 +15,8 @@ Letztlich ist der einbau des Knotens keine große Angelegenheit: Eine Kiste für
 ## Bilder
 [[/bilder/Freifunkrouter/mopedknoten1_300px.jpg]]
 
-[[hoehere Aufloesung|mopedknoten1.jpg]]
+[[hoehere Aufloesung|/bilder/Freifunkrouter/mopedknoten1.jpg]]
 
 [[/bilder/Freifunkrouter/mopedknoten2_300px.jpg]]
 
-[[hoehere Aufloesung|mopedknoten2.jpg]]
+[[hoehere Aufloesung|/bilder/Freifunkrouter/mopedknoten2.jpg]]
