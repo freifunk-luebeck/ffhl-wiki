@@ -7,8 +7,10 @@ Letztlich ist der einbau des Knotens keine große Angelegenheit: Eine Kiste für
 
 ##Umsetzung und derzeitiger Stand:
 1. Problem war die Spannungsversorgung: Die Simson hat ein 12V Bordnetz, das keine saubere Gleichspannung hat. Der Router möchte eigentlich 9V Eingangsspannung haben, läut aber auch auf 5V noch problemlos. Daher ist die derzeitige Lösung, das der Router über ein USB-Stromadapter betrieben wird. 
-Der Router selbst ist in einer Alukiste seitlich am Mopped verbaut und ist so vor witterungseinflüssen geschützt.
-Als Antenne ist eine  
+
+2. Der Router selbst ist in einer Alukiste seitlich am Mopped verbaut und ist so vor Witterungseinflüssen geschützt.
+
+3. Als Antenne ist eine 9dBi Omniantenne verbaut. Die Antenne hat überm Rücklicht neben der 11m Antenne platz gefunden. Als Halter dient eine gummiegelagerte Rohrschelle. 
 
 ## Bilder
 [[/bilder/Freifunkrouter/mopedknoten1_300px.jpg]]
