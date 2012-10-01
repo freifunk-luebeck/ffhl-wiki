@@ -39,11 +39,11 @@ Aus dem Freifunknetz:
 | Rübenkoppel, Brandenbaum  | 53.856122 10.721074 | Groeni    | TL-WR1043ND | 0.3pre | Verteiler / Richtfunk | 56:e6:fc:98:58:f3 | Rübe 2 |
 | 23556 Lübeck              | 53.867605 10.656458 | Mizu      | TL-WR1043ND | 0.3pre | mit Internetanbindung | fa:d1:11:25:95:58 | mizu-AP |
 | Bürgerweide               | 53.842003 10.704269 | jix & Laeila | TL-WR1043ND | 0.3pre | Internetanbindung  | 92:f6:52:3f:b9:26 | kyubey |
-| Ratzeburger Allee         | 53.846354 10.707188 | Jozu | TL-WR741ND | 0.3 | Internetanbindung | b0:48:7a:cb:27:6c | Yoshi |
-| St. Jürgen                |  | Kaspar | TL-WR1043ND | 0.3pre | Internetanbindung | b2:48:7a:a1:16:de | Yangshuo |
+| Ratzeburger Allee         | 53.846354 10.707188 | Jozu      | TL-WR741ND | 0.3 | Internetanbindung | b0:48:7a:cb:27:6c | Yoshi |
+| St. Jürgen                |                     | Kaspar | TL-WR1043ND | 0.3pre | Internetanbindung | b2:48:7a:a1:16:de | Yangshuo |
 | Hansestraße, Ecke Wendische | 53.861241 10.662248 | Pascal | TL-WR741ND | 0.3pre | mit Internetanbindung | b2:48:7a:cb:26:8c | Banane |
 | Hansestraße, Ecke Wendische | 53.861161 10.662335 | Pascal | TL-WDR3600 | 0.3no | mit Internetanbindung | 64:70:02:92:51:b4 | Birne |
-|                            | 53.84598 10.70838 |        | TL-WR1043ND | 0.3pre | mit Internetanbindung | b2:48:7a:df:20:fa | Rapture |
+|                            | 53.84598 10.70838 |           | TL-WR1043ND | 0.3pre | mit Internetanbindung | b2:48:7a:df:20:fa | Rapture |
 | St. Lorenz Nord | | magu |TL-WR1043ND | 0.3pre (build 12Jun21) | | b2:48:7a:97:fa:56 | namshub |
 |                 | | magu |TL_WR741ND  | 0.3pre (build 12Jul06) | | f8:d1:11:58:29:0e | enki |
 |                 |                     | magu     |TL_WR741ND  | 0.3pre (build 12Jul06)| | f8:d1:11:58:18:2f | innana |
@@ -62,23 +62,23 @@ Aus dem Freifunknetz:
 | Stockelsdorf    | 53.895625 10.652161 | Fluse019 |TL_3600     | 0.3                   | | 90:f6:52:b1:95:1c | Fluse841nd |
 | Stockelsdorf    | 53.902516 10.669674 | Fluse011 |TL_WR741ND  | 0.3                   | | f8:d1:11:55:9f:86 | Kinder |
 |                 | 53.867027 10.672108 | Fluse016 |TL_WR741ND  | 0.3                   | | f8:d1:11:55:9b:e4 | TimeOut |
-| ZOB R           | 53.866346 10.671321 | Fluse017 |TL_WR741ND  | 0.3.1                   | | b0:48:7a:cb:2c:b8 | ZOB R  |
-| Lanzentrum      | 53.87643 10.65837   | Fluse012 |TL-WR1043ND | 0.3.1                   | | 56:e6:fc:b0:43:80 | LAN-Zentrum |
+| ZOB R           | 53.866346 10.671321 | Fluse017 |TL_WR741ND  | 0.3.1                 | | b0:48:7a:cb:2c:b8 | ZOB R  |
+| Lanzentrum      | 53.87643 10.65837   | Fluse012 |TL-WR1043ND | 0.3.1                 | | 56:e6:fc:b0:43:80 | LAN-Zentrum |
 | FF an UMTS      |                     | Fluse015 |TL-WR1043ND | 0.? | Internet per UMTS | 54:e6:fc:af:43:ba | Mobiler Knoten |
-| Hanseatic 2     | 53.865157 10.6709   | Fluse020 |TL_WR741ND | 0.3.1 |                       | f8:d1:11:7b:de:58 | Hanseatic 2 |
-| König. China    | 53.866844 10.6886   | Fluse021 |TL_WR741ND | 0.3 |                       | F8:d1:11:7b:e5:2c | China |
-| König. E.-Zig.  | 53.86728 10.688387  | Fluse022 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:28 | E-Zig |
-| Hanseatic 3     | 53.865119 10.670505 | Fluse023 |TL_WR741ND | 0.3.1 |                       | f8:d1:11:7b:e4:f0 | Hanseatic 3 |
-| Hanseatic 4     | 53.86516 10.670615  | Fluse024 |TL_WR741ND | 0.3.1 |                       | f8:d1:11:7b:e3:02 | Hanseatic 4 |
-|                 | 53.840515 10.70425  | Fluse025 |TL_WR741ND | 0.3 |                       | F8:d1:11:7b:e2:fe | Daisy |
-| Hanseatic 1     | 53.865151 10.670697 | Fluse027 |TL_WR741ND | 0.3.1 | mit Internetanbindung | F8:d1:11:7b:e4:de | Hanseatic 1 |
-| Königspassage   | 53.867398 10.68891  | Fluse029 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e4:80 | Cafe Moment |
-| Königspassage   | 53.86703 10.688718  | Fluse028 |TL_WR741ND | 0.3 |                       | f8:d1:11:7b:e5:36 | Eis |
+| Hanseatic 2     | 53.865157 10.6709   | Fluse020 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:de:58 | Hanseatic 2 |
+| König. China    | 53.866844 10.6886   | Fluse021 |TL_WR741ND | 0.3 |                    | F8:d1:11:7b:e5:2c | China |
+| König. E.-Zig.  | 53.86728 10.688387  | Fluse022 |TL_WR741ND | 0.3 |                    | f8:d1:11:7b:e5:28 | E-Zig |
+| Hanseatic 3     | 53.865119 10.670505 | Fluse023 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e4:f0 | Hanseatic 3 |
+| Hanseatic 4     | 53.86516 10.670615  | Fluse024 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e3:02 | Hanseatic 4 |
+|                 | 53.840515 10.70425  | Fluse025 |TL_WR741ND | 0.3 |                    | F8:d1:11:7b:e2:fe | Daisy |
+| Hanseatic 1     | 53.865151 10.670697 | Fluse027 |TL_WR741ND | 0.3.1 | Uplink           | F8:d1:11:7b:e4:de | Hanseatic 1 |
+| Königspassage   | 53.867398 10.68891  | Fluse029 |TL_WR741ND | 0.3 |                    | f8:d1:11:7b:e4:80 | Cafe Moment |
+| Königspassage   | 53.86703 10.688718  | Fluse028 |TL_WR741ND | 0.3 |                    | f8:d1:11:7b:e5:36 | Eis |
 |                 | 53.86898 10.684700  | Fluse030 |TL_WR741ND | 0.3|       | B0:48:7A:CB:20:08 | AliBaba |
 |                 | 53.869929 10.663736 | Fluse031 |TL_WR741ND | 0.3|                        | b0:48:7a:cb:21:24 | Candys |
 |                 | 53.855360 10.692420 | Pauline  |TL_WR741ND | 0.3|                        | b0:48:7a:cb:1f:98 | Pauline |
 |                 | 53.868922 10.671525 | Fluse033 |TL_WR741ND | 0.3|                        | B0:48:7A:CB:1F:B8 | Bl NO |
-|                 | 53.866401 10.670819 | Fluse034 |TL_WR741ND | 0.3|  Uplink                | bo:48:7a:cb:1f:90 | CoCo 2a |
+|                 | 53.866401 10.670819 | Fluse034 |TL_WR741ND | 0.3|  Uplink                | b0:48:7a:cb:1f:90 | CoCo 2a |
 |                 | 53.86875 10.6712898 | Fluse035 |TL_WR741ND | 0.3|  Uplink                | B0:48:7a:cb:1f:fa | Bl SW |
 | König Mall 3    | 53.867167 10.688595 | Fluse037 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:d0 | König Mall 3 |
 | König. Mall mitte| 53.867249 10.688965 | Fluse038 |TL_WR741ND | 0.3|                       | B0:48:7a:cb:12:9c | König Mall 2 |
@@ -86,17 +86,17 @@ Aus dem Freifunknetz:
 | König. Görtz    | 53.867306 10.689003 | Fluse040 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fc | Alt Görtz |
 |                 | 53.86734 10.671757  | Fluse041 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:20 | HanseDiner 1 |
 | König. Mall 1   | 53.86735 10.688445  | Fluse042 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:c0 | König Mall 1 |
-| Dankwartsgrube  | 53.862968 10.682708 | Andre    | TL_WR741ND| 0.3 | mit Internetanbindung | F8:d1:11:7b:e4:ca | 9to5 |
-| Rehsprung, Lübeck | 53.910475 10.805865 | Volker | TL-WR1043ND | 0.3pre | mit Internetanbindung | b0:48:7a:99:e0:7e | Dennis |
-| Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre | | f8:d1:11:55:9f:9a | Garuda-ZOB |
-| Lübeck ZOB         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | mit Internetanbindung | 54:e6:fc:98:67:e1 | Garuda-HBF |
-|                 |                     | Peter    | TL-WR741ND | 0.3 | mit Internetanbindung | F8:D1:11:58:18:2E | Peter |
-| Koberg       | 53.87164921 10.6898507 | DerDerwish |TL_WR741ND  | 0.3                   | | F8:D1:11:58:00:3A | Frank001 |
-| wechselnd       |  | DerDerwish |TL_WR741ND  | 0.3                   | mit USB-Stromversorgung | F8:D1:11:38:05:F6 | Frank002 |
-| Rosenstr., Innenstadt | 53.871580 10.691900 | bo         | TL-WR1043ND  | 0.3                 | mit Internetanbindung | 54:e6:fc:98:5a:2e | kbct |
-| | | BKA | | custom | | 02:b4:ab:4a:42:42 | BKA-van017 |
-| | | Devil | | custom | | 02:13:13:13:13:13 | Hellgate |
-|| | berik | | 0.3.1|derzeit Mobilknoten |B0:48:7a:cb:20:be| randomweb |
+| Dankwartsgrube  | 53.862968 10.682708 | Andre    |TL_WR741ND| 0.3 | Uplink                 | F8:d1:11:7b:e4:ca | 9to5 |
+| Rehsprung, Lübeck | 53.910475 10.805865 | Volker |TL-WR1043ND | 0.3pre | Uplink            | b0:48:7a:99:e0:7e | Dennis |
+| Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre |               | f8:d1:11:55:9f:9a | Garuda-ZOB |
+| Lübeck ZOB         | 53.866808 10.67171 | MHintz    | TL-WR1043ND | 0.3pre | Uplink        | 54:e6:fc:98:67:e1 | Garuda-HBF |
+|                 |                     | Peter    | TL-WR741ND | 0.3 | Uplink               | F8:D1:11:58:18:2E | Peter |
+| Koberg       | 53.87164921 10.6898507 | DerDerwish |TL_WR741ND  | 0.3                   |  | F8:D1:11:58:00:3A | Frank001 |
+| wechselnd       |  | DerDerwish |TL_WR741ND  | 0.3               | mit USB-Stromversorgung | F8:D1:11:38:05:F6 | Frank002 |
+| Rosenstr., Innenstadt | 53.871580 10.691900 | bo | TL-WR1043ND  | 0.3 | Uplink             | 54:e6:fc:98:5a:2e | kbct |
+| | | BKA | | custom |                                                                       | 02:b4:ab:4a:42:42 | BKA-van017 |
+| | | Devil | | custom |                                                                     | 02:13:13:13:13:13 | Hellgate |
+|| | berik | | 0.3.1|derzeit Mobilknoten                                                     |B0:48:7a:cb:20:be  | randomweb |
 | Wohnheim Anschützstr. 11 (2. OG) | 53.837566 10.694106 | zenforyen | TL-WR842ND | 0.3 (build 120917) | im Uninetz | 64:70:02:82:ce:fc | Prometheus |
 | Georgstrasse 34 | 53.860217 10.670361 | Smarty |TL_WR741ND | 0.3|  Uplink | B0:48:7A:CB:2F:1D | FFHL-Smarty-1 |
 | | | Zafer | TL-WDR3600 | 0.3.1 | mit Internetanbindung | 64:70:02:aa:b6:dc | zafer |
