@@ -1,6 +1,6 @@
 # TP-Link WR1043ND
 [[/bilder/Freifunkrouter/TP-Link_1043nd_300px.JPG]]
-[[höhere Auflösung|/bilder/Freifunkrouter/TP-Link_1043nd_300px.JPG]]
+[[höhere Auflösung|bilder/Freifunkrouter/TP-Link_1043nd.JPG]]
 
 ## Verwendungszweck
 Diese Router werden von uns für neue Wolken empfohlen. Sie bieten genug Speicher für die Verbindung mit dem Rest des Netzes über das VPN.

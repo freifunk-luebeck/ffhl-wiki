@@ -1,6 +1,6 @@
 # TP-Link WR741ND
 [[/bilder/Freifunkrouter/TP-Link_741nd_300px.JPG]]
-[[höhere Auflösung|/bilder//bilder/Freifunkrouter/TP-Link_741nd.JPG]]
+[[höhere Auflösung|bilder/Freifunkrouter/TP-Link_741nd.JPG]]
 
 ## Verwendungszweck
 Diese Router sind in erster Linie dazu gedacht, die vorhandene Wolke direkt zu erweitern.
