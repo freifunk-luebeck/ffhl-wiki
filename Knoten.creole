@@ -57,7 +57,7 @@ Aus dem Freifunknetz:
 | ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3.1 | | f8:d1:11:7e:58:0c | ZOB L    |
 |                 |                     | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
 |                 | 53.867266 10.671742 | Fluse010 |TL_WR741ND  | 0.3                   | | f8:d1:11:7e:2a:d8 | HanseDiner 2 |
-|Reserve 1043     |                     | Fluse014 |TL_WR741ND  | 0.3.1                 | | b0:48:7a:bb:50:54 | Fluse014 |
+|Reserve 1043     | 53.868967 10.671359 | Fluse014 |TL_WR741ND  | 0.3.1                 | | b0:48:7a:bb:50:54 | Fluse014 |
 |                 | 53.895523 10.65213  | Fluse018 |TL_WR841ND  | 0.3                   | | 64:70:02:91:53:5a | Fluse3600 |
 | Stockelsdorf    | 53.895625 10.652161 | Fluse019 |TL_3600     | 0.3                   | | 90:f6:52:b1:95:1c | Fluse841nd |
 | Stockelsdorf    | 53.902516 10.669674 | Fluse011 |TL_WR741ND  | 0.3                   | | f8:d1:11:55:9f:86 | Kinder |
