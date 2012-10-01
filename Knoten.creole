@@ -100,7 +100,8 @@ Aus dem Freifunknetz:
 | Wohnheim Anschützstr. 13 (6. OG) | 53.838095 10.693865 | Pascal M. | TL-WR841ND | 0.3 | im Uninetz | b2:48:7a:cc:2b:9a | Herkules |
 | Georgstrasse 34 | 53.860217 10.670361 | Smarty |TL_WR741ND | 0.3|  Uplink | B0:48:7A:CB:2F:1D | FFHL-Smarty-1 |
 | | | Zafer | TL-WDR3600 | 0.3.1 | mit Internetanbindung | 64:70:02:aa:b6:dc | zafer |
-| Walli | 53.869884311631 10.677222884229 | Brazil | TL_WR741ND | 0.3.1 | mit Internetanbindung | fa:d1:11:7e:97:dd | Brazil |
+| Walli | 53.869884311631 10.677222884229 | Brazil-Plenum | TL-WR741ND | 0.3.1 | mit Internetanbindung | fa:d1:11:7e:97:dd | Brazil |
+| Walli | 53.86985900784 10.676530874252 | Treibsand-Plenum | TL-WR741ND | 0.3.1 | mit Internetanbindung | f8:d1:11:7e:92:40 | Treibsand |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
