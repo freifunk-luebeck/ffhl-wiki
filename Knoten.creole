@@ -79,8 +79,8 @@ Aus dem Freifunknetz:
 |                 | 53.868922 10.671525 | Fluse033 |TL_WR741ND | 0.3|                        | B0:48:7A:CB:1F:B8 | BlauDirekt NO |
 |                 | 53.866401 10.670819 | Fluse034 |TL_WR741ND | 0.3.1|  Uplink                | b0:48:7a:cb:1f:90 | CoCo 2a |
 |                 | 53.86875 10.6712898 | Fluse035 |TL_WR741ND | 0.3|  Uplink                | B0:48:7a:cb:1f:fa | BlauDirekt SW |
-| König Mall 3    | 53.867167 10.688595 | Fluse037 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:d0 | König Mall 3 |
-| König. Mall mitte| 53.867249 10.688965 | Fluse038 |TL_WR741ND | 0.3|                       | B0:48:7a:cb:12:9c | König Mall 2 |
+| König Mall 3    | 53.867167 10.688595 | Fluse037 |TL_WR741ND | 0.3.1|                        | B0:48:7a:cb:1f:d0 | König Mall 3 |
+| König. Mall mitte| 53.867249 10.688965 | Fluse038 |TL_WR741ND | 0.3.1|                       | B0:48:7a:cb:12:9c | König Mall 2 |
 | König. Werkstatt| 53.867587 10.689464 | Fluse039 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:2e | Werkstatt |
 | König. Görtz    | 53.867306 10.689003 | Fluse040 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fc | Alt Görtz |
 |                 | 53.86734 10.671757  | Fluse041 |TL_WR741ND | 0.3.1|                        | B0:48:7a:cb:20:20 | HanseDiner 1 |
