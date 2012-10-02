@@ -84,7 +84,7 @@ Aus dem Freifunknetz:
 | König. Werkstatt| 53.867587 10.689464 | Fluse039 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:20:2e | Werkstatt |
 | König. Görtz    | 53.867306 10.689003 | Fluse040 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:fc | Alt Görtz |
 |                 | 53.86734 10.671757  | Fluse041 |TL_WR741ND | 0.3.1|                        | B0:48:7a:cb:20:20 | HanseDiner 1 |
-| König. Mall 1   | 53.86735 10.688445  | Fluse042 |TL_WR741ND | 0.3|                        | B0:48:7a:cb:1f:c0 | König Mall 1 |
+| König. Mall 1   | 53.86735 10.688445  | Fluse042 |TL_WR741ND | 0.3.1|                        | B0:48:7a:cb:1f:c0 | König Mall 1 |
 | Dankwartsgrube  | 53.862968 10.682708 | Andre    |TL_WR741ND| 0.3 | Uplink                 | F8:d1:11:7b:e4:ca | 9to5 |
 | Rehsprung, Lübeck | 53.910475 10.805865 | Volker |TL-WR1043ND | 0.3pre | Uplink            | b0:48:7a:99:e0:7e | Dennis |
 | Lübeck ZOB         | 53.866705 10.671694 | MHintz    | TL-WR741ND | 0.3pre |               | f8:d1:11:55:9f:9a | Garuda-ZOB |
