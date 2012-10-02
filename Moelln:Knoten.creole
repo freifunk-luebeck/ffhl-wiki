@@ -7,25 +7,11 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 
 **Aktuell befinden sich in allen Karten noch die Möllner & Lübecker Knoten gemeinsam.**
 
-Aus dem Internet:
+* Aus dem Internet: [[Stadtkarte|http://188.138.99.158/mesh/geomap.html]] | [[Interaktiver Graph|http://188.138.99.158/mesh/nodes.html]] (Code: https://github.com/tcatm/ffmap-d3)
+* Aus dem Internet (alternative Links): [[Stadtkarte|http://holstentor.metameute.de/mesh/geomap.html]] | [[Interaktiver Graph|http://holstentor.metameute.de/mesh/nodes.html]]
 
- * ([[Stadtkarte|http://188.138.99.158/mesh/geomap.html]])
- * ([[Interaktiver Graph|http://188.138.99.158/mesh/nodes.html]]) (Code: https://github.com/tcatm/ffmap-d3)
-
-Aus dem Internet (alternative Links):
-
- * ([[Stadtkarte|http://holstentor.metameute.de/mesh/geomap.html]])
- * ([[Interaktiver Graph|http://holstentor.metameute.de/mesh/nodes.html]])
-
-Aus dem Freifunknetz:
-
- * [[Stadtkarte|http://burgtor.ffhl/mesh/geomap.html]]
- * [[Interaktiver Graph|http://burgtor.ffhl/mesh/nodes.html]]
-
-Aus dem Freifunknetz (alternative Links):
-
- * [[Stadtkarte|http://holstentor.ffhl/mesh/geomap.html]]
- * [[Interaktiver Graph|http://holstentor.ffhl/mesh/nodes.html]]
+* Aus dem Freifunknetz: [[Stadtkarte|http://burgtor.ffhl/mesh/geomap.html]] | [[Interaktiver Graph|http://burgtor.ffhl/mesh/nodes.html]]
+* Aus dem Freifunknetz (alternative Links): [[Stadtkarte|http://holstentor.ffhl/mesh/geomap.html]] | [[Interaktiver Graph|http://holstentor.ffhl/mesh/nodes.html]]
 
 == Bereits vorhandene Knoten
 
