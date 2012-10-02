@@ -13,4 +13,6 @@ einen Stand betreibt und Netzwerk/Internet benötigt.
 5. Schlußendlich, muss er noch vernünftig transportabel sein, aber trotzdem robust genug um unterschiedlichen Witterungsbedingungen zu widerstehen.
 
 ##Planung:
+Als Basis für den Knoten dient eine wasserdichte Alukiste. In ihr sollen alle Komponenten fest eingebaut werden und zusätzlich etwas Stauraum für Zubehör vorhanden sein. Die Stromversorgung sollen 1 oder 2 Autobatterien übernehmen (12 V 55Ah). Die Batterien sollen über ein intigriertes Ladegerät geladen werden können. Spannungswandler übernehmen die Umwandlung der 12V auf 9V bzw 5V die von den Komponenten benötigt werden. 
+Das komplette System soll von einem Arduino kontrolliert werden, der unterschiedliche Parameter misst (Spannung, Temperatur etc) und entsprechend reagiert. Zusätzlich wird dieser per Netzwerk erreichbar sein und so Fernkontrolle der Hardware ermöglichen (z.b. Router oder eine Heizung einschalten/ausschalten).
 
