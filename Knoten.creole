@@ -66,14 +66,14 @@ Aus dem Freifunknetz:
 | FF an UMTS      |                     | Fluse015 |TL-WR1043ND | 0.? | Internet per UMTS | 54:e6:fc:af:43:ba | Mobiler Knoten |
 | Hanseatic 2     | 53.865157 10.6709   | Fluse020 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:de:58 | Hanseatic 2 |
 | König. China    | 53.866844 10.6886   | Fluse021 |TL_WR741ND | 0.3 |                    | F8:d1:11:7b:e5:2c | China |
-| König. E.-Zig.  | 53.86728 10.688387  | Fluse022 |TL_WR741ND | 0.3 |                    | f8:d1:11:7b:e5:28 | E-Zig |
+| König. E.-Zig.  | 53.86728 10.688387  | Fluse022 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e5:28 | E-Zig |
 | Hanseatic 3     | 53.865119 10.670505 | Fluse023 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e4:f0 | Hanseatic 3 |
 | Hanseatic 4     | 53.86516 10.670615  | Fluse024 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e3:02 | Hanseatic 4 |
 |                 | 53.840515 10.70425  | Fluse025 |TL_WR741ND | 0.3 |                    | F8:d1:11:7b:e2:fe | Daisy |
 | Hanseatic 1     | 53.865151 10.670697 | Fluse027 |TL_WR741ND | 0.3.1 | Uplink           | F8:d1:11:7b:e4:de | Hanseatic 1 |
 |                 |                     | Fluse029 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e4:80 | Reserverknoten |
-| Königspassage   | 53.86703 10.688718  | Fluse028 |TL_WR741ND | 0.3 |                    | f8:d1:11:7b:e5:36 | Eis |
-|                 | 53.86898 10.684700  | Fluse030 |TL_WR741ND | 0.3|       | B0:48:7A:CB:20:08 | AliBaba |
+| Königspassage   | 53.86703 10.688718  | Fluse028 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e5:36 | Eis |
+|                 | 53.86898 10.684700  | Fluse030 |TL_WR741ND | 0.3|                     | B0:48:7A:CB:20:08 | AliBaba |
 |                 | 53.869929 10.663736 | Fluse031 |TL_WR741ND | 0.3|                        | b0:48:7a:cb:21:24 | Candys |
 |                 | 53.855360 10.692420 | Pauline  |TL_WR741ND | 0.3|                        | b0:48:7a:cb:1f:98 | Pauline |
 |                 | 53.868922 10.671525 | Fluse033 |TL_WR741ND | 0.3|                        | B0:48:7A:CB:1F:B8 | BlauDirekt NO |
