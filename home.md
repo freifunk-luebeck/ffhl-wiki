@@ -33,6 +33,7 @@ Beonders interessant für Gastronomiebetriebe und Hotels. Mit dem Freifunkrouter
 
 
 ## Mölln
+
 In Mölln wird gerade mit Unterstützung der Lübecker Community ein neues Netz aufgebaut. Näheres dazu findet sich im entsprechenden [[Unterpunkt|Moelln]].
  
  
