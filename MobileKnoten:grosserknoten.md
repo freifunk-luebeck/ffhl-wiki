@@ -17,3 +17,6 @@ Als Basis für den Knoten dient eine wasserdichte Alukiste. In ihr sollen alle K
 Das komplette System soll von einem Arduino kontrolliert werden, der unterschiedliche Parameter misst (Spannung, Temperatur etc) und entsprechend reagiert. Zusätzlich wird dieser per Netzwerk erreichbar sein und so Fernkontrolle der Hardware ermöglichen (z.b. Router oder eine Heizung einschalten/ausschalten).
 Für Richtfunkverbindungen könnte man 2 Tp-Link 741 Router oder ein Alix Board verwenden. 
 
+##Ansprechpartner:
+Derzeit ist Erik (berik) für dieses Projekt verantwortlich. Er ist per IRC erreichbar.
+
