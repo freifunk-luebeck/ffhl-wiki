@@ -50,14 +50,14 @@ Aus dem Freifunknetz:
 | Beckergrube     | 53.869575 10.681018 | Fluse001 |TL_WR741ND  | 0.3pre (build 120809) | Tadeusz | f8:d1:11:7e:57:98 | Tadeus |
 |                 | 53.895581 10.652755 | Fluse002 |TL_WR741ND  | 0.3pre (build 1208013)| | f8:d1:11:7e:57:76 | Christopher |
 | ZOB RU          | 53.866414 10.671173 | Fluse003/Abdi |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:2a:f2 | ZOB RU |
-|                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:e2 | Prians |
-|                 | 53.866379 10.670689 | Fluse006 |TL_WR741ND  | 0.3.1                 | | f8:d1:11:7e:0b:65 | Coco2 b |
-| ZOB LU          | 53.866408 10.671088 | Fluse007 |TL_WR741ND  | 0.3.1 | | f8:d1:11:7e:2c:76 | ZOB LU   |
-| ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3.1 | | f8:d1:11:7e:58:0c | ZOB L    |
+|                 | 53.873406 10.691006 | Fluse004 |TL_WR741ND  | 0.3.1 |                 | f8:d1:11:7e:57:e2 | Prians |
+|                 | 53.866379 10.670689 | Fluse006 |TL_WR741ND  | 0.3.1 |                 | f8:d1:11:7e:0b:65 | Coco2 b |
+| ZOB LU          | 53.866408 10.671088 | Fluse007 |TL_WR741ND  | 0.3.1 |                 | f8:d1:11:7e:2c:76 | ZOB LU   |
+| ZOB L           | 53.86634 10.67122   | Fluse008 |TL_WR741ND  | 0.3.1 |                 | f8:d1:11:7e:58:0c | ZOB L    |
 |                 |                     | Fluse009 |TL_WR741ND  | 0.3pre (build 120809) | | f8:d1:11:7e:57:7a | Fluse009 |
 |                 | 53.867266 10.671742 | Fluse010 |TL_WR741ND  | 0.3                   | | f8:d1:11:7e:2a:d8 | HanseDiner 2 |
 |Reserve 1043     | 53.868967 10.671359 | Fluse014 |TL_WR741ND  | 0.3.1                 | | b0:48:7a:bb:50:54 | Fluse014 |
-|                 | 53.895523 10.65213  | Fluse018 |TL_WR841ND  | 0.3                   | | 64:70:02:91:53:5a | Fluse3600 |
+|                 | 53.895523 10.65213  | Fluse018 |TL_WR841ND  | 0.3.1                   | | 64:70:02:91:53:5a | Fluse3600 |
 | Stockelsdorf    | 53.895625 10.652161 | Fluse019 |TL_3600     | 0.3                   | | 90:f6:52:b1:95:1c | Fluse841nd |
 | Stockelsdorf    | 53.902516 10.669674 | Fluse011 |TL_WR741ND  | 0.3                   | | f8:d1:11:55:9f:86 | Kinder |
 |                 | 53.867027 10.672108 | Fluse016 |TL_WR741ND  | 0.3                   | | f8:d1:11:55:9b:e4 | TimeOut |
@@ -69,7 +69,7 @@ Aus dem Freifunknetz:
 | König. E.-Zig.  | 53.86728 10.688387  | Fluse022 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e5:28 | E-Zig |
 | Hanseatic 3     | 53.865119 10.670505 | Fluse023 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e4:f0 | Hanseatic 3 |
 | Hanseatic 4     | 53.86516 10.670615  | Fluse024 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e3:02 | Hanseatic 4 |
-|                 | 53.840515 10.70425  | Fluse025 |TL_WR741ND | 0.3 |                    | F8:d1:11:7b:e2:fe | Daisy |
+|                 | 53.840515 10.70425  | Fluse025 |TL_WR741ND | 0.3.1 |                    | F8:d1:11:7b:e2:fe | Daisy |
 | Hanseatic 1     | 53.865151 10.670697 | Fluse027 |TL_WR741ND | 0.3.1 | Uplink           | F8:d1:11:7b:e4:de | Hanseatic 1 |
 |                 |                     | Fluse029 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e4:80 | Reserverknoten |
 | Königspassage   | 53.86703 10.688718  | Fluse028 |TL_WR741ND | 0.3.1 |                  | f8:d1:11:7b:e5:36 | Eis |
