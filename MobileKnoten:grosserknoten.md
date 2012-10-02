@@ -8,4 +8,7 @@ Dazu muss er zusätzlich noch zu den Fähigkeiten, als Uplink zu dienen und Mesh
 1. Erweiterte Meshfunktionalität: Neben dem lokalen Wlan, sollte der Knoten noch mindestens eine, um als Relay dienen zu können eher zwei, Richtfunkverbindungen aufbauen können.
 2. Er sollte als mobiler Uplink arbeiten können. Dazu bietet sich UMTS oder LTE an.
 3. Als Relay müsste ein längerer (z.b. 1 Woche) autonomer Betrieb möglich sein.
-4. 
+4. Er sollte in der Lage sein ein eigenes Netzwerk aufzuspannen, auch per Lan. Das wäre z.b. sinnvoll, wenn man
+einen Stand betreibt und Netzwerk/Internet benötigt.
+5. Schlussendlich, muss er noch vernünftig transportabel sein, aber trotzdem robust genug um unterschiedlichen Witterungsbedingungen zu widerstehen.
+
