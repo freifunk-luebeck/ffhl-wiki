@@ -15,7 +15,9 @@ einen Stand betreibt und Netzwerk/Internet benötigt.
 ##Planung:
 Als Basis für den Knoten dient eine wasserdichte Alukiste. In ihr sollen alle Komponenten fest eingebaut werden und zusätzlich etwas Stauraum für Zubehör vorhanden sein. Die Stromversorgung sollen 1 oder 2 Autobatterien übernehmen (12 V 55Ah). Die Batterien sollen über ein intigriertes Ladegerät geladen werden können. Spannungswandler übernehmen die Umwandlung der 12V auf 9V bzw 5V die von den Komponenten benötigt werden. 
 Das komplette System soll von einem Arduino kontrolliert werden, der unterschiedliche Parameter misst (Spannung, Temperatur etc) und entsprechend reagiert. Zusätzlich wird dieser per Netzwerk erreichbar sein und so Fernkontrolle der Hardware ermöglichen (z.b. Router oder eine Heizung einschalten/ausschalten).
-Für Richtfunkverbindungen könnte man 2 Tp-Link 741 Router oder ein Alix Board verwenden. 
+Für Richtfunkverbindungen könnte man 2 Tp-Link 741 Router oder ein Alix-Board verwenden. Für den Richtfunk sind zwei Parabol oder Yagi Antennen mit etwa 24dbi angedacht.
+Das lokale Wlan wird über einen TP-Link 841 aufgespannt, der mit zwei +9dbi Omniantenne ausgerüstet wird.
+
 
 ##Ansprechpartner:
 Derzeit ist Erik (berik) für dieses Projekt verantwortlich. Er ist per IRC erreichbar.
