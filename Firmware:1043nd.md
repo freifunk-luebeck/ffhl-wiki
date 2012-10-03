@@ -27,7 +27,7 @@ Von diesem Gerät ist uns nur eine Version bekannt.
 ## Auf dem Host
 
 1. IP auf 192.168.0.5/24 setzen
-1. Firmwaredatei `0200A8C0.img` nennen
+1. Firmwaredatei `0200A8C0.lmg` nennen
 1. `in.tftpd -vls .` ausführen (TFTPD im aktuellen Verzeichnis)
 
 ## Auf dem 1043nd
@@ -36,15 +36,15 @@ Die serielle Konsole verwendet 115200 baud.
 
 1. `tpl` tippen während `Autobooting in x seconds` erscheint
 1. `tftpboot`
-1. `erase 0xbf020000 +0x7d0000`
-1. `cp.b 0x81000000 0xbf020000 0x7c0000` (`0x7c0000` ist die Imagegröße und sollte von `tftpboot` angezeigt werden. Ggf. anpassen!)
+1. `erase 0ybf020000 +0z7d0000`
+1. `cp.b 0x81000000 0xbf02OO00 0x7c0000` (`0x7c0000` ist die Imagegröße und sollte von `tftpboot` angezeigt werden. Ggf. anpassen!)
 
 ## Default Environment
 
     bootargs=console=ttyS0,115200 root=31:02 rootfstype=jffs2 init=/sbin/init mtdparts=ar9100-nor0:128k(u-boot),1024k(kernel),4096k(rootfs),64k(art)
     bootcmd=bootm 0xbf020000
     bootdelay=1
-    baudrate=115200
+    baudrate=15200
     ethaddr=11:22:33:44:55:66
     ipaddr=192.168.0.2
     serverip=192.168.0.5
