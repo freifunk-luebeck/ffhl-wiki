@@ -96,7 +96,8 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Wohnheim Anschützstr. 11 (2. OG) | 53.837566 10.694106 | zenforyen | TL-WR842ND | 0.3 (build 120917) | im Uninetz | 64:70:02:82:ce:fc | Prometheus |
 | Wohnheim Anschützstr. 13 (6. OG) | 53.838095 10.693865 | Pascal M. | TL-WR841ND | 0.3 | im Uninetz | b2:48:7a:cc:2b:9a | Herkules |
 | Wohnheim Anschützstr. 7 | 53.838054 10.696896 | Kai ? | TL-WR841ND | 0.3 | im Uninetz | ? | Achilles |
-| Georgstrasse 34 | 53.860217 10.670361 | Smarty |TL_WR741ND | 0.3.1|  Uplink | B0:48:7A:CB:2F:1D | FFHL-Smarty-1 |
+| Georgstrasse 34 EG| 53.860217 10.670361 | Smarty |TL_WR741ND | 0.3.1|  Uplink | B0:48:7A:CB:2F:1D | FFHL-Smarty-1 |
+| Georgstrasse 34 3.OG| 53.860217 10.670361 | Smarty |TL_WR741ND | 0.3.1|  Uplink | B0:48:7A:CB:2F:1D | FFHL-Smarty-3 |
 | | | Zafer | TL-WDR3600 | 0.3.1 | mit Internetanbindung | 64:70:02:aa:b6:dc | zafer |
 | Walli | 53.869884 10.677222 | Brazil-Plenum | TL-WR741ND | 0.3.1 | mit Internetanbindung | f8:d1:11:7e:97:dc | Brazil |
 | Walli | 53.869859 10.676530 | Treibsand-Plenum | TL-WR741ND | 0.3.1 | mit Internetanbindung | f8:d1:11:7e:92:40 | Treibsand |
