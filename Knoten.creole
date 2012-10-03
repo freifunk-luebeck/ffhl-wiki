@@ -104,15 +104,3 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
-
-== Bereits vorhandene Services
-
-Als Services zähle ich alle Knoten, die keine Router darstellen und eventuell Dienste im Netz anbieten.
-
-|=Name       |=Betreiber/Eigentümer  |=MAC               |=Netzanbindung  |=angebotene Dienste                   |
-| krtek      | MetaMeute             | ?                 | VPN            | Webdienste                           |
-| paul       | DerDerwish            | 00:e0:29:39:34:d7 | Intra-City-VPN | Testopfer, über VoIP (paul) anrufbar |
-
-== Per Zeroconf bekannt gegebene Web-Dienste
-
-http://10.130.0.8:8080/  (nur aus dem Mesh erreichbar)
