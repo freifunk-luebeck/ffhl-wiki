@@ -48,7 +48,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | innana           | magu             |                                  |                         | TL-WR741ND  | 0.3pre (build 12Jul06) | f8:d1:11:58:18:2f |                      |
 | mkm              | mkm              | Mölln                            | mit Internetanbindung   | TL-WR741ND  | 0.3pre      | B0:48:7A:DB:3B:18 |                                 |
 | Tadeus           | Fluse001         | Beckergrube                      | Tadeusz                 | TL-WR741ND  | 0.3pre (build 120809) | f8:d1:11:7e:57:98 | 53.869575 10.681018   |
-| Christopher      | Fluse002         |                                  |                         | TL-WR741ND  | 0.3pre (build 120813) | f8:d1:11:7e:57:76 | 53.895581 10.652755   |
+| Christopher      | Fluse002         |                                  |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7e:57:76 | 53.895581 10.652755   |
 | ZOB RU           | Fluse003/Abdi    | ZOB RU                           |                         | TL-WR741ND  | 0.3pre (build 120809) | f8:d1:11:7e:2a:f2 | 53.866414 10.671173   |
 | Prians           | Fluse004         |                                  |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7e:57:e2 | 53.873406 10.691006             |
 | Coco2 b          | Fluse006         |                                  |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7e:0b:65 | 53.866379 10.670689             |
