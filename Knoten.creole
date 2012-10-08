@@ -85,7 +85,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Alt Görtz        | Fluse040         | König. Görtz                     |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:fc | 53.867306 10.689003             |
 | HanseDiner 1     | Fluse041         |                                  |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:20:20 | 53.86734 10.671757              |
 | König Mall 1     | Fluse042         | König. Mall 1                    |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:c0 | 53.86735 10.688445              |
-| Salzmann         | Fluse046         | König.                           |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:7c | 53.86727 10.688600              |
+| Salzmann         | Fluse046         |                                  |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:7c |                                 |
 | Cafe am Theater  | Fluse047         | Beckergrube                      |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:fc | 53.869368743803 10.686186826712 |
 | 9to5             | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND  | 0.3         | f8:d1:11:7b:e4:ca | 53.862968 10.682708             |
 | Dennis           | Volker           | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND | 0.3pre      | b0:48:7a:99:e0:7e | 53.910475 10.805865             |
