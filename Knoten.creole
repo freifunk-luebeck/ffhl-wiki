@@ -5,7 +5,7 @@
 Diese Karten kannst Du abrufen, wenn Du direkt aus dem Internet auf dieser Seite bist oder Dich im Freifunknetz befindest.
 Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, ob Knoten online sind.
 
-* Aus dem Internet: [[Stadtkarte|http://188.138.99.158/mesh/geomap.html]] | [[Interaktiver Graph|http://188.138.99.158/mesh/nodes.html]] (Code: https://github.com/tcatm/ffmap-d3)
+* Aus dem Internet: [[Stadtkarte|http://188.138.99.158/mesh/geomap.html]] | [[Interaktiver Graph|http://188.138.99.158/mesh/n////odes.html]] (Code: https://github.com/tcatm/ffmap-d3)
 * Aus dem Internet (alternative Links): [[Stadtkarte|http://holstentor.metameute.de/mesh/geomap.html]] | [[Interaktiver Graph|http://holstentor.metameute.de/mesh/nodes.html]]
 
 * Aus dem Freifunknetz: [[Stadtkarte|http://burgtor.ffhl/mesh/geomap.html]] | [[Interaktiver Graph|http://burgtor.ffhl/mesh/nodes.html]]
@@ -20,9 +20,9 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | kmr1             | Karstadt         | Karstadt-Dach                    |                         | DIR-300     | custom      | 00:24:01:b7:6a:d9 | 53.868039 10.686392             |
 | kmr2             | Karstadt         | Karstadt-Dach                    |                         | DIR-300     | custom      | 06:24:01:b7:69:c1 | 53.867906 10.686322             |
 | kmr3             | Karstadt         | Karstadt-Dach                    |                         | DIR-300     | custom      | 00:24:01:b7:6a:b3 | 53.867789 10.6863               |
-| kmr4             | Karstadt         | Karstadt-Innen                   |                         | DIR-300     | custom      | 00:24:01:B7:61:19 | 53.867784 10.68662              |
-| kmr5             | Karstadt         | Karstadt-Innen                   |                         | DIR-300     | custom      | 00:24:01:B7:61:49 | 53.867973832094 10.686519420623 |
-| kmr6             | Karstadt         | Karstadt-Innen                   |                         | DIR-300     | custom      | 00:24:01:B7:6A:FD | 53.867926385299 10.686911023139 |
+| kmr4             | Karstadt         | Karstadt-Innen                   |                         | DIR-300     | custom      | 00:24:01:b7:61:19 | 53.867784 10.68662              |
+| kmr5             | Karstadt         | Karstadt-Innen                   |                         | DIR-300     | custom      | 00:24:01:b7:61:49 | 53.867973832094 10.686519420623 |
+| kmr6             | Karstadt         | Karstadt-Innen                   |                         | DIR-300     | custom      | 00:24:01:b7:6a:fd | 53.867926385299 10.686911023139 |
 | untenrum         | Julian           | Roter Löwe                       | mit Internetanbindung   | TL-WR1043ND | 0.3.1       | f6:ec:38:cc:60:d8 | 53.850535092807 10.659187710778 |
 | Groeni           | Groeni           | 23560 Lübeck                     |                         | TL-WR1043ND | 0.3pre      | 54:e6:fc:b0:1a:7e | 53.838783 10.639233             |
 | Odin             | Eichi            | 23562 Lübeck                     | mit Internetanbindung   | TL-WR1043ND | 0.3pre      | 56:e6:fc:99:64:9c | 53.85038 10.69014               |
@@ -46,7 +46,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | namshub          | magu             | St. Lorenz Nord                  |                         | TL-WR1043ND | 0.3pre (build 12Jun21) | b2:48:7a:97:fa:56 |                      |
 | enki             | magu             |                                  |                         | TL-WR741ND  | 0.3pre (build 12Jul06) | f8:d1:11:58:29:0e |                      |
 | innana           | magu             |                                  |                         | TL-WR741ND  | 0.3pre (build 12Jul06) | f8:d1:11:58:18:2f |                      |
-| mkm              | mkm              | Mölln                            | mit Internetanbindung   | TL-WR741ND  | 0.3pre      | B0:48:7A:DB:3B:18 |                                 |
+| mkm              | mkm              | Mölln                            | mit Internetanbindung   | TL-WR741ND  | 0.3pre      | b0:48:7a:db:3b:18 |                                 |
 | Tadeus           | Fluse001         | Beckergrube                      | Tadeusz                 | TL-WR741ND  | 0.3pre (build 120809) | f8:d1:11:7e:57:98 | 53.869575 10.681018   |
 | Christopher      | Fluse002         |                                  |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7e:57:76 | 53.895581 10.652755   |
 | ZOB RU           | Fluse003/Abdi    | ZOB RU                           |                         | TL-WR741ND  | 0.3pre (build 120809) | f8:d1:11:7e:2a:f2 | 53.866414 10.671173   |
@@ -65,50 +65,54 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | LAN-Zentrum      | Fluse012         | Lanzentrum                       |                         | TL-WR1043ND | 0.3.1       | 56:e6:fc:b0:43:80 | 53.87643 10.65837               |
 | Mobiler Knoten   | Fluse015         | FF an UMTS                       | Internet per UMTS       | TL-WR1043ND | 0.?         | 54:e6:fc:af:43:ba |                                 |
 | Hanseatic 2      | Fluse020         | Hanseatic 2                      |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:de:58 | 53.865157 10.6709               |
-| China            | Fluse021         | König. China                     |                         | TL-WR741ND  | 0.3         | F8:d1:11:7b:e5:2c | 53.866844 10.6886               |
+| China            | Fluse021         | König. China                     |                         | TL-WR741ND  | 0.3         | f8:d1:11:7b:e5:2c | 53.866844 10.6886               |
 | E-Zig            | Fluse022         | König. E.-Zig. (defekt)          |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:e5:28 |                                 |
 | Hanseatic 3      | Fluse023         | Hanseatic 3                      |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:e4:f0 | 53.865119 10.670505             |
 | Hanseatic 4      | Fluse024         | Hanseatic 4                      |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:e3:02 | 53.86516 10.670615              |
-| Daisy            | Fluse025         |                                  |                         | TL-WR741ND  | 0.3.1       | F8:d1:11:7b:e2:fe | 53.840515 10.70425              |
-| Hanseatic 1      | Fluse027         | Hanseatic 1                      | Uplink                  | TL-WR741ND  | 0.3.1       | F8:d1:11:7b:e4:de | 53.865151 10.670697             |
+| Daisy            | Fluse025         |                                  |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:e2:fe | 53.840515 10.70425              |
+| Hanseatic 1      | Fluse027         | Hanseatic 1                      | Uplink                  | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:e4:de | 53.865151 10.670697             |
 | Omni 7dB aussen  | Fluse029         |                                  |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:e4:80 |                                 |
 | Eis              | Fluse028         | Königspassage                    |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:e5:36 | 53.86703 10.688718              |
-| AliBaba          | Fluse030         |                                  |                         | TL-WR741ND  | 0.3.1       | B0:48:7A:CB:20:08 | 53.86898 10.684700              |
+| AliBaba          | Fluse030         |                                  |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:20:08 | 53.86898 10.684700              |
 | Candys           | Fluse031         |                                  |                         | TL-WR741ND  | 0.3         | b0:48:7a:cb:21:24 | 53.869929 10.663736             |
 | Pauline          | Pauline          |                                  |                         | TL-WR741ND  | 0.3         | b0:48:7a:cb:1f:98 | 53.855360 10.692420             |
-| BlauDirekt NO    | Fluse033         |                                  |                         | TL-WR741ND  | 0.3.1       | B0:48:7A:CB:1F:B8 | 53.868922 10.671525             |
+| BlauDirekt NO    | Fluse033         |                                  |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:b8 | 53.868922 10.671525             |
 | CoCo 2a          | Fluse034         |                                  | Uplink                  | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:90 | 53.866401 10.670819             |
-| BlauDirekt SW    | Fluse035         |                                  | Uplink                  | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:1f:fa | 53.86875 10.6712898             |
-| König Mall 3     | Fluse037         | König Mall 3                     |                         | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:1f:d0 | 53.867167 10.688595             |
-| König Mall 2     | Fluse038         | König. Mall mitte                |                         | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:12:9c | 53.867249 10.688965             |
-| Werkstatt        | Fluse039         | König. Werkstatt                 |                         | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:20:2e | 53.867587 10.689464             |
-| Alt Görtz        | Fluse040         | König. Görtz                     |                         | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:1f:fc | 53.867306 10.689003             |
-| HanseDiner 1     | Fluse041         |                                  |                         | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:20:20 | 53.86734 10.671757              |
-| König Mall 1     | Fluse042         | König. Mall 1                    |                         | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:1f:c0 | 53.86735 10.688445              |
+| BlauDirekt SW    | Fluse035         |                                  | Uplink                  | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:fa | 53.86875 10.6712898             |
+| König Mall 3     | Fluse037         | König Mall 3                     |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:d0 | 53.867167 10.688595             |
+| König Mall 2     | Fluse038         | König. Mall mitte                |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:12:9c | 53.867249 10.688965             |
+| Werkstatt        | Fluse039         | König. Werkstatt                 |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:20:2e | 53.867587 10.689464             |
+| Alt Görtz        | Fluse040         | König. Görtz                     |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:fc | 53.867306 10.689003             |
+| HanseDiner 1     | Fluse041         |                                  |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:20:20 | 53.86734 10.671757              |
+| König Mall 1     | Fluse042         | König. Mall 1                    |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:c0 | 53.86735 10.688445              |
 | Salzmann         | Fluse046         | König.                           |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:7c | 53.86727 10.688600              |
-| Cafe am Theater  | Fluse047         | Beckergrube                      |                         | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:2b:fc | 53.869368743803 10.686186826712 |
-| 9to5             | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND  | 0.3         | F8:d1:11:7b:e4:ca | 53.862968 10.682708             |
+| Cafe am Theater  | Fluse047         | Beckergrube                      |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:fc | 53.869368743803 10.686186826712 |
+| 9to5             | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND  | 0.3         | f8:d1:11:7b:e4:ca | 53.862968 10.682708             |
 | Dennis           | Volker           | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND | 0.3pre      | b0:48:7a:99:e0:7e | 53.910475 10.805865             |
 | Garuda-ZOB       | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND  | 0.3pre      | f8:d1:11:55:9f:9a | 53.866705 10.671694             |
 | Garuda-HBF       | MHintz           | Lübeck ZOB                       | Uplink                  | TL-WR1043ND | 0.3pre      | 54:e6:fc:98:67:e1 | 53.866808 10.67171              |
-| Peter            | Peter            |                                  | Uplink                  | TL-WR741ND  | 0.3         | F8:D1:11:58:18:2E |                                 |
-| Frank001         | DerDerwish       | Koberg                           |                         | TL-WR741ND  | 0.3         | F8:D1:11:58:00:3A | 53.87164921 10.6898507          |
-| Frank002         | DerDerwish       | wechselnd                        | mit USB-Stromversorgung | TL-WR741ND  | 0.3         | F8:D1:11:38:05:F6 |                                 |
+| Peter            | Peter            |                                  | Uplink                  | TL-WR741ND  | 0.3         | f8:d1:11:58:18:2e |                                 |
+| Frank001         | DerDerwish       | Koberg                           |                         | TL-WR741ND  | 0.3         | f8:d1:11:58:00:3a | 53.87164921 10.6898507          |
+| Frank002         | DerDerwish       | wechselnd                        | mit USB-Stromversorgung | TL-WR741ND  | 0.3         | f8:d1:11:38:05:f6 |                                 |
 | kbct             | bo               | Rosenstr., Innenstadt            | Uplink                  | TL-WR1043ND | 0.3         | 54:e6:fc:98:5a:2e | 53.871580 10.691900             |
 | BKA-van017       | BKA              |                                  |                         |             | custom      | 02:b4:ab:4a:42:42 |                                 |
 | Hellgate         | Devil            |                                  |                         |             | custom      | 02:13:13:13:13:13 |                                 |
-| randomweb        | berik            |                                  | derzeit Mobilknoten     |             | 0.3.1       | B0:48:7a:cb:20:be |                                 |
+| randomweb        | berik            |                                  | derzeit Mobilknoten     |             | 0.3.1       | b0:48:7a:cb:20:be |                                 |
 | Prometheus       | zenforyen        | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz              | TL-WR842ND  | 0.3 (build 120917) | 64:70:02:82:ce:fc | 53.837566 10.694106      |
 | Herkules         | Pascal M.        | Wohnheim Anschützstr. 13 (6. OG) | im Uninetz              | TL-WR841ND  | 0.3         | b2:48:7a:cc:2b:9a | 53.838095 10.693865             |
 | Achilles         | Kai ?            | Wohnheim Anschützstr. 7          | im Uninetz              | TL-WR841ND  | 0.3         | ?                 | 53.838054 10.696896             |
-| FFHL-Smarty-1    | Smarty           | Georgstrasse 34 EG               | Uplink                  | TL-WR1043ND | 0.3.1       | B2:48:7A:EC:6E:EC | 53.860223 10.670361             |
-| FFHL-Smarty-2    | Smarty           | Hansestrasse 28 1.OG             | Uplink                  | TL-WR741ND  | 0.3         | B0:48:7A:CB:2F:A8 | 53.864437 10.668339             |
-| FFHL-Smarty-3    | Smarty           | Georgstrasse 34 3.OG             | Uplink                  | TL-WR741ND  | 0.3         | B0:48:7A:CB:2F:62 | 53.860217 10.670249             |
-| FFHL-Smarty-4    | Smarty           | Töpferweg 47 2.OG                |                         | TL-WR741ND  | 0.3         | B0:48:7A:CB:2E:C1 | 53.859600 10.669347             |
-| FFHL-Smarty-5    | Smarty           | Georgstrasse 34 1. OG            |                         | TL-WR741ND  | 0.3.1       | B0:48:7A:CB:2F:1C | 53.860283 10.670313             |
+| FFHL-Smarty-1    | Smarty           | Georgstrasse 34 EG               | Uplink                  | TL-WR1043ND | 0.3.1       | b2:48:7a:ec:6e:ec | 53.860223 10.670361             |
+| FFHL-Smarty-2    | Smarty           | Hansestrasse 28 1.OG             | Uplink                  | TL-WR741ND  | 0.3         | b0:48:7a:cb:2f:a8 | 53.864437 10.668339             |
+| FFHL-Smarty-3    | Smarty           | Georgstrasse 34 3.OG             | Uplink                  | TL-WR741ND  | 0.3         | b0:48:7a:cb:2f:62 | 53.860217 10.670249             |
+| FFHL-Smarty-4    | Smarty           | Töpferweg 47 2.OG                |                         | TL-WR741ND  | 0.3         | b0:48:7a:cb:2e:c1 | 53.859600 10.669347             |
+| FFHL-Smarty-5    | Smarty           | Georgstrasse 34 1. OG            |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2f:1c | 53.860283 10.670313             |
 | zafer            | Zafer            |                                  | mit Internetanbindung   | TL-WDR3600  | 0.3.1       | 64:70:02:aa:b6:dc |                                 |
 | Brazil           | Brazil-Plenum    | Walli                            | mit Internetanbindung   | TL-WR741ND  | 0.3.1       | f8:d1:11:7e:97:dc | 53.869884 10.677222             |
 | Treibsand        | Treibsand-Plenum | Walli                            | mit Internetanbindung   | TL-WR741ND  | 0.3.1       | f8:d1:11:7e:92:40 | 53.869859 10.676530             |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
+
+=== MACs durch lowercase ersetzen
+
+    %s/\(\([0-9A-Fa-f]\{2\}:\)\{5}[0-9A-Fa-f]\{2\}\)/\L\1/g
