@@ -5,7 +5,7 @@
 Diese Karten kannst Du abrufen, wenn Du direkt aus dem Internet auf dieser Seite bist oder Dich im Freifunknetz befindest.
 Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, ob Knoten online sind.
 
-* Aus dem Internet: [[Stadtkarte|http://188.138.99.158/mesh/geomap.html]] | [[Interaktiver Graph|http://188.138.99.158/mesh/n////odes.html]] (Code: https://github.com/tcatm/ffmap-d3)
+* Aus dem Internet: [[Stadtkarte|http://188.138.99.158/mesh/geomap.html]] | [[Interaktiver Graph|http://188.138.99.158/mesh/nodes.html]] (Code: https://github.com/tcatm/ffmap-d3)
 * Aus dem Internet (alternative Links): [[Stadtkarte|http://holstentor.metameute.de/mesh/geomap.html]] | [[Interaktiver Graph|http://holstentor.metameute.de/mesh/nodes.html]]
 
 * Aus dem Freifunknetz: [[Stadtkarte|http://burgtor.ffhl/mesh/geomap.html]] | [[Interaktiver Graph|http://burgtor.ffhl/mesh/nodes.html]]
@@ -115,4 +115,4 @@ http://rechneronline.de/geo-koordinaten/
 
 === MACs durch lowercase ersetzen
 
-    %s/\(\([0-9A-Fa-f]\{2\}:\)\{5}[0-9A-Fa-f]\{2\}\)/\L\1/g
+{{{%s/\(\([0-9A-Fa-f]\{2\}:\)\{5}[0-9A-Fa-f]\{2\}\)/\L\1/g}}}
