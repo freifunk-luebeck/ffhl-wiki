@@ -87,6 +87,8 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | König Mall 1     | Fluse042         | König. Mall 1                    |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:c0 | 53.86735 10.688445              |
 | Salzmann         | Fluse046         |                                  |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:7c |                                 |
 | Cafe am Theater  | Fluse047         | Beckergrube                      |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:fc | 53.869368743803 10.686186826712 |
+| Manni            | Fluse050         | Albert Schweizer Str.            |                         | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:2d:06 |                                 |
+| Manni´s ♀        | Fluse051         | Albert Schweizer Str.            |                         | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:2c:32 |                                 |
 | 9to5             | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND  | 0.3         | f8:d1:11:7b:e4:ca | 53.862968 10.682708             |
 | Dennis           | Volker           | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND | 0.3pre      | b0:48:7a:99:e0:7e | 53.910475 10.805865             |
 | Garuda-ZOB       | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND  | 0.3pre      | f8:d1:11:55:9f:9a | 53.866705 10.671694             |
