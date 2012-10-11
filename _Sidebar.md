@@ -22,6 +22,7 @@
    * [[Netzwerk]]
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
      * [[Mesh-VPN]]
+     * [[bird]]
    * [[Firmware|Firmware:Changelog]]
      * [[Individuelle Firmware|Firmware:Individuell]]
    * [[Lübeck-Freifunk-Router|Router]]
