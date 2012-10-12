@@ -31,7 +31,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | techem           | Alex             | St. Lorenz Süd                   | mit Internetanbindung   | TL-WR1043ND | 0.3pre      | b0:48:7a:99:d8:ce | 53.8595 10.6563                 |
 | draic            |                  |                                  | nur manchmal Internet   | TL-WR1043ND | 0.3pre      | 92:f6:52:3e:b9:52 | 53.871641 10.716619             |
 | Birke            | 7jM              | Röntgenstraße                    | mit Internetanbindung   | TL-WR1043ND | 0.3.1       | f8:d1:11:24:9d:a2 | 53.846658 10.68926              |
-| confusion        | NeoRaider        | Ratzeburger Allee                | mit Internet            | TL-WR1043ND | custom      | f8:d1:11:7f:41:d4 | 53.846141 10.707231             |
+| confusion        | NeoRaider        | Ratzeburger Allee                | Uplink                  | TL-WDR3600  | 0.3.1       | 64:70:02:91:51:92 | 53.846141 10.707231             |
 | sweetmorn        | NeoRaider        | Ratzeburger Allee                |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:30:1b:e2 | 53.846169 10.707274             |
 | boomtime         | NeoRaider        | Ratzeburger Allee                |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:37:fc:38 | 53.846064 10.707203             |
 | Rübe             | Groeni           | Rübenkoppel, Brandenbaum         | mit Internetanbindung   | TL-WR741ND  | 0.3pre      | b0:48:7a:cb:30:47 | 53.857763 10.719022             |
