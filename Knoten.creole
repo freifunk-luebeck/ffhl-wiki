@@ -84,7 +84,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Alt Görtz        | Fluse040         | König. Görtz                     |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:fc | 53.867306 10.689003             |
 | HanseDiner 1     | Fluse041         |                                  |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:20:20 | 53.86734 10.671757              |
 | König Mall 1     | Fluse042         | König. Mall 1                    |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:c0 | 53.86735 10.688445              |
-| E-Zig            | Fluse046         |                                  |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:7c | 53.867281103557 10.688370144835                                |
+| E-Zig            | Fluse046         |                                  |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:7c | 53.867281103557 10.688370144835                              |
 | Cafe am Theater  | Fluse047         | Beckergrube                      |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:fc | 53.869368743803 10.686186826712 |
 | Manni            | Fluse050         | Albert Schweizer Str.            |                         | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:2d:06 | 53.868106682832 10.727546489708 |
 | Manni´s ♀        | Fluse051         | Albert Schweizer Str.            |                         | TL-WR741ND  | 0.3.1       | B0:48:7a:cb:2c:32 | 53.868577983236 10.72743383693  |
@@ -100,6 +100,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Hellgate         | Devil            |                                  |                         |             | custom      | 02:13:13:13:13:13 |                                 |
 | randomweb        | berik            |                                  | derzeit Mobilknoten     | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:20:be |                                 |
 | randomweb2       | berik            |                                  | mit Internetanbindung   | TL-WR741ND  | 0.3.1       | b2:48:7a:cc:2c:40 | 53.881376977561 10.648947036744 |
+| Fussel           | berik            |                                  | mit Internetanbindung   | TL-WR841ND  | 0.3.1       | 92:f6:52:b5:fc:4a |                                 |
 | CaféAlgarve      | berik            |                                  | mit Internetanbindung   | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:74 | 53.872743541821 10.690794861796 |
 | Prometheus       | zenforyen        | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz              | TL-WR842ND  | 0.3 (build 120917) | 64:70:02:82:ce:fc | 53.837566 10.694106      |
 | Herkules         | Pascal M.        | Wohnheim Anschützstr. 13 (6. OG) | im Uninetz              | TL-WR841ND  | 0.3         | b2:48:7a:cc:2b:9a | 53.838095 10.693865             |
