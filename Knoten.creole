@@ -62,7 +62,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | TimeOut          | Fluse016         |                                  |                         | TL-WR741ND  | 0.3         | f8:d1:11:55:9b:e4 | 53.867027 10.672108             |
 | ZOB R            | Fluse017         | ZOB R                            |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2c:b8 | 53.866346 10.671321             |
 | LAN-Zentrum      | Fluse012         | Lanzentrum                       |                         | TL-WR1043ND | 0.3.1       | 56:e6:fc:b0:43:80 | 53.87643 10.65837               |
-| Mobiler Knoten   | Fluse015         | Mobiler Knoten 1043              |                         | TL-WR1043ND | 0.3.1       | 54:e6:fc:af:43:ba |  |
+| Mobiler Knoten   | Fluse015         | Mobiler Knoten 1043              |                         | TL-WR1043ND | 0.3.1       | 54:e6:fc:af:43:ba | 41.710112333251 44.805559193202 |
 | Hanseatic 2      | Fluse020         | Hanseatic 2                      |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:de:58 | 53.865157 10.6709               |
 | China            | Fluse021         | König. China                     |                         | TL-WR741ND  | 0.3         | f8:d1:11:7b:e5:2c | 53.866844 10.6886               |
 | Defekt           | Fluse022         |                                  |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:e5:28 |                                 |
