@@ -26,7 +26,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | untenrum         | Julian           | Roter Löwe                       | mit Internetanbindung   | TL-WR1043ND | 0.3.1       | f6:ec:38:cc:60:d8 | 53.850535092807 10.659187710778 |
 | Groeni           | Groeni           | 23560 Lübeck                     |                         | TL-WR1043ND | 0.3pre      | 54:e6:fc:b0:1a:7e | 53.838783 10.639233             |
 | Odin             | Eichi            | 23562 Lübeck                     | mit Internetanbindung   | TL-WR1043ND | 0.3pre      | 56:e6:fc:99:64:9c | 53.85038 10.69014               |
-| Gilgameš         | Eichi            | Rübenkoppel, Eichholz            | im Aufbau               | TL-WR1043ND | 0.3pre      | f6:ec:38:e9:73:91 | 53.858067 10.723117             |
+| Gilgameš         | Eichi            | 23564 Lübeck                     | im Aufbau               | TL-WR1043ND | 0.3pre      | f6:ec:38:e9:73:91 | 53.858067 10.723117             |
 | Mr.Pupswindel    | Kai              | Poggenpohl                       | mit Internetanbindung   | TL-WR1043ND | 0.3pre      | 56:e6:fc:98:58:aa |                                 |
 | techem           | Alex             | St. Lorenz Süd                   | mit Internetanbindung   | TL-WR1043ND | 0.3pre      | b0:48:7a:99:d8:ce | 53.8595 10.6563                 |
 | Birke            | 7jM              | Röntgenstraße                    | mit Internetanbindung   | TL-WR1043ND | 0.3.1       | f8:d1:11:24:9d:a2 | 53.846658 10.68926              |
