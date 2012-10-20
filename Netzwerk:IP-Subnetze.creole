@@ -55,7 +55,6 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.13  | 7jM                           | serverbox      |
 |  10.130.0.14  | tcatm's 1043nd                |                |
 |  10.130.0.16  | Avahi: bluedog.local          |                |
-|  10.130.0.17  | blubbbel                      |                |
 |  10.130.0.18  | meuteblog                     | meuteblog.ffhl |
 |  10.130.0.19  | server                        |                |
 |  10.130.0.21  | NeoRaider (WG)                | confusion      |
@@ -70,13 +69,13 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.31  | innana [node] {magu}          | innana.ffhl    |
 |  10.130.0.32  | opz [x21] {magu}              | opz.ffhl       |
 |  10.130.0.33  | me {magu}                     | me.ffhl        |
-|  10.130.0.34  | Blubbbel (Garten)             |                |
 |  10.130.0.35  | Silber1                       |                |
 |  10.130.0.36  | nutch                         | nutch.ffhl     |
 |  10.130.0.37  | bo                            |                |
 |  10.130.0.42  | NasBox                        | nasbox.ffhl    |
 |  10.130.0.64  | magu Server                   | cic.ffhl       |
 |  10.130.0.118 | zenforyens node               |                |
+| 10.130.1.0/28 | Eichi                         |                |
 |  10.130.1.46  | Georg (Pirat)                 |                |
 | 10.130.2.0/24 | Fluse Knoten                  |                |
 
@@ -117,5 +116,5 @@ Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
 | 10.130.16.8  | dysis                         | dysis.ffhl      |
 | 10.130.16.9  | tcatm t410                    |                 |
 | 10.130.16.10 | magu                          |                 |
-| 10.130.16.17 | blubbbel                      |                 |
+| 10.130.16.17 | Eichi Odin                    |                 |
 | 10.130.16.18 | berik /ampache testuser pw 1234| hinkelstein.ffhl|
