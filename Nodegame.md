@@ -1,3 +1,5 @@
+[[nodegame-anregungen]]
+
 # Nodegame - Der Highscore
 
 ## Adresse
