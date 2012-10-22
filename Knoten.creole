@@ -107,6 +107,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | CaféAlgarve      | berik            |                                  | mit Internetanbindung   | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2b:74 | 53.872743541821 10.690794861796 |
 | Prometheus       | zenforyen        | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz              | TL-WR842ND  | 0.3 (build 120917) | 64:70:02:82:ce:fc | 53.837566 10.694106      |
 | Herkules         | Pascal M.        | Wohnheim Anschützstr. 13 (6. OG) | im Uninetz              | TL-WR841ND  | 0.3         | b2:48:7a:cc:2b:9a | 53.838095 10.693865             |
+| Achilles         | Kai        | Wohnheim Anschützstr. | im Uninetz              | TL-WR841ND  | 0.3         | b0:48:7a:cb:2c:aa | 53.838095 10.693865  |
 | Perseus          | lumero         | Wohnheim Anschützstr. 7          | im Uninetz              | TL-WR841ND  | 0.3.1       | b0:48:7a:cb:25:84 | 53.838054 10.696896             |
 | FFHL-Smarty-1    | Smarty           | Georgstrasse 34 EG               | Uplink                  | TL-WR1043ND | 0.3.1       | b2:48:7a:ec:6e:ec | 53.860223 10.670361             |
 | FFHL-Smarty-2    | Smarty           | Hansestrasse 28 1.OG             | Uplink                  | TL-WR741ND  | 0.3         | b0:48:7a:cb:2f:a8 | 53.864437 10.668339             |
