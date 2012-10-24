@@ -27,8 +27,8 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Groeni           | Groeni           | 23560 Lübeck                     |                         | TL-WR1043ND | 0.3pre      | 54:e6:fc:b0:1a:7e | 53.838783 10.639233             |
 | Odin             | Eichi            | 23562 Lübeck                     | mit Internetanbindung   | TL-WR1043ND | 0.3.1      | 56:e6:fc:99:64:9c | 53.85038 10.69014               |
 | Gilgameš         | Eichi            | 23564 Lübeck                     | im Aufbau               | TL-WR1043ND | 0.3.1      | f6:ec:38:e9:73:91 | 53.858067 10.723117 |
-| Bahamut         | Eichi            |                      | im Aufbau               | TL-WR741ND | 0.3.1      | fa:d1:11:7e:95:5f |              |
-| Anima         | Eichi            |                      | im Aufbau               | TL-WR741ND | 0.3.1      | fa:d1:11:7f:92:20 |               |
+| Bahamut         | Eichi            |                      | im Aufbau               | TL-WR741ND | 0.3.1      | fa:d1:11:7e:95:5f | 53.858318882437 10.722343004243 |
+| Anima         | Eichi            |                      | im Aufbau               | TL-WR741ND | 0.3.1      | fa:d1:11:7f:92:20 | 53.858584644815 10.724402940766 |
 | Yojinbo         | Eichi            |                      | im Aufbau               | TL-WR741ND | 0.3.1      | fa:d1:11:88:58:48 |              |
 | Mr.Pupswindel    | Kai              | Poggenpohl                       | mit Internetanbindung   | TL-WR1043ND | 0.3pre      | 56:e6:fc:98:58:aa |                                 |
 | techem           | Alex             | St. Lorenz Süd                   | mit Internetanbindung   | TL-WR1043ND | 0.3pre      | b0:48:7a:99:d8:ce | 53.8595 10.6563                 |
