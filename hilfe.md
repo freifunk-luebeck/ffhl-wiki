@@ -9,7 +9,7 @@ Den Titel der Seite sollte das Schlagwort sein unter dem man die Seite auf ander
 * Bei jedem Editieren sollte man seine Emailadresse erneut eintragen in dem Eingabefeld oben.
 
 ## Login 
-ist nur auf Anfrage möglich
+ist durch persönlichen Kontakt möglich
 
 ## Seitenlayout
 Eine Seite im Wiki sollte immer mit einer Überschrift beginnen (h1).<br>
