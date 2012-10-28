@@ -13,7 +13,7 @@ wenn man einen zusätzlichen Zeilenumbruch benötigt, kann man dies mit dem HTML
 
 Bei jedem Editieren sollte man seine Emailadresse erneut eintragen in dem Eingabefeld oben.
 
-**Vorsicht! der löschen Link unter jeder Seite sollte nur benutzt werden, wenn man sich ganz sicher ist, da dieser sofort wirkt und nicht rückgängig gemacht werden kann!!!**
+**Vorsicht! der löschen Link unter jeder Seite "Delete this Page" sollte nur benutzt werden, wenn man sich ganz sicher ist, da dieser sofort wirkt und nicht rückgängig gemacht werden kann!!!**
 
 <br>
 
