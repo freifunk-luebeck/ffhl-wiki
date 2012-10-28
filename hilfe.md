@@ -1,8 +1,8 @@
 # Hilfe zur Bearbeitung von Seiten hier im Wiki
 
 ## neue Seite
-Bitte beachten: neue Seiten sollten nur angelegt werden, wenn sie in die interne struktur passen: http://freifunk.metameute.de/wiki/fileview
-Um eine neue Seite zu erstellen, benutze den Link links unten in der Navigation > New
+Bitte beachten: neue Seiten sollten nur angelegt werden, wenn sie in die interne struktur passen: http://freifunk.metameute.de/wiki/fileview<br>
+Um eine neue Seite zu erstellen, benutze den Link links unten in der Navigation > New<br>
 Den Titel der Seite sollte das Schlagwort sein unter dem man die Seite auf anderen Seiten verlinkt. Der sichtbare Titel sollte mit "h1" im text stehen (s.u. Seitenlayout)
 
 ## Identifizierung
