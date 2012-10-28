@@ -7,11 +7,16 @@ Dort kann man oben in dem ersten Feld seine Emailadresse eintragen, darunter den
 
 Login ist nur auf Anfrage möglich
 
-Eine Seite im Wiki sollte immer mit einer Überschrift beginnen (h1). Alle weiteren Abschnitte dann mit h2 bzw h3 als Unterpunkten.
+Eine Seite im Wiki sollte immer mit einer Überschrift beginnen (h1).<br>
+Alle weiteren Abschnitte dann mit h2 bzw h3 als Unterpunkten.<br>
+wenn man einen zusätzlichen Zeilenumbruch benötigt, kann man dies mit dem HTML-Tag br erreichen
 
 Bei jedem Editieren sollte man seine Emailadresse erneut eintragen in dem Eingabefeld oben.
 
+**Vorsicht! der löschen Link unter jeder Seite sollte nur benutzt werden, wenn man sich ganz sicher ist, da dieser sofort wirkt und nicht rückgängig gemacht werden kann!!!**
 
+<br>
 
-Diese Seite ist unvollständig, bitte mit mehr Details ergänzen
+### Diese Seite ist noch unvollständig,<br>
+bitte mit mehr Details ergänzen
 
