@@ -20,3 +20,5 @@ Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision
 * v7.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.1/lff-0.3.1-ar71xx-generic-tl-wr841nd-v7-squashfs-factory.bin]]
 
 Ältere Versionen des Routers können auch leicht unterstützt werden, wenn man uns für 1-2 Wochen ein Testgerät zur Verfügung stellt. :)
+
+Wer sich den Router bestellt sollte auf die Revision achten ([[hier zu sehen|http://is.gd/TLWR841ND_Unterseite_jpg]])
