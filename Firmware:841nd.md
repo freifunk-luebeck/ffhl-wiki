@@ -21,4 +21,4 @@ Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision
 
 Ältere Versionen des Routers können auch leicht unterstützt werden, wenn man uns für 1-2 Wochen ein Testgerät zur Verfügung stellt. :)
 
-Wer sich den Router bestellt sollte auf die Revision achten ([[hier zu sehen|http://is.gd/TLWR841ND_Unterseite_jpg]])
+Wer sich den Router bestellt sollte auf die Revision achten ([[hier zu sehen|http://freifunk.in-kiel.de/wiki/Datei:Tp-link_TL-WR841ND_Router_Unterseite.JPG]])
