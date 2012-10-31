@@ -29,7 +29,7 @@ Hier befindet sich eine Aufnahme der Sendung:
 
 Wir haben wieder eine begrenzte Anzahl fertig konfigurierter Router. Wenn Du Dich am lübecker Freifunk beteiligen möchtest, kannst Du gerne ein Gerät für einmalig 20;- € von uns erwerben. Mail uns bitte einfach kurz an :-)
 
-Beonders interessant für Gastronomiebetriebe und Hotels. Mit dem Freifunkrouter können die Gäse frei im Netz surfen, ohne das der Betreiber sich durch die mißbräuchliche Nutzung des Internets von einem Gast haftbar macht. (Störerhaftung)
+Beonders interessant für Gastronomiebetriebe und Hotels. Mit dem Freifunkrouter können die Gäste frei im Netz surfen, ohne das der Betreiber sich durch die mißbräuchliche Nutzung des Internets von einem Gast haftbar macht. (Störerhaftung)
 
 
 ## Mölln
