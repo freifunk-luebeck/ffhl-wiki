@@ -3,6 +3,7 @@
    * [[Externe Quellen|ExterneQuellen]]
    * [[Gründe zum Mitmachen|Warum]]
  * [[Einstieg]]
+ * [[FAQ]]
  * [[Material]]
    * [[Grafiken]]
    * [[Texte]]
