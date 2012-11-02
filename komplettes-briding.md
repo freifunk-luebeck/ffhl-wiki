@@ -1,1 +1,0 @@
-Good to find an expert who knows what he's tkalnig about!
