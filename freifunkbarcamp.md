@@ -10,6 +10,7 @@ Das geplante Treffen soll dem Informationsaustauschs zwischen diesen Communities
 * Diskussion eines neuen Layer 3 Protokolls
 * Landesweites Freifunk ("ffsh")
 ** Peerings, IPv6, Routing, Roaming, ...
+** Migration von Gateways
 
 ## Mögliche Locations
 
