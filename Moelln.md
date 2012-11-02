@@ -1,1 +1,17 @@
-tja   so was kriegen die in der (Um-)Schulung halt nicht bhecibraget. Hauptsache die T-Com Software ist drauf.Schlimm wirds dann spe4ter, wenn man seine Mails mit T-Mail seit Jahren empfangen hat und auf einen anderen Rechner umsteigen will. In dem Mail-Programm der T-Com fehlt jegliche Export-Funktion   das hat schon immer c4rger gegeben. Deshalb nie die Software installieren lassen, sondern immer auf der Nutzung der eigenen Browser und Mailprogramme bestehen. Dann wird i.d.R. auch der Router richtig konfiguriert und alle Einstellungen im Kundencenter so gesetzt, dass alles passt.Allerdings kann man (ohne das extra zu zahlende eMail-Paket) seine Mails nur vom eigenen Anschluss empfangen   nie von irgendwo her, wie aus Hotels oder von anderen WLAN-HotSpots. Aber das steht nur im Kleingedruckten.
+# Freifunk in Mölln
+
+Wenn du direkt über [[http://moelln.freifunk.net/]] auf diese Seite
+gelangt bist, schaue bitte auch auf die
+[[Wiki-Startseite|home]]. Dort findest Du neben
+einer Begrüßung/Einführung auch unsere Kontaktinformationen.
+
+## Organisation
+Das Möllner Freifunk-Netz wird von der Lübecker Freifunk-Gruppe betreut.
+Dies umfasst die speziell zu Freifunkzwecken angepasste Software für die
+WLAN-Router sowie die für den Betrieb benötigte Netzwerkinfrastruktur.
+Somit ist das Möllner Freifunk-Netz technisch weitesgehend identisch mit
+dem in Lübeck.
+
+## Knoten
+Auf der [[Knotenseite|Moelln:Knoten]] findet sich eine Übersicht der aktiven Router.
+Es wird dort zukünftig eine Karte geben, auf der die Positionen der Möllner Freifunk-Router eingetragen sind. Aktuell sind die Möllner Knoten technisch gesehen jedoch noch Teil des Lübecker Freifunk-Netzes. Daher befinden sich in allen Karten noch die Möllner & Lübecker Knoten gemeinsam. Bis Mölln eine eigene Karte hat, gibt es auf der [[Knotenseite|Moelln:Knoten]] aber bereits eine Liste der Möllner Freifunk-Router. Der Eintrag in diese Liste ist freiwillig. Daher kann es durchaus sein, dass du auf mehr als die dort aufgeführten Netzwerke stößt.
