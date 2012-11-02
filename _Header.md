@@ -1,1 +1,1 @@
-You mean you have draft 1 of Chapter 3 complete. If you can write an enirte chapter of final copy in a day (assuming the chapter is more than 15 words ) then you're in the wrong business 
+These topcis are so confusing but this helped me get the job done.
