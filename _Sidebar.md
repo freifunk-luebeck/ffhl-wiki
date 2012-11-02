@@ -1,1 +1,1 @@
-Keep on writing and chgugnig away!
+You're on top of the game. Thanks for sarhing. 
