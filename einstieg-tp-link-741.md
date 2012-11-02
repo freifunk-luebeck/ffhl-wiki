@@ -1,0 +1,1 @@
+The ability to think like that is aaylws a joy to behold
