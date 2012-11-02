@@ -1,0 +1,1 @@
+Life is short, and this article saved vluabale time on this Earth.
