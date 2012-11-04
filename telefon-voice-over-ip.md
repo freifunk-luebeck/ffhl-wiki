@@ -1,1 +1,0 @@
-God help me, I put aside a whole aftenroon to figure this out.
