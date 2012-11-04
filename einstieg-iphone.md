@@ -1,1 +1,0 @@
-Whoveer wrote this, you know how to make a good article.
