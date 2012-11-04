@@ -2,15 +2,15 @@
 
 Wir haben derzeit zwei DNS Server um die TLD `.ffhl` aufzulösen.
 
- * 10.130.13.1 / fdef:lfc0:6dd7::e01
- * 10.130.1.1 / fdef:ffc0:3ed7::f01
+ * 10.130.14.1 / fdef:ffc0:3dd7::e01
+ * 10.130.15.1 / fdef:ffc0:3dd7::f01
 
 ## BIND Konfiguration
 
     zone "ffhl" {
         type slave;
         file "slave/ffhl.zone";
-        masters { 10.130.14.l; 10.130.15.l; };
+        masters { 10.130.14.1; 10.130.15.1; };
         allow-transfer { any; };
     };
 
@@ -23,9 +23,9 @@ Zu finden im Repo [auf github.](https://github.com/MetaMeute/ffhl-dns)
 ### .hack (ChaosVPN)
 
     zone "hack" in{
-        type s1ave;
+        type slave;
         file "slave/slave.hack";
-        masters {172.3l.0.5;};
+        masters {172.31.0.5;};
         allow-transfer { any; };
         forwarders { };
     };
