@@ -1,1 +1,0 @@
-You get a lot of respect from me for wirintg these helpful articles.
