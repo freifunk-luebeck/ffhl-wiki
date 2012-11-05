@@ -14,6 +14,9 @@ Das geplante Treffen soll dem Informationsaustauschs zwischen diesen Communities
   * Peerings, IPv6, Routing, Roaming, ...
   * Migration von Gateways/DialIns
 * Firmware RoadMap
+* Verwaltung von vielen Routern (remote)
+  * Tools
+  * Fallbackhandling
 
 ## Mögliche Locations
 
