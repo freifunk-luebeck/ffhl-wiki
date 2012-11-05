@@ -8,6 +8,7 @@ Das geplante Treffen soll dem Informationsaustauschs zwischen diesen Communities
 
 * Topologie und Technologie des Layer 2 FFHL
 * Diskussion eines neuen Layer 3 Protokolls
+ * Wie bekommen wir die geplanten Features sanft in bestehende Architektur eingebunden.
 * Entwicklung von sanften mesh protokoll migrations strategien
 * Landesweites Freifunk ("ffsh")
   * Peerings, IPv6, Routing, Roaming, ...
