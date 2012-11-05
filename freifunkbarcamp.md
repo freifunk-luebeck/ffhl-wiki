@@ -9,14 +9,17 @@ Das geplante Treffen soll dem Informationsaustauschs zwischen diesen Communities
 * Topologie und Technologie des Layer 2 FFHL
 * Diskussion eines neuen Layer 3 Protokolls
  * Wie bekommen wir die geplanten Features sanft in bestehende Architektur eingebunden.
-* Entwicklung von sanften mesh protokoll migrations strategien
+* Entwicklung von sanften Mesh Protokoll Migrations-Strategien
 * Landesweites Freifunk ("ffsh")
   * Peerings, IPv6, Routing, Roaming, ...
   * Migration von Gateways/DialIns
-* Firmware RoadMap
+* Firmware Roadmap
+  * Update failure Robustheit.
 * Verwaltung von vielen Routern (remote)
   * Tools
-  * Fallbackhandling
+  * Fallbackhandling (Was machen wenn der Router nicht mehr richtig hochkommt)
+    * Kann man das vllt. grundsaetzlich in der Firmware verhindern, dass die
+      Router nach einem update in solch einen Zustand kommen.
 
 ## Mögliche Locations
 
