@@ -29,7 +29,7 @@ Hier befindet sich eine Aufnahme der Sendung:
 
 Wir haben wieder eine begrenzte Anzahl fertig konfigurierter Router. Wenn Du Dich am lübecker Freifunk beteiligen möchtest, kannst Du gerne ein Gerät für einmalig 20;- € von uns erwerben. Mail uns bitte einfach kurz an :-)
 
-Beonders interessant für Gastronomiebetriebe und Hotels: Mit dem Freifunkrouter können die Gäste frei im Netz surfen, ohne das der Betreiber sich durch die mißbräuchliche Nutzung des Internets von einem Gast haftbar macht. (Störerhaftung)
+Besonders interessant für Gastronomiebetriebe und Hotels. Mit dem Freifunkrouter können die Gäste frei im Netz surfen, ohne das der Betreiber sich durch die mißbräuchliche Nutzung des Internets von einem Gast haftbar macht. (Störerhaftung)
 
 
 ## Mölln
@@ -54,3 +54,7 @@ Redmine/Issue Tracker: [[https://projects.universe-factory.net/projects/ffhl]]
 Telefon: meute@&zwj;sip.ffhl (meute@&zwj;10.130.0.12) oder 0451/30504399 und dann 63883#
 
 Internet Relay Chat (IRC): [#ffhl](irc://irc.hackint.eu/ffhl) im [Hackint](http://hackint.eu/)
+
+## Wiki
+Alle können mithelfen dieses Wiki zu erweitern. Lest dazu die [[Hilfe]].<br />
+Auf Grund der Spamangriffe in der letzte Zeit wurde das anonyme Editieren aus dem Internet vorrübergehend deaktiviert.

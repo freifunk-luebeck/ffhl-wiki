@@ -6,6 +6,7 @@
 * Feste MAC-Adresse der Knoten im Mesh
 * Erhöhtes batman-adv-OGM-Intervall von 5s zur Verringerung der Grundlast
 * VPN-Peer muehlentor hinzugefügt
+* Webserver (uhttpd), telnet und dnsmasq per Default deaktiviert
 * Umbenennung des Client-WLANs von http://luebeck.freifunk.net/ auf luebeck.freifunk.net
 * Support für neue Router-Modelle
 * Unterstützung von 5GHz-WLAN auf TL-WDR3600 (ESSID 'luebeck.freifunk.net (5GHz)'
