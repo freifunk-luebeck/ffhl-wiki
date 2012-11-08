@@ -26,4 +26,4 @@ Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision
 
 * v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.1/lff-0.3.1-ar71xx-generic-tl-wr741nd-v1-squashfs-factory.bin]]
 * v2.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.1/lff-0.3.1-ar71xx-generic-tl-wr741nd-v2-squashfs-factory.bin]]
-* v4.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.1/lff-0.3.1-ar71xx-generic-tl-wr741nd-v4-squashfs-factory.bin]]
+* v3.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.1/lff-0.3.1-ar71xx-generic-tl-wr741nd-v4-squashfs-factory.bin]]
