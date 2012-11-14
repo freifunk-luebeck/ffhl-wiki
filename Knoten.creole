@@ -77,7 +77,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Omni 7dB aussen  | Fluse029         |                                  |                         | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:e4:80 | 53.895625 10.652161             |
 | Eis              | Fluse028         | Königspassage                    | Uplink                  | TL-WR741ND  | 0.3.1       | f8:d1:11:7b:e5:36 | 53.86703 10.688718              |
 | AliBaba          | Fluse030         |                                  | Uplink                  | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:20:08 | 53.86898 10.684700              |
-| Candys           | Fluse031         |                                  | Uplink                  | TL-WR741ND  | 0.3         | b0:48:7a:cb:21:24 | 53.869929 10.663736             |
+| Candys           | Fluse031         |                                  | Uplink                  | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:21:24 | 53.869929 10.663736             |
 | Pauline          | Pauline          |                                  |                         | TL-WR741ND  | 0.3         | b0:48:7a:cb:1f:98 | 53.855360 10.692420             |
 | BlauDirekt NO    | Fluse033         |                                  |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:b8 | 53.868922 10.671525             |
 | CoCo 2a          | Fluse034         |                                  | Uplink                  | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:1f:90 | 53.866401 10.670819             |
