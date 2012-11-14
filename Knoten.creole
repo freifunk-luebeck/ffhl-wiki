@@ -120,8 +120,8 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | FFHL-Smarty-5    | Smarty           | Georgstrasse 34 1. OG            |                         | TL-WR741ND  | 0.3.1       | b0:48:7a:cb:2f:1c | 53.860283 10.670313             |
 | zafer            | Zafer            |                                  | mit Internetanbindung   | TL-WDR3600  | 0.3.1       | 64:70:02:aa:b6:dc | 53.988302 10.764990             |
 | Brazil           | Brazil-Plenum    | Walli                            | mit Internetanbindung   | TL-WR741ND  | 0.3.1       | f8:d1:11:7e:97:dc | 53.869884 10.677222             |
-| Treibsand-verloren        | Treibsand-Plenum | Walli                            | mit verschollen   | TL-WR741ND  | 0.3.1       | f8:d1:11:7e:92:40 | 53.869 10.676           |
-| Treibsand        | Treibsand-Plenum | Walli                            | mit Internetanbindung   | TL-WR741ND  | 0.3.1       | f8:d1:11:82:cc:d8 | 53.869859 10.676530             |
+| Treibsand-alt        | Treibsand-Plenum | Walli                            |    | TL-WR741ND  | 0.3.1       | f8:d1:11:7e:92:40 | 53.869889 10.676359           |
+| Treibsand-neu        | Treibsand-Plenum | Walli                            | mit Internetanbindung   | TL-WR741ND  | 0.3.1       | f8:d1:11:82:cc:d8 | 53.869859 10.676530             |
 | Orpheus          | Lennart          | Hüx                              | mit Internetanbindung   | TL-WR741ND  | 0.3.1       | f8:d1:11:87:52:1c | 53.864839 10.694442             |
 
 === Umrechnung von GPS Koordinaten
