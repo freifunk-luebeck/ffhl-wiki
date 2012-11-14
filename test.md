@@ -1,1 +1,0 @@
-Hier kann jeder mal testen ob er schreibrechte hat.
