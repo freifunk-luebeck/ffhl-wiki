@@ -136,7 +136,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Eden            |                  |                                  |                         |             |                        | 64:70:02:b5:cf:74  |                                 |
 | Diabolos        |                  |                                  |                         |             |                        | 64:70:02:94:15:aa  |                                 |
 | Cerberus        |                  |                                  |                         |             |                        | 64:70:02:94:04:54  |                                 |
-| Leviathan       |                  |                                  |                         |             |                        | 64:70:02:93:ff:c6  |                                 |
+| Leviathan       |                  |                                  |                         |             |                        | 64:70:02:93:ff:c6  | 53.833703236943 10.698042190594 |
 | Pandemona       |                  |                                  |                         |             |                        | 90:f6:52:fd:3d:0a  |                                 |
 | Tombery         |                  |                                  |                         |             |                        | 64:70:02:94:03:b0  |                                 |
 
