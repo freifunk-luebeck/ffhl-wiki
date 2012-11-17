@@ -58,14 +58,14 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | ZOB L           | Fluse008         | ZOB L                            | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:58:0c  | 53.86634 10.67122               |
 | Fluse009        | Fluse009         |                                  |                         | TL-WR741ND  |  0.3pre (build 120809) | f8:d1:11:7e:57:7a  |                                 |
 | HanseDiner 2    | Fluse010         |                                  |                         | TL-WR741ND  |                    0.3 | f8:d1:11:7e:2a:d8  | 53.867266 10.671742             |
-| Fluse014        | Fluse014         | Reserve 1043                     |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:bb:50:54  | 53.868967 10.671359             |
-| Fluse3600       | Fluse018         |                                  | Uplink                  | TL-WR841ND  |                  0.3.1 | 64:70:02:91:53:5a  | 53.895523 10.65213              |
-| Fluse841nd      | Fluse019         | Königpassage                     |                         | TL-WDR3600  |                  0.3.1 | 90:f6:52:b1:95:1c  | 53.867461403867 10.687881982804 |
 | Kinder          | Fluse011         | Stockelsdorf                     | Uplink                  | TL-WR741ND  |                    0.3 | f8:d1:11:55:9f:86  | 53.902516 10.669674             |
+| LAN-Zentrum     | Fluse012         | Lanzentrum                       | Uplink                  | TL-WR1043ND |                  0.3.1 | 56:e6:fc:b0:43:80  | 53.87643 10.65837               |
+| Fluse014        | Fluse014         | Reserve 1043                     |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:bb:50:54  | 53.868967 10.671359             |
+|                 | Fluse015         | Mobiler Knoten 1043              |                         | TL-WR1043ND |                  0.3.1 | 54:e6:fc:af:43:ba  |                                 |
 | TimeOut         | Fluse016         |                                  |                         | TL-WR741ND  |                    0.3 | f8:d1:11:55:9b:e4  | 53.867027 10.672108             |
 | ZOB R           | Fluse017         | ZOB R                            |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2c:b8  | 53.866346 10.671321             |
-| LAN-Zentrum     | Fluse012         | Lanzentrum                       | Uplink                  | TL-WR1043ND |                  0.3.1 | 56:e6:fc:b0:43:80  | 53.87643 10.65837               |
-|                 | Fluse015         | Mobiler Knoten 1043              |                         | TL-WR1043ND |                  0.3.1 | 54:e6:fc:af:43:ba  |                                 |
+| Fluse3600       | Fluse018         |                                  | Uplink                  | TL-WR841ND  |                  0.3.1 | 64:70:02:91:53:5a  | 53.895523 10.65213              |
+| Fluse841nd      | Fluse019         | Königpassage                     |                         | TL-WDR3600  |                  0.3.1 | 90:f6:52:b1:95:1c  | 53.867461403867 10.687881982804 |
 | Hanseatic 2     | Fluse020         | Hanseatic 2                      |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:de:58  | 53.865157 10.6709               |
 | China           | Fluse021         | König. China                     |                         | TL-WR741ND  |                    0.3 | f8:d1:11:7b:e5:2c  | 53.866844 10.6886               |
 | Defekt          | Fluse022         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e5:28  |                                 |
@@ -73,11 +73,11 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Hanseatic 4     | Fluse024         | Hanseatic 4                      |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e3:02  | 53.86516 10.670615              |
 | Daisy           | Fluse025         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e2:fe  | 53.840515 10.70425              |
 | Hanseatic 1     | Fluse027         | Hanseatic 1                      | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e4:de  | 53.865151 10.670697             |
-| Omni 7dB aussen | Fluse029         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e4:80  | 53.895625 10.652161             |
 | Eis             | Fluse028         | Königspassage                    | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e5:36  | 53.86703 10.688718              |
+| Omni 7dB aussen | Fluse029         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e4:80  | 53.895625 10.652161             |
 | AliBaba         | Fluse030         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:20:08  | 53.86898 10.684700              |
 | Candys          | Fluse031         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:21:24  | 53.869929 10.663736             |
-| Pauline         | Pauline          |                                  |                         | TL-WR741ND  |                    0.3 | b0:48:7a:cb:1f:98  | 53.855360 10.692420             |
+| Pauline         | Pauline          |Strese                                  |                         | TL-WR741ND  |                    0.3 | b0:48:7a:cb:1f:98  | 53.855360 10.692420             |
 | BlauDirekt NO   | Fluse033         |                                  |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:b8  | 53.868922 10.671525             |
 | CoCo 2a         | Fluse034         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:90  | 53.866401 10.670819             |
 | BlauDirekt SW   | Fluse035         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:fa  | 53.86875 10.6712898             |
