@@ -107,10 +107,10 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | randomweb2      | berik            |                                  | mit Internetanbindung   | TL-WR741ND  |                  0.3.1 | b2:48:7a:cc:2c:40  | 53.881376977561 10.648947036744 |
 | Fussel          | berik            |                                  | mit Internetanbindung   | TL-WR841ND  |                  0.3.1 | 92:f6:52:b5:fc:4a  |                                 |
 | CaféAlgarve     | berik            |                                  | mit Internetanbindung   | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2b:74  | 53.872743541821 10.690794861796 |
-| Prometheus      | zenforyen        | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz              | TL-WR842ND  |     0.3 (build 120917) | 64:70:02:82:ce:fc  | 53.837566 10.694106             |
-| Hades           | anonym           | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz              | TL-WR842ND  |                  0.3.1 | 64:70:02:ae:0e:84  | 53.837566 10.694106             |
-| Xanthos         | anonym           | Wohnheim Anschützstr. 11 (3. OG) | im Uninetz              | TL-WR741ND  |                  0.3.1 | f8:d1:11:98:cc:c4  | 53.837566 10.694106             |
-| Ikarus          | anonym           | Wohnheim Anschützstr. 11 (7. OG) | im Uninetz              | TL-WR741ND  |                  0.3.1 | f8:d1:11:99:02:86  | 53.837566 10.694106             |
+| Prometheus      | zenforyen        | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz              | TL-WR842ND  |     0.3 (build 120917) | 64:70:02:82:ce:fc  | 53.837666 10.694050             |
+| Hades           | anonym           | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz              | TL-WR842ND  |                  0.3.1 | 64:70:02:ae:0e:84  | 53.837666 10.694200             |
+| Xanthos         | anonym           | Wohnheim Anschützstr. 11 (3. OG) | im Uninetz              | TL-WR741ND  |                  0.3.1 | f8:d1:11:98:cc:c4  | 53.837566 10.694206             |
+| Ikarus          | anonym           | Wohnheim Anschützstr. 11 (7. OG) | im Uninetz              | TL-WR741ND  |                  0.3.1 | f8:d1:11:99:02:86  | 53.837566 10.694006             |
 | Daidalos        | anonym           | Wohnheim Anschützstr. 7A (2. OG) | im Uninetz              | TL-WR842ND  |                  0.3.1 | 64:70:02:62:5c:fa  | 53.837566 10.694106             |
 | Herkules        | Pascal M.        | Wohnheim Anschützstr. 13 (6. OG) | im Uninetz              | TL-WR841ND  |                    0.3 | b2:48:7a:cc:2b:9a  | 53.838095 10.693865             |
 | Achilles        | Kai              | Wohnheim Anschützstr.            | im Uninetz              | TL-WR841ND  |                    0.3 | b0:48:7a:cb:2c:aa  | 53.838095 10.693865             |
