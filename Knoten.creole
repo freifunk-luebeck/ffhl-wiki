@@ -31,20 +31,20 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Yojinbo         | Eichi            | 23564 Lübeck                     | im Aufbau               | TL-WR741ND  |                  0.3.1 | fa:d1:11:88:58:48  | 53.858045208704 10.723566091527 |
 | Mr.Pupswindel   | Kai              | Poggenpohl                       | mit Internetanbindung   | TL-WR1043ND |                 0.3pre | 56:e6:fc:98:58:aa  |                                 |
 | techem          | Alex             | St. Lorenz Süd                   | mit Internetanbindung   | TL-WR1043ND |                 0.3pre | b0:48:7a:99:d8:ce  | 53.8595 10.6563                 |
-| Birke           | 7jM              | Röntgenstraße                    | mit Internetanbindung   | TL-WR1043ND |                  0.3.1 | #f8:d1:11:24:9d:a2  | 53.846658 10.68926              |
+| Birke           | 7jM              | Röntgenstraße                    | mit Internetanbindung   | TL-WR1043ND |                  0.3.1 | f8:d1:11:24:9d:a2  | 53.846658 10.68926              |
 | StrahlenKiste   | 7jM              | Röntgenstraße                    |                         | TL-WDR3600  |                  0.3.1 | 66:70:02:b6:d1:ee  | 53.846642 10.689338             |
 | confusion       | NeoRaider        | Ratzeburger Allee                | Uplink                  | TL-WDR3600  |                  0.3.1 | 64:70:02:91:51:92  | 53.846141 10.707231             |
-| sweetmorn       | NeoRaider        | Ratzeburger Allee                |                         | TL-WR741ND  |                  0.3.1 | #f8:d1:11:30:1b:e2 | 53.846169 10.707274             |
+| sweetmorn       | NeoRaider        | Ratzeburger Allee                |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:30:1b:e2 | 53.846169 10.707274             |
 | boomtime        | NeoRaider        | Ratzeburger Allee                |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:37:fc:38  | 53.846064 10.707203             |
 | Rübe            | Groeni           | Rübenkoppel, Brandenbaum         | mit Internetanbindung   | TL-WR741ND  |                 0.3pre | b0:48:7a:cb:30:47  | 53.857763 10.719022             |
 | Rübe 2          | Groeni           | Rübenkoppel, Brandenbaum         | Verteiler / Richtfunk   | TL-WR1043ND |                 0.3pre | 56:e6:fc:98:58:f3  | 53.856122 10.721074             |
-| mizu-AP         | Mizu             | 23556 Lübeck                     | mit Internetanbindung   | TL-WR1043ND |                 0.3pre | #fa:d1:11:25:95:58  | 53.867605 10.656458             |
+| mizu-AP         | Mizu             | 23556 Lübeck                     | mit Internetanbindung   | TL-WR1043ND |                 0.3pre | fa:d1:11:25:95:58  | 53.867605 10.656458             |
 | kyubey          | jix & Laeila     | Bürgerweide                      | Internetanbindung       | TL-WR1043ND |                 0.3pre | 92:f6:52:3f:b9:26  | 53.842003 10.704269             |
 | Yoshi           | Jozu             | Ratzeburger Allee                | Internetanbindung       | TL-WR741ND  |                    0.3 | b0:48:7a:cb:27:6c  | 53.846354 10.707188             |
-| Yangshuo        | Kaspar           | St. Jürgen                       | Internetanbindung       | TL-WR1043ND |                    0.3 | #b2:48:7a:a1:16:de  |                                 |
+| Yangshuo        | Kaspar           | St. Jürgen                       | Internetanbindung       | TL-WR1043ND |                    0.3 | b2:48:7a:a1:16:de  |                                 |
 | Banane          | Pascal           | Hansestraße, Ecke Wendische      | mit Internetanbindung   | TL-WR741ND  |                 0.3pre | b2:48:7a:cb:26:8c  | 53.861241 10.662248             |
-| Birne           | Pascal           | Hansestraße, Ecke Wendische      | mit Internetanbindung   | TL-WDR3600  |               0.3.1pre | #64:70:02:92:51:b4  | 53.861161 10.662335             |
-| Rapture         |                  |                                  | mit Internetanbindung   | TL-WR1043ND |                 0.3pre | #b2:48:7a:df:20:fa  | 53.84598 10.70838               |
+| Birne           | Pascal           | Hansestraße, Ecke Wendische      | mit Internetanbindung   | TL-WDR3600  |               0.3.1pre | 64:70:02:92:51:b4  | 53.861161 10.662335             |
+| Rapture         |                  |                                  | mit Internetanbindung   | TL-WR1043ND |                 0.3pre | b2:48:7a:df:20:fa  | 53.84598 10.70838               |
 | namshub         | magu             | St. Lorenz Nord                  |                         | TL-WR1043ND | 0.3pre (build 12Jun21) | b2:48:7a:97:fa:56  |                                 |
 | enki            | magu             |                                  |                         | TL-WR741ND  | 0.3pre (build 12Jul06) | f8:d1:11:58:29:0e  |                                 |
 | innana          | magu             |                                  |                         | TL-WR741ND  | 0.3pre (build 12Jul06) | f8:d1:11:58:18:2f  |                                 |
