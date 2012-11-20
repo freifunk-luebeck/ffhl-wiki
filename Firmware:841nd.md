@@ -8,7 +8,7 @@ Durch ihre 2 Antennen bieten sie ein stabileres und schnelleres Funknetzwerk als
 
 ## Eigenschaften
 * 4MB Flash
-* 32MB RAM (nur Revision 7; Revisin 8 hat nur noch 16MB) 
+* 32MB RAM (nur Revision 7; Revision 8 hat nur noch 16MB) 
 * gleicher Prozessor wie [[Tp-Link 741ND|Firmware:741nd]] & [[TP-Link 1043ND|Firmware:1043nd]]
 * 2 Antennenanschlüsse
 * kein USB-Anschluss
