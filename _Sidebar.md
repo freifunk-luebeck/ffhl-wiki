@@ -17,7 +17,6 @@
    * [[Zugang zu anderen Netzen|Peerings]]
    * [[Highscore|Nodegame]]
    * [[Bilder hosten|cid]]
-   * [[Suchmaschine|Suchmaschine]]
  * [[Mölln|Moelln]]
    * [[Aktive Knoten|Moelln:Knoten]]
  * Technische Details
