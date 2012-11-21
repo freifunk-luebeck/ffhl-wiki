@@ -17,3 +17,6 @@ Punkte gibt es für:
 ## Sinn
 Dieser Dienst läuft nur aus Spaß. Man kann die erhaltenen Punkte nicht gegen Vergütungen eintauschen oder bekommt etwas geschenkt.<br>
 Es soll aber die Vernetzung im Freifunk selbst fördern.
+
+## Anregungen
+Ideen für neue Funktionen suchen wir auf [[dieser Seite|Nodegame:Anregungen]].
