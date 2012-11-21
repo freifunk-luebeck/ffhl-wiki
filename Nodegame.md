@@ -1,4 +1,4 @@
-[[nodegame-anregungen]]
+[[Nodegame:Anregungen]]
 
 # Nodegame - Der Highscore
 
