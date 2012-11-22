@@ -24,6 +24,7 @@
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
      * [[Mesh-VPN]]
      * [[bird]]
+     * [[Knotenkonfiguration]]
    * [[Firmware|Firmware:Changelog]]
      * [[Individuelle Firmware|Firmware:Individuell]]
    * [[Lübeck-Freifunk-Router|Router]]
