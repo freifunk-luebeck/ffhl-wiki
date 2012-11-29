@@ -1,4 +1,4 @@
-#TP-Link WR852ND
+#TP-Link WR842ND
 
 ## Verwendungszweck
 Dieser Knoten bietet ein deutlich stabileres und schnelleres Funknetzwerk als der  [[TP-Link 741ND|Firmware:741nd]].
