@@ -109,16 +109,17 @@ Die Reservierung eines solchen Netzes sollte mit anderen Freifunkern abgesproche
 
 Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
 
-|=IP-Adresse   |=Notizen                       |=Hostname        |
-| 10.130.16.1  |                               | Burgtor         |
-| 10.130.16.2  | Pascals Server                | chip.ffhl       |
-| 10.130.16.3  | DerDerwishs Server            | derderwish.ffhl |
-| 10.130.16.4  | DerDerwishs Server (sekundär) |                 |
-| 10.130.16.5  | nils' N900                    |                 |
-| 10.130.16.6  | Jamalaka Hobbes               |                 |
-| 10.130.16.7  | Jamalaka Calvin               |                 |
-| 10.130.16.8  | dysis                         | dysis.ffhl      |
-| 10.130.16.9  | tcatm t410                    |                 |
-| 10.130.16.10 | magu                          |                 |
-| 10.130.16.17 | Eichi Odin                    |                 |
+|=IP-Adresse   |=Notizen                        |=Hostname        |
+| 10.130.16.1  |                                | Burgtor         |
+| 10.130.16.2  | Pascals Server                 | chip.ffhl       |
+| 10.130.16.3  | DerDerwishs Server             | derderwish.ffhl |
+| 10.130.16.4  | DerDerwishs Server (sekundär)  |                 |
+| 10.130.16.5  | nils' N900                     |                 |
+| 10.130.16.6  | Jamalaka Hobbes                |                 |
+| 10.130.16.7  | Jamalaka Calvin                |                 |
+| 10.130.16.8  | dysis                          | dysis.ffhl      |
+| 10.130.16.9  | tcatm t410                     |                 |
+| 10.130.16.10 | magu                           |                 |
+| 10.130.16.17 | Eichi Odin                     |                 |
 | 10.130.16.18 | berik /ampache testuser pw 1234| hinkelstein.ffhl|
+| 10.130.16.19 | zenforyen                      |                 |
