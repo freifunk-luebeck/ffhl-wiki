@@ -7,3 +7,7 @@
 * optional bird/bird6
 
 ## WLAN Konfiguration
+
+## fastd repo für Debian Sid
+
+   deb http://repo.universe-factory.net/debian/ sid main
