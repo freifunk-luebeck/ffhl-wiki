@@ -54,6 +54,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | ZOB RU          | Fluse003/Abdi    | ZOB RU                           | Uplink                  | TL-WR741ND  |  0.3pre (build 120809) | f8:d1:11:7e:2a:f2  | 53.866414 10.671173             |
 | Prians          | Fluse004         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:e2  | 53.873406 10.691006             |
 | Coco2 b         | Fluse006         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:0b:64  | 53.866379 10.670689             |
+| BS ZOB          | Fluse005         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:d4  | 53.918783734436 10.695392168058 |
 | ZOB LU          | Fluse007         | ZOB LU                           |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:2c:76  | 53.866408 10.671088             |
 | ZOB L           | Fluse008         | ZOB L                            | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:58:0c  | 53.86634 10.67122               |
 | Fluse009        | Fluse009         |                                  |                         | TL-WR741ND  |  0.3pre (build 120809) | f8:d1:11:7e:57:7a  |                                 |
@@ -92,7 +93,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Manni           | Fluse050         | Albert Schweizer Str.            | Uplink                  | TL-WR741ND  |                  0.3.1 | B0:48:7a:cb:2d:06  | 53.868106682832 10.727546489708 |
 | Manni´s ♀       | Fluse051         | Albert Schweizer Str.            |                         | TL-WR741ND  |                  0.3.1 | B0:48:7a:cb:2c:32  | 53.868577983236 10.72743383693  |
 | Geruda Spezial  | Fluse052         | Spezial Geruda im Test           |                         | TL-WR741ND  |                  0.3.1 | B0:48:7a:cb:25:b8  | 53.866857236597 10.671617067338 |
-| Sonnenstudio    | Fluse053         | Bad Schwartau                    |                         | TL-WDR3600  |                  1.0   | 64:70:02:91:51:fe  | 53.918944857117 10.694480216987 |
+| Sonnenstudio    | Fluse053         | Bad Schwartau                    |                         | TL-WDR3600  |                  1.0   | 64:70:02:91:51:fe  | 53.918951175644 10.69473234464 |
 | 9to5            | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND  |                    0.3 | f8:d1:11:7b:e4:ca  | 53.862968 10.682708             |
 | Dennis          | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND |                 0.3pre | b0:48:7a:99:e0:7e  | 53.910475 10.805865             |
 | Garuda-ZOB      | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND  |                 0.3pre | f8:d1:11:55:9f:9a  | 53.866705 10.671694             |
