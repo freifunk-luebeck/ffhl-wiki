@@ -52,10 +52,10 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Tadeus          | Fluse001         | Beckergrube                      | Tadeusz                 | TL-WR741ND  |  0.3pre (build 120809) | f8:d1:11:7e:57:98  | 53.869575 10.681018             |
 | Genußdepot      | Fluse002         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:76  | 53.86734436691 10.688042915331  |
 | ZOB RU          | Fluse003/Abdi    | ZOB RU                           | Uplink                  | TL-WR741ND  |  0.3pre (build 120809) | f8:d1:11:7e:2a:f2  | 53.866414 10.671173             |
-| Prians          | Fluse004         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:e2  | 53.873406 10.691006             |
+| Prians          | Fluse004         |                                  | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:57:e2  | 53.873406 10.691006             |
 | La Crona a      | Fluse005         | BS ZOB                           | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:d4  | 53.918935379332 10.694474852564 |
-| ZOB LU          | Fluse007         | ZOB LU                           |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:2c:76  | 53.866408 10.671088             |
-| ZOB L           | Fluse008         | ZOB L                            | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:58:0c  | 53.86634 10.67122               |
+| ZOB LU          | Fluse007         | ZOB LU                           |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:2c:76  | 53.866408 10.671088             |
+| ZOB L           | Fluse008         | ZOB L                            | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:58:0c  | 53.86634 10.67122               |
 | La Crona b      | Fluse009         | BS ZOB                           |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:7a  | 53.918875353291 10.694415843971 |
 | HanseDiner 2    | Fluse010         |                                  |                         | TL-WR741ND  |                    0.3 | f8:d1:11:7e:2a:d8  | 53.867266 10.671742             |
 | Kinder          | Fluse011         | Stockelsdorf                     | Uplink                  | TL-WR741ND  |                    0.3 | f8:d1:11:55:9f:86  | 53.902516 10.669674             |
@@ -64,16 +64,16 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Mobiler Knoten  | Fluse015         | Mobiler Knoten 1043              |                         | TL-WR1043ND |                  0.3.1 | 54:e6:fc:af:43:ba  |                                 |
 | TimeOut         | Fluse016         |                                  |                         | TL-WR741ND  |                    0.3 | f8:d1:11:55:9b:e4  | 53.867027 10.672108             |
 | ZOB R           | Fluse017         | ZOB R                            |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2c:b8  | 53.866346 10.671321             |
-| Fluse3600       | Fluse018         |                                  | Uplink                  | TL-WR841ND  |                  0.3.1 | 64:70:02:91:53:5a  | 53.895523 10.65213              |
+| Fluse3600       | Fluse018         |                                  | Uplink                  | TL-WR841ND  |                  0.3.2 | 64:70:02:91:53:5a  | 53.895523 10.65213              |
 | Fluse841nd      | Fluse019         | Königpassage                     |                         | TL-WDR3600  |                  0.3.2 | 90:f6:52:b1:95:1c  | 53.867461403867 10.687881982804 |
 | Hanseatic 2     | Fluse020         | Hanseatic 2                      |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:de:58  | 53.865157 10.6709               |
-| Thai Restaurant | Fluse021         | König. Thai Restaurant           |                         | TL-WR741ND  |                    0.3 | f8:d1:11:7b:e5:2c  | 53.866844 10.6886               |
+| Thai Restaurant | Fluse021         | König. Thai Restaurant           |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e5:2c  | 53.866844 10.6886               |
 | Defekt          | Fluse022         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e5:28  |                                 |
 | Hanseatic 3     | Fluse023         | Hanseatic 3                      |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e4:f0  | 53.865119 10.670505             |
 | Hanseatic 4     | Fluse024         | Hanseatic 4                      |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e3:02  | 53.86516 10.670615              |
 | Daisy           | Fluse025         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e2:fe  | 53.840515 10.70425              |
 | Hanseatic 1     | Fluse027         | Hanseatic 1                      | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e4:de  | 53.865151 10.670697             |
-| Eis             | Fluse028         | Königspassage                    | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e5:36  | 53.86703 10.688718              |
+| Eis             | Fluse028         | Königspassage                    | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e5:36  | 53.86703 10.688718              |
 | Omni 7dB aussen | Fluse029         |                                  |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e4:80  | 53.895625 10.652161             |
 | AliBaba         | Fluse030         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:20:08  | 53.86898 10.684700              |
 | Candys          | Fluse031         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:21:24  | 53.869929 10.663736             |
@@ -82,7 +82,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | BlauDirekt SW   | Fluse035         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:fa  | 53.86875 10.6712898             |
 | König Mall 3    | Fluse037         | König Mall 3                     |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:d0  | 53.867167 10.688595             |
 | König Mall 2    | Fluse038         | König. Mall mitte                |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:12:9c  | 53.867249 10.688965             |
-| Werkstatt       | Fluse039         | König. Werkstatt                 |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:20:2e  | 53.867587 10.689464             |
+| Werkstatt       | Fluse039         | König. Werkstatt                 |                         | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:20:2e  | 53.867587 10.689464             |
 | Alt Görtz       | Fluse040         | König. Görtz                     |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:fc  | 53.867306 10.689003             |
 | HanseDiner 1    | Fluse041         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:20:20  | 53.86734 10.671757              |
 | König Mall 1    | Fluse042         | König. Mall 1                    |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:c0  | 53.86735 10.688445              |
