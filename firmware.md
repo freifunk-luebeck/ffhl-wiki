@@ -1,4 +1,6 @@
- # Lübeck-Freifunk-Router
+# Lübeck-Freifunk-Router
+
+Für folgende Modelle gibt es hier die passende Firmware:
 
 * [[TP-Link WR1043ND|Firmware:1043nd]]
 * [[TP-Link WDR3600|Firmware:3600]]
