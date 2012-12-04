@@ -53,7 +53,6 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Genußdepot      | Fluse002         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:76  | 53.86734436691 10.688042915331  |
 | ZOB RU          | Fluse003/Abdi    | ZOB RU                           | Uplink                  | TL-WR741ND  |  0.3pre (build 120809) | f8:d1:11:7e:2a:f2  | 53.866414 10.671173             |
 | Prians          | Fluse004         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:e2  | 53.873406 10.691006             |
-;| Coco2 b        | Fluse006         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:0b:64  | 53.866379 10.670689             |
 | La Crona a      | Fluse005         | BS ZOB                           | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:d4  | 53.918935379332 10.694474852564 |
 | ZOB LU          | Fluse007         | ZOB LU                           |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:2c:76  | 53.866408 10.671088             |
 | ZOB L           | Fluse008         | ZOB L                            | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:58:0c  | 53.86634 10.67122               |
@@ -80,7 +79,6 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Candys          | Fluse031         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:21:24  | 53.869929 10.663736             |
 | Pauline         | Pauline          |Strese                            |                         | TL-WR741ND  |                    0.3 | b0:48:7a:cb:1f:98  | 53.855360 10.692420             |
 | BlauDirekt NO   | Fluse033         |                                  |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:b8  | 53.868922 10.671525             |
-;| CoCo 2a         | Fluse034         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:90  | 53.866401 10.670819             |
 | BlauDirekt SW   | Fluse035         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:fa  | 53.86875 10.6712898             |
 | König Mall 3    | Fluse037         | König Mall 3                     |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:d0  | 53.867167 10.688595             |
 | König Mall 2    | Fluse038         | König. Mall mitte                |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:12:9c  | 53.867249 10.688965             |
