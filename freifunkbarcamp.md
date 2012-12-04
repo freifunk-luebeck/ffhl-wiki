@@ -14,6 +14,7 @@ Das geplante Treffen soll dem Informationsaustauschs zwischen diesen Communities
 * Landesweites Freifunk ("ffsh")
   * Peerings, IPv6, Routing, Roaming, ...
   * Migration von Gateways/DialIns
+  * Wikis zusammenführen?
 * Firmware Roadmap
   * Update failure Robustheit.
 * Verwaltung von vielen Routern (remote)
