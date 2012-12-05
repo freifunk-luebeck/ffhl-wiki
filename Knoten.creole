@@ -52,7 +52,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Tadeus          | Fluse001         | Beckergrube                      | Tadeusz                 | TL-WR741ND  |  0.3pre (build 120809) | f8:d1:11:7e:57:98  | 53.869575 10.681018             |
 | Genußdepot      | Fluse002         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:76  | 53.86734436691 10.688042915331  |
 | ZOB RU          | Fluse003/Abdi    | ZOB RU                           | Uplink                  | TL-WR741ND  |  0.3pre (build 120809) | f8:d1:11:7e:2a:f2  | 53.866414 10.671173             |
-| Prians          | Fluse004         |                                  | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:57:e2  | 53.873406 10.691006             |
+|                 | Fluse004         |                                  |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:57:e2  |              |
 | La Crona a      | Fluse005         | BS ZOB                           | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:d4  | 53.918935379332 10.694474852564 |
 | ZOB LU          | Fluse007         | ZOB LU                           |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:2c:76  | 53.866408 10.671088             |
 | ZOB L           | Fluse008         | ZOB L                            | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:58:0c  | 53.86634 10.67122               |
@@ -68,7 +68,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Fluse841nd      | Fluse019         | Königpassage                     |                         | TL-WDR3600  |                  0.3.2 | 90:f6:52:b1:95:1c  | 53.867461403867 10.687881982804 |
 | Hanseatic 2     | Fluse020         | Hanseatic 2                      |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:de:58  | 53.865157 10.6709               |
 | Thai Restaurant | Fluse021         | König. Thai Restaurant           |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e5:2c  | 53.866844 10.6886               |
-| Defekt          | Fluse022         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e5:28  |                                 |
+| Prians          | Fluse022         | Große Burgstrasse                | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e5:28  | 53.873406 10.691006             |
 | Hanseatic 3     | Fluse023         | Hanseatic 3                      |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e4:f0  | 53.865119 10.670505             |
 | Hanseatic 4     | Fluse024         | Hanseatic 4                      |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e3:02  | 53.86516 10.670615              |
 | Daisy           | Fluse025         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e2:fe  | 53.840515 10.70425              |
