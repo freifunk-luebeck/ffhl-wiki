@@ -3,7 +3,10 @@
    * [[Externe Quellen|ExterneQuellen]]
    * [[Gründe zum Mitmachen|Warum]]
  * [[Einstieg]]
- * [[FAQ]]
+ * FAQ
+   * [[Philosohpie|FAQ:Philosohpie]]
+   * [[Router-Benutzung|FAQ:Benutzung]]
+   * [[Technische Realisierung|FAQ:Technisches]]
  * [[Material]]
    * [[Grafiken]]
    * [[Texte]]
