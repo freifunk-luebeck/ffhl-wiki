@@ -30,7 +30,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Bahamut         | Eichi            | 23564 Lübeck                     | im Aufbau               | TL-WR741ND  |                  0.3.1 | fa:d1:11:7e:95:5f  | 53.858318882437 10.722343004243 |
 | Yojinbo         | Eichi            | 23564 Lübeck                     | im Aufbau               | TL-WR741ND  |                  0.3.1 | fa:d1:11:88:58:48  | 53.858045208704 10.723566091527 |
 | Mr.Pupswindel   | Kai              | Poggenpohl                       | mit Internetanbindung   | TL-WR1043ND |                 0.3pre | 56:e6:fc:98:58:aa  |                                 |
-| techem          | Alex             | St. Lorenz Süd                   | mit Internetanbindung   | TL-WR1043ND |                 0.3pre | b0:48:7a:99:d8:ce  | 53.8595 10.6563                 |
+| techem          | Alex             | St. Lorenz Süd                   | mit Internetanbindung   | TL-WR1043ND |                 0.3.2  | b0:48:7a:99:d8:ce  | 53.8595 10.6563                 |
 | Birke           | 7jM              | Röntgenstraße                    | mit Internetanbindung   | TL-WR1043ND |                  0.3.1 | f8:d1:11:24:9d:a2  | 53.846658 10.68926              |
 | StrahlenKiste   | 7jM              | Röntgenstraße                    |                         | TL-WDR3600  |                  0.3.1 | 66:70:02:b6:d1:ee  | 53.846642 10.689338             |
 | confusion       | NeoRaider        | Ratzeburger Allee                | Uplink                  | TL-WDR3600  |                  0.3.1 | 64:70:02:91:51:92  | 53.846141 10.707231             |
