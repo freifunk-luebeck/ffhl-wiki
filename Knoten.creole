@@ -98,7 +98,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Garuda-ZOB      | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND  |                 0.3pre | f8:d1:11:55:9f:9a  | 53.866705 10.671694             |
 | Garuda-HBF      | MHintz           | Lübeck ZOB                       | Uplink                  | TL-WR1043ND |                 0.3pre | 54:e6:fc:98:67:e1  | 53.866808 10.67171              |
 | Peter           | Peter            |                                  | Uplink                  | TL-WR741ND  |                    0.3 | f8:d1:11:58:18:2e  |                                 |
-| Frank001        | DerDerwish       | Koberg                           |                         | TL-WR741ND  |                    0.3 | f8:d1:11:58:00:3a  | 53.87164921 10.6898507          |
+| Frank001        |                  | Koberg                           |                         | TL-WR741ND  |                    0.3 | f8:d1:11:58:00:3a  | 53.87164921 10.6898507          |
 | Frank002        | DerDerwish       | wechselnd                        | mit USB-Stromversorgung | TL-WR741ND  |                    0.3 | f8:d1:11:38:05:f6  |                                 |
 | kbct            | bo               | Rosenstr., Innenstadt            | Uplink                  | TL-WR1043ND |                    0.3 | 54:e6:fc:98:5a:2e  | 53.871580 10.691900             |
 | BKA-van017      | BKA              |                                  |                         |             |                 custom | 02:b4:ab:4a:42:42  |                                 |
