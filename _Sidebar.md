@@ -20,7 +20,8 @@
    * [[Zugang zu anderen Netzen|Peerings]]
    * [[Highscore|Nodegame]]
    * [[Bilder hosten|cid]]
- * [[Mölln|Moelln]]
+   * [[Daten speichern|Tahoe-LAFS]]
+* [[Mölln|Moelln]]
    * [[Aktive Knoten|Moelln:Knoten]]
  * Technische Details
    * [[Netzwerk]]

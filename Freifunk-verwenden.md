@@ -26,3 +26,7 @@ Bonjour kann neben dem dem Verschicken von Textnachrichten auch zum Übertragen 
 ## DNSSD for Firefox
 
 Hiermit können Webseiten, die im Mesh-Netzwerk verfügbar sind mit einem Klick angschaut und mit einem zweiten besurft werden.
+
+## Daten in der Cloud speichern
+
+Mit [[Tahoe-LAFS]] besteht eine Möglichkeit zum verschlüsselten und redudanten Ablegen beliebiger Daten.
