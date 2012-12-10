@@ -15,12 +15,14 @@ Durch das verschlüsselte Ablegen der Daten ist sichergestellt, dass die Betreib
 ## Notwendige Software und Einstellungen
 Die Software funktioniert nur unter unixoiden Betriebssystemen.
 
-Zum Betrieb eines Tahoe-LAFS-Knotens muss von [https://tahoe-lafs.org] die Datei [https://tahoe-lafs.org/source/tahoe-lafs/releases/allmydata-tahoe-1.9.2.zip allmydata-tahoe-1.9.2.zip] herunter geladen werden, wenn die aktuelle Version 1.9.2 nicht im jeweiligen Repository der Distribution. Diese muss dann entpackt werden. Mit ''sudo setup.py build''  & ''sudo setup.py install'' bauen und installieren.
+Zum Betrieb eines Tahoe-LAFS-Knotens muss von [[https://tahoe-lafs.org]] die Datei [[https://tahoe-lafs.org/source/tahoe-lafs/releases/allmydata-tahoe-1.9.2.zip allmydata-tahoe-1.9.2.zip]] herunter geladen werden, wenn die aktuelle Version 1.9.2 nicht im jeweiligen Repository der Distribution. Diese muss dann entpackt werden. Mit ''sudo setup.py build''  & ''sudo setup.py install'' bauen und installieren.
 
-Mit ''bin/tahoe start'' wird der lokale Knoten gestartet. Beim ersten Start wird dann ein ''.tahoe''-Ordner im home-Verzeichnis angelegt. In dessen ''tahoe.cfg''-Datei muss dann noch unter ''introducer.furl'' ein Link zu unserer Wolke eingefuegt werden, den es gern auf Anfrage gibt.
+Vor dem ersten Start wir mit ''bin/tahoe create-node'' ein ''.tahoe''-Ordner im home-Verzeichnis angelegt. In dessen ''tahoe.cfg''-Datei muss dann noch unter ''introducer.furl'' ein Link zu unserer Wolke eingefuegt werden, den es gern auf Anfrage gibt.
+
+Mit ''bin/tahoe start'' wird der lokale Knoten dann gestartet.
 
 ## Verwendung
-Wenn der lokale Knoten läuft, kann man dessen Web-interface mit einem beliebigen Browser über [http://localhost:3456] erreichen.
+Wenn der lokale Knoten läuft, kann man dessen Web-interface mit einem beliebigen Browser über [http://localhost:3456] erreichen. In diesem ist die Bedienung recht intuitiv.
 
 ## Weitere Infos
-Unter [https://tahoe-lafs.org] sind nähere Informationen verfügbar.
+Unter [[https://tahoe-lafs.org]] sind nähere Informationen verfügbar.
