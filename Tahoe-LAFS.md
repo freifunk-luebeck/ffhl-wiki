@@ -19,7 +19,7 @@ Zum Betrieb eines Tahoe-LAFS-Knotens muss von [[https://tahoe-lafs.org]] die Dat
 
 Vor dem ersten Start wird mit `bin/tahoe create-node` ein `.tahoe`-Ordner im home-Verzeichnis angelegt. In dessen `tahoe.cfg`-Datei muss dann noch unter `introducer.furl` ein Link zu unserer Wolke eingefuegt werden, den es gern auf Anfrage gibt.
 
-Mit ''bin/tahoe start'' wird der lokale Knoten dann gestartet.
+Mit `bin/tahoe start` wird der lokale Knoten dann gestartet.
 
 ## Verwendung
 Wenn der lokale Knoten läuft, kann man dessen Web-interface mit einem beliebigen Browser über [[http://localhost:3456]] erreichen. In diesem ist die Bedienung recht intuitiv.
