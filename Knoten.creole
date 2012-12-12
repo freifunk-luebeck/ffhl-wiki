@@ -140,7 +140,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Pandemona       |                  |                                  |                         |             |                        | 90:f6:52:fd:3d:0a  |                                 |
 | Tombery         |                  |                                  |                         |             |                        | 64:70:02:94:03:b0  |                                 |
 | Donald          | Tyme       | Stadtweide                     |                         | TL-WR741ND |                 0.3 | f8:d1:11:58:28:e8  | 53.84066 10.70455             |
-
+| roceHA          | geoigeek         | Sereetz                          | mit Internetanbindung    | TL-WR842N  |                  0.3.2 | 64:70:02:62:6C:70  | 53.919678 10.743222             |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
