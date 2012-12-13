@@ -98,7 +98,7 @@ Die Reservierung eines solchen Netzes sollte mit anderen Freifunkern abgesproche
 | 10.130.121.0/27 | 1..30      |bo                       |
 | 10.130.122.0/27 | 1..30      |Magu Network             |
 | 10.130.123.0/24 | 1..254     |Meutekeller              |
-| 10.130.124.0/27 | 1..30      |Netz von Martin & Ida    |
+| 10.130.124.0/27 | 1..30      |Netz von duckie & xidd   |
 | 10.130.125.0/27 | 1..30      |Netz von 7jM             |
 | 10.130.126.0/27 | 1..30      |Netz von Laeila & jix    |
 | 10.130.127.0/27 | 1..30      |Jamalakas Netz           |
