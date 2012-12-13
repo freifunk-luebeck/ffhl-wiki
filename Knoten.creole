@@ -51,10 +51,10 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Genußdepot      | Fluse002         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:76  | 53.86734436691 10.688042915331  |
 | ZOB RU          | Fluse003/Abdi    | ZOB RU                           | Uplink                  | TL-WR741ND  |  0.3pre (build 120809) | f8:d1:11:7e:2a:f2  | 53.866414 10.671173             |
 |                 | Fluse004         |                                  |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:57:e2  |              |
-| La Crona a      | Fluse005         | BS ZOB                           | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:d4  | 53.918935379332 10.694474852564 |
+| La Crona a      | Fluse005         | BS ZOB                           | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:57:d4  | 53.918935379332 10.694474852564 |
 | ZOB LU          | Fluse007         | ZOB LU                           |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:2c:76  | 53.866408 10.671088             |
 | ZOB L           | Fluse008         | ZOB L                            | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:58:0c  | 53.86634 10.67122               |
-| La Crona b      | Fluse009         | BS ZOB                           |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:7a  | 53.918875353291 10.694415843971 |
+| La Crona b      | Fluse009         | BS ZOB                           |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:57:7a  | 53.918875353291 10.694415843971 |
 | HanseDiner 2    | Fluse010         |                                  |                         | TL-WR741ND  |                    0.3 | f8:d1:11:7e:2a:d8  | 53.867266 10.671742             |
 | Kinder          | Fluse011         | Stockelsdorf                     | Uplink                  | TL-WR741ND  |                    0.3 | f8:d1:11:55:9f:86  | 53.902516 10.669674             |
 | LAN-Zentrum     | Fluse012         | Lanzentrum                       | Uplink                  | TL-WR1043ND |                  0.3.1 | 56:e6:fc:b0:43:80  | 53.87643 10.65837               |
