@@ -44,7 +44,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Yangshuo        | Kaspar           | St. Jürgen                       | Internetanbindung       | TL-WR1043ND |                  0.3.2 | b0:48:7a:a0:16:de  |                                 |
 | Banane          | Pascal           | Hansestraße, Ecke Wendische      | mit Internetanbindung   | TL-WR741ND  |                 0.3pre | b2:48:7a:cb:26:8c  | 53.861241 10.662248             |
 | Birne           | Pascal           | Hansestraße, Ecke Wendische      | mit Internetanbindung   | TL-WDR3600  |               0.3.1pre | 64:70:02:92:51:b4  | 53.861161 10.662335             |
-| Rapture         |                  |                                  | mit Internetanbindung   | TL-WR1043ND |                 0.3pre | b2:48:7a:df:20:fa  | 53.84598 10.70838               |
+| Rapture         |                  |                                  | mit Internetanbindung   | TL-WR1043ND |                 0.3.2  | b2:48:7a:df:20:fa  | 53.84598 10.70838               |
 | namshub         | magu             | St. Lorenz Nord                  |                         | TL-WR1043ND | 0.3pre (build 12Jun21) | b2:48:7a:97:fa:56  |                                 |
 | enki            | magu             |                                  |                         | TL-WR741ND  | 0.3pre (build 12Jul06) | f8:d1:11:58:29:0e  |                                 |
 | innana          | magu             |                                  |                         | TL-WR741ND  | 0.3pre (build 12Jul06) | f8:d1:11:58:18:2f  |                                 |
