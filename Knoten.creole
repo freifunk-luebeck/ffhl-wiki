@@ -84,6 +84,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Alt Görtz       | Fluse040         | König. Görtz                     |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:fc  | 53.867306 10.689003             |
 | HanseDiner 1    | Fluse041         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:20:20  | 53.86734 10.671757              |
 | König Mall 1    | Fluse042         | König. Mall 1                    |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:c0  | 53.86735 10.688445              |
+| e-zig           | Fluse045         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2d:4d  | 53.867227329623 10.68833795833 |
 | figura          | Fluse046         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2b:7c  | 53.867189371517 10.688949501978 |
 | Cafe am Theater | Fluse047         | Beckergrube                      | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2b:fc  | 53.869368743803 10.686186826712 |
 | Manni           | Fluse050         | Albert Schweizer Str.            | Uplink                  | TL-WR741ND  |                  0.3.1 | B0:48:7a:cb:2d:06  | 53.868106682832 10.727546489708 |
