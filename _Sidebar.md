@@ -13,6 +13,7 @@
    * [[Pressebeiträge|Pressebeitraege]]
  * [[Aktive Knoten|Knoten]]
    * [[mobile Knoten|mobileKnoten]]
+   * [[Hardwaretauschboerse|Tauschboerse]]
  * [[Dienste im Netz|Freifunk verwenden]]
    * [[Freifunk Verzeichnis]]
    * [[Telefon (VoIP)|Telefon-voip]]
