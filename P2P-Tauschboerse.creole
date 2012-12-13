@@ -1,0 +1,11 @@
+= Peer-to-Peer-Tauschbörse (Hardwareversion)
+Du hast noch alte Hardware rumliegen, die dir zu langsam wurde?
+Dann trag sie hier ein und vielleicht findet sich ein neuer Verwendungszweck dafür.
+
+= Biete
+| Bezeichnung        | Anzahl | Tauschwert | Anbieter | Kommentar                 |
+
+
+= Suche
+| Bezeichnung        | Anzahl | Tauschwert | Anbieter | Kommentar                 |
+
