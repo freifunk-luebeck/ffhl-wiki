@@ -132,9 +132,9 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Ixion           |                  |                                  |                         |             |                        | f8:d1:11:82:cd:16  |                                 |
 | Siren           |                  |                                  |                         |             |                        | f8:d1:11:87:4f:c6  |                                 |
 | Quetzacoatl     |                  |                                  |                         |             |                        | 64:70:02:62:5f:c8  |                                 |
-| Eden            | Magu             |  St. Lorenz Nord                 | Uplink                  | TL-WDR3600  |                        | 64:70:02:b5:cf:74  |                                 |
+| Eden            | Magu             |  St. Lorenz Nord                 | Uplink                  | TL-WDR3600  |                 0.3.3  | 64:70:02:b5:cf:74  |                                 |
 | Diabolos        |                  |                                  |                         |             |                        | 64:70:02:94:15:aa  |                                 |
-| Cerberus        |                  |                                  |                         |             |                  0.3.2 | 64:70:02:94:04:54  |                                 |
+| Cerberus        |                  |                                  |                         |             |                        | 64:70:02:94:04:54  |                                 |
 | Leviathan       |                  |  Carlebachpark                   | Mit Internetanbindung   | TL-WR1043ND |                  0.3.1 | 64:70:02:93:ff:c6  | 53.833703236943 10.698042190594 |
 | Pandemona       |                  |                                  |                         |             |                        | 90:f6:52:fd:3d:0a  |                                 |
 | Tombery         |                  |                                  |                         |             |                        | 64:70:02:94:03:b0  |                                 |
