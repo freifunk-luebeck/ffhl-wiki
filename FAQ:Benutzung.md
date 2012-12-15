@@ -53,7 +53,7 @@ Statt Telnet wird im normalen Betrieb SSH benutzt, um auf die Kommandozeile des 
 ### Ausnahmen
 841ND mit WPS/RESET-Taster<br />
 (1) Gerät einschalten <br />
-(2) System-LED blinkt langsam -> RESET-Taste drücken (System-LED blinkt nun schnell)
+(2) Sobald die System-LED langsam blinkt -> RESET-Taste drücken (System-LED blinkt nun schnell)
 
 
 ## Verwaltung
