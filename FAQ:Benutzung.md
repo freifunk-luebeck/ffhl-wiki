@@ -42,19 +42,18 @@ Webinterface aktivieren: */etc/init.d/uhttpd start*<br />
 Webinterface nach Neustart automatisch aktivieren: */etc/init.d/uhttpd enable*
 
 ### Normaler Betrieb
-Der Router bezieht seine IP im normalen Betrieb automatisch via DHCP. Dies setzt natürlich voraus, dass ein DHCP-Server im lokalen Netz existiert. Meistens erfüllt diese Aufgabe der DSL-Router über den man ins Internet gelangt.
+Bei Anschluss an das vorhandene Heimnetz bezieht der Knoten seine IP im normalen Betrieb automatisch via DHCP. Dies setzt natürlich voraus, dass ein DHCP-Server im lokalen Netz existiert. Meistens erfüllt diese Aufgabe der DSL-Router über den man ins Internet gelangt.
 
 Statt Telnet wird im normalen Betrieb SSH benutzt, um auf die Kommandozeile des Routers zuzugreifen. Für den SSH-Login gilt das gleiche Passwort wie für das Webinterface. Um sich per SSH auf dem Router einzuloggen genügt folgendes Kommando auf der Kommandozeile unter Linux: *ssh &lt;per DHCP zugewiesene IP&gt;*
 
 
 ## In den ConfigMode gelangen
-*Allgemein gilt:* RESET-Taste im normalen Betrieb für mindestens 10 Sekunden gedrückt halten.
+* Allgemein gilt:* QSS-Taste im normalen Betrieb für mindestens 3 Sekunden gedrückt halten.
+* Bei erfolgtem Neustart den QSS-Button ''sofort'' los lassen, denn sonst bootet der Knoten in den Failsave-Modus.
+* Nun an einen der LAN-Ports hängen und die 192.168.1.1 im Browser aufrufen.
 
 ### Ausnahmen
-841ND mit WPS/RESET-Taster<br />
-(1) Gerät einschalten <br />
-(2) Sobald die System-LED langsam blinkt -> RESET-Taste drücken (System-LED blinkt nun schnell)
-
+* Da der [[841ND|Firmware:841nd]] nur einen gemeinsamen WPS/RESET-Taster hat, ist dieser zu benutzen.
 
 ## Verwaltung
-Router können in die [Knotenliste für Lübeck](https://freifunk.metameute.de/wiki/Knoten) bzw. in die [Knotenliste für Mölln](https://freifunk.metameute.de/wiki/Moelln%3AKnoten) eintragen werden, wenn sie in der [Knotenkarte](https://wiki.ffhl/Knoten) mit ihrem Namen angezeigt werden sollen.
+Router können in die [[Knotenliste für Lübeck|Knoten]] bzw. in die [[Knotenliste für Mölln|Moelln:Knoten]] eintragen werden, wenn sie im Knotengraph mit ihrem Namen angezeigt werden sollen.
