@@ -35,7 +35,7 @@ Hierfür genügt folgendes Kommando auf der Kommandozeile unter Linux: *telnet 1
 
 Einbinden der Freifunkarbeitsumgebung, um Änderungen am System durchführen zu können: *mount_root*
 
-Das Passwort für das Webinterface und den SSH-Zugang des Routers kann im ConfigMode mit *passwd* geändert werden, falls es vergessen wurde. Es ist hierfür kein weiteres Passwort nötig. Hiermit kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
+Das Passwort für das Webinterface und den SSH-Zugang des Routers kann im ConfigMode (und auch später) mit dem Kommando *passwd* geändert werden, falls es vergessen wurde. Es ist hierfür kein weiteres Passwort nötig. Hiermit kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
 
 Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert. Es kann jedoch per Kommandozeile wieder aktiviert werden.<br />
 Webinterface aktivieren: */etc/init.d/uhttpd start*<br />
