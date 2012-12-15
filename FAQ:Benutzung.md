@@ -9,7 +9,7 @@ Sollte Dein Freifunkknoten noch auf einer älteren Version laufen, helfen wir Di
 
 ## Grundlagenwissen für die Administrierung von Lübecker Freifunkroutern
 ### TP-Link Firmware Defaults
-gelbe Buchse: LAN
+Gelbe Buchse: LAN
 
 IP: 192.168.0.1<br />
 Netmask: 255.255.255.0
@@ -19,8 +19,8 @@ pass: admin
 
 
 ### Buchsenbelegungen bei Freifunkroutern
-gelbe Buchse: Freifunk<br />
-blaue Buchse: LAN
+Gelbe Buchse: Freifunk<br />
+Blaue Buchse: LAN
 
 Ausnahmen zu dieser Regel werden auf der Wikiseite des jeweiligen Routers festgehalten.
 
@@ -44,7 +44,7 @@ Webinterface nach Neustart automatisch aktivieren: */etc/init.d/uhttpd enable*
 ### Normaler Betrieb
 Der Router bezieht seine IP im normalen Betrieb automatisch via DHCP. Dies setzt natürlich voraus, dass ein DHCP-Server im lokalen Netz existiert. Meistens erfüllt diese Aufgabe der DSL-Router über den man ins Internet gelangt.
 
-Statt Telnet wird im normalen Betrieb SSH benutzt, um auf die Kommandozeile des Routers zuzugreifen. Für den SSH-Login gilt das gleiche Passwort wie für das Webinterface. Um sich per SSH auf dem Router einzuloggen genügt folgendes Kommando auf der Kommandozeile unter Linux: *ssh <per DHCP zugewiesene IP>*
+Statt Telnet wird im normalen Betrieb SSH benutzt, um auf die Kommandozeile des Routers zuzugreifen. Für den SSH-Login gilt das gleiche Passwort wie für das Webinterface. Um sich per SSH auf dem Router einzuloggen genügt folgendes Kommando auf der Kommandozeile unter Linux: *ssh &lt;per DHCP zugewiesene IP&gt;*
 
 
 ## In den ConfigMode gelangen
