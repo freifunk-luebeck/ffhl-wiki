@@ -7,7 +7,7 @@ Für das VPN wird das verbindungslos arbeitende UDP verwendet. Einige Heimrouter
 Sollte Dein Freifunkknoten noch auf einer älteren Version laufen, helfen wir Dir gerne und zeigen Dir wie Du in updatest.
 
 
-## Grundlagenwissen für die Administrierung von Lübecker Freifunkroutern
+## Grundlagenwissen für die Administrierung von Lübecker Freifunkknoten
 ### TP-Link Firmware Defaults
 Gelbe Buchse: LAN
 
