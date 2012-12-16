@@ -18,7 +18,7 @@ user: admin<br />
 pass: admin
 
 
-### Buchsenbelegungen bei Freifunkroutern
+### Buchsenbelegungen bei Freifunkknoten
 Gelbe Buchse: Freifunk<br />
 Blaue Buchse: LAN
 
