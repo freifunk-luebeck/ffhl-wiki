@@ -4,7 +4,7 @@
    * [[Gründe zum Mitmachen|Warum]]
  * [[Einstieg]]
  * FAQ
-   * [[Philosohpie|FAQ:Philosohpie]]
+   * [[Philosophie|FAQ:Philosophie]]
    * [[Knoten-Benutzung|FAQ:Benutzung]]
    * [[Technische Realisierung|FAQ:Technisches]]
  * [[Material]]
