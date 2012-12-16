@@ -5,7 +5,7 @@
  * [[Einstieg]]
  * FAQ
    * [[Philosohpie|FAQ:Philosohpie]]
-   * [[Router-Benutzung|FAQ:Benutzung]]
+   * [[Knoten-Benutzung|FAQ:Benutzung]]
    * [[Technische Realisierung|FAQ:Technisches]]
  * [[Material]]
    * [[Grafiken]]

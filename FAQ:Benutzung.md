@@ -1,4 +1,4 @@
-# FAQ - Router-Benutzung
+# FAQ - Knoten-Benutzung
 
 ## VPN Verbindung bricht von alleine ab. Neustart hilft.
 
