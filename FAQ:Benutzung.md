@@ -48,7 +48,16 @@ Statt Telnet wird im normalen Betrieb SSH benutzt, um auf die Kommandozeile des 
 
 
 ## In den ConfigMode gelangen
-* Allgemein gilt:* QSS-Taste im normalen Betrieb für mindestens 3 Sekunden gedrückt halten.
+
+### Der Unterschied zwischen Configmode und Failsafemode
+Der _Configmode_ ist der Zustand, den ein neuer Knoten nach dem ersten Flashen hat.
+In diesem ist er auf den LAN-Ports per modifiziertem Web-Interface einstellbar.
+
+Im _Failsafemode_ ist er nur per Telnet erreichbar.
+Das Web-Interface ist in diesem Falle deaktiviert.
+
+### Allgemein
+* QSS-Taste im normalen Betrieb für mindestens 3 Sekunden gedrückt halten.
 * Bei erfolgtem Neustart den QSS-Button ''sofort'' los lassen, denn sonst bootet der Knoten in den Failsave-Modus.
 * Nun an einen der LAN-Ports hängen und die 192.168.1.1 im Browser aufrufen.
 
