@@ -2,11 +2,11 @@
 
 Für ein privates Netz werden noch drei zusätzliche Pakete benötigt: radvd, bird6 und bird4
 
-   # opkg update
-   Downloading http://downloads.openwrt.org/attitude_adjustment/12.09-rc1/ar71xx/generic/packages/Packages.gz.
-   Inflating http://downloads.openwrt.org/attitude_adjustment/12.09-rc1/ar71xx/generic/packages/Packages.gz.
-   Updated list of available packages in /var/opkg-lists/attitude_adjustment.
-   # opkg install radvd bird6 bird4
+    # opkg update
+    Downloading http://downloads.openwrt.org/attitude_adjustment/12.09-rc1/ar71xx/generic/packages/Packages.gz.
+    Inflating http://downloads.openwrt.org/attitude_adjustment/12.09-rc1/ar71xx/generic/packages/Packages.gz.
+    Updated list of available packages in /var/opkg-lists/attitude_adjustment.
+    # opkg install radvd bird6 bird4
 
 
 # IP Subnetz festlegen
