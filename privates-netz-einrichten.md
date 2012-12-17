@@ -23,6 +23,8 @@ Zunächst sollte ein Subnetz auf [[Netzwerk:IP Subnetze]] unter "Andere reservie
 
 # config/network und config/wireless
 
+# firewall / masquerade
+
 # radvd
 
 # bird6
