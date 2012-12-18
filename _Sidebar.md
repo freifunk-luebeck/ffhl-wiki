@@ -7,7 +7,7 @@
    * [[Philosophie|FAQ:Philosophie]]
    * [[Knoten-Benutzung|FAQ:Benutzung]]
    * [[Technische Realisierung|FAQ:Technisches]]
-   * [[Privates Netz|FAQ:Privates-Netz-einrichten.md]]
+   * [[Privates Netz|FAQ/Privates-Netz-einrichten.md]]
  * [[Material]]
    * [[Grafiken]]
    * [[Texte]]
