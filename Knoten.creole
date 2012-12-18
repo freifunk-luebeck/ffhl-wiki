@@ -140,6 +140,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Tombery         |                  |                                  |                         |             |                        | 64:70:02:94:03:b0  |                                 |
 | Donald          | Tyme             | Stadtweide                       |                         | TL-WR741ND  |                    0.3 | f8:d1:11:58:28:e8  | 53.84066 10.70455               |
 | roceHA          | geoigeek         | 23611 Sereetz                    | mit Internetanbindung   | TL-WR842N   |                  0.3.2 | 64:70:02:62:6C:70  | 53.919678 10.743222             |
+| SkynetGlobalDefenseNetwork           | Rubo77           | Travemünde | kommt am 28.12.              | TL-WR842ND  |                  0.3.2 | 64:70:02:62:68:3E | 53.97375 10.87379
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
