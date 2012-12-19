@@ -128,7 +128,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Carbuncle       |                  |                                  |                         | TL-WR1043ND |                        | 64:70:02:94:16:1e  |                                 |
 | Anima           |                  |                                  |                         |             |                        | f8:d1:11:7e:92:20  |                                 |
 | Ifrit           |                  |                                  |                         |             |                        | f8:d1:11:87:52:34  |                                 |
-| Valforis        |                  |                                  |                         |             |                        | f8:d1:11:82:cd:c0  |                                 |
+| Valfaris        | Eichi            | St. Lorenz Süd                   | im Aufbau               | TL-WR741ND  |                 0.3.1 | f8:d1:11:82:cd:c0  | 53.862017257161 10.662320530911 |
 | Ixion           | Eichi            | St. Lorenz Süd                   | im Aufbau               | TL-WR741ND  |                 0.3.1 | f8:d1:11:82:cd:16  | 53.862017257161 10.662320530911 |
 | Siren           |                  |                                  |                         |             |                        | f8:d1:11:87:4f:c6  |                                 |
 | Quetzacoatl     |                  |                                  |                         |             |                        | 64:70:02:62:5f:c8  |                                 |
