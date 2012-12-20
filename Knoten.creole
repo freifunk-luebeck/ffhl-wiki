@@ -92,6 +92,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Geruda Spezial  | Fluse052         | Spezial Geruda im Test           |                         | TL-WR741ND  |                  0.3.1 | B0:48:7a:cb:25:b8  | 53.866857236597 10.671617067338 |
 | Sonnenstudio    | Fluse053         | Bad Schwartau                    |                         | TL-WDR3600  |                  1.0   | 64:70:02:91:51:fe  | 53.918951175644 10.69473234464  |
 | St. Jürgen      | Fluse055         | HL Sankt Jürgen                  | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:87:4f:d6  | 53.854306931024 10.684792078026 |
+| Hanse Diner     | Fluse056         |                                  | Uplink                  | TL-WR842ND  |                  0.3.2 | 64:70:02:62:5f:c8  |                                 |
 | 9to5            | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND  |                    0.3 | f8:d1:11:7b:e4:ca  | 53.862968 10.682708             |
 | Dennis          | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND |                 0.3pre | b0:48:7a:99:e0:7e  | 53.910475 10.805865             |
 | Garuda-ZOB      | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND  |                 0.3pre | f8:d1:11:55:9f:9a  | 53.866705 10.671694             |
@@ -131,7 +132,6 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Valfaris        | Eichi            | St. Lorenz Süd                   | im Aufbau               | TL-WR741ND  |                 0.3.1 | f8:d1:11:82:cd:c0  | 53.862017257161 10.662320530911 |
 | Ixion           | Eichi            | St. Lorenz Süd                   | im Aufbau               | TL-WR741ND  |                 0.3.1 | f8:d1:11:82:cd:16  | 53.862017257161 10.662320530911 |
 | Siren           |                  |                                  |                         |             |                        | f8:d1:11:87:4f:c6  |                                 |
-| Quetzacoatl     |                  |                                  |                         |             |                        | 64:70:02:62:5f:c8  |                                 |
 | Eden            | Magu             |  St. Lorenz Nord                 | Uplink                  | TL-WDR3600  |                 0.3.3  | 64:70:02:b5:cf:74  |                                 |
 | Diabolos        |                  |                                  |                         |             |                        | 64:70:02:94:15:aa  |                                 |
 | Cerberus        |                  |                                  |                         |             |                        | 64:70:02:94:04:54  |                                 |
