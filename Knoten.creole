@@ -79,11 +79,11 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | BlauDirekt NO   | Fluse033         |                                  |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:b8  | 53.868862658764 10.671225464815 |
 | BlauDirekt SW   | Fluse035         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:fa  | 53.86875 10.6712898             |
 | König Mall 3    | Fluse037         | König Mall 3                     |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:d0  | 53.867167 10.688595             |
-| König Mall 2    | Fluse038         | König. Mall mitte                |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:12:9c  | 53.867249 10.688965             |
+| König Mall 2    | Fluse038         | König. Mall mitte                |                         | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:12:9c  | 53.867249 10.688965             |
 | Werkstatt       | Fluse039         | König. Werkstatt                 |                         | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:20:2e  | 53.867587 10.689464             |
 | Alt Görtz       | Fluse040         | König. Görtz                     |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:fc  | 53.867306 10.689003             |
 |                 | Fluse041         |                                  |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:20:20  |                                 |
-| König Mall 1    | Fluse042         | König. Mall 1                    |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:c0  | 53.86735 10.688445              |
+| König Mall 1    | Fluse042         | König. Mall 1                    |                         | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:1f:c0  | 53.86735 10.688445              |
 | e-zig           | Fluse045         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2d:4d  | 53.867227329623 10.68833795833  |
 | figura          | Fluse046         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2b:7c  | 53.867189371517 10.688949501978 |
 | Cafe am Theater | Fluse047         | Beckergrube                      | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2b:fc  | 53.869368743803 10.686186826712 |
@@ -94,7 +94,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | St. Jürgen      | Fluse055         | HL Sankt Jürgen                  | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:87:4f:d6  | 53.854306931024 10.684792078026 |
 | Hanse Diner     | Fluse056         |                                  | Uplink                  | TL-WR842ND  |                  0.3.2 | 64:70:02:62:5f:c8  | 53.86734 10.671757              |
 | 9to5            | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND  |                    0.3 | f8:d1:11:7b:e4:ca  | 53.862968 10.682708             |
-| Dennis          | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND |                 0.3pre | b0:48:7a:99:e0:7e  | 53.910475 10.805865             |
+| Dennis          | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND |                 0.3.2  | b0:48:7a:99:e0:7e  | 53.910475 10.805865             |
 | Garuda-ZOB      | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND  |                 0.3pre | f8:d1:11:55:9f:9a  | 53.866705 10.671694             |
 | Garuda-HBF      | MHintz           | Lübeck ZOB                       | Uplink                  | TL-WR1043ND |                 0.3pre | 54:e6:fc:98:67:e1  | 53.866808 10.67171              |
 | Peter           | Peter            |                                  | Uplink                  | TL-WR741ND  |                    0.3 | f8:d1:11:58:18:2e  |                                 |
