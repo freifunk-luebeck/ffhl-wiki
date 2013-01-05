@@ -2,7 +2,6 @@
 
 ## Verwendungszweck
 Dieser Knoten bietet ein deutlich stabileres und schnelleres Funknetzwerk als der  [[TP-Link 741ND|Firmware:741nd]].
-Da einige Revisionen des [[TP-Link 841ND|Firmware:841nd]] weniger Arbeitsspeicher haben, ist es eventuell sinnvoller zukünftig diesen zu benutzen.
 
 ## Eigenschaften
 * 8MB Flash
@@ -11,6 +10,7 @@ Da einige Revisionen des [[TP-Link 841ND|Firmware:841nd]] weniger Arbeitsspeiche
 * 2 Antennenanschlüsse
 * 1 USB-Anschluss
 * 12V-Stromanschluss
+* ''kein QSS-Button'' – Daher wird der Reset-Button als Zugang zum Config-Mode genutzt.
 
 ## Unterstützte Hardwarerevisionen:
 Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision.
