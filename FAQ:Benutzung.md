@@ -57,12 +57,12 @@ Im _Failsafemode_ ist er nur per Telnet erreichbar.
 Das Web-Interface ist in diesem Falle deaktiviert.
 
 ### Allgemein
-* QSS-Taste im normalen Betrieb für mindestens 3 Sekunden gedrückt halten.
-* Bei erfolgtem Neustart den QSS-Button ''sofort'' los lassen, denn sonst bootet der Knoten in den Failsave-Modus.
+* QSS-Taste im normalen Betrieb für mindestens 3 Sekunden gedrückt halten. Loslassen, wenn die Lampen merklich darauf reagieren, in jedem falle **vor** dem blinken der sys-lampe
+* Bei erfolgtem Neustart den QSS-Button ''sofort'' los lassen, die sys-lampe sollte dann langsam blinken. Wenn man zu lange gedrückt hält bootet der Knoten in den Failsave-Modus (schnelles blinken)
 * Nun an einen der LAN-Ports hängen und die 192.168.1.1 im Browser aufrufen.
 
 ### Ausnahmen
-* Da der [[841ND|Firmware:841nd]] nur einen gemeinsamen WPS/RESET-Taster hat, ist dieser zu benutzen.
+* Da der [[841ND|Firmware:841nd]] und der 842 nur einen gemeinsamen WPS/RESET-Taster haben, ist dieser zu benutzen.
 
 ## Verwaltung
 Router können in die [[Knotenliste für Lübeck|Knoten]] bzw. in die [[Knotenliste für Mölln|Moelln:Knoten]] eintragen werden, wenn sie im Knotengraph mit ihrem Namen angezeigt werden sollen.
