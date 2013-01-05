@@ -62,7 +62,7 @@ Das Web-Interface ist in diesem Falle deaktiviert.
 * Nun an einen der LAN-Ports hängen und die 192.168.1.1 im Browser aufrufen.
 
 ### Ausnahmen
-* Da der [[841ND|Firmware:841nd]] und der 842 nur einen gemeinsamen WPS/RESET-Taster haben, ist dieser zu benutzen.
+* Da der [[841ND|Firmware:841nd]] und der [[842|Firmware:842nd]] nur einen gemeinsamen WPS/RESET-Taster haben, ist dieser zu benutzen.
 
 ## Verwaltung
 Router können in die [[Knotenliste für Lübeck|Knoten]] bzw. in die [[Knotenliste für Mölln|Moelln:Knoten]] eintragen werden, wenn sie im Knotengraph mit ihrem Namen angezeigt werden sollen.
