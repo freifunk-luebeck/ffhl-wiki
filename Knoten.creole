@@ -127,13 +127,9 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Orpheus         | Lennart          | Hüx                              | mit Internetanbindung   | TL-WR741ND  |                  0.3.1 | f8:d1:11:87:52:1c  | 53.864839 10.694442             |
 | Ramuh           |                  |                                  |                         |             |                        | f8:d1:11:87:4f:b0  |                                 |
 | Carbuncle       |                  |                                  |                         | TL-WR1043ND |                        | 64:70:02:94:16:1e  |                                 |
-| Anima           |                  |                                  |                         |             |                        | f8:d1:11:7e:92:20  |                                 |
 | Ifrit           |                  |                                  |                         |             |                        | f8:d1:11:87:52:34  |                                 |
-| Valfaris        | Eichi            | St. Lorenz Süd                   | im Aufbau               | TL-WR741ND  |                 0.3.1 | f8:d1:11:82:cd:c0  | 53.862017257161 10.662320530911 |
-| Ixion           | Eichi            | St. Lorenz Süd                   | im Aufbau               | TL-WR741ND  |                 0.3.1 | f8:d1:11:82:cd:16  | 53.862017257161 10.662320530911 |
 | Siren           |                  |                                  |                         |             |                        | f8:d1:11:87:4f:c6  |                                 |
 | Eden            | Magu             | St. Lorenz Nord                  | Uplink                  | TL-WDR3600  |                 0.3.3  | 64:70:02:b5:cf:74  |                                 |
-| Diabolos        |                  |                                  |                         |             |                        | 64:70:02:94:15:aa  |                                 |
 | Cerberus        |                  |                                  |                         |             |                        | 64:70:02:94:04:54  |                                 |
 | Leviathan       |                  | Carlebachpark                    | Mit Internetanbindung   | TL-WR1043ND |                  0.3.1 | 64:70:02:93:ff:c6  | 53.833703236943 10.698042190594 |
 | Pandemona       |                  |                                  |                         |             |                        | 90:f6:52:fd:3d:0a  |                                 |
