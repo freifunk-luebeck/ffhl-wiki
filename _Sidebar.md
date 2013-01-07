@@ -23,7 +23,7 @@
    * [[Highscore|Nodegame]]
    * [[Bilder hosten|cid]]
    * [[Daten speichern|Tahoe-LAFS]]
-* [[Mölln|Moelln]]
+ * [[Mölln|Moelln]]
    * [[Aktive Knoten|Moelln:Knoten]]
  * Technische Details
    * [[Netzwerk]]
