@@ -11,11 +11,11 @@ Für beide stehen fertige Images bereit.
 
 ## Modelle
 Auf den folgenden Seiten befinden sich nähere Informationen zu den einzelnen Gerätetypen:
- * [[Firmware:741nd]]
- * [[Firmware:841nd]]
- * [[Firmware:842nd]]
- * [[Firmware:1043nd]]
- * [[Firmware:3600]]
+ * [[TP-Link 741nd|Firmware:741nd]]
+ * [[TP-Link 841nd|Firmware:841nd]]
+ * [[TP-Link 842nd|Firmware:842nd]]
+ * [[TP-Link 1043nd|Firmware:1043nd]]
+ * [[TP-Link 3600|Firmware:3600]]
 
 ## Für Ungeduldige
 
