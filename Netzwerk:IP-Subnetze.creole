@@ -20,10 +20,10 @@ die Hexadezimaldarstellungen von a bzw. b sind.
 
 Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[Gateway-Server aktivieren|http://www.open-mesh.org/wiki/batman-adv/Gateways]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
 
-|=Name       |=Gateway IP    |=Gateway MAC |=DHCP(Range)         |=DNS  |=batman-adv GW server |=batman-adv originator MAC |=Status  |
-| holstentor | 10.130.15.1 | 52:54:00:0c:bb:eb | ja (10.130.15.0/24 + 10.130.13.0/24) | ja   | ja | 8e:3d:c2:10:10:28 | aktiv   |
-| burgtor    | 10.130.14.1 | 52:54:00:ee:5c:d5 | ja (10.130.14.0/24 + 10.130.12.0/24) | ja   | ja | 52:54:00:f3:62:d9 | aktiv   |
-| muehlentor | 10.130.10.1 | de:ad:ca:fe:46:1d | ja (10.130.10.0/23) | ja   | ja | de:ad:be:ef:46:1d | aktiv   |
+|=Name       |=Gateway IP    |=Gateway MAC |=DHCP(Range)         |=DNS  |=batman-adv GW server |=batman-adv originator MAC |=batman-adv Version |=Status  |
+| holstentor | 10.130.15.1 | 52:54:00:0c:bb:eb | ja (10.130.15.0/24 + 10.130.13.0/24) | ja   | ja | 8e:3d:c2:10:10:28 | ? | inaktiv (Hardwaredefekt) |
+| burgtor    | 10.130.14.1 | 52:54:00:ee:5c:d5 | ja (10.130.14.0/24 + 10.130.12.0/24) | ja   | ja | 52:54:00:f3:62:d9 | ? | aktiv   |
+| muehlentor | 10.130.10.1 | de:ad:ca:fe:46:1d | ja (10.130.10.0/23) | ja   | ja | de:ad:be:ef:46:1d | 2012.4.0 | aktiv   |
 
 == Reservierte Subnetze des Mesh-Netzes
 
@@ -52,10 +52,12 @@ Netmask: 255.255.240.0 (/20)
 |   10.130.0.8  | Avahi: krtek.local            | krtek.ffhl     |
 |   10.130.0.9  | rec.metameute.de              |                |
 |  10.130.0.10  | tcatm                         |                |
+|  10.130.0.11  | DerDerwish                    |                |
 |  10.130.0.12  | stmarien (vm auf krtek)       | stmarien.ffhl  |
 |  10.130.0.13  | 7jM                           | serverbox      |
 |  10.130.0.14  | tcatm's 1043nd                |                |
 |  10.130.0.16  | Avahi: bluedog.local          |                |
+|  10.130.0.17  | greendog                      | greendog.ffhl  |
 |  10.130.0.18  | meuteblog                     | meuteblog.ffhl |
 |  10.130.0.19  | server                        |                |
 |  10.130.0.20  | Jamalaka                      | silvan         |
@@ -64,7 +66,8 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.23  | Laeila & jix                  | kyubey         |
 |  10.130.0.24  | Georg (Schrebergärten)        |                |
 |  10.130.0.25  | Schrebergarten Tanne          |                |
-|  10.130.0.26  | Ida & Martin                  | Rapture        |
+|  10.130.0.26  | duckie & xidd                 | Rapture        |
+|  10.130.0.27  | 7jM                           | StrahlenKiste  |
 |  10.130.0.28  | stpetri (vm auf krtek)        |                |
 |  10.130.0.29  | namshub  [node] {magu}        | namshub.ffhl   |
 |  10.130.0.30  | enki [node] {magu}            | enki.ffhl      |
@@ -74,10 +77,11 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.35  | Silber1                       |                |
 |  10.130.0.36  | nutch                         | nutch.ffhl     |
 |  10.130.0.37  | bo                            |                |
+|  10.130.0.38  | Paul-Nook2012                 |                |
 |  10.130.0.42  | NasBox                        | nasbox.ffhl    |
 |  10.130.0.64  | magu Server                   | cic.ffhl       |
 |  10.130.0.118 | zenforyens node               |                |
-| 10.130.1.0/28 | Eichi                         |                |
+| 10.130.1.0/27 | Eichi                         |                |
 |  10.130.1.46  | Georg (Pirat)                 |                |
 | 10.130.2.0/24 | Fluse Knoten                  |                |
 
@@ -96,7 +100,7 @@ Die Reservierung eines solchen Netzes sollte mit anderen Freifunkern abgesproche
 | 10.130.121.0/27 | 1..30      |bo                       |
 | 10.130.122.0/27 | 1..30      |Magu Network             |
 | 10.130.123.0/24 | 1..254     |Meutekeller              |
-| 10.130.124.0/27 | 1..30      |Netz von Martin & Ida    |
+| 10.130.124.0/27 | 1..30      |Netz von duckie & xidd   |
 | 10.130.125.0/27 | 1..30      |Netz von 7jM             |
 | 10.130.126.0/27 | 1..30      |Netz von Laeila & jix    |
 | 10.130.127.0/27 | 1..30      |Jamalakas Netz           |
@@ -107,16 +111,17 @@ Die Reservierung eines solchen Netzes sollte mit anderen Freifunkern abgesproche
 
 Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
 
-|=IP-Adresse   |=Notizen                       |=Hostname        |
-| 10.130.16.1  |                               | Burgtor         |
-| 10.130.16.2  | Pascals Server                | chip.ffhl       |
-| 10.130.16.3  | DerDerwishs Server            | derderwish.ffhl |
-| 10.130.16.4  | DerDerwishs Server (sekundär) |                 |
-| 10.130.16.5  | nils' N900                    |                 |
-| 10.130.16.6  | Jamalaka Hobbes               |                 |
-| 10.130.16.7  | Jamalaka Calvin               |                 |
-| 10.130.16.8  | dysis                         | dysis.ffhl      |
-| 10.130.16.9  | tcatm t410                    |                 |
-| 10.130.16.10 | magu                          |                 |
-| 10.130.16.17 | Eichi Odin                    |                 |
+|=IP-Adresse   |=Notizen                        |=Hostname        |
+| 10.130.16.1  |                                | Burgtor         |
+| 10.130.16.2  | Pascals Server                 | chip.ffhl       |
+| 10.130.16.3  | DerDerwishs Server             | derderwish.ffhl |
+| 10.130.16.4  | DerDerwishs Server (sekundär)  |                 |
+| 10.130.16.5  | nils' N900                     |                 |
+| 10.130.16.6  | Jamalaka Hobbes                |                 |
+| 10.130.16.7  | Jamalaka Calvin                |                 |
+| 10.130.16.8  | dysis                          | dysis.ffhl      |
+| 10.130.16.9  | tcatm t410                     |                 |
+| 10.130.16.10 | magu                           |                 |
+| 10.130.16.11 | zenforyen                      |                 |
+| 10.130.16.17 | Eichi Odin                     |                 |
 | 10.130.16.18 | berik /ampache testuser pw 1234| hinkelstein.ffhl|

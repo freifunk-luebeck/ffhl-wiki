@@ -9,6 +9,14 @@ Wir empfehlen den Einsatz dieser Geräte, da wir mit diesen gute Erfahrungen gem
 Abgebildet sind der [[TP-Link 741nd|Firmware:741nd]] und der [[TP-Link 1043nd|Firmware:1043nd]].
 Für beide stehen fertige Images bereit.
 
+## Modelle
+Auf den folgenden Seiten befinden sich nähere Informationen zu den einzelnen Gerätetypen:
+ * [[TP-Link 741nd|Firmware:741nd]]
+ * [[TP-Link 841nd|Firmware:841nd]]
+ * [[TP-Link 842nd|Firmware:842nd]]
+ * [[TP-Link 1043nd|Firmware:1043nd]]
+ * [[TP-Link 3600|Firmware:3600]]
+
 ## Für Ungeduldige
 
 Du hast Lust bei Freifunk mit zu machen oder möchtest dich nicht mit den technischen Details rumschlagen?

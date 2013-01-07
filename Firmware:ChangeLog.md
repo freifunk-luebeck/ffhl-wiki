@@ -1,5 +1,26 @@
 # ChangeLog
 
+## v0.3.2 (Release 2012-12-03)
+
+* VPN-Peer huextertor hinzugefügt
+* Es werden nur noch Verbindungen zu 2 zufälligen der bis zu 4 VPN-Backbone-Gateways aufgebaut
+* Bugfixes:
+  * Extrem hoher Paketverlust bei Broadcast-Paketen im Mesh behoben
+  * Avahi läuft nur noch auf dem Freifunk-Interface
+* Weitere Updates:
+  * Update auf den aktuellen OpenWRT Attitude Adjustment Trunk (rc1)
+  * fastd v6
+  * batman-adv 2012.4.0
+* Support für neue Router-Revisionen (TP-Link TL-WR841ND v8)
+* Unterstützte Geräte:
+ * [[TP-Link TL-WR741ND|Firmware:741nd]]
+ * [[TP-Link TL-WR841ND|Firmware:841nd]]
+ * [[TP-Link TL-WR842ND|Firmware:842nd]]
+ * [[TP-Link TL-WR1043ND|Firmware:1043nd]]
+ * [[TP-Link TL-WDR3600|Firmware:3600]]
+
+Download: [[http://metameute.de/~freifunk/firmware/0.3.2/]]
+
 ## v0.3.1 (Release 2012-09-27)
 
 * Update auf den aktuellen OpenWRT Attitude Adjustment Trunk
