@@ -104,8 +104,8 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | BKA-van017      | BKA              |                                  |                         |             |                 custom | 02:b4:ab:4a:42:42  |                                 |
 | Hellgate        | Devil            |                                  |                         |             |                 custom | 02:13:13:13:13:13  |                                 |
 | randomweb       | berik            |                                  | derzeit Mobilknoten     | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:20:be  |                                 |
-| randomweb2      | berik            |                                  | mit Internetanbindung   | TL-WR741ND  |                  0.3.1 | b2:48:7a:cc:2c:40  | 53.881376977561 10.648947036744 |
-| Fussel          | berik            |                                  | mit Internetanbindung   | TL-WR841ND  |                  0.3.1 | 92:f6:52:b5:fc:4a  |                                 |
+| randomweb2      | berik            |                                  | mit Internetanbindung   | TL-WR741ND  |                  0.3.2 | b2:48:7a:cc:2c:40  | 53.881376977561 10.648947036744 |
+| Fussel          | berik            |                                  | mit Internetanbindung   | TL-WR841ND  |                  0.3.2 | 92:f6:52:b5:fc:4a  |                                 |
 | CaféAlgarve     | berik            |                                  | mit Internetanbindung   | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2b:74  | 53.872743541821 10.690794861796 |
 | Prometheus      | zenforyen        | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz              | TL-WR842ND  |                  0.3.2 | 64:70:02:82:ce:fc  | 53.837666 10.694050             |
 | Hades           | anonym           | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz              | TL-WR842ND  |                  0.3.1 | 64:70:02:ae:0e:84  | 53.837666 10.694200             |
