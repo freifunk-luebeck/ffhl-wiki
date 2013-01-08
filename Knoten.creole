@@ -60,7 +60,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | LAN-Zentrum     | Fluse012         | Lanzentrum                       | Uplink                  | TL-WR1043ND |                  0.3.1 | 56:e6:fc:b0:43:80  | 53.87643 10.65837               |
 | Fluse014        | Fluse014         | Reserve 1043                     |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:bb:50:54  | 53.868967 10.671359             |
 | Mobiler Knoten  | Fluse015         | Mobiler Knoten 1043              |                         | TL-WR1043ND |                  0.3.1 | 54:e6:fc:af:43:ba  |                                 |
-|                 | Fluse016         |                                  |                         | TL-WR741ND  |                        | f8:d1:11:55:9b:e4  |                                 |
+| Fluse016        | Fluse016         | Testweise in der Hüxstrasse      |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:55:9b:e4  |                                 |
 | ZOB R           | Fluse017         | ZOB R                            |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2c:b8  | 53.866346 10.671321             |
 | Fluse3600       | Fluse018         |                                  | Uplink                  | TL-WR841ND  |                  0.3.2 | 64:70:02:91:53:5a  | 53.895523 10.65213              |
 | Fluse841nd      | Fluse019         | Königpassage                     |                         | TL-WDR3600  |                  0.3.2 | 90:f6:52:b1:95:1c  | 53.867461403867 10.687881982804 |
