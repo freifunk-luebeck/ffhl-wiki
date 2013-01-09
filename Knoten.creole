@@ -62,8 +62,8 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Mobiler Knoten  | Fluse015         | Mobiler Knoten 1043              |                         | TL-WR1043ND |                  0.3.1 | 54:e6:fc:af:43:ba  |                                 |
 | Fluse016        | Fluse016         | Testweise in der Hüxstrasse      |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:55:9b:e4  |                                 |
 | ZOB R           | Fluse017         | ZOB R                            |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2c:b8  | 53.866346 10.671321             |
-| Fluse3600       | Fluse018         |                                  | Uplink                  | TL-WR841ND  |                  0.3.2 | 64:70:02:91:53:5a  | 53.895523 10.65213              |
-| Fluse841nd      | Fluse019         | Königpassage                     |                         | TL-WDR3600  |                  0.3.2 | 90:f6:52:b1:95:1c  | 53.867461403867 10.687881982804 |
+| Fluse3600       | Fluse018         |                                  | Uplink                  | TL-WDR3600  |                  0.3.2 | 64:70:02:91:53:5a  | 53.895523 10.65213              |
+| Fluse841nd      | Fluse019         | Königpassage                     |                         | TL-WR841ND  |                  0.3.2 | 90:f6:52:b1:95:1c  | 53.867461403867 10.687881982804 |
 | Hanseatic 2     | Fluse020         | Hanseatic 2                      |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:de:58  | 53.865157 10.6709               |
 | Thai Restaurant | Fluse021         | König. Thai Restaurant           |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e5:2c  | 53.866844 10.6886               |
 | Prians          | Fluse022         | Große Burgstrasse                | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e5:28  | 53.873406 10.691006             |
@@ -93,6 +93,9 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Sonnenstudio    | Fluse053         | Bad Schwartau                    |                         | TL-WDR3600  |                  1.0   | 64:70:02:91:51:fe  | 53.918951175644 10.69473234464  |
 | St. Jürgen      | Fluse055         | HL Sankt Jürgen                  | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:87:4f:d6  | 53.854306931024 10.684792078026 |
 | Hanse Diner     | Fluse056         |                                  | Uplink                  | TL-WR842ND  |                  0.3.2 | 64:70:02:62:5f:c8  | 53.86734 10.671757              |
+| Fluse057        | Fluse057         |                                  |                         | TL-WDR3600  |                  0.3.2 | 64:70:02:aa:cd:cc  |                                 |
+| Fluse058        | Fluse058         |                                  |                         | TL-WDR3600  |                  0.3.2 | 64:70:02:b5:db:4a  |                                 |
+| Fluse059        | Fluse059         |                                  |                         | TL-WDR3600  |                  0.3.2 | 64:70:02:b5:db:24  |                                 |
 | 9to5            | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND  |                    0.3 | f8:d1:11:7b:e4:ca  | 53.862968 10.682708             |
 | Dennis          | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND |                 0.3.2  | b0:48:7a:99:e0:7e  | 53.910475 10.805865             |
 | Garuda-ZOB      | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND  |                 0.3pre | f8:d1:11:55:9f:9a  | 53.866705 10.671694             |
