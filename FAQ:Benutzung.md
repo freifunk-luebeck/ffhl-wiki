@@ -48,6 +48,9 @@ Bei Anschluss an das vorhandene Heimnetz bezieht der Knoten seine IP im normalen
 
 Statt Telnet wird im normalen Betrieb SSH benutzt, um auf die Kommandozeile des Routers zuzugreifen. Für den SSH-Login gilt das gleiche Passwort wie für das Webinterface. Um sich per SSH auf dem Router einzuloggen genügt folgendes Kommando auf der Kommandozeile unter Linux: *ssh &lt;per DHCP zugewiesene IP&gt;*
 
+### Public fastd-Schlüssel vom Freifunk-Knoten für den VPN-Zugang anzeigen
+Auf der Kommandozeile: */etc/init.d/fastd show_key mesh_vpn*
+
 
 ## In den ConfigMode gelangen
 
