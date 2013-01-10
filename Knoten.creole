@@ -93,9 +93,9 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Sonnenstudio    | Fluse053         | Bad Schwartau                    |                         | TL-WDR3600  |                  1.0   | 64:70:02:91:51:fe  | 53.918951175644 10.69473234464  |
 | St. Jürgen      | Fluse055         | HL Sankt Jürgen                  | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:87:4f:d6  | 53.854306931024 10.684792078026 |
 | Hanse Diner     | Fluse056         |                                  | Uplink                  | TL-WR842ND  |                  0.3.2 | 64:70:02:62:5f:c8  | 53.86734 10.671757              |
-| Fluse057        | Fluse057         |                                  |                         | TL-WDR3600  |                  0.3.2 | 64:70:02:aa:cd:cc  |                                 |
-| Fluse058        | Fluse058         |                                  |                         | TL-WDR3600  |                  0.3.2 | 64:70:02:b5:db:4a  |                                 |
-| Fluse059        | Fluse059         |                                  |                         | TL-WDR3600  |                  0.3.2 | 64:70:02:b5:db:24  |                                 |
+| Mitte           | Fluse057         |                                  |                         | TL-WDR3600  |                  0.3.2 | 64:70:02:aa:cd:cc  |                                 |
+| Dach            | Fluse058         |                                  |                         | TL-WDR3600  |                  0.3.2 | 64:70:02:b5:db:4a  |                                 |
+| Höhle           | Fluse059         |                                  |                         | TL-WDR3600  |                  0.3.2 | 64:70:02:b5:db:24  |                                 |
 | 9to5            | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND  |                    0.3 | f8:d1:11:7b:e4:ca  | 53.862968 10.682708             |
 | Dennis          | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND |                 0.3.2  | b0:48:7a:99:e0:7e  | 53.910475 10.805865             |
 | Garuda-ZOB      | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND  |                 0.3pre | f8:d1:11:55:9f:9a  | 53.866705 10.671694             |
