@@ -18,7 +18,7 @@ Durch ihre 2 Antennen bieten sie ein stabileres und schnelleres Funknetzwerk als
 Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision.
 
 * v7.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2/lff-0.3.2-ar71xx-generic-tl-wr841nd-v7-squashfs-factory.bin]]
-* v8.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2/lff-0.3.2-ar71xx-generic-tl-wr841n-v8-squashfs-factory.bin]] (Bei dieser Revision ist zu beachten, dass im Configmode und im Failsavemodus WAN- & LAN-Ports vertauscht sind.)
+* v8.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2/lff-0.3.2-ar71xx-generic-tl-wr841n-v8-squashfs-factory.bin]] (Bei dieser Revision ist zu beachten, dass im Configmode und im Failsafemodus WAN- & LAN-Ports vertauscht sind.)
 
 Ältere Versionen des Routers können auch leicht unterstützt werden, wenn man uns für 1-2 Wochen ein Testgerät zur Verfügung stellt. :)
 
