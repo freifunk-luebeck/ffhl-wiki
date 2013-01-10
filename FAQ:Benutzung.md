@@ -22,6 +22,8 @@ pass: admin
 Gelbe Buchse: Freifunk<br />
 Blaue Buchse: LAN
 
+Schließt man sein LAN, das Zugang zum Internet bietet, statt an die blaue an die gelbe Buchse an, wird das Freifunk-WLAN nicht über das Freifunk-Netzwerk geroutet sondern geht direkt über den eigenen Router ins Internet. (Wird in einer zukünftigen Firmware geändert.)
+
 Ausnahmen zu dieser Regel werden auf der Wikiseite des jeweiligen Routers festgehalten.
 
 ### ConfigMode
@@ -52,9 +54,11 @@ Statt Telnet wird im normalen Betrieb SSH benutzt, um auf die Kommandozeile des 
 ### Der Unterschied zwischen Configmode und Failsafemode
 Der _Configmode_ ist der Zustand, den ein neuer Knoten nach dem ersten Flashen hat.
 In diesem ist er auf den LAN-Ports per modifiziertem Web-Interface einstellbar.
+Im ConfigMode blinkt die System-LED langsam.
 
 Im _Failsafemode_ ist er nur per Telnet erreichbar.
 Das Web-Interface ist in diesem Falle deaktiviert.
+Im Failsafemode blinkt die System-LED schnell.
 
 ### Allgemein
 * QSS-Taste im normalen Betrieb für mindestens 3 Sekunden gedrückt halten. Loslassen, wenn die Lampen merklich darauf reagieren, in jedem falle **vor** dem blinken der sys-lampe
