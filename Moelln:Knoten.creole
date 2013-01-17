@@ -18,7 +18,10 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 **Es sollten keine fremden Einträge ohne Erlaubnis des Betreibers bearbeitet werden. Insbesondere dürfen keine GPS-Koordinaten oder Adresse angegeben werden, wenn der Betreiber dies nicht will!**
 
 |=Ort                                 |=GPS                                                         |=Betreiber       |=Router               |=LFF Version   |=Hinweise                  |=MAC                                                        |=Knotenname   |
-| Hauptstraße 86           |                     | mkm      |TL-WR1043ND  | 0.3                | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
+| Hauptstraße 86 |  | mkm |TL-WR1043ND  | 0.3.2 | mit Internetanbindung | B0:48:7A:DB:3B:18 | mkm |
+| Hauptstraße 86 |  | mkm |TL-WR841ND  | 0.3.2 | mit Internetanbindung, Kurpark |  | mkm2 |
+| Bahnhof | | mkm | TL-WDR3600 | 0.3.2 | mit Internetanbindung |  | Bahnhof |
+
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
