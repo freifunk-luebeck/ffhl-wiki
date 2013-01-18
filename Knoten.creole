@@ -50,7 +50,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 |                 | Fluse001         |                                  |                         | TL-WR741ND  |  0.3pre (build 120809) | f8:d1:11:7e:57:98  |                                 |
 | Genußdepot      | Fluse002         |                                  |                         | TL-WR741ND  |                  0.3.1 | f8:d1:11:7e:57:76  | 53.86734436691 10.688042915331  |
 | ZOB RU          | Fluse003/Abdi    | ZOB RU Switchmode                | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:2a:f2  | 53.866414 10.671173             |
-|                 | Fluse004         |                                  |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:57:e2  |              |
+| Fluse004        | Fluse004         | Nähe Klingenberg                 |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:57:e2  |                                 |
 | La Crona a      | Fluse005         | BS ZOB                           | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:57:d4  | 53.918935379332 10.694474852564 |
 | ZOB LU          | Fluse007         | ZOB LU                           |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:2c:76  | 53.866408 10.671088             |
 | ZOB L           | Fluse008         | ZOB L                            | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:58:0c  | 53.86634 10.67122               |
@@ -82,7 +82,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | König Mall 2    | Fluse038         | König. Mall mitte                |                         | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:12:9c  | 53.867249 10.688965             |
 | Werkstatt       | Fluse039         | König. Werkstatt                 |                         | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:20:2e  | 53.867587 10.689464             |
 | Alt Görtz       | Fluse040         | König. Görtz                     |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:fc  | 53.867306 10.689003             |
-|                 | Fluse041         |                                  |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:20:20  |                                 |
+| Fluse041        | Fluse041         | Nähe Klingenberg                 |                         | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:20:20  |                                 |
 | König Mall 1    | Fluse042         | König. Mall 1                    |                         | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:1f:c0  | 53.86735 10.688445              |
 | e-zig           | Fluse045         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2d:4d  | 53.867227329623 10.68833795833  |
 | figura          | Fluse046         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2b:7c  | 53.867189371517 10.688949501978 |
