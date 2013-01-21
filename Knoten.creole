@@ -135,8 +135,8 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Eden            | Magu             | St. Lorenz Nord                  | Uplink                  | TL-WDR3600  |                 0.3.3  | 64:70:02:b5:cf:74  |                                 |
 | Cerberus        |                  |                                  |                         |             |                        | 64:70:02:94:04:54  |                                 |
 | Leviathan       |                  | Carlebachpark                    | Mit Internetanbindung   | TL-WR1043ND |                  0.3.1 | 64:70:02:93:ff:c6  | 53.833703236943 10.698042190594 |
-| Pandemona       |                  |                                  |                         |             |                        | 90:f6:52:fd:3d:0a  |                                 |
-| Tombery         | Eichi - 99       | Lübeck ZOB                       |                         | TL-WR1043ND |                  0.3.1 | 64:70:02:94:03:b0  | 53.866471324141 10.671263015747 |
+| Pandemona       | Eichi - 99       | Lübeck ZOB                       |                         | TL-WR1043ND |                  0.3.1 | 90:f6:52:fd:3d:0a  | 53.866471324141 10.671263015747 |
+| Tombery         |                  |                                  |                         |             |                        | 64:70:02:94:03:b0  |                                 |
 | Donald          | Tyme             | Stadtweide                       |                         | TL-WR741ND  |                    0.3 | f8:d1:11:58:28:e8  | 53.84066 10.70455               |
 | roceHA          | geoigeek         | 23611 Sereetz                    | mit Internetanbindung   | TL-WR842N   |                  0.3.2 | 64:70:02:62:6C:70  | 53.919678 10.743222             |
 | SkynetGlobalDefenseNetwork | Rubo77 | Travemünde                      | kommt am 28.12.         | TL-WR842ND  |                  0.3.2 | 64:70:02:62:68:3E | 53.97375 10.87379                |
