@@ -42,4 +42,10 @@
 ### Hardware Versionen
 
 * 1.x [[Firmware 0.3.2|http://metameute.de/~freifunk/firmware/0.3.2/lff-0.3.2-ar71xx-generic-tl-wdr3600-v1-squashfs-factory.bin]]
+
+# Hardware Version
+
+Die Hardware Version steht unten auf den Geräten. Hier als Beispiel ein TL-WR1043ND mit der Version 1.0:
+
+[[bilder/hardwareversion.png]]
 	
