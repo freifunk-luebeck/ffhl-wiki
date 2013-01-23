@@ -2,7 +2,7 @@
 
 Das Repository befindet sich auf krtek:
 
-Aus dem Freifunk:            ssh://git@krtek.ffhl/fastd-keys
+Aus dem Freifunk:            ssh://git@krtek.ffhl/fastd-keys 
 Aus dem Internet (nur IPv6): ssh://git@metameute.de/fastd-keys
 
 Für jeden Publickey befindet sich eine Datei im Repository. Sie ist
