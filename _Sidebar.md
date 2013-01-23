@@ -40,5 +40,5 @@
      * [[TP-Link WR842ND|Firmware:842nd]]
      * [[TP-Link WR1043ND|Firmware:1043nd]]
      * [[TP-Link WDR3600|Firmware:3600]]
+   * [[fastd Schlüsselverwaltung|fastd-schlusselverwaltung]]
  * [[Probleme]]
- * [[fastd Schlüsselverwaltung|fastd-schlusselverwaltung]]
