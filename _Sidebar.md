@@ -41,3 +41,4 @@
      * [[TP-Link WR1043ND|Firmware:1043nd]]
      * [[TP-Link WDR3600|Firmware:3600]]
  * [[Probleme]]
+ * [[fastd-keys|fastd Schlüsselverwaltung]]
