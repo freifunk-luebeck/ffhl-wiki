@@ -32,6 +32,7 @@
      * [[bird]]
      * [[Knotenkonfiguration]]
    * [[Firmware]]
+     * [[Download]]
      * [[Changelog|Firmware:Changelog]]
      * [[Individuelle Firmware|Firmware:Individuell]]
    * [[Lübeck-Freifunk-Router|Router]]
