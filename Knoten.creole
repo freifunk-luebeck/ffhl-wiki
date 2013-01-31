@@ -96,6 +96,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Brauberger 2    | Fluse057         | Brauberger                       | Uplink                  | TL-WDR3600  |                  0.3.2 | 64:70:02:aa:cd:cc  | 53.868356567601 10.680967247975 |
 | Brauberger 1    | Fluse058         | Brauberger                       | Uplink                  | TL-WDR3600  |                  0.3.2 | 64:70:02:b5:db:4a  | 53.868280653399 10.680940425885 |
 | Brauberger 3    | Fluse059         | Brauberger                       |                         | TL-WDR3600  |                  0.3.2 | 64:70:02:b5:db:24  | 53.868407176993 10.68098334123  |
+| Fluse060        | Fluse060      |                        |                         | TL-WR741nd  |                  0.3.2 | f8:d1:11:94:a5:e0  |   |
 | 9to5            | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND  |                    0.3 | f8:d1:11:7b:e4:ca  | 53.862968 10.682708             |
 | Dennis          | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND |                 0.3.2  | b0:48:7a:99:e0:7e  | 53.910475 10.805865             |
 | Garuda-ZOB      | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND  |                 0.3pre | f8:d1:11:55:9f:9a  | 53.866705 10.671694             |
