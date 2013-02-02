@@ -23,7 +23,6 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | kmr4            | Karstadt         | Karstadt-Innen                   |                         | DIR-300     |                 custom | 00:24:01:b7:61:19  | 53.867784 10.68662              |
 | kmr5            | Karstadt         | Karstadt-Innen                   |                         | DIR-300     |                 custom | 00:24:01:b7:61:49  | 53.867973832094 10.686519420623 |
 | kmr6            | Karstadt         | Karstadt-Innen                   |                         | DIR-300     |                 custom | 00:24:01:b7:6a:fd  | 53.867926385299 10.686911023139 |
-| untenrum        | Julian           | Roter Löwe                       | mit Internetanbindung   | TL-WR1043ND |                  0.3.1 | f6:ec:38:cc:60:d8  | 53.850535092807 10.659187710778 |
 | Groeni          | Groeni           | 23560 Lübeck                     |                         | TL-WR1043ND |                 0.3pre | 54:e6:fc:b0:1a:7e  | 53.838783 10.639233             |
 | Odin            | Eichi            | 23562 Lübeck                     | mit Internetanbindung   | TL-WR1043ND |                  0.3.1 | 54:e6:fc:98:64:9c  | 53.85038 10.69014               |
 | Gilgameš        | Eichi            | 23564 Lübeck                     | im Aufbau               | TL-WR1043ND |                  0.3.1 | f4:ec:38:e9:73:90  | 53.858067 10.723117             |
