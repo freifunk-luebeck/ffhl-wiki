@@ -33,7 +33,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Birke           | 7jM              | Röntgenstraße                    | mit Internetanbindung   | TL-WR1043ND |                  0.3.1 | f8:d1:11:24:9d:a2  | 53.846658 10.68926              |
 | StrahlenKiste   | 7jM              | Röntgenstraße                    |                         | TL-WDR3600  |                  0.3.1 | 66:70:02:b6:d1:ee  | 53.846642 10.689338             |
 | confusion       | NeoRaider        | Ratzeburger Allee                | Uplink                  | TL-WDR3600  |                  0.3.1 | 64:70:02:91:51:92  | 53.846141 10.707231             |
-| sweetmorn       | NeoRaider        | Ratzeburger Allee                |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:30:1b:e2 | 53.846169 10.707274             |
+| sweetmorn       | NeoRaider        | Ratzeburger Allee                |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:30:1b:e2  | 53.846169 10.707274             |
 | boomtime        | NeoRaider        | Ratzeburger Allee                |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:37:fc:38  | 53.846064 10.707203             |
 | Rübe            | Groeni           | Rübenkoppel, Brandenbaum         | mit Internetanbindung   | TL-WR741ND  |                 0.3pre | b0:48:7a:cb:30:47  | 53.857763 10.719022             |
 | Rübe 2          | Groeni           | Rübenkoppel, Brandenbaum         | Verteiler / Richtfunk   | TL-WR1043ND |                 0.3pre | 56:e6:fc:98:58:f3  | 53.856122 10.721074             |
@@ -139,9 +139,9 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Tombery         |                  |                                  |                         |             |                        | 64:70:02:94:03:b0  |                                 |
 | Donald          | Tyme             | Stadtweide                       |                         | TL-WR741ND  |                    0.3 | f8:d1:11:58:28:e8  | 53.84066 10.70455               |
 | roceHA          | geoigeek         | 23611 Sereetz                    | mit Internetanbindung   | TL-WR842N   |                  0.3.2 | 64:70:02:62:6C:70  | 53.919678 10.743222             |
-| SkynetGlobalDefenseNetwork | Rubo77 | Travemünde                      | kommt am 28.12.         | TL-WR842ND  |                  0.3.2 | 64:70:02:62:68:3E | 53.97375 10.87379                |
+| SkynetGlobalDefenseNetwork | Rubo77 | Travemünde                      | kommt am 28.12.         | TL-WR842ND  |                  0.3.2 | 64:70:02:62:68:3E  | 53.97375 10.87379               |
 | Bernsteinzimmer | wzl              | Röntgenstraße                    |                         | Fon FON2202 |                 custom | 02:18:84:d0:10:bb  | 53.846588854637 10.689888275147 |
-| draic           |                  |                 |                |                         |             |                           | 90:f6:52:ff:cd:b0  | 53.871890712637 10.716594457626 |
+| draic           |                  |                                  |                         |             |                        | 90:f6:52:ff:cd:b0  | 53.871890712637 10.716594457626 |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
