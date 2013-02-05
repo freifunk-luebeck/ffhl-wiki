@@ -21,9 +21,9 @@ die Hexadezimaldarstellungen von a bzw. b sind.
 Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[Gateway-Server aktivieren|http://www.open-mesh.org/wiki/batman-adv/Gateways]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
 
 |=Name       |=Gateway IP    |=Gateway MAC |=DHCP(Range)         |=DNS  |=batman-adv GW server |=batman-adv originator MAC |=batman-adv Version |=Status  |
-| holstentor | 10.130.15.1 | 52:54:00:0c:bb:eb | ja (10.130.15.0/24 + 10.130.13.0/24) | ja   | ja | 8e:3d:c2:10:10:28 | ? | inaktiv (Hardwaredefekt) |
-| burgtor    | 10.130.14.1 | 52:54:00:ee:5c:d5 | ja (10.130.14.0/24 + 10.130.12.0/24) | ja   | ja | 52:54:00:f3:62:d9 | ? | aktiv   |
 | muehlentor | 10.130.10.1 | de:ad:ca:fe:46:1d | ja (10.130.10.0/23) | ja   | ja | de:ad:be:ef:46:1d | 2012.4.0 | aktiv   |
+| holstentor | 10.130.12.1 | 52:54:00:0c:bb:eb | ja (10.130.12.0/23) | ja   | ja | 8e:3d:c2:10:10:28 | ? | inaktiv (Hardwaredefekt) |
+| burgtor    | 10.130.14.1 | 52:54:00:ee:5c:d5 | ja (10.130.14.0/23) | ja   | ja | 52:54:00:f3:62:d9 | 2012.4.0 | aktiv   |
 
 == Reservierte Subnetze des Mesh-Netzes
 
