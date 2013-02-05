@@ -13,7 +13,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 
 == Bereits vorhandene Knoten
 
-**Es sollten keine fremden Einträge ohne Erlaubnis des Betreibers bearbeitet werden. Insbesondere dürfen keine GPS-Koordinaten oder Adresse angegeben werden, wenn der Betreiber dies nicht will!**
+**Es sollten keine fremden Einträge ohne Erlaubnis des Betreibers bearbeitet werden. Insbesondere dürfen keine GPS-Koordinaten oder Adresse angegeben werden, wenn der Betreiber dies nicht will!** Die MAC-Adresse steht unten auf dem Router und kann gerne in die Liste eingetragen werden. Bitte nicht die MAC-Adresse eintragen, welche beim suchen der W-LANs angezeigt werden.
 
 |=Knotenname      |=Betreiber        |=Ort                              |=Hinweise                |=Router      |=LFF Version            |=MAC                |=GPS                             |
 | Meute-AP        | Meta-Meute       | Meute-Keller                     |                         | TL-WR1043ND |                 0.3pre | b0:48:7a:e7:d3:64  | 53.834384 10.702304             |
