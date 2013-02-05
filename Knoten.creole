@@ -145,6 +145,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | SkynetGlobalDefenseNetwork | Rubo77 | Travemünde                      | kommt am 28.12.         | TL-WR842ND  |                  0.3.2 | 64:70:02:62:68:3E  | 53.97375 10.87379               |
 | Bernsteinzimmer | wzl              | Röntgenstraße                    |                         | Fon FON2202 |                 custom | 02:18:84:d0:10:bb  | 53.846588854637 10.689888275147 |
 | draic           |                  |                                  |                         |             |                        | 90:f6:52:ff:cd:b0  | 53.871890712637 10.716594457626 |
+| chefkoch        | chefkoch         | Travemünde                       | mit Internetanbindung   | TL-WR741ND  |                  0.3.2 | 02:d1:11:37:fc:38  | 53.958926240299 10.853902101516 |
 === Umrechnung von GPS Koordinaten
 
 http://rechneronline.de/geo-koordinaten/
