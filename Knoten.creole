@@ -77,7 +77,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | AliBaba         | Fluse030         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:20:08  | 53.86898 10.684700              |
 | Candys          | Fluse031         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:21:24  | 53.869929 10.663736             |
 | Pauline         | Pauline          |Strese                            |                         | TL-WR741ND  |                    0.3 | b0:48:7a:cb:1f:98  | 53.855360 10.692420             |
-| BlauDirekt NO   | Fluse033         |                                  |                         | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:1f:b8  | 53.868862658764 10.671225464815 |
+| BlauDirekt NO   | Fluse033         |                                  |                         | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:1f:b8  | 53.86886061975462 10.6715011596 |
 | BlauDirekt SW   | Fluse035         |                                  | Uplink                  | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:1f:fa  | 53.86875 10.6712898             |
 | König Mall 3    | Fluse037         | König Mall 3                     |                         | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:1f:d0  | 53.867167 10.688595             |
 | König Mall 2    | Fluse038         | König. Mall mitte                |                         | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:12:9c  | 53.867249 10.688965             |
