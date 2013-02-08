@@ -26,22 +26,32 @@ Schließt man sein LAN, das Zugang zum Internet bietet, statt an die blaue an di
 
 Ausnahmen zu dieser Regel werden auf der Wikiseite des jeweiligen Routers festgehalten.
 
-### ConfigMode
-Der ConfigMode dient der grundlegenden Konfiguration eines Freifunkrouters.
+### Configmode
+Der Configmode dient der grundlegenden Einstellung eines Knotens und ist der empfohlene Weg.
+
+Dafür muss der Knoten zuerst komplett gebootet sein und laufen.
+Im laufenden Betrieb wird nun die QSS-Taste ca. 5 Sekunden gedrückt gehalten, bis der Knoten merklich neustartet.
+<br />
+Dann muss der Button ''sofort'' losgelassen werden, damit er in den Configmode geht.
+
+Dann hängt man seinen Rechner an einen der gelben LAN-Ports und lässt sich eine IP geben.
+Im Browser wird nun die 192.168.1.1 aufgerufen und die notwendigen Einstellungen werden vorgenommen.
+Im letzten Schritt des Configmodes ist der Knoten per Klick neuzustarten, da man sich erst jetzt sicher sein kann, dass er die Einstellungen übernimmt und danach in den Normalzustand als Freifunkknoten neustartet.
+
+### Failsafemode
+Der Failsafemode dient der Rettung eines zerschossenen Freifunkrouters und sollte nur im Notfall benutzt werden!
 
 IP: 192.168.1.1<br />
 Netmask: 255.255.255.0
 
-Im ConfigMode wird Telnet benutzt, um Zugang zur Kommandozeile des Routers zu erhalten.
+Im Failsafemode wird Telnet benutzt, um Zugang zur Kommandozeile des Routers zu erhalten.
 Hierfür genügt folgendes Kommando auf der Kommandozeile unter Linux: *telnet 192.168.1.1*
 
 Um Änderungen am System durchführen zu können, muss mit dem Kommando *mount_root* zunächst ein Overlay-Dateisystem über das Wurzelverzeichnis '/' gemountet werden.
 
 Das Passwort für das Webinterface und den SSH-Zugang des Routers kann im ConfigMode (und auch später) mit dem Kommando *passwd* geändert werden, falls es vergessen wurde. Es ist hierfür kein weiteres Passwort nötig. Hiermit kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
 
-Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert. Es kann jedoch per Kommandozeile wieder aktiviert werden.<br />
-Webinterface aktivieren: */etc/init.d/uhttpd start*<br />
-Webinterface nach Neustart automatisch aktivieren: */etc/init.d/uhttpd enable*
+Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert. Es auch nicht per Kommandozeile wieder aktiviert werden.<br />
 
 ### Normaler Betrieb
 Bei Anschluss an das vorhandene Heimnetz bezieht der Knoten seine IP im normalen Betrieb automatisch via DHCP. Dies setzt natürlich voraus, dass ein DHCP-Server im lokalen Netz existiert. Meistens erfüllt diese Aufgabe der DSL-Router über den man ins Internet gelangt.
@@ -59,8 +69,8 @@ Der _Configmode_ ist der Zustand, den ein neuer Knoten nach dem ersten Flashen h
 In diesem ist er auf den LAN-Ports per modifiziertem Web-Interface einstellbar.
 Im ConfigMode blinkt die System-LED langsam.
 
-Im _Failsafemode_ ist er nur per Telnet erreichbar.
 Das Web-Interface ist in diesem Falle deaktiviert.
+Im Configmode blinkt die Sys-LED langsam.
 Im Failsafemode blinkt die System-LED schnell.
 
 ### Allgemein
