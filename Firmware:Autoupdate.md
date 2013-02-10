@@ -32,7 +32,7 @@ Im Normalfall werden das die Schlüssel unserer Entwickler sein, können aber au
 
 ### Update-Server
 Der Server, der die neuen Images bereitstellt, muss nur einige statische Dateien über HTTP zur Verfügung stellen und ist damit leicht konfigurierbar.
-Er sollte möglichst über eine feste IP verfügen, damit er von den entsprechenden Knoten sicher gefunden werden kann.
+Er sollte möglichst über eine feste interne IPv6-Adresse verfügen, damit er von den entsprechenden Knoten sicher gefunden werden kann.
 
 ### Eigener Update-Server
 In der Regel sollte man einen Server wählen, den die Entwickler "offiziell" bereitstellen, damit man schnell die neuesten Versionen erhält.
