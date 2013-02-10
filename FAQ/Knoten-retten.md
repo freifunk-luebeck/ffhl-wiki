@@ -12,7 +12,7 @@ Er ist durch Hardwarezugriff auslösbar und dann für erfahrene Nutzer gedacht.
 ### In den Failsafemode gelangen
 In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt.
 
-Danach kann man sich über einen der LAN-Ports verbinden und per Telnet über die ''192.168.1.1'' zum Knoten verbinden.
+Danach kann man sich über einen der LAN-Ports verbinden und per Telnet über die `192.168.1.1` zum Knoten verbinden.
 Dabei steht kein DHCP zur Verfügung.
 
 ### Das System schreibbar machen
