@@ -17,21 +17,21 @@ Dabei steht kein DHCP zur Verfügung.
 
 ### Das System schreibbar machen
 Standardmäßig arbeitet man erstmal nur im RAM und für dauerhafte Änderungen muss das Dateisystem explizit gemountet werden.
-Dafür ist ''mount_root''notwendig.
+Dafür ist `mount_root`notwendig.
 
 ### Eine neues root-Passwort setzen
-Für ein neues root-Passwort muss einfach ''passwd'' eingegeben werden.
+Für ein neues root-Passwort muss einfach `passwd` eingegeben werden.
 Danach wird man nach dem neuen Passwort und einer Bestätigung gefragt.
 
 ### Den SSH-Server starten
 Da dieser Modus nur die notwendigsten Dienste bietet, ist der SSH-Server manuell zu starten.
-Dies geschieht mit ''/etc/init.d/dropbear start''.
+Dies geschieht mit `/etc/init.d/dropbear start`.
 Danach kann der Knoten wie gewohnt per SSH oder SCP erreicht werden.
 
 ### Ein neues Image flashen
 Nachdem der SSH-Server erfolgreich gestartet wurde, kann das neue Image nun per SCP nach ''/tmp'' auf den Knoten gelegt werden.
-Das Flashen selbst startet mit ''sysupgrade /tmp/IMAGENAME''.
-Dabei kann mit der Option ''-n'' die Config überschrieben werden.
+Das Flashen selbst startet mit `sysupgrade /tmp/IMAGENAME`.
+Dabei kann mit der Option `-n` die Config überschrieben werden.
 
 Das Flashen bitte nicht abbrechen oder den Knoten während des Vorgangs vom Strom trennen.
 Sonst kann es dazu führen, dass das Gerät unbrauchbar wird.
