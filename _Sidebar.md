@@ -8,6 +8,7 @@
    * [[Knoten-Benutzung|FAQ:Benutzung]]
    * [[Technische Realisierung|FAQ:Technisches]]
    * [[Privates Netz|FAQ/Privates-Netz-einrichten]]
+   * [[Knoten retten|FAQ/Knoten-retten]]
  * [[Material]]
    * [[Grafiken]]
    * [[Texte]]
