@@ -51,7 +51,8 @@ Um Änderungen am System durchführen zu können, muss mit dem Kommando *mount_r
 
 Das Passwort für das Webinterface und den SSH-Zugang des Routers kann im ConfigMode (und auch später) mit dem Kommando *passwd* geändert werden, falls es vergessen wurde. Es ist hierfür kein weiteres Passwort nötig. Hiermit kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
 
-Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert. Es auch nicht per Kommandozeile wieder aktiviert werden.<br />
+Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert.
+Es sollte aus Sicherheitsgründen auch nicht per Kommandozeile wieder aktiviert werden.
 
 ### Normaler Betrieb
 Bei Anschluss an das vorhandene Heimnetz bezieht der Knoten seine IP im normalen Betrieb automatisch via DHCP. Dies setzt natürlich voraus, dass ein DHCP-Server im lokalen Netz existiert. Meistens erfüllt diese Aufgabe der DSL-Router über den man ins Internet gelangt.
