@@ -149,7 +149,8 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Donald          | Tyme             | Stadtweide                       |                         | TL-WR741ND  |                    0.3 | f8:d1:11:58:28:e8  | 53.84066 10.70455               |
 | roceHA          | geoigeek         | 23611 Sereetz                    | mit Internetanbindung   | TL-WR842N   |                  0.3.2 | 64:70:02:62:6C:70  | 53.919678 10.743222             |
 | SkynetGlobalDefenseNetwork | Rubo77 | Travemünde                      | kommt am 28.12.         | TL-WR842ND  |                  0.3.2 | 64:70:02:62:68:3E  | 53.97375 10.87379               |
-| Bernsteinzimmer | wzl              | Röntgenstraße                    |                         | Fon FON2202 |                 custom | 02:18:84:d0:10:bb  | 53.846588854637 10.689888275147 |
+| Bernsteinzimmer | wzl              | Röntgenstraße                    |                         | FON2202 |                 custom | 02:18:84:d0:10:bb  | 53.846588854637 10.689888275147 |
+| Rheingold       | wzl              | Königstraße                      |                         | Buffalo WMBR-HP-G300H |       custom | 02:24:a5:bd:25:b4 | 53.8647959020312 10.686392784118652
 | draic           |                  |                                  |                         |             |                        | 90:f6:52:ff:cd:b0  | 53.871890712637 10.716594457626 |
 | chefkoch        | chefkoch         | Travemünde                       | mit Internetanbindung   | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:23:7a  | 53.958926240299 10.853902101516 |
 === Umrechnung von GPS Koordinaten
