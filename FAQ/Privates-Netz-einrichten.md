@@ -24,32 +24,33 @@ Zunächst sollte ein Subnetz auf [[Netzwerk:IP Subnetze]] unter "Andere reservie
     IPv4 des Knotens im Mesh: 10.130.0.120
     IPv6 des Knotens: fdef:ffc0:3dd7:78::1
 
+Es ist äußerst wichtig, dass das benutzte Subnetz dort direkt eingetragen wird, damit es auf keinen Fall zu Doppelbelegung kommt. Selbst bei Tests macht es also Sinn, das zu reservieren!
+
 ## IPv6 Linklocal und IPv4 von br-freifunk an Liste senden
 
-    ip -6 addr show br-freifunk
+Die Ausgabe von `ip -6 addr show br-freifunk` muss an die Mailingliste mit einem sinnvollen Kommentar geschickt werden, damit es in den Gateways richtig eingetragen wird und der Knoten später die Routen bekommt.
 
 ## /etc/config/network
 
-- eth0.1 aus freifunk rausnehmen
-- freifunk IP zuweisen
+- eth0.1 mit einem Editor der Wahl in der Datei `/etc/config/network` aus `freifunk` rausnehmen
+- `freifunk` die reservierte IP zuweisen
 
-
-    config interface 'freifunk'
-    ...
-        option proto 'static'
-        option ipaddr '10.130.0.120' <-- anpassen!
-        option netmask '255.255.240.0'
+        config interface 'freifunk'
+        ...
+            option proto 'static'
+            option ipaddr '10.130.0.120' <-- anpassen!
+            option netmask '255.255.240.0'
     
 - neues interface 'privat' erstellen
 
 
-    config interface 'privat'     
-        option ifname 'eth0.1'
-        option type 'bridge'      
-        option proto 'static'
-        option ip6addr 'fdef:ffc0:3dd7:78::1/64'
-        option ipaddr '10.130.120.1'  
-        option netmask '255.255.255.224'
+        config interface 'privat'     
+            option ifname 'eth0.1'
+            option type 'bridge'      
+            option proto 'static'
+            option ip6addr 'fdef:ffc0:3dd7:78::1/64'
+            option ipaddr '10.130.120.1'  
+            option netmask '255.255.255.224'
 
 ## /etc/config/firewall editieren
 
