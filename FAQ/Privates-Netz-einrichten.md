@@ -156,9 +156,9 @@ In der Zone wan:
 			priority 0;
 		};
 	};
-   };
+    };
 
-## initscripte aktivieren
+## Initscripte aktivieren
 
     /etc/init.d/dnsmasq enable
     /etc/init.d/radvd enable
