@@ -28,7 +28,7 @@ Es ist äußerst wichtig, dass das benutzte Subnetz dort direkt eingetragen wird
 
 ## IPv6 Linklocal und IPv4 von br-freifunk an Liste senden
 
-Die Ausgabe von `ip -6 addr show br-freifunk` muss an die Mailingliste mit einem sinnvollen Kommentar geschickt werden, damit es in den Gateways richtig eingetragen wird und der Knoten später die Routen bekommt.
+Die Ausgabe von `ip addr show br-freifunk` muss an die Mailingliste mit einem sinnvollen Kommentar geschickt werden, damit es in den Gateways richtig eingetragen wird und der Knoten später die Routen bekommt.
 
 ## /etc/config/network
 
@@ -41,15 +41,15 @@ Die Ausgabe von `ip -6 addr show br-freifunk` muss an die Mailingliste mit einem
             option ipaddr '10.130.0.120' <-- anpassen!
             option netmask '255.255.240.0'
     
-- neues interface 'privat' erstellen
+- neues Interface `privat` erstellen
 
 
         config interface 'privat'     
             option ifname 'eth0.1'
             option type 'bridge'      
             option proto 'static'
-            option ip6addr 'fdef:ffc0:3dd7:78::1/64'
-            option ipaddr '10.130.120.1'  
+            option ip6addr 'fdef:ffc0:3dd7:78::1/64' <-- anpassen!
+            option ipaddr '10.130.120.1'  <-- anpassen!
             option netmask '255.255.255.224'
 
 ## /etc/config/firewall editieren
