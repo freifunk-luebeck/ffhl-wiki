@@ -1,4 +1,6 @@
-# Benötigte Pakete
+# Privates Netz einrichten
+
+## Benötigte Pakete
 
 Für ein privates Netz werden noch drei zusätzliche Pakete benötigt: radvd, bird6 und bird4
 
@@ -9,7 +11,7 @@ Für ein privates Netz werden noch drei zusätzliche Pakete benötigt: radvd, bi
     # opkg install radvd bird6 bird4
 
 
-# IP Subnetz festlegen
+## IP Subnetz festlegen
 
 Zunächst sollte ein Subnetz auf [[Netzwerk:IP Subnetze]] unter "Andere reservierte Subnetze" reserviert werden. Ein /27 reicht dazu in den meisten Fällen. Aus dem Subnetz wird auch das IPv6 Subnetz berechnet:
 
