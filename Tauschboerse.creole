@@ -4,8 +4,8 @@ Dann trag sie hier ein und vielleicht findet sich ein neuer Verwendungszweck daf
 
 = Biete
 | Bezeichnung        | Anzahl | Tauschwert | Anbieter | Kommentar                 |
-| 1042               | 1      | VHS        | jamalaka+ffhl@ccchl.de | |
+| 1043er               | 1      | VHS        | jamalaka+ffhl@ccchl.de | |
 
 = Suche
 | Bezeichnung        | Anzahl | Tauschwert | Suchender | Kommentar                 |
-| 3600               | 1      | VHS        | jamalaka+ffhl@ccchl.de | |
+| 3600er               | 1      | VHS        | jamalaka+ffhl@ccchl.de | |
