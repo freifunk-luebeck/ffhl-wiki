@@ -24,7 +24,7 @@ Dem NetHack Server wurden ein paar kleine Modifikationen einprogrammiert, die es
 
 ### Liste noch zu ha/ebender BTC-Schätzen
 
-* [[BTC-Schatz #1|http://blockchain.info/address/17mQevKMnekGqz1urehSmTKT7seMPR6dhS]] - Die Exploration
+* [[BTC-Schatz #1|http://blockchain.info/address/17mQevKMnekGqz1urehSmTKT7seMPR6dhS]] - Die Exploration (bereits gefunden)
 * [[BTC-Schatz #2|http://blockchain.info/address/1BB4fB4Wm8pC8xHCM2QvCQTEZedSbkKsFH]] - Dr. Doolittle
 * [[BTC-Schatz #3|http://blockchain.info/address/1KZzcXeRg3oyzQTbUonNDdc8XMDtL1Ru4b]] - Süßes Glück
 
