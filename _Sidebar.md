@@ -3,7 +3,7 @@
    * [[Externe Quellen|ExterneQuellen]]
    * [[Gründe zum Mitmachen|Warum]]
  * [[Einstieg]]
- * FAQ
+ * [[FAQ|FAQ/Uebersicht]]
    * [[Philosophie|FAQ/Philosophie]]
    * [[Knoten-Benutzung|FAQ/Benutzung]]
    * [[Technische Realisierung|FAQ/Technisches]]
