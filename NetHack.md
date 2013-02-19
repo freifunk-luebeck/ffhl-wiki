@@ -7,7 +7,7 @@ Die Grafik ist seeehr minimalistisch, die Interaktionsmöglichkeiten (inklusive 
 
 ## NetHack Server
 
-Im Freifunk-Netz haben wir nun einen eigenen NetHack-Server, um um die Wette zu NetHacken.
+Im Freifunk-Netz haben wir nun einen eigenen NetHack-Server, um um die Wette zu NetHacken. Die besten werden dort auch automatisch in einer Highscore veröffentlicht.
 
 ### Wie kommt man auf den Server?
 
