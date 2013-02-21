@@ -133,7 +133,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Achilles        | Kai              | Wohnheim Anschützstr.            | im Uninetz              | TL-WR841ND  |                    0.3 | b0:48:7a:cb:2c:aa  | 53.838095 10.693865             |
 | Perseus         | lumero           | Wohnheim Anschützstr. 7A (1. OG) | im Uninetz              | TL-WR841ND  |                  0.3.1 | b0:48:7a:cb:25:84  | 53.837938 10.695268             |
 | Daidalos        | anonym           | Wohnheim Anschützstr. 7A (2. OG) | im Uninetz              | TL-WR842ND  |                  0.3.1 | 64:70:02:62:5c:fa  | 53.837938 10.695268             |
-| Anima           | anonym           | Wohnheim Anschützstr.            | im Uninetz              | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:92:20  | 53.83808 10.69443               |
+| Anima           | anonym           | Wohnheim Anschützstr.            | im Uninetz              | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:92:20  | 53.838120 10.694139             |
 | FFHL-Smarty-1   | Smarty           | Georgstrasse 34 EG               | Uplink                  | TL-WR1043ND |                  0.3.1 | b2:48:7a:ec:6e:ec  | 53.860223 10.670361             |
 | FFHL-Smarty-2   | Smarty           | Hansestrasse 28 1.OG             | Uplink                  | TL-WR741ND  |                    0.3 | b0:48:7a:cb:2f:a8  | 53.864437 10.668339             |
 | FFHL-Smarty-3   | Smarty           | Georgstrasse 34 3.OG             | Uplink                  | TL-WR741ND  |                    0.3 | b0:48:7a:cb:2f:62  | 53.860217 10.670249             |
