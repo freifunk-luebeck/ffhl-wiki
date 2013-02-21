@@ -133,6 +133,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Achilles        | Kai              | Wohnheim Anschützstr.            | im Uninetz              | TL-WR841ND  |                    0.3 | b0:48:7a:cb:2c:aa  | 53.838095 10.693865             |
 | Perseus         | lumero           | Wohnheim Anschützstr. 7A (1. OG) | im Uninetz              | TL-WR841ND  |                  0.3.1 | b0:48:7a:cb:25:84  | 53.837938 10.695268             |
 | Daidalos        | anonym           | Wohnheim Anschützstr. 7A (2. OG) | im Uninetz              | TL-WR842ND  |                  0.3.1 | 64:70:02:62:5c:fa  | 53.837938 10.695268             |
+| Anima           | anonym           | Wohnheim Anschützstr.            | im Uninetz              | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:92:20  | 53.83808 10.69443               |
 | FFHL-Smarty-1   | Smarty           | Georgstrasse 34 EG               | Uplink                  | TL-WR1043ND |                  0.3.1 | b2:48:7a:ec:6e:ec  | 53.860223 10.670361             |
 | FFHL-Smarty-2   | Smarty           | Hansestrasse 28 1.OG             | Uplink                  | TL-WR741ND  |                    0.3 | b0:48:7a:cb:2f:a8  | 53.864437 10.668339             |
 | FFHL-Smarty-3   | Smarty           | Georgstrasse 34 3.OG             | Uplink                  | TL-WR741ND  |                    0.3 | b0:48:7a:cb:2f:62  | 53.860217 10.670249             |
@@ -159,7 +160,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Bernsteinzimmer | wzl              | Röntgenstraße                    |                         | FON2202 |                 custom | 02:18:84:d0:10:bb  | 53.846588854637 10.689888275147 |
 | Rheingold       | wzl              | Königstraße                      |                         | Buffalo WMBR-HP-G300H |       custom | 02:24:a5:bd:25:b2 | 53.8647959020312 10.686392784118652 |
 | Eldorado        | wzl              |                                  |                         | TL-WDR3600  |                  0.3.2 | 66:70:02:d1:62:54 |                |
-| Bundeslade      | wzl              | Mühlenstraße                                 |                         | TL-WR841ND  |                  0.3.2 | 66:70:02:ae:73:19 |53.86328062604232 10.686784386634827 |
+| Bundeslade      | wzl              | Mühlenstraße                     |                         | TL-WR841ND  |                  0.3.2 | 66:70:02:ae:73:19 |53.86328062604232 10.686784386634827 |
 | Atlantis        | wzl              |                                  |                         | TL-WR842ND  |                  0.3.2 | 66:70:02:4c:39:5f | |
 | draic           |                  |                                  |                         |             |                        | 90:f6:52:ff:cd:b0  | 53.871890712637 10.716594457626 |
 | Siedler1        | chefkoch         | Travemünde                       | mit Internetanbindung   | TL-WR741ND  |                  0.3.2 | f8:d1:11:7e:23:7a  | 53.958528552647 10.853220820426 |
