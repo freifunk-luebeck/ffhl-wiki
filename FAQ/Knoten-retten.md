@@ -5,8 +5,6 @@ Der empfohlene Weg für normale Einstellungen ist eindeutig der [[Configmode|FAQ
 Diese Anleitungen sind für erfahrene Personen gedacht.
 Das Wissen, wie man sich per Telnet verbindet und wie man sich in einer Linux-Shell bewegt, werden vorrausgesetzt.
 
-[[_TOC_]]
-
 ## Failsafmode
 Der Failsafemode ist für Notfälle gedacht, wenn man nicht mehr anders an den Knoten kommt.
 Er ist durch Hardwarezugriff auslösbar und dann für erfahrene Nutzer gedacht.
