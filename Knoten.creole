@@ -122,7 +122,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | kbct            | bo               | Rosenstr., Innenstadt            | Uplink                  | TL-WR1043ND |                    0.3 | 54:e6:fc:98:5a:2e  | 53.871580 10.691900             |
 | BKA-van017      | BKA              |                                  |                         |             |                 custom | 02:b4:ab:4a:42:42  |                                 |
 | Hellgate        | Devil            |                                  |                         |             |                 custom | 02:13:13:13:13:13  |                                 |
-| wlan_Oase       | berik            |                                  | derzeit Mobilknoten     | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:20:be  |                                 |
+| wlan_Oase       | berik            |                                  | derzeit Mobilknoten     | TL-WR741ND  |                  0.3.2 | b0:48:7a:cb:20:be  | 53.876704250142055 10.669746994972229                                |
 | randomweb      | berik            |                                  | mit Internetanbindung   | TL-WR741ND  |                  0.3.2 | b2:48:7a:cc:2c:40  | 53.881376977561 10.648947036744 |
 | Fussel          | berik            |                                  | mit Internetanbindung   | TL-WR841ND  |                  0.3.2 | 92:f6:52:b5:fc:4a                               |  53.876612538770715 10.669537782669066
 | CaféAlgarve     | berik            |                                  | mit Internetanbindung   | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:2b:74  | 53.872743541821 10.690794861796 |
