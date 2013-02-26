@@ -23,9 +23,9 @@ Das Dn42 ist ein privates Netzwerk ähnlich dem Freifunk, unterscheidet sich abe
 
 [[Dn42 in der englischen Wikipedia|http://en.wikipedia.org/wiki/Dn42]]
 
-3# IC-VPN
+## IC-VPN
 
-Das **I**nter**c**ity-**VPN** stellt eine Verbindung zwischen vielen regionalen Freifunk-Netzen dar und bildet den Grundstein dafür, dass man aus unserem Netz Knoten in andern Regionen (z.B. Augsburg, Oldenburg oder Dresden) erreichen kann.
+Das InterCity-VPN stellt eine Verbindung zwischen vielen regionalen Freifunk-Netzen dar und bildet den Grundstein dafür, dass man aus unserem Netz Knoten in andern Regionen (z.B. Augsburg, Oldenburg oder Dresden) erreichen kann.
 Eine gute Karte mit den beteiligten Gruppen findet sich bei den Dresdnern unter [[dieser Adresse|http://www.ddmesh.de/topology/ic-vpn-verbindungen.html]].
 
 ## Chaos-VPN
