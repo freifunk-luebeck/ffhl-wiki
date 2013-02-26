@@ -148,12 +148,12 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Ramuh           |                  |                                  |                         |             |                        | f8:d1:11:87:4f:b0  |                                 |
 | Carbuncle       |                  |                                  |                         | TL-WR1043ND |                        | 64:70:02:94:16:1e  |                                 |
 | Ifrit           | Eichi - Larry    | Marlesgrube 7                    | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:87:52:34  | 53.864109447683 10.684354305267 |
-| Siren           |                  |                                  |                         |             |                        | f8:d1:11:87:4f:c6  |                                 |
+| JazzCafeLuebeck02           |                  |    Mühlenstraße 62                            |             uplink            |       TL-WR741ND      |     0.3.1                   | f8:d1:11:87:4f:c6  |                                 |
 | Eden            | Magu             | St. Lorenz Nord                  | Uplink                  | TL-WDR3600  |                 0.3.3  | 64:70:02:b5:cf:74  |                                 |
 | Shiva           | Eichi - enjoy    | Taschenmacherstraße 1-5          | Uplink                  | TL-WDR3600  |                 0.3.2  | 64:70:02:D1:62:12  | 53.866912135097 10.613463521003 |
 | Cerberus        |                  |                                  |                         |             |                        | 64:70:02:94:04:54  |                                 |
 | Leviathan       |                  | Carlebachpark                    | Mit Internetanbindung   | TL-WR1043ND |                  0.3.1 | 64:70:02:93:ff:c6  | 53.833703236943 10.698042190594 |
-| Pandemona       | Eichi - 99       | Lübeck ZOB                       |                         | TL-WR1043ND |                  0.3.1 | 90:f6:52:fd:3d:0a  | 53.866471324141 10.671263015747 |
+| JazzCafeLuebeck01       |              | Mühlenstraße 62                       |    mit Internetanbindung                    | TL-WR1043ND |                  0.3.1 | 90:f6:52:fd:3d:0a  | 53.866471324141 10.671263015747 |
 | Tombery         |                  |                                  |                         |             |                        | 64:70:02:94:03:b0  |                                 |
 | Donald          | Tyme             | Stadtweide                       |                         | TL-WR741ND  |                    0.3 | f8:d1:11:58:28:e8  | 53.84066 10.70455               |
 | roceHA          | geoigeek         | 23611 Sereetz                    | mit Internetanbindung   | TL-WR842N   |                  0.3.2 | 64:70:02:62:6C:70  | 53.919678 10.743222             |
