@@ -72,7 +72,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | off             | Fluse024         | off                              |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e3:02  |                                 |
 | Daisy           | Fluse025         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | f8:d1:11:7b:e2:fe  | 53.840831806378 10.704683340072 |
 | Hanseatic ?     | Fluse027         |                                  |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e4:de  | 53.865067949946 10.670728683471 |
-| Eis             | Fluse028         | Königspassage                    | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e5:36  | 53.86703 10.688718              |
+| off             | Fluse028         |                                  |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e5:36  |                                 |
 | Omni 7dB aussen | Fluse029         |                                  |                         | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e4:80  | 53.895625 10.652161             |
 | AliBaba         | Fluse030         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:20:08  | 53.86898 10.684700              |
 | Candys          | Fluse031         |                                  | Uplink                  | TL-WR741ND  |                  0.3.1 | b0:48:7a:cb:21:24  | 53.869929 10.663736             |
@@ -110,7 +110,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Café Czudaj     | Fluse073         | Café Czudaj                      | Uplink                  | TL-WD842nd  |                  0.3.2 | 64:70:02:39:78:be  | 53.864416297332 10.68577587604  |
 | Abessa          | Fluse074         | Abessa Caferösterei              | Uplink                  | TL-WD842nd  |                  0.3.2 | 64:70:02:39:79:46  | 53.866124491351 10.68827569484  |
 | Fluse075        | Fluse075         | Imbiß Königstrasse               |                         | TL-WD842nd  |                  0.3.2 | 64:70:02:39:6e:80  | 53.864659877410 10.68672537803  |
-| Fluse077        | Fluse077         |                                  |                         | TL-WD842nd  |                  0.3.2 | 64:70:02:39:78:58  |                                 |
+| Eis             | Fluse077         |                                  |                         | TL-WD842nd  |                  0.3.2 | 64:70:02:39:78:58  | 53.86703       10.688718        |
 | Fenris          | Fluse079         | Friedenstrasse                   | Uplink                  | TL-WD842nd  |                  0.3.2 | 64:70:02:39:79:7c  | 53.875012301091 10.671962499618 |
 | BulletM2 #1     | Fluse082         | Friedenstrasse                   |                         | Bullet M2 HP|                  0.3.2 | dc:9f:db:0c:19:8e  | 53.875043926935 10.672026872634 |
 | 9to5            | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND  |                  0.3.2 | f8:d1:11:7b:e4:ca  | 53.862968 10.682708             |
