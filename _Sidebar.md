@@ -33,6 +33,7 @@
      * [[Mesh-VPN]]
      * [[bird]]
      * [[Knotenkonfiguration]]
+     * [[Gatewaykonfiguration|gatewayconfig]]
    * [[Firmware]]
      * [[Download]]
      * [[Changelog|Firmware:Changelog]]
