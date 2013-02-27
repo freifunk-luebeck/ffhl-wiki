@@ -2,14 +2,15 @@
 
 Das Repository befindet sich auf krtek:
 
-Aus dem Freifunk:            ssh://git@krtek.ffhl/fastd-keys  
-Aus dem Internet (nur IPv6): ssh://git@metameute.de/fastd-keys
+Aus dem Freifunk:            `ssh://git@krtek.ffhl/fastd-keys`
+Aus dem Internet (nur IPv6): `ssh://git@metameute.de/fastd-keys`
 
 Für jeden Publickey befindet sich eine Datei im Repository. Sie ist
 wie folgt aufgebaut:
-
+```
     # $name <$email>
     key "$key";
+```
 
 Die Angaben $name und $email sollen eine Kontaktaufnahme ermöglichen.
 Es wäre also ausreichend dort nur eine Emailadresse zu vermerken. Bei
@@ -24,10 +25,12 @@ von Knotennamen, wie z.B. "Fluse023..042", ist erwünscht.
 
 Beispiele:
 
+```
     Add zafer
     New Treibsand key, mark old one as stolen
     Fluse046 wegen MTU Problemen deaktiviert
     update krtek
+```
 
 Falls eine Aktion, wie das deaktivieren eines Knotens, rückgängig
 gemacht werden soll, ist `git revert` zu verwenden und die vorgegebene
