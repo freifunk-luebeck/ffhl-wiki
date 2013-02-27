@@ -25,12 +25,10 @@ von Knotennamen, wie z.B. "Fluse023..042", ist erwünscht.
 
 Beispiele:
 
-```
-    Add zafer
-    New Treibsand key, mark old one as stolen
-    Fluse046 wegen MTU Problemen deaktiviert
-    update krtek
-```
+* Add zafer
+* New Treibsand key, mark old one as stolen
+* Fluse046 wegen MTU-Problemen deaktiviert
+* update krtek
 
 Falls eine Aktion, wie das deaktivieren eines Knotens, rückgängig
 gemacht werden soll, ist `git revert` zu verwenden und die vorgegebene
