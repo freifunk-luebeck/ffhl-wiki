@@ -10,4 +10,4 @@
 
 ## fastd repo für Debian Sid
 
-   deb http://repo.universe-factory.net/debian/ sid main
+    deb http://repo.universe-factory.net/debian/ sid main
