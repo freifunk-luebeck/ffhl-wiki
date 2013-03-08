@@ -100,6 +100,7 @@ Die Reservierung eines solchen Netzes sollte mit anderen Freifunkern abgesproche
 |-----------------|------------|-------------------------|
 | 10.130.16.0/24  | 1..254     |Client-VPN auf Burgtor   |
 | 10.130.17.0/24  | 1..254     |L2TP-Client-VPN auf Chip |
+| 10.130.117.0/27 | 1..30      |mkms Netz                |
 | 10.130.118.0/27 | 1..30      |zenforyens Netz          |
 | 10.130.119.0/27 | 1..30      |MHintz                   |
 | 10.130.120.0/27 | 1..30      |Netz von Passe0815       |
