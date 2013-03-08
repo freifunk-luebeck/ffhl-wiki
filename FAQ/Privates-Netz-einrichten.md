@@ -71,6 +71,7 @@ In der Zone wan:
         option dhcp_option 'privat,6,10.130.10.1,10.130.12.1'
 
 ## /etc/config/radvd
+Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
 
     config interface                     
         option interface       'privat'
@@ -83,6 +84,7 @@ In der Zone wan:
         option AdvRouterAddr 0
 
 ## /etc/bird6.conf
+Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
 
     router id 10.130.0.120; <-- anpassen!
 
@@ -118,6 +120,7 @@ In der Zone wan:
     }
 
 ## /etc/bird4.conf
+Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
 
     router id 10.130.0.120; <-- anpassen!
 
