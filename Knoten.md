@@ -170,7 +170,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | draic                      |                  |                                  |                         |                       |                       | 90:f6:52:ff:cd:b0 | 53.871890712637 10.716594457626       |
 | Siedler1                   | chefkoch         | Travemünde                       | mit Internetanbindung   | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:23:7a | 53.958528552647 10.853220820426       |
 | Siedler2                   | chefkoch         | Travemünde                       |                         | TL-WR741ND            |                 0.3.2 | 66:70:02:f4:a6:61 | 53.959210300585 10.854460000991       |
-
+| Stellbrink                   |              | Lübeck                       |                         | TL-WR1043ND            |                 0.3.2 | f8:d1:11:24:76:12 | 53.872692 10.721891      |
 
 ### Umrechnung von GPS Koordinaten
 
