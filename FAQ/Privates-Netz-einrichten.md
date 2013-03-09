@@ -167,3 +167,9 @@ Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
     /etc/init.d/radvd enable
     /etc/init.d/bird4 enable
     /etc/init.d/bird6 enable
+
+## Port Forwarding (optional)
+Wenn auf dem nun im privaten Netz hängenden Computer ein Dienst läuft, der aus dem Internet erreichbar sein soll, so muss eine entsprechende Portweiterleitung sowohl im DSL-Router als auch im Freifunk-Knoten konfiguriert werden. Die Anleitung zur Konfiguration des Freifunk-Knotens kann hier gefunden werden:
+http://wiki.openwrt.org/doc/howto/port.forwarding
+
+Es müssen hierzu lediglich die Option "dest_ip" und "target" (freifunk) angepasst werden.
