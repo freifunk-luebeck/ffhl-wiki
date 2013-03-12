@@ -91,7 +91,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | figura                     | Fluse046         |                                  | Uplink                  | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:2b:7c | 53.867189371517 10.688949501978       |
 | Cafe am Theater            | Fluse047         | Beckergrube                      | Uplink                  | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:2b:fc | 53.869368743803 10.686186826712       |
 | Manni                      | Fluse050         | Albert Schweizer Str.            | Uplink                  | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:2d:06 | 53.868106682832 10.727546489708       |
-| Manni´s ♀                  | Fluse051         | Albert Schweizer Str.            |                         | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:2c:32 | 53.868577983236 10.72743383693        |
+| Manni´s ?                  | Fluse051         | Albert Schweizer Str.            |                         | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:2c:32 | 53.868577983236 10.72743383693        |
 | Geruda Spezial             | Fluse052         | Spezial Geruda im Test           |                         | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:25:b8 | 53.866857236597 10.671617067338       |
 | Sonnenstudio               | Fluse053         | Bad Schwartau                    |                         | TL-WDR3600            |                   1.0 | 64:70:02:91:51:fe | 53.918951175644 10.69473234464        |
 | St. Jürgen                 | Fluse055         | HL Sankt Jürgen                  | Uplink                  | TL-WR741ND            |                 0.3.1 | f8:d1:11:87:4f:d6 | 53.854306931024 10.684792078026       |
@@ -168,8 +168,10 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Bundeslade                 | wzl              | Mühlenstraße                     |                         | TL-WR841ND            |                 0.3.2 | 66:70:02:ae:73:19 | 53.86328062604232 10.686784386634827  |
 | Atlantis                   | zweiblum         | Mühlenstraße                     |                         | TL-WR842ND            |                 0.3.2 | 66:70:02:4c:39:5f | 53.862201867939234 10.687159895896912 |
 | draic                      |                  |                                  |                         |                       |                       | 90:f6:52:ff:cd:b0 | 53.871890712637 10.716594457626       |
-| Siedler1                   | chefkoch         | Travemünde                       | mit Internetanbindung   | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:23:7a | 53.958528552647 10.853220820426       |
-| Siedler2                   | chefkoch         | Travemünde                       |                         | TL-WR741ND            |                 0.3.2 | 66:70:02:f4:a6:61 | 53.959210300585 10.854460000991       |
+| Airline 1                  | chefkoch         | Travemünde                       |                         | TL-WR741ND            |                 0.3.2 | fa:d1:11:7e:23:97 | 53.95852855264769 10.853231549263     |
+| Airline 2                  | chefkoch         | Travemünde                       |                         | TL-WR741ND            |                 0.3.2 | 66:70:02:f4:a6:61 | 53.95921030058571 10.854460000991821  |
+| Siedler 1                  | chefkoch         | Travemünde                       | mit Internetanbindung   | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:23:7a | 53.958553802770126 10.853129625320435 |
+| Siedler 2                  | chefkoch         | Travemünde                       |                         | TL-WR741ND            |                 0.3.2 | 66:70:02:f4:a5:4f | 53.959270268620884 10.854524374008179 |
 | Stellbrink                 |                  | Stellbrinkstr           |                                  | TL-WR1043ND            |                0.3.2 | f8:d1:11:24:76:12 | 53.8728 10.7206                       |
 
 
