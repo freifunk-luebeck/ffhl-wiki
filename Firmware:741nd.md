@@ -6,9 +6,9 @@
 Diese Router sind in erster Linie dazu gedacht, die vorhandene Wolke direkt zu erweitern.
 Sie beinhalten jedoch auch die Möglichkeit eine VPN-Verbindung zum Rest des Netzes aufzubauen und sind damit auch für neue Wolken geeignet.
 
-Da bei ihnen nur ein Antennenanschluss vorhanden ist, sind sie die empfohlenen Geräte für den Aufbau von Richtfunkstrecken.
+Über ein modifiziertes Anschlusskabel lassen sie sich mit 5V über einen USB-Port betreiben und sind daher auch zum günstigen Testen im Freien brauchbar. Für bessere Ergebnisse sollten die Bullets genutzt werden.
 
-Über ein modifiziertes Anschlusskabel lassen sie sich mit 5V über einen USB-Port betreiben und sind daher auch zum Testen im Freien brauchbar.
+Durch die geringe Sendeleistung dieser Modellreihe sollten lieber die [[TP-Link 841ND|Firmware:841nd]] genutzt werden.
 
 ## Eigenschaften
 * 4MB Flash
