@@ -13,6 +13,7 @@
    * [[Grafiken]]
    * [[Texte]]
    * [[Pressebeiträge|Pressebeitraege]]
+   * [[AGs|AGS/Uebersicht]]
  * [[Aktive Knoten|Knoten]]
    * [[mobile Knoten|mobileKnoten]]
    * [[Hardwaretauschboerse|Tauschboerse]]
