@@ -72,7 +72,6 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.25  | Schrebergarten Tanne          |                |
 |  10.130.0.26  | duckie & xidd                 | Rapture        |
 |  10.130.0.27  | 7jM                           | StrahlenKiste  |
-|  10.130.0.28  | stpetri (vm auf krtek)        |                |
 |  10.130.0.29  | namshub  [node] {magu}        | namshub.ffhl   |
 |  10.130.0.30  | enki [node] {magu}            | enki.ffhl      |
 |  10.130.0.31  | innana [node] {magu}          | innana.ffhl    |
