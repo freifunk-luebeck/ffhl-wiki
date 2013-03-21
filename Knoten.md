@@ -112,7 +112,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Café Czudaj                | Fluse073         | Café Czudaj                      | Uplink                  | TL-WD842nd            |                 0.3.2 | 64:70:02:39:78:be | 53.864416297332 10.68577587604        |
 | Abessa                     | Fluse074         | Abessa Caferösterei              | Uplink                  | TL-WD842nd            |                 0.3.2 | 64:70:02:39:79:46 | 53.866124491351 10.68827569484        |
 | Fluse075                   | Fluse075         | Imbiß Königstrasse               |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:6e:80 | 53.864659877410 10.68672537803        |
-| Fluse076                   | Fluse076         |                |                         | TL-WD842nd            |                 0.3.2 |  |         |
+| Fluse076                   | Fluse076         | Feinbäckerei Schüler               |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:78:ee | 53.86576704170721 10.674360394477844  |
 | Eis                        | Fluse077         |                                  |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:78:58 | 53.86703 10.688718              |
 | Fenris                     | Fluse079         | Friedenstrasse                   | Uplink                  | TL-WD842nd            |                 0.3.2 | 64:70:02:39:79:7c | 53.875012301091 10.671962499618       |
 | BulletM2 #1                | Fluse082         | Friedenstrasse                   |                         | Bullet M2 HP          |                 0.3.2 | dc:9f:db:0c:19:8e | 53.875043926935 10.672026872634       |
