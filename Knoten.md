@@ -7,8 +7,8 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 
 * Aus dem Internet: [[Stadtkarte|http://freifunk.metameute.de/map/geomap.html]] | [[Interaktiver Graph|http://freifunk.metameute.de/map/nodes.html]] (Code: https://github.com/tcatm/ffmap-d3)
 
-* Aus dem Freifunknetz: [[Stadtkarte|http://burgtor.ffhl/mesh/geomap.html]] | [[Interaktiver Graph|http://burgtor.ffhl/mesh/nodes.html]]
-* Aus dem Freifunknetz (alternative Links): [[Stadtkarte|http://holstentor.ffhl/mesh/geomap.html]] | [[Interaktiver Graph|http://holstentor.ffhl/mesh/nodes.html]]
+* Aus dem Freifunknetz: [[Stadtkarte|http://map.ffhl/geomap.html]] | [[Interaktiver Graph|http://map.ffhl/geomap.html/nodes.html]]
+
 
 ## Bereits vorhandene Knoten
 
