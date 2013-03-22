@@ -1,4 +1,4 @@
-# Arbeitsgemeinschaften
+# Übersicht der Arbeitsgemeinschaften
 ## AG Infrastruktur
 Aufbau und Wartung der Netzwerk- und Firmwareinfrastruktur
 
