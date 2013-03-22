@@ -20,7 +20,7 @@ Teilprojekte:
 
 Da die Teilprojekte dieser AG jeweils mit viel Arbeit verbunden sind und sich nicht unbedingt inhaltlich überlappen, werden sie praktisch wie AGs geführt, die lediglich alle ein gemeinsames Ziel verfolgen.
 
-## [[AG Medien|AG-Medien]]
+## [[AG Medien|AGs/AG-Medien]]
 Stellt Lehrvideos und Info-Flyer her.
 
 Lässt sich von der Arbeit der AG Öffentlichkeitsarbeit für neue Projekte inspirieren und unterstützt diese mit Material.
