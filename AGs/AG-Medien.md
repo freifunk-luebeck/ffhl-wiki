@@ -1,4 +1,4 @@
-# AG-Medien
+# AG Medien
 
 ## Arbeitsunterlagen
 Unsere Arbeitsunterlagen befinden sich in diesem [[Git-Repository|https://git.metameute.de/ffhl/ag_medien/]].
