@@ -3,22 +3,24 @@
 Aufbau und Wartung der Netzwerk- und Firmwareinfrastruktur
 
 ## AG Schlüsseldienst
-Wir helfen beim Eintragen der per Mailingliste gemeldeten fastd-Schlüssel.
+Hilft beim Eintragen der per Mailingliste gemeldeten fastd-Schlüssel.
+
+[[Hier|fastd-schlusselverwaltung]] ist beschrieben, wie die fastd Schlüsselverwaltung technisch organisiert ist.
 
 ## AG Netzausbau
-Sie gehen auf die Straße und bauen neue Knoten auf, nehmen Kontakt mit neuen Leuten auf und pflegen die aufgebauten Beziehungen.
+Geht auf die Straße und baut neue Knoten auf, nimmt Kontakt mit neuen Leuten auf und pflegt die aufgebauten Beziehungen.
 
-## AG Public Relations
-Wir koordinieren die Außenwahrnehmung des Freifunk Lübeck und planen öffentlichkeitswirksame Aktionen, um die Ziele des FFHL zu fördern.
+## AG Öffentlichkeitsarbeit
+Koordiniert die Außenwahrnehmung des Freifunk Lübeck und plant öffentlichkeitswirksame Aktionen, um die Ziele des FFHL zu fördern.
 
 Teilprojekte:
 * Ausbau der FFHL-Wolke
 * Wahrnehmung des Themas Freifunk/ offene Netze in der Öffentlichkeit
 * Chaos macht Schule
 
-Da die Teilprojekte dieser AG jeweils mit viel Arbeit verbunden sind und sich nicht unbedingt inhaltlich überlappen, ist es wahrscheinlich sinnvoll sie wie eigene AGs zu führen, die lediglich alle ein gemeinsames Ziel verfolgen.
+Da die Teilprojekte dieser AG jeweils mit viel Arbeit verbunden sind und sich nicht unbedingt inhaltlich überlappen, werden sie praktisch wie AGs geführt, die lediglich alle ein gemeinsames Ziel verfolgen.
 
-## AG Medien
-Hier geht's um die Herstellung von Lehrvideos und Info-Flyern.
+## [[AG Medien|AG-Medien]]
+Stellt Lehrvideos und Info-Flyer her.
 
-Hier kann man sich von der Arbeit der AG Public Relations für neue Projekte inspirieren lassen und diese mit Material unterstützen.
+Lässt sich von der Arbeit der AG Öffentlichkeitsarbeit für neue Projekte inspirieren und unterstützt diese mit Material.
