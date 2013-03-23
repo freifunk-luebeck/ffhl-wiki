@@ -10,9 +10,9 @@ Alle finalen Firmware-Images werden zusätzlich unter [[http://metameute.de/~fre
 
 ## Entwicklung (Möglichkeiten der Mitarbeit)
 Aktuelle Lübecker Freifunk-Firmware:
-* [[FFHL-Firmware Git Repository|https://git.metameute.de/lff/firmware/]] clonen ([[Roadmap|https://projects.universe-factory.net/projects/ffhl-firmware/roadmap]])
+* [[Git Repository|https://git.metameute.de/lff/firmware/]] clonen ([[Roadmap|https://projects.universe-factory.net/projects/ffhl-firmware/roadmap]])
 * [[Ein Ticket hinzufügen|https://projects.universe-factory.net/projects/ffhl-firmware]]
 
 `Gluon`:
-* [[`Gluon` Git Repository|https://github.com/freifunk-gluon]]
+* [[Git Repository|https://github.com/freifunk-gluon]]
 * Kontakt: IRC [[#gluon|http://en.irc2go.com/webchat/?net=hackint&room=gluon]] im [[hackint|http://hackint.eu/]]
