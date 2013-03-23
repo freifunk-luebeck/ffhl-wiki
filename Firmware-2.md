@@ -6,11 +6,11 @@ Es befindet sich parallel zur aktuell verwendeten Lübeck spezifischen Freifunk-
 
 ## Download
 Die aktuelle Lübecker Firmware ist jeweils auf den einzelnen Seiten der Geräte verlinkt.
-Alle finalen Firmware-Images werden zusätzlich unter [[http://metameute.de/~freifunk/firmware/]] gesammelt.
+Alle finalen Firmware-Images werden zudem unter [[http://metameute.de/~freifunk/firmware/]] gesammelt.
 
 ## Entwicklung (Möglichkeiten der Mitarbeit)
 Aktuelle Lübecker Freifunk-Firmware:
-* [[Git Repository|https://git.metameute.de/lff/firmware/]] clonen ([[Roadmap|https://projects.universe-factory.net/projects/ffhl-firmware/roadmap]])
+* [[Git Repository|https://git.metameute.de/lff/firmware/]] ([[Roadmap|https://projects.universe-factory.net/projects/ffhl-firmware/roadmap]])
 * [[Ein Ticket hinzufügen|https://projects.universe-factory.net/projects/ffhl-firmware]]
 
 `Gluon`:
