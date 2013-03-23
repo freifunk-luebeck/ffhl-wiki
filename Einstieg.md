@@ -21,3 +21,6 @@ Für weitere Informationen und Zugangsmöglichkeiten wenden Sie sich bitte pers�
 Auch ganze Server können eingebunden werden. Das ist besonders dann nützlich, wenn Inhalte wie Webseiten und Ähnliches eingebracht werden sollen.
 Da hier schon etwas umfangreicheres Wissen nötig ist, bietet sich ein persönlicher Besuch an. Dabei helfen wir gern.
 Aber auch dafür gibt es eine [[Anleitung|Einstieg:Server]] mit den Grundlagen.
+
+## Firmware-Entwicklung
+Alle nötigen Infos zur Mitarbeit an der Firmware sind auf auf der [[Firmware-Seite|Firmware]] zusammengefasst.
