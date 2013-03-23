@@ -1,6 +1,8 @@
 # Übersicht der Arbeitsgemeinschaften
-## AG Infrastruktur
-Aufbau und Wartung der Netzwerk- und Firmwareinfrastruktur
+## [[AG Infrastruktur|AGs/AG-Infrastruktur]]
+Baut und pflegt die Netzwerk- und Firmwareinfrastruktur.
+* [[Codebase|https://git.metameute.de/lff/]]
+* [[Redmine tracking|https://projects.universe-factory.net/projects]]
 
 ## AG Schlüsseldienst
 Hilft beim Eintragen der per Mailingliste gemeldeten fastd-Schlüssel.
