@@ -1,5 +1,7 @@
 # AG Medien
 
+Wir lassen uns von der Arbeit der „AG Öffentlichkeitsarbeit“ für neue Projekte inspirieren und unterstützt diese mit Material.
+
 ## Arbeitsunterlagen
 Unsere Arbeitsunterlagen befinden sich in diesem [[Git-Repository|https://git.metameute.de/ffhl/ag_medien/]].
 
