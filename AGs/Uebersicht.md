@@ -1,5 +1,5 @@
 # Übersicht der Arbeitsgemeinschaften
-## [[AG Infrastruktur|AGs/AG-Infrastruktur]]
+## AG Infrastruktur
 Baut und pflegt die Netzwerk- und Firmwareinfrastruktur.
 * [[Codebase|https://git.metameute.de/lff/]]
 * [[Redmine tracking|https://projects.universe-factory.net/projects]]
