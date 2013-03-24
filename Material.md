@@ -13,4 +13,4 @@ Bitte überlegt euch eine Lizenz unter der ihr eure Werke stellen wollt und gebt
 
 ## Publikationen in der Presse
 
-[[Beiträge|Publikationen]] in der Presse sammeln wir auf einer eigenen Unterseite.
+[[Beiträge|Pressebeitraege]] in der Presse sammeln wir auf einer eigenen Unterseite.
