@@ -3,14 +3,14 @@
 Wir freuen uns dich auf unserer kleinen Webseite (Wiki) begrüßen zu dürfen.
 Vermutlich bist du auf uns durch ein WLAN Signal mit dem Namen `luebeck.freifunk.net` aufmerksam geworden, oder einer Deiner Freunde kennt uns bereits und hat Dich hierher gelenkt.
 
-Auf der linken Seite findest Du unser Projekt in einzelne Abschnitte aufgeteilt.
+Auf der linken Seite findest du unser Projekt in einzelne Abschnitte aufgeteilt.
 In kurzen Worten aber soviel vorweg:
-Wenn Du ein Freifunksignal findest, so nutze es gerne und informiere Deine Freunde, dass man dort kostenfrei und unzensiert das Freifunknetz nutzen kann.
-Jeder kann mitmachen und die WLAN Wolke weiter vergrößern, indem er sich auch einen Freifunkrouter zu Hause hinstellt. Wenn bereits ein Freifunksignal in Deiner Nähe zu finden ist, so wird sich Dein Router automatisch anonym mit dem vorhandenen Netz verbinden. So kannst Du Freifunk auch bei Dir wesentlich stärker empfangen.
-Wenn Du am Freifunknetz teilnehmen möchtest, so kostet dich ein Router lediglich den Ladenpreis von einmalig 20,- Euro. Es entstehen keine Folgekosten! 
-Damit hast Du Deinen eigenen anonymen Freifunkknoten. Und das völlig legal! Du bist nicht für die Nutzung anderer Personen auf Deinem Knoten / Router verantwortlich.
+Wenn du ein Freifunksignal findest, so nutze es gerne und informiere deine Freunde, dass man dort kostenfrei und unzensiert das Freifunknetz nutzen kann.
+Jeder kann mitmachen und die WLAN Wolke weiter vergrößern, indem er sich auch einen Freifunkrouter zu Hause hinstellt. Wenn bereits ein Freifunksignal in deiner Nähe zu finden ist, so wird sich dein Router automatisch anonym mit dem vorhandenen Netz verbinden. So kannst du Freifunk auch bei dir wesentlich stärker empfangen.
+Wenn du am Freifunknetz teilnehmen möchtest, so kostet dich ein Router lediglich den Ladenpreis von einmalig 20,- Euro. Es entstehen keine Folgekosten! 
+Damit hast du deinen eigenen anonymen Freifunkknoten. Und das völlig legal! Du bist nicht für die Nutzung anderer Personen auf deinem Knoten / Router verantwortlich.
 
-Alle Fragen werden wir Dir bestimmt auf dieser Seite nicht sofort und ausführlich beantworten können. 
+Alle Fragen werden wir dir bestimmt auf dieser Seite nicht sofort und ausführlich beantworten können. 
 Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccchl.de]] in der [[Röhre|http://www.kjhroehre-luebeck.de/]], dem Kinder- & Jugendkulturhaus in der Geraden Querstraße 2.
 
  
@@ -29,10 +29,10 @@ Hier befindet sich eine Aufnahme der Sendung:
   Your browser does not support the audio tag.
 </audio>
 
-(Alternativ kannst Du das Interview auch als [MP3 herunterladen](http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.mp3))
+Alternativ kannst du das Interview auch als [MP3 herunterladen](http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.mp3).
 
 ### Vorkonfigurierte Knoten
-Wir haben wieder eine begrenzte Anzahl fertig konfigurierter Router. Wenn Du Dich am lübecker Freifunk beteiligen möchtest, kannst Du gerne ein Gerät für einmalig 20;- € von uns erwerben. Mail uns bitte einfach kurz an :-)
+Wir haben wieder eine begrenzte Anzahl fertig konfigurierter Router. Wenn du dich am lübecker Freifunk beteiligen möchtest, kannst du gerne ein Gerät für einmalig 20;- € von uns erwerben. Mail uns bitte einfach kurz an :-)
 
 Beonders interessant für Gastronomiebetriebe und Hotels. Mit dem Freifunkrouter können die Gäste frei im Netz surfen, ohne das der Betreiber sich durch die mißbräuchliche Nutzung des Internets von einem Gast haftbar macht. (Störerhaftung)
 
