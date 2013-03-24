@@ -1,9 +1,9 @@
 # Willkommen beim Freifunk in Lübeck
 
-Wir freuen uns Dich auf unserer kleinen Webseite ( Wiki ) begrüßen zu dürfen.
-Vermutlich bist Du auf uns durch ein WLAN Signal mit dem Namen luebeck.freifunk.net aufmerksam geworden, oder einer Deiner Freunde kennt uns bereits und hat Dich hierher gelenkt.
+Wir freuen uns dich auf unserer kleinen Webseite (Wiki) begrüßen zu dürfen.
+Vermutlich bist du auf uns durch ein WLAN Signal mit dem Namen `luebeck.freifunk.net` aufmerksam geworden, oder einer Deiner Freunde kennt uns bereits und hat Dich hierher gelenkt.
 
-Auf der linke Seite findest Du unser Projekt in einzelne Abschnitte aufgeteilt.
+Auf der linken Seite findest Du unser Projekt in einzelne Abschnitte aufgeteilt.
 In kurzen Worten aber soviel vorweg:
 Wenn Du ein Freifunksignal findest, so nutze es gerne und informiere Deine Freunde, dass man dort kostenfrei und unzensiert das Freifunknetz nutzen kann.
 Jeder kann mitmachen und die WLAN Wolke weiter vergrößern, indem er sich auch einen Freifunkrouter zu Hause hinstellt. Wenn bereits ein Freifunksignal in Deiner Nähe zu finden ist, so wird sich Dein Router automatisch anonym mit dem vorhandenen Netz verbinden. So kannst Du Freifunk auch bei Dir wesentlich stärker empfangen.
