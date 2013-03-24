@@ -5,8 +5,8 @@ Die Lübecker Freifunk-Firmware basiert auf [[OpenWRT|https://openwrt.org/]]. Op
 Es befindet sich parallel zur aktuell verwendeten Lübeck spezifischen Freifunk-Firmware eine weitere Firmware namens `Gluon` in Entwicklung. Sie hat zum Ziel eine community-übergreifende Grundlage für die Firmware-Entwicklung zu bieten, indem die Lokalisierungen für eine bestimmte Freifunk-Community separat geführt werden.
 
 ## Download
-Die aktuelle Lübecker Firmware ist jeweils auf den einzelnen Seiten der Geräte verlinkt.
-Alle finalen Firmware-Images werden zudem unter [[http://metameute.de/~freifunk/firmware/]] gesammelt.
+Die aktuelle Lübecker Firmware findest Du auf unserer [[Mitmach-Seite|https://luebeck.freifunk.net/mitmachen.html]].
+Alle finalen Firmware-Images werden zudem in unserem [[Firmware-Archiv|http://metameute.de/~freifunk/firmware/]] gesammelt.
 
 ## Entwicklung (Möglichkeiten der Mitarbeit)
 Aktuelle Lübecker Freifunk-Firmware:
