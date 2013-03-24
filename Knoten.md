@@ -2,7 +2,7 @@
 
 ## Karte mit den aktiven Knoten im Raum Lübeck
 
-Diese Karten kannst Du abrufen, wenn Du direkt aus dem Internet auf dieser Seite bist oder Dich im Freifunknetz befindest.
+Diese Karten kannst du abrufen, wenn du direkt aus dem Internet auf dieser Seite bist oder dich im Freifunknetz befindest.
 Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, ob Knoten online sind.
 
 * Aus dem Internet: [[Stadtkarte|http://freifunk.metameute.de/map/geomap.html]] | [[Interaktiver Graph|http://freifunk.metameute.de/map/nodes.html]] ([[Code|https://github.com/tcatm/ffmap-d3]])

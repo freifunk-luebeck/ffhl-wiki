@@ -2,7 +2,7 @@
 
 Wenn du direkt über [[http://moelln.freifunk.net/]] auf diese Seite
 gelangt bist, schaue bitte auch auf die
-[[Wiki-Startseite|home]]. Dort findest Du neben
+[[Wiki-Startseite|home]]. Dort findest du neben
 einer Begrüßung/Einführung auch unsere Kontaktinformationen.
 
 ## Organisation

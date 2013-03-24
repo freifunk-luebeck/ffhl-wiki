@@ -1,7 +1,7 @@
 # Freifunk Knoten
 
 ## Karte mit den aktiven Knoten im Raum Mölln
-Diese Karten kannst Du abrufen, wenn Du direkt aus dem Internet auf dieser Seite bist oder Dich im Freifunknetz befindest.
+Diese Karten kannst du abrufen, wenn du direkt aus dem Internet auf dieser Seite bist oder dich im Freifunknetz befindest.
 Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, ob Knoten online sind.
 
 **Aktuell befinden sich in allen Karten noch die Möllner & Lübecker Knoten gemeinsam.**
