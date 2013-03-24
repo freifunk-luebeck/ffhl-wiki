@@ -36,7 +36,7 @@
      * [[Knotenkonfiguration]]
      * [[Gatewaykonfiguration|gatewayconfig]]
    * [[Firmware]]
-     * [[Download]]
+     * [[Download|https://luebeck.freifunk.net/mitmachen.html]]
      * [[Changelog|Firmware:Changelog]]
      * [[Individuelle Firmware|Firmware:Individuell]]
    * [[Empfohlene Routermodelle|Router]]
