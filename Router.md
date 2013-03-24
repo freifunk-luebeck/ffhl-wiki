@@ -6,21 +6,21 @@ Wir empfehlen den Einsatz dieser Geräte, da wir mit diesen gute Erfahrungen gem
 
 [[bilder/Freifunkrouter/TP-Links_300px.JPG]]
 
-Abgebildet sind der [[TP-Link 741nd|Firmware:741nd]] und der [[TP-Link 1043nd|Firmware:1043nd]].
+Abgebildet sind der [[TP-Link 741ND|Firmware:741nd]] und der [[TP-Link 1043ND|Firmware:1043nd]].
 Für beide stehen fertige Images bereit.
 
 ## Modelle
 Auf den folgenden Seiten befinden sich nähere Informationen zu den einzelnen Gerätetypen:
- * [[TP-Link 741nd|Firmware:741nd]]
- * [[TP-Link 841nd|Firmware:841nd]]
- * [[TP-Link 842nd|Firmware:842nd]]
- * [[TP-Link 1043nd|Firmware:1043nd]]
+ * [[TP-Link 741ND|Firmware:741nd]]
+ * [[TP-Link 841ND|Firmware:841nd]]
+ * [[TP-Link 842ND|Firmware:842nd]]
+ * [[TP-Link 1043ND|Firmware:1043nd]]
  * [[TP-Link 3600|Firmware:3600]]
 
 ## Für Ungeduldige
 
 Du hast Lust bei Freifunk mit zu machen oder möchtest dich nicht mit den technischen Details rumschlagen?
-Dann schreibe doch einfach kurz eine [[Email an den Verteiler|http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck]] und hol dir dann einen fertigen Router bei der [[MetaMeute|http://metameute.de]] oder dem [[CCCHL|http://www.ccchl.de]] ab.
+Dann schreibe doch einfach kurz eine [[E-Mail an den Verteiler|http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck]] und hol dir dann einen fertigen Router bei der [[MetaMeute|http://metameute.de]] oder dem [[CCCHL|http://www.ccchl.de]] ab.
 
 ## Freifunk-Router Selbst Gemacht
 
