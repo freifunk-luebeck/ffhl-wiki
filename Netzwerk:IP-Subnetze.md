@@ -84,7 +84,7 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.42  | NasBox                        | nasbox.ffhl    |
 |  10.130.0.64  | magu Server                   | cic.ffhl       |
 |  10.130.0.100 | zafer                         |                |
-|  10.130.0.101 | zafer-g1                      |                |
+|  10.130.0.101 | zafer-g1                      | zafer-g1.ffhl  |
 |  10.130.0.102 | zafer-g2                      |                |
 |  10.130.0.103 | zafer-g3                      |                |
 |  10.130.0.104 | zafer-g4                      |                |
