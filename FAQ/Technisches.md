@@ -7,7 +7,7 @@ _Die Vorteile für uns sind:_
 * Sehr klein, benötigt (im Gegensatz zu tinc oder OpenVPN) kein OpenSSL
 * batman-adv Overhead auf dem VPN Interface linear zur Anzahl an Knoten mit VPN-Verbindung
  (im Gegensatz zu tinc, welches durch eigenes Mesh-Routing batman-adv Broadcast Pakete stark, unnötig redundant verteilt => quadratischer Overhead zur Anzahl Knoten mit VPN-Verbindung)
-* batman-adv Overhead auf dem VPN Interface linear zur Anzahl an VPN-Gateways (seit fastd v6 wählt es immer nur zwei der verfügbaren Gateways aus)
+* batman-adv Overhead auf dem VPN Interface linear zur Anzahl an VPN-Gateways (seit Firmware 0.3.2 wählt fastd immer nur zwei der verfügbaren Gateways aus)
 
 ## Warum benutzt ihr batman-adv und nicht Babel/OLSR/...?
 

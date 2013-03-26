@@ -3,7 +3,7 @@
 [[höhere Auflösung|bilder/Freifunkrouter/TP-Link_1043nd.JPG]]
 
 ## Verwendungszweck
-Diese Router werden von uns für neue Wolken empfohlen. Sie bieten genug Speicher für die Verbindung mit dem Rest des Netzes über das VPN.
+_Leider treten mit diesem Modell durch den W-Lan-Chip einige Probleme auf, weshalb wir ihn nicht mehr für Neuanschaffungen empfehlen!_
 
 Da der USB-Port im System nutzbar ist und noch ca. 3MB Flash frei ist, ist es möglich, dass noch andere Dienste auf diesem laufen könnten. Dies muss dann allerdings vom Knotenbetreiber, der sich in OpenWRT einliest, selbst geschehen und liegt außerhalb unserer Zuständigkeit.
 

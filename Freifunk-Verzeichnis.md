@@ -10,9 +10,9 @@ Wir haben einige Dienste aufgesetzt, die die Struktur des Netzes überwachen und
 ## Graphen und Karten
 
  * Interaktive Karte der Batman-Knoten<br>
-   <http://burgtor.ffhl/mesh/nodes.html>
+   <http://map.ffhl/nodes.html>
  * OpenStreetMap-Karte der Knoten<br>
-   <http://burgtor.ffhl/mesh/geomap.html>
+   <http://map.ffhl/geomap.html>
  * Batman-Graph<br>
    <http://aftermath.ffhl/batman.png>
 

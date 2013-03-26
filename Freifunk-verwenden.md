@@ -30,3 +30,7 @@ Hiermit können Webseiten, die im Mesh-Netzwerk verfügbar sind mit einem Klick 
 ## Daten in der Cloud speichern
 
 Mit [[Tahoe-LAFS]] besteht eine Möglichkeit zum verschlüsselten und redudanten Ablegen beliebiger Daten.
+
+## [[NetHack]]
+
+Ein Computer-Rollenspiel-Klassiker - Kämpfe in und Erkundungen von dunklen Verließen.
