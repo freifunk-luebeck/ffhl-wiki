@@ -41,3 +41,8 @@ Auch wenn die Gateway-Ebene selber flach ist, es also keinen hierarchischen Supe
 _Fazit:_ Wäre schön, müsste aber noch viel entwickelt werden, auch konzeptuell. Bei der in Lübeck und Kiel aktuellen Lösung  mit den Gateways im Rechenzentrum sollte man darauf achten, dass jeder, der möchte und sich an Datenschutz, Netzneuträlität und [[Pico-Peering-Agreement|http://www.picopeer.net/PPA-en.html]] hält, auch einen Gateway betreiben könne und das es zumindest semi-dezentral dadurch wäre, dass keine Person root-Zugriff auf allen Servern hat.
 
 Außerdem gab es hier auch mal einige Überlegungen mit FF-KBU (insb. Jan) und FFHL: http://kbu.freifunk.net/index.php?title=FSM-Dynamisches-Bridging
+
+
+## „Falsche“ URL im SSL-Zertifikat für https://luebeck.freifunk.net/
+Die im SSL-Zertifikat eingetragene URL von der Seite `https://luebeck.freifunk.net/` ist nicht wie zu erwarten `luebeck.freifunk.net` sondern `krtek.metameute.de`. Dies führt dazu, dass Browser das Zertifikat nicht automatisch akzeptieren.<br>
+Es ist im Augenblick leider nicht möglich ein Zertifikat mit passender URL zu generieren. Eine gute Lösung wäre die DNS-Zone `*.luebeck.freifunk.net` an die Lübecker Freifunk Community zu delegieren. Anschließend könnte diese einen MX-Record für `luebeck.freifunk.net` einrichten, so dass sie Zertifikate für `*.luebeck.freifunk.net` von einer CA signiert bekommt. Es gab hierzu in der Vergangenheit Gespräche, doch blieben diese bisher ohne Ergebnis.
