@@ -177,6 +177,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Stellbrink                 |                  | Stellbrinkstr           |                                  | TL-WR1043ND            |                0.3.2 | f8:d1:11:24:76:12 | 53.8728 10.7206                       |
 | Gutenberg1                 |  Daniel          | Gutenbergstraße         |                                  | TL-WDR3600             |                0.3.2 | 64:70:02:d1:72:ca | 53.85211 10.73936                     |
 | Gutenberg2                 |  Daniel          | Hans-Sachs-Straße       |                                  | TL-WDR3600             |                0.3.2 | 64:70:02:d1:71:76 | 53.85084 10.74283                     |
+| DGHNiendorf                 |  Bodo          | Dorfstr.       |                                  | TL-WR741ND             |                0.3.2 | a0:f3:c1:82:56:c4 |                      |
 
 
 
