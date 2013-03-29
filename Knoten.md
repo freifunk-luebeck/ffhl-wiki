@@ -57,7 +57,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | randomweb2                 | berik            |    derzeit Mobilknoten           |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:2c:76 |                                       |
 | Fluse008                   | Fluse008         |                                  |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:58:0c |                                       |
 | La Crona b                 | Fluse009         | BS ZOB                           |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:57:7a | 53.918875353291 10.694415843971       |
-| Verschwunden               | Fluse010         | ehemals HanseDiner 2                                 |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:2a:d8 |                    |
+| Verschwunden               | Fluse010         | ehemals HanseDiner 2             |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:2a:d8 |                                       |
 | Kinder                     | Fluse011         | Stockelsdorf                     | Uplink                  | TL-WR741ND            |                   0.3 | f8:d1:11:55:9f:86 | 53.902516 10.669674                   |
 | LAN-Zentrum                | Fluse012         | Lanzentrum                       | Uplink                  | TL-WR1043ND           |                 0.3.1 | 56:e6:fc:b0:43:80 | 53.87643 10.65837                     |
 | Fluse014                   | Fluse014         | Reserve 1043                     |                         | TL-WR741ND            |                 0.3.2 | b0:48:7a:bb:50:54 | 53.868967 10.671359                   |
@@ -94,7 +94,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Geruda Spezial             | Fluse052         | Spezial Geruda im Test           |                         | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:25:b8 | 53.866857236597 10.671617067338       |
 | Sonnenstudio               | Fluse053         | Bad Schwartau                    |                         | TL-WDR3600            |                   1.0 | 64:70:02:91:51:fe | 53.918951175644 10.69473234464        |
 | St. Jürgen                 | Fluse055         | HL Sankt Jürgen                  | Uplink                  | TL-WR741ND            |                 0.3.1 | f8:d1:11:87:4f:d6 | 53.854306931024 10.684792078026       |
-| Verschwunden                | Fluse056         | Ehemals Hansediner                              | Uplink                  | TL-WR842ND            |                 0.3.2 | 64:70:02:62:5f:c8 |                     |
+| Verschwunden               | Fluse056         | Ehemals Hansediner               | Uplink                  | TL-WR842ND            |                 0.3.2 | 64:70:02:62:5f:c8 |                                       |
 | Brauberger 2               | Fluse057         | Brauberger                       | Uplink                  | TL-WDR3600            |                 0.3.2 | 64:70:02:aa:cd:cc | 53.868356567601 10.680967247975       |
 | Brauberger 1               | Fluse058         | Brauberger                       | Uplink                  | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:db:4a | 53.868280653399 10.680940425885       |
 | Brauberger 3               | Fluse059         | Brauberger                       |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:db:24 | 53.868407176993 10.68098334123        |
@@ -106,15 +106,15 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | ZOB L                      | Fluse065         |                                  | Uplink                  | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:d1:f6 | 53.866355408524 10.671227574348       |
 | ZOB LU                     | Fluse067         |                                  |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:d2:10 | 53.866390204152 10.671066641807       |
 | Fluse068                   | Fluse068         | Wiener Cafehaus                  |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:d2:20 | 53.867851594387 10.686044096946       |
-| Fluse069                   | Fluse069    |                                        |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:d1:3e | 53.887553234556826 10.649115443229675       |
+| Fluse069                   | Fluse069         |                                  |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:d1:3e | 53.887553234556826 10.649115443229675 |
 | Hanseatic                  | Fluse071         |                                  |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:d2:d4 | 53.865151 10.670697                   |
 | Café Czudaj                | Fluse072         | Café Czudaj                      |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:72:3c | 53.86450803545 10.6857651472091       |
 | Café Czudaj                | Fluse073         | Café Czudaj                      | Uplink                  | TL-WD842nd            |                 0.3.2 | 64:70:02:39:78:be | 53.864416297332 10.68577587604        |
 | Abessa                     | Fluse074         | Abessa Caferösterei              | Uplink                  | TL-WD842nd            |                 0.3.2 | 64:70:02:39:79:46 | 53.866124491351 10.68827569484        |
 | Fluse075                   | Fluse075         | Imbiß Königstrasse               |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:6e:80 | 53.864659877410 10.68672537803        |
-| Fluse076                   | Fluse076         |                                |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:78:ee | 53.86576704170721 10.674360394477844  |
-| Eis                        | Fluse077         |                                  |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:78:58 | 53.86703 10.688718             |
-| Fluse078                        | Majo         |                                  | Uplink                        | TL-WD842nd            |                 0.3.2 | 64:70.02:39:77:ae | 53.89908845623992 10.64600944519043             |
+| Fluse076                   | Fluse076         |                                  |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:78:ee | 53.86576704170721 10.674360394477844  |
+| Eis                        | Fluse077         |                                  |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:78:58 | 53.86703 10.688718                    |
+| Fluse078                   | Majo             |                                  | Uplink                  | TL-WD842nd            |                 0.3.2 | 64:70.02:39:77:ae | 53.89908845623992 10.64600944519043   |
 | Fenris                     | Fluse079         | Friedenstrasse                   | Uplink                  | TL-WD842nd            |                 0.3.2 | 64:70:02:39:79:7c | 53.875012301091 10.671962499618       |
 | BulletM2 #1                | Fluse082         | Friedenstrasse                   |                         | Bullet M2 HP          |                 0.3.2 | dc:9f:db:0c:19:8e | 53.875043926935 10.672026872634       |
 | 9to5                       | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
@@ -174,12 +174,12 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Airline 2                  | chefkoch         | Travemünde                       |                         | TL-WR741ND            |                 0.3.2 | 66:70:02:f4:a6:61 | 53.95921030058571 10.854460000991821  |
 | Siedler 1                  | chefkoch         | Travemünde                       | mit Internetanbindung   | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:23:7a | 53.958553802770126 10.853129625320435 |
 | Siedler 2                  | chefkoch         | Travemünde                       |                         | TL-WR741ND            |                 0.3.2 | 66:70:02:f4:a5:4f | 53.959270268620884 10.854524374008179 |
-| Stellbrink                 |                  | Stellbrinkstr           |                                  | TL-WR1043ND            |                0.3.2 | f8:d1:11:24:76:12 | 53.8728 10.7206                       |
-| Gutenberg1                 |  Daniel          | Gutenbergstraße         |                                  | TL-WDR3600             |                0.3.2 | 64:70:02:d1:72:ca | 53.85211 10.73936                     |
-| Gutenberg2                 |  Daniel          | Hans-Sachs-Straße       |                                  | TL-WDR3600             |                0.3.2 | 64:70:02:d1:71:76 | 53.85084 10.74283                     |
-| DGHNiendorf                 |  Bodo          | Dorfstr.       |                                  | TL-WR741ND             |                0.3.2 | a0:f3:c1:82:56:c4 |                      |
+| Stellbrink                 |                  | Stellbrinkstr                    |                                  | TL-WR1043ND  |                 0.3.2 | f8:d1:11:24:76:12 | 53.8728 10.7206                       |
+| Gutenberg1                 |  Daniel          | Gutenbergstraße                  |                                  | TL-WDR3600   |                 0.3.2 | 64:70:02:d1:72:ca | 53.85211 10.73936                     |
+| Gutenberg2                 |  Daniel          | Hans-Sachs-Straße                |                                  | TL-WDR3600   |                 0.3.2 | 64:70:02:d1:71:76 | 53.85084 10.74283                     |
+| DGHNiendorf                |  Bodo            | Dorfstr.                         |                                  | TL-WR741ND   |                 0.3.2 | a0:f3:c1:82:56:c4 |                                       |
 
-
+Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
 ### Umrechnung von GPS Koordinaten
 
