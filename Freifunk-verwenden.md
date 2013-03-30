@@ -34,3 +34,7 @@ Mit [[Tahoe-LAFS]] besteht eine Möglichkeit zum verschlüsselten und redudanten
 ## [[NetHack]]
 
 Ein Computer-Rollenspiel-Klassiker - Kämpfe in und Erkundungen von dunklen Verließen.
+
+## Freifunk Radio Krah
+
+Auf http://krah.ffki läuft momentan ein Icecast2-Server, von dem man Musik streamen kann und du kannst deine eigene lokale Musik, die du gerade hörst, auf den server streamen
