@@ -2,7 +2,24 @@
 
 ## v0.3.2.1 (Release 2013-04-02)
 
-siehe [[http://luebeck.freifunk.net/2013/04/02/announce-0.3.2.1.html]]
+* Ubiquity Bullet M2 wird nun unterstützt
+* DHCP und RA auf den LAN Ports werden gefiltert
+* batman-adv 2013.1.0
+* Fixes
+ * Multicast und Broadcast Traffic wird nun teilweise gefiltert und reduziert
+ * Multicastrate auf dem Ad-Hoc Interface wurde auf 12 MBit/s erhöht
+ * Avahi wurde durch ethersend „ersetzt“ (siehe unten)
+ * batman-adv debug logs deaktiviert
+ * busybox-ping6 wurde durch iputils-ping6 ersetzt
+* Unterstützte Geräte
+ * TP-Link TL-WR740N
+ * TP-Link TL-WR741ND
+ * TP-Link TL-WR841ND
+ * TP-Link TL-WR842ND
+ * TP-Link TL-WR1043ND
+ * TP-Link TL-WDR3600
+ * TP-Link TL-WDR4300
+ * Ubiquity Bullet M2
 
 ## v0.3.2 (Release 2012-12-03)
 
