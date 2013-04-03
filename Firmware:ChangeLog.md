@@ -1,5 +1,9 @@
 # ChangeLog
 
+## v0.3.2.1 (Release 2013-04-02)
+
+siehe [[http://luebeck.freifunk.net/2013/04/02/announce-0.3.2.1.html]]
+
 ## v0.3.2 (Release 2012-12-03)
 
 * VPN-Peer huextertor hinzugefügt
