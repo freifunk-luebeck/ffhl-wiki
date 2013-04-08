@@ -115,7 +115,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse075                   | Fluse075         | Imbiß Königstrasse               |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:6e:80 | 53.864659877410 10.68672537803        |
 | Fluse076                   | Fluse076         |                                  |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:78:ee | 53.86576704170721 10.674360394477844  |
 | Eis                        | Fluse077         |                                  |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:78:58 | 53.86703 10.688718                    |
-| Fluse078                   | Majo             |                                  | Uplink                  | TL-WD842nd            |                 0.3.2.1 | 64:70:02:39:77:ae | 53.89908845623992 10.64600944519043   |
+| Fluse078                   | Majo             |                                  | Uplink                  | TL-WD842nd            |                 0.3.2.1 | 64:70.02:39:77:ae | 53.89908845623992 10.64600944519043   |
 | Fenris                     | Fluse079         | Friedenstrasse                   | Uplink                  | TL-WD842nd            |                 0.3.2 | 64:70:02:39:79:7c | 53.875012301091 10.671962499618       |
 | BulletM2 #1                | Fluse082         | Friedenstrasse                   |                         | Bullet M2 HP          |                 0.3.2 | dc:9f:db:0c:19:8e | 53.875043926935 10.672026872634       |
 | 9to5                       | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
@@ -175,10 +175,11 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Airline 2                  | chefkoch         | Travemünde                       |                         | TL-WR741ND            |                 0.3.2 | 66:70:02:f4:a6:61 | 53.95921030058571 10.854460000991821  |
 | Siedler 1                  | chefkoch         | Travemünde                       | mit Internetanbindung   | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:23:7a | 53.958553802770126 10.853129625320435 |
 | Siedler 2                  | chefkoch         | Travemünde                       |                         | TL-WR741ND            |                 0.3.2 | 66:70:02:f4:a5:4f | 53.959270268620884 10.854524374008179 |
-| Stellbrink                 |                  | Stellbrinkstr                    |                                  | TL-WR1043ND  |                 0.3.2 | f8:d1:11:24:76:12 | 53.8728 10.7206                       |
+| Stellbrink                 |                  | Stellbrinkstr                    |                                  | TL-WR1043ND  |                 0.3.2 | f8:d1:11:24:76:12  | 53.8728 10.7206                       |
 | Gutenberg1                 |  Daniel          | Gutenbergstraße                  |  mit Internetanbindung           | TL-WDR3600   |                 0.3.2.1| 64:70:02:d1:72:ca | 53.85211 10.73936                     |
-| Gutenberg2                 |  Daniel          | Hans-Sachs-Straße                |  mit Internetanbindung           | TL-WDR3600   |                 0.3.2 | 64:70:02:d1:71:76 | 53.85084 10.74283                     |
-| DGHNiendorf                |  Bodo            | Dorfstr.                         |                                  | TL-WR741ND   |                 0.3.2 | a0:f3:c1:82:56:c4 |                                       |
+| Gutenberg2                 |  Daniel          | Hans-Sachs-Straße                |  mit Internetanbindung           | TL-WDR3600   |                 0.3.2 | 64:70:02:d1:71:76  | 53.85084 10.74283                     |
+| Gutenberg3                 |  Daniel          | Gutenbergstraße                  |  mit Internetanbindung           | TL-WDR3600   |                 0.3.2.1| 64:70:02:b5:e0:5c | 53.80211 10.70936                     |
+| DGHNiendorf                |  Bodo            | Dorfstr.                         |                                  | TL-WR741ND   |                 0.3.2 | a0:f3:c1:82:56:c4  |                                       |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
