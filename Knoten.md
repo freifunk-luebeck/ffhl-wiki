@@ -178,9 +178,9 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Stellbrink                 |                  | Stellbrinkstr                    |                                  | TL-WR1043ND  |                 0.3.2 | f8:d1:11:24:76:12  | 53.8728 10.7206                       |
 | Gutenberg1                 |  Daniel          | Gutenbergstraße                  |  mit Internetanbindung           | TL-WDR3600   |                 0.3.2.1| 64:70:02:d1:72:ca | 53.85211 10.73936                     |
 | Gutenberg2                 |  Daniel          | Hans-Sachs-Straße                |  mit Internetanbindung           | TL-WDR3600   |                 0.3.2.1|64:70:02:d1:71:76  | 53.85084 10.74283                     |
-| Gutenberg3                 |  Daniel          | Gutenbergstraße                  |  mit Internetanbindung           | TL-WDR3600   |                 0.3.2.1| 64:70:02:b5:e0:5c | 53.85211 10.73936                     |
-| Gutenberg4                 |  Daniel          | Gutenbergstraße                  |                                  | TL-WR842ND   |                 0.3.2.1| a0:f3:c1:81:cf:74 | 53.85211 10.73936                     |
-| Gutenberg5                 |  Daniel          | Gutenbergstraße                  |                                  | TL-WR842ND   |                 0.3.2.1| a0:f3:c1:81:ce:00 | 53.85211 10.73936                     |
+| Gutenberg3                 |  Daniel          | Gutenbergstraße                  |  mit Internetanbindung           | TL-WDR3600   |                 0.3.2.1| 64:70:02:b5:e0:5c | 53.85212 10.73937                     |
+| Gutenberg4                 |  Daniel          | Gutenbergstraße                  |                                  | TL-WR842ND   |                 0.3.2.1| a0:f3:c1:81:cf:74 | 53.85213 10.73938                     |
+| Gutenberg5                 |  Daniel          | Gutenbergstraße                  |                                  | TL-WR842ND   |                 0.3.2.1| a0:f3:c1:81:ce:00 | 53.85214 10.73939                     |
 | DGHNiendorf                |  Bodo            | Dorfstr.                         |                                  | TL-WR741ND   |                 0.3.2 | a0:f3:c1:82:56:c4  |                                       |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
