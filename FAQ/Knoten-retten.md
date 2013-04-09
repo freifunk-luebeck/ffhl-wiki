@@ -10,18 +10,7 @@ Der Failsafemode ist für Notfälle gedacht, wenn man nicht mehr anders an den K
 Er ist durch Hardwarezugriff auslösbar und dann für erfahrene Nutzer gedacht.
 
 ### In den Failsafemode gelangen
-In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt.
-
-Danach kann man sich über einen der LAN-Ports verbinden und per Telnet über die `192.168.1.1` zum Knoten verbinden.
-Dabei steht kein DHCP zur Verfügung.
-
-### Das System schreibbar machen
-Standardmäßig arbeitet man erstmal nur im RAM und für dauerhafte Änderungen muss das Dateisystem explizit gemountet werden.
-Dafür ist `mount_root` notwendig.
-
-### Eine neues root-Passwort setzen
-Für ein neues root-Passwort muss einfach `passwd` eingegeben werden.
-Danach wird man nach dem neuen Passwort und einer Bestätigung gefragt.
+In den Failsafemode kommt man per Hardwarezugriff. Wie man in den Failsafemode kommt, ist hier beschrieben: https://freifunk.metameute.de/wiki/FAQ/Benutzung#Failsafemode
 
 ### Den SSH-Server starten
 Da dieser Modus nur die notwendigsten Dienste bietet, ist der SSH-Server manuell zu starten.
