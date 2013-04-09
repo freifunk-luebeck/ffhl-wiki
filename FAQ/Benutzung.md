@@ -53,11 +53,16 @@ Netmask: 255.255.255.0<br />
 Gateway 192.168.1.1
 
 Im Failsafemode wird Telnet benutzt, um Zugang zur Kommandozeile des Routers zu erhalten.
-Hierfür genügt folgendes Kommando auf der Kommandozeile unter Linux: *telnet 192.168.1.1*
+Hierfür genügt folgendes Kommando auf der Kommandozeile unter Linux: <br />
+***telnet 192.168.1.1***
 
-Um Änderungen am System durchführen zu können, muss mit dem Kommando *mount_root* zunächst ein Overlay-Dateisystem über das Wurzelverzeichnis '/' gemountet werden.
+Um Änderungen am System durchführen zu können, muss mit dem Kommando <br />
+***mount_root*** <br />
+zunächst ein Overlay-Dateisystem über das Wurzelverzeichnis '/' gemountet werden.
 
-Das Passwort für das Webinterface und den SSH-Zugang des Routers kann im ConfigMode (und auch später) mit dem Kommando *passwd* geändert werden, falls es vergessen wurde. Es ist hierfür kein weiteres Passwort nötig. Hiermit kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
+Das Passwort für das Webinterface und den SSH-Zugang des Routers kann im ConfigMode (und auch später) mit dem Kommando <br />
+***passwd***<br />
+geändert werden, falls es vergessen wurde. Es ist hierfür kein weiteres Passwort nötig. Hiermit kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
 
 Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert.
 Es sollte aus Sicherheitsgründen auch nicht per Kommandozeile wieder aktiviert werden.
