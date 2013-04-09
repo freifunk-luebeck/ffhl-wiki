@@ -33,7 +33,7 @@ Ausnahmen zu dieser Regel werden auf der Wikiseite des jeweiligen Routers festge
 Der Configmode dient der grundlegenden Einstellung eines Knotens und ist der empfohlene Weg.
 
 Dafür muss der Knoten zuerst komplett gebootet sein und laufen.
-Im laufenden Betrieb wird nun die QSS-Taste ca. 5 Sekunden gedrückt gehalten, bis der Knoten merklich neustartet.
+Im laufenden Betrieb wird nun die QSS-Taste (oder Reset-Taste, je nach Modell) ca. 5 Sekunden gedrückt gehalten, bis der Knoten merklich neustartet.
 <br />
 Dann muss der Button ''sofort'' losgelassen werden, damit er in den Configmode geht.
 
@@ -44,8 +44,13 @@ Im letzten Schritt des Configmodes ist der Knoten per Klick neuzustarten, da man
 ### Failsafemode
 Der Failsafemode dient der Rettung eines zerschossenen Freifunkrouters und sollte nur im Notfall benutzt werden!
 
+In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt. Beim TL-842ND ist das Verfahren etwas anders, man muß dort den Reset-Schalter drücken, aber erst später: man schaltet den Router normal an und wartet ca. 15 Sekunden bis die linke Sys-Lampe leuchtet. Erst dann drückt man kurz die Reset-Taste auf bis die Sys-Lampe schnell blinkt.
+
+Da hier kein DHCP zur Verfügung steht muss man seine Netzwerkkarte manuell Konfigurieren:
+
 IP: 192.168.1.1<br />
-Netmask: 255.255.255.0
+Netmask: 255.255.255.0<br />
+Gateway 192.168.1.1
 
 Im Failsafemode wird Telnet benutzt, um Zugang zur Kommandozeile des Routers zu erhalten.
 Hierfür genügt folgendes Kommando auf der Kommandozeile unter Linux: *telnet 192.168.1.1*
