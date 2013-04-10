@@ -10,7 +10,8 @@ Der Failsafemode ist für Notfälle gedacht, wenn man nicht mehr anders an den K
 Er ist durch Hardwarezugriff auslösbar und dann für erfahrene Nutzer gedacht.
 
 ### In den Failsafemode gelangen
-In den Failsafemode kommt man per Hardwarezugriff. Wie man in den Failsafemode kommt, ist hier beschrieben: https://freifunk.metameute.de/wiki/FAQ/Benutzung#Failsafemode
+In den Failsafemode kommt man per Hardwarezugriff.
+Wie man in den Failsafemode kommt, ist unter [[Benutzung#Failsafemode|Benutzung]] beschrieben. 
 
 ### Den SSH-Server starten
 Da dieser Modus nur die notwendigsten Dienste bietet, ist der SSH-Server manuell zu starten.
