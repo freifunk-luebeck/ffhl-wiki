@@ -5,25 +5,29 @@
 
 ## VPN Verbindung bricht von alleine ab. Neustart hilft.
 
-Für das VPN wird das verbindungslos arbeitende UDP verwendet. Einige Heimrouter (= Gerät zwischen Freifunkknoten und Internet) haben damit Probleme, z.B. wenn sich die IP bei einer 24h-Trennung ändert. Abhilfe wurde seit der Firmwareversion (0.3.2) geschaffen. 
+Für das VPN wird das verbindungslos arbeitende UDP verwendet.
+Einige Heimrouter (das Gerät zwischen Freifunkknoten und Internet) haben damit Probleme, z.B. wenn sich die IP bei einer 24h-Trennung ändert.
+Abhilfe wurde seit der Firmwareversion (0.3.2) geschaffen.
 
 Sollte Dein Freifunkknoten noch auf einer älteren Version laufen, helfen wir Dir gerne und zeigen Dir wie Du in aktualisierst.
-
 
 ## Grundlagenwissen für die Administrierung von Lübecker Freifunkknoten
 ### TP-Link Firmware Defaults
 Gelbe Buchse: LAN
-
-IP: 192.168.0.1<br />
+```
+IP: 192.168.0.1
 Netmask: 255.255.255.0
-
-user: admin<br />
+```
+```
+user: admin
 pass: admin
-
+```
 
 ### Buchsenbelegungen bei Freifunkknoten
-Gelbe Buchse: Freifunk<br />
+```
+Gelbe Buchse: Freifunk
 Blaue Buchse: LAN
+```
 
 Schließt man sein LAN, das Zugang zum Internet bietet, statt an die blaue an die gelbe Buchse an, wird das Freifunk-WLAN nicht über das Freifunk-Netzwerk geroutet sondern geht direkt über den eigenen Router ins Internet. (Wird in einer zukünftigen Firmware geändert.)
 
@@ -34,47 +38,58 @@ Der Configmode dient der grundlegenden Einstellung eines Knotens und ist der emp
 
 Dafür muss der Knoten zuerst komplett gebootet sein und laufen.
 Im laufenden Betrieb wird nun die QSS-Taste (oder Reset-Taste, je nach Modell) ca. 5 Sekunden gedrückt gehalten, bis der Knoten merklich neustartet.
-<br />
 Dann muss der Button ''sofort'' losgelassen werden, damit er in den Configmode geht.
 
-Dann hängt man seinen Rechner an einen der gelben LAN-Ports und lässt sich eine IP geben.
+Danach hängt man seinen Rechner an einen der gelben LAN-Ports und lässt sich eine IP geben.
 Im Browser wird nun die 192.168.1.1 aufgerufen und die notwendigen Einstellungen werden vorgenommen.
 Im letzten Schritt des Configmodes ist der Knoten per Klick neuzustarten, da man sich erst jetzt sicher sein kann, dass er die Einstellungen übernimmt und danach in den Normalzustand als Freifunkknoten neustartet.
 
 ### Failsafemode
 Der Failsafemode dient der Rettung eines zerschossenen Freifunkrouters und sollte nur im Notfall benutzt werden!
 
-In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt. Beim TL-842ND ist das Verfahren etwas anders, man muß dort den Reset-Schalter drücken, aber erst später: man schaltet den Router normal an und wartet ca. 15 Sekunden bis die linke Sys-Lampe leuchtet. Erst dann drückt man kurz die Reset-Taste auf bis die Sys-Lampe schnell blinkt.
+In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt.
+Beim TL-842ND ist das Verfahren etwas anders, man muss dort den Reset-Schalter drücken, aber erst später: man schaltet den Router normal an und wartet ca. 15 Sekunden bis die linke Sys-Lampe leuchtet.
+Erst dann drückt man kurz die Reset-Taste auf bis die Sys-Lampe schnell blinkt.
 
 Da hier kein DHCP zur Verfügung steht muss man seine Netzwerkkarte manuell Konfigurieren:
-
-IP: 192.168.1.1<br />
-Netmask: 255.255.255.0<br />
+```
+IP: 192.168.1.1
+Netmask: 255.255.255.0
 Gateway 192.168.1.1
+```
 
 Im Failsafemode wird Telnet benutzt, um Zugang zur Kommandozeile des Routers zu erhalten.
 Hierfür genügt folgendes Kommando auf der Kommandozeile unter Linux: <br />
-***telnet 192.168.1.1***
+```
+telnet 192.168.1.1
+```
 
-Um Änderungen am System durchführen zu können, muss mit dem Kommando <br />
-***mount_root*** <br />
-zunächst ein Overlay-Dateisystem über das Wurzelverzeichnis '/' gemountet werden.
+Um dauerhafte Änderungen am System durchführen zu können, muss zunächst ein Overlay-Dateisystem gemountet werden.
+```
+mount_root
+``` 
 
-Das Passwort für das Webinterface und den SSH-Zugang des Routers kann im ConfigMode (und auch später) mit dem Kommando <br />
-***passwd***<br />
+Das Passwort für das Webinterface und den SSH-Zugang des Routers kann im ConfigMode (und auch später) mit dem Kommando
+```
+passwd
+```
 geändert werden, falls es vergessen wurde. Es ist hierfür kein weiteres Passwort nötig. Hiermit kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
 
 Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert.
 Es sollte aus Sicherheitsgründen auch nicht per Kommandozeile wieder aktiviert werden.
 
 ### Normaler Betrieb
-Bei Anschluss an das vorhandene Heimnetz bezieht der Knoten seine IP im normalen Betrieb automatisch via DHCP. Dies setzt natürlich voraus, dass ein DHCP-Server im lokalen Netz existiert. Meistens erfüllt diese Aufgabe der DSL-Router über den man ins Internet gelangt.
+Bei Anschluss an das vorhandene Heimnetz bezieht der Knoten seine IP im normalen Betrieb automatisch via DHCP.
+Dies setzt natürlich voraus, dass ein DHCP-Server im lokalen Netz existiert.
+Meistens erfüllt diese Aufgabe der DSL-Router über den man ins Internet gelangt.
 
-Statt Telnet wird im normalen Betrieb SSH benutzt, um auf die Kommandozeile des Routers zuzugreifen. Für den SSH-Login gilt das gleiche Passwort wie für das Webinterface. Um sich per SSH auf dem Router einzuloggen genügt folgendes Kommando auf der Kommandozeile unter Linux: *ssh &lt;per DHCP zugewiesene IP&gt;*
+Statt Telnet wird im normalen Betrieb SSH benutzt, um auf die Kommandozeile des Routers zuzugreifen.
+Für den SSH-Login gilt das gleiche Passwort wie für das Webinterface.
 
 ### Public fastd-Schlüssel vom Freifunk-Knoten für den VPN-Zugang anzeigen
-Auf der Kommandozeile: */etc/init.d/fastd show_key mesh_vpn*
-
+```
+/etc/init.d/fastd show_key mesh_vpn
+```
 
 ## In den ConfigMode gelangen
 
