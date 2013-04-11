@@ -18,13 +18,17 @@
    * [[mobile Knoten|mobileKnoten]]
    * [[Hardwaretauschboerse|Tauschboerse]]
  * [[Dienste im Netz|Freifunk verwenden]]
-   * [[Freifunk Verzeichnis]]
-   * [[Telefon (VoIP)|Telefon-voip]]
-   * [[DNS]]
-   * [[Zugang zu anderen Netzen|Peerings]]
-   * [[Highscore|Nodegame]]
-   * [[Bilder hosten|cid]]
-   * [[Daten speichern|Tahoe-LAFS]]
+   * Konnektivität
+     * [[Freifunk Verzeichnis]]
+     * [[DNS]]
+     * [[Zugang zu anderen Netzen|Peerings]]
+     * [[Highscore|Nodegame]]
+   * Audio-Streams
+     * [[Telefon (VoIP)|Telefon-voip]]
+     * [[Radios]]
+   * Dateien
+     * [[Bilder hosten|cid]]
+     * [[Daten speichern|Tahoe-LAFS]]
    * Spiele
      * [[NetHack]]
      * [[Minetest]]
