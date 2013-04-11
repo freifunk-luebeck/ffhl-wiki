@@ -21,10 +21,11 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 
 | Name       | Gateway IP    | Gateway MAC | DHCP(Range)         | DNS  | batman-adv GW server | batman-adv originator MAC | batman-adv Version | Status  |
 |------------|---------------|-------------|---------------------|------|----------------------|---------------------------|--------------------|---------|
+| kaisertor  | 10.130.6.1  |                   |                     |      |    |                   |          | Planung  |
+| huextertor | 10.130.8.1  |                   |                     |      |    |                   |          | Planung  |
 | muehlentor | 10.130.10.1 | de:ad:ca:fe:46:1d | ja (10.130.10.0/23) | ja   | ja | de:ad:be:ef:46:1d | 2012.4.0 | aktiv    |
 | holstentor | 10.130.12.1 | 52:54:00:0c:bb:eb | ja (10.130.12.0/23) | ja   | ja | 8e:3d:c2:10:10:28 | 2013.1.0 | aktiv    |
 | burgtor    | 10.130.14.1 | 52:54:00:ee:5c:d5 | ja (10.130.14.0/23) | ja   | ja | 52:54:00:f3:62:d9 | 2012.4.0 | aktiv    |
-| huextertor |             |                   |                     |      |    |                   |          | Planung  |
 
 ## Reservierte Subnetze des Mesh-Netzes
 
