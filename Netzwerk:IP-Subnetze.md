@@ -134,7 +134,7 @@ Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
 | 10.130.16.3  | DerDerwishs Server             | derderwish.ffhl |
 | 10.130.16.4  | DerDerwishs Server (sekundär)  |                 |
 | 10.130.16.5  | nils' N900                     |                 |
-| 10.130.16.6  | Jamalaka Hobbes                |                 |
+| 10.130.16.6  | Jamalaka X200                  |                 |
 | 10.130.16.7  | Jamalaka Calvin                |                 |
 | 10.130.16.8  | dysis                          | dysis.ffhl      |
 | 10.130.16.9  | tcatm t410                     |                 |
