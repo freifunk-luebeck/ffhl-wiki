@@ -1,16 +1,17 @@
 # DNS
 
-Wir haben derzeit zwei DNS Server um die TLD `.ffhl` aufzulösen.
+Wir haben derzeit drei DNS Server, um die TLD `.ffhl` aufzulösen.
 
+ * 10.130.10.1 / fdef:ffc0:3dd7::a01
+ * 10.130.12.1 / fdef:ffc0:3dd7::c01
  * 10.130.14.1 / fdef:ffc0:3dd7::e01
- * 10.130.15.1 / fdef:ffc0:3dd7::f01
 
 ## BIND Konfiguration
 
     zone "ffhl" {
         type slave;
         file "slave/ffhl.zone";
-        masters { 10.130.14.1; 10.130.15.1; };
+        masters { 10.130.10.1; 10.130.12.1; 10.130.14.1; };
         allow-transfer { any; };
     };
 
