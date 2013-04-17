@@ -119,7 +119,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fenris                     | Fluse079         | Friedenstrasse                   | Uplink                  | TL-WD842nd            |                 0.3.2 | 64:70:02:39:79:7c | 53.875012301091 10.671962499618       |
 | BulletM2 #1                | Fluse082         | Friedenstrasse                   |                         | Bullet M2 HP          |                 0.3.2 | dc:9f:db:0c:19:8e | 53.875043926935 10.672026872634       |
 | Fluse083              | Fluse083          |                    | Uplink                         |           |                 0.3.2.1 | 64:70:02:b3:dd:10 |        |
-| Fluse084                | Fluse084         |                    | Uplink                        | Hotel     |                 0.3.2.1 | dc:9f:db:0c:19:8e | 53.8662573479629 10.670315623283384       |
+| Fluse084                | Fluse084         |                    | Uplink                        | Hotel     |                 0.3.2.1 | 64:70:02:b3:dd:10 | 53.8662573479629 10.670315623283384       |
 | Fluse085                | Fluse085         |                    |  Uplink                       |           |                 0.3.2.1 | 64:70:02:4c:3c:2e | 53.91934088571783 10.698291063308716       |
 | 9to5                       | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
 | Dennis                     | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND           |                 0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
