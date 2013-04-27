@@ -34,18 +34,20 @@ Schließt man sein LAN, das Zugang zum Internet bietet, statt an die blaue an di
 Ausnahmen zu dieser Regel werden auf der Wikiseite des jeweiligen Routers festgehalten.
 
 ### Configmode
-Der Configmode dient der grundlegenden Einstellung eines Knotens und ist der empfohlene Weg.
+Der Configmode dient der grundlegenden Einstellung eines Knotens und ist der empfohlene Weg zum Ändern der Bandbreitenbegrenzung, des Passworts und des Firmware Upgrades.
 
 Dafür muss der Knoten zuerst komplett gebootet sein und laufen.
 Im laufenden Betrieb wird nun die QSS-Taste (oder Reset-Taste, je nach Modell) ca. 5 Sekunden gedrückt gehalten, bis der Knoten merklich neustartet.
 Dann muss der Button ''sofort'' losgelassen werden, damit er in den Configmode geht.
 
 Danach hängt man seinen Rechner an einen der gelben LAN-Ports und lässt sich eine IP geben.
-Im Browser wird nun die 192.168.1.1 aufgerufen und die notwendigen Einstellungen werden vorgenommen.
+Im Browser wird nun die http://192.168.1.1 aufgerufen und die notwendigen Einstellungen werden vorgenommen.
 Im letzten Schritt des Configmodes ist der Knoten per Klick neuzustarten, da man sich erst jetzt sicher sein kann, dass er die Einstellungen übernimmt und danach in den Normalzustand als Freifunkknoten neustartet.
 
+Um die Firmware zu aktualisieren wählt man auf der Ersten Seite im Configmode den zweiten Link um die neue Firmware einzuspielen.
+
 ### Failsafemode
-Der Failsafemode dient zum ***Updaten der Firmware*** und der Rettung eines zerschossenen Freifunkrouters.
+Der Failsafemode dient nur zur Rettung eines zerschossenen Freifunkrouters und ermöglicht ein neues Passwort zu vergeben, falls man das root Passwort nicht mehr hat.
 
 In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt, dann loslassen und Deinen Computer mit einem Netzwerkkabel an dem blauen WAN Port anschließen.
 
@@ -77,16 +79,16 @@ passwd
 geändert werden, falls es vergessen wurde. Es ist hierfür kein weiteres Passwort nötig. Hiermit kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
 
 Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert.
-Es sollte aus Sicherheitsgründen nur aktiviert werden solange der Router einzig mit deinem rechner direkt verbunden ist um das Firmware Upgrade durchzuführen:
+Es sollte aus Sicherheitsgründen nur aktiviert werden solange der Router einzig mit deinem Rechner direkt verbunden ist mit dem Befehl:
 ```
 /etc/init.d/uhttpd start
 ```
 
-Jetzt kann man sich auf dem Webinterface einloggen um die ***Firmware zu aktualisieren:***
+Jetzt kann man sich auf dem Webinterface einloggen um Änderungen in der OpenWrt-Software des Knotens vorzunehmen:
 http://192.168.1.1/  
-unter "Backup/Flash Firmware"
 
 Nach dem Neustart des Knotens ist das Webinterface wieder deaktiviert.
+
 ### Normaler Betrieb
 Bei Anschluss an das vorhandene Heimnetz bezieht der Knoten seine IP im normalen Betrieb automatisch via DHCP.
 Dies setzt natürlich voraus, dass ein DHCP-Server im lokalen Netz existiert.
