@@ -1,4 +1,4 @@
-# FAQ - Knoten-Benutzung
+v# FAQ - Knoten-Benutzung
 
 ## Inhaltsübersicht
 [[_TOC_]]
@@ -45,9 +45,10 @@ Im Browser wird nun die 192.168.1.1 aufgerufen und die notwendigen Einstellungen
 Im letzten Schritt des Configmodes ist der Knoten per Klick neuzustarten, da man sich erst jetzt sicher sein kann, dass er die Einstellungen übernimmt und danach in den Normalzustand als Freifunkknoten neustartet.
 
 ### Failsafemode
-Der Failsafemode dient der Rettung eines zerschossenen Freifunkrouters und sollte nur im Notfall benutzt werden!
+Der Failsafemode dient zum Updaten der Firmware und der Rettung eines zerschossenen Freifunkrouters.
 
-In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt.
+In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt, dann loslassen und Deinen Computer mit einem Netzwerkkabel an dem blauen WAN Port anschließen.
+
 Beim TL-842ND ist das Verfahren etwas anders, man muss dort den Reset-Schalter drücken, aber erst später: man schaltet den Router normal an und wartet ca. 15 Sekunden bis die linke Sys-Lampe leuchtet.
 Erst dann drückt man kurz die Reset-Taste auf bis die Sys-Lampe schnell blinkt.
 
