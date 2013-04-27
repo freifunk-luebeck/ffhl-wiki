@@ -45,7 +45,7 @@ Im Browser wird nun die 192.168.1.1 aufgerufen und die notwendigen Einstellungen
 Im letzten Schritt des Configmodes ist der Knoten per Klick neuzustarten, da man sich erst jetzt sicher sein kann, dass er die Einstellungen übernimmt und danach in den Normalzustand als Freifunkknoten neustartet.
 
 ### Failsafemode
-Der Failsafemode dient zum Updaten der Firmware und der Rettung eines zerschossenen Freifunkrouters.
+Der Failsafemode dient zum ***Updaten der Firmware*** und der Rettung eines zerschossenen Freifunkrouters.
 
 In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt, dann loslassen und Deinen Computer mit einem Netzwerkkabel an dem blauen WAN Port anschließen.
 
@@ -78,12 +78,13 @@ geändert werden, falls es vergessen wurde. Es ist hierfür kein weiteres Passwo
 
 Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert.
 Es sollte aus Sicherheitsgründen nur aktiviert werden solange der Router einzig mit deinem rechner direkt verbunden ist um das Firmware Upgrade durchzuführen:
-...
+```
 /etc/init.d/uhttpd start
-...
+```
 
-Jetzt kann man sich auf dem Webinterface einloggen um die Firmware zu aktualisieren:
-http://192.168.1.1/
+Jetzt kann man sich auf dem Webinterface einloggen um die ***Firmware zu aktualisieren:***
+http://192.168.1.1/  
+unter "Backup/Flash Firmware"
 
 Nach dem Neustart des Knotens ist das Webinterface wieder deaktiviert.
 ### Normaler Betrieb
@@ -107,8 +108,8 @@ In diesem ist er auf den LAN-Ports per modifiziertem Web-Interface einstellbar.
 Im ConfigMode blinkt die System-LED langsam.
 
 Das Web-Interface ist in diesem Falle deaktiviert.
-Im Configmode blinkt die Sys-LED langsam.
-Im Failsafemode blinkt die System-LED schnell.
+Im _Configmode_ blinkt die Sys-LED langsam.
+Im _Failsafemode_ blinkt die System-LED schnell.
 
 ### Allgemein
 * QSS-Taste im normalen Betrieb für mindestens 3 Sekunden gedrückt halten. Loslassen, wenn die Lampen merklich darauf reagieren, in jedem falle **vor** dem blinken der sys-lampe
