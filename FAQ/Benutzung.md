@@ -44,14 +44,14 @@ Danach hängt man seinen Rechner an einen der gelben LAN-Ports und lässt sich e
 Im Browser wird nun die http://192.168.1.1 aufgerufen und die notwendigen Einstellungen werden vorgenommen.
 Im letzten Schritt des Configmodes ist der Knoten per Klick neuzustarten, da man sich erst jetzt sicher sein kann, dass er die Einstellungen übernimmt und danach in den Normalzustand als Freifunkknoten neustartet.
 
-Um die Firmware zu aktualisieren wählt man auf der Ersten Seite im Configmode den zweiten Link um die neue Firmware einzuspielen.
+Um die Firmware zu aktualisieren wählt man auf der Ersten Seite im Configmode den zweiten Link um die neue Firmware einzuspielen. (Beim TL-WR842ND kann man nicht in den Configmode gelangen, man kann aber auch Über den _Failsafemode_ im Webinterface die Firmware aktulaisieren unter "Backup/Flash Firmware")
 
 ### Failsafemode
 Der Failsafemode dient nur zur Rettung eines zerschossenen Freifunkrouters und ermöglicht ein neues Passwort zu vergeben, falls man das root Passwort nicht mehr hat.
 
-In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt, dann loslassen und Deinen Computer mit einem Netzwerkkabel an dem blauen WAN Port anschließen.
+In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt, dann loslassen und Deinen Computer mit einem Netzwerkkabel an dem blauen WAN Port anschließen (beim TL-WR842ND einen gelben LAN Port)
 
-Beim TL-842ND ist das Verfahren etwas anders, man muss dort den Reset-Schalter drücken, aber erst später: man schaltet den Router normal an und wartet ca. 15 Sekunden bis die linke Sys-Lampe leuchtet.
+Beim TL-WR842ND ist das Verfahren etwas anders: man muss dort den Reset-Schalter drücken, aber erst später: man schaltet den Router normal an und wartet ca. 15 Sekunden bis die linke Sys-Lampe leuchtet.
 Erst dann drückt man kurz die Reset-Taste auf bis die Sys-Lampe schnell blinkt.
 
 Da hier kein DHCP zur Verfügung steht muss man seine Netzwerkkarte manuell Konfigurieren:
