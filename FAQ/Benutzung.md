@@ -77,8 +77,15 @@ passwd
 geändert werden, falls es vergessen wurde. Es ist hierfür kein weiteres Passwort nötig. Hiermit kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
 
 Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert.
-Es sollte aus Sicherheitsgründen auch nicht per Kommandozeile wieder aktiviert werden.
+Es sollte aus Sicherheitsgründen nur aktiviert werden solange der Router einzig mit deinem rechner direkt verbunden ist um das Firmware Upgrade durchzuführen:
+...
+/etc/init.d/uhttpd start
+...
 
+Jetzt kann man sich auf dem Webinterface einloggen um die Firmware zu aktualisieren:
+http://192.168.1.1/
+
+Nach dem Neustart des Knotens ist das Webinterface wieder deaktiviert.
 ### Normaler Betrieb
 Bei Anschluss an das vorhandene Heimnetz bezieht der Knoten seine IP im normalen Betrieb automatisch via DHCP.
 Dies setzt natürlich voraus, dass ein DHCP-Server im lokalen Netz existiert.
