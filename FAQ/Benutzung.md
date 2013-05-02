@@ -49,19 +49,21 @@ Um die Firmware zu aktualisieren wählt man auf der Ersten Seite im Configmode d
 ### Failsafemode
 Der Failsafemode dient nur zur Rettung eines zerschossenen Freifunkrouters und ermöglicht ein neues Passwort zu vergeben, falls man das root Passwort nicht mehr hat.
 
-In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt, dann loslassen und Deinen Computer mit einem Netzwerkkabel an dem blauen WAN Port anschließen (beim TL-WR842ND einen gelben LAN Port)
+In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt, dann loslassen.
+Danach muss der eigene Computer mit einem Netzwerkkabel am blauen WAN-Port angeschlossen werden.
 
-Beim TL-WR842ND ist das Verfahren etwas anders: man muss dort den Reset-Schalter drücken, aber erst später: man schaltet den Router normal an und wartet ca. 15 Sekunden bis die linke Sys-Lampe leuchtet.
-Erst dann drückt man kurz die Reset-Taste auf bis die Sys-Lampe schnell blinkt.
+Beim TL-WR842ND ist das Verfahren etwas anders:
+Man schaltet den Router normal an und wartet ca. 15 Sekunden bis die Sys-Lampe aufleuchtet.
+Erst dann drückt man kurz die Reset-Taste, bis die Sys-Lampe schnell blinkt.
 
-Da hier kein DHCP zur Verfügung steht muss man seine Netzwerkkarte manuell Konfigurieren:
+Da im Failsafemode kein DHCP zur Verfügung steht, muss man seine Netzwerkkarte manuell Konfigurieren:
 ```
 IP: 192.168.1.1
 Netmask: 255.255.255.0
 Gateway 192.168.1.1
 ```
 
-Im Failsafemode wird Telnet benutzt, um Zugang zur Kommandozeile des Routers zu erhalten.
+Im Failsafemode wird Telnet benutzt, um Zugang zur Kommandozeile des Knotens zu erhalten.
 Hierfür genügt folgendes Kommando auf der Kommandozeile unter Linux: <br />
 ```
 telnet 192.168.1.1
@@ -76,18 +78,11 @@ Das Passwort für das Webinterface und den SSH-Zugang des Routers kann im Config
 ```
 passwd
 ```
-geändert werden, falls es vergessen wurde. Es ist hierfür kein weiteres Passwort nötig. Hiermit kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
+geändert werden.
+Es ist hierfür kein weiteres Passwort nötig. Dadurch kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
 
 Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert.
-Es sollte aus Sicherheitsgründen nur aktiviert werden solange der Router einzig mit deinem Rechner direkt verbunden ist mit dem Befehl:
-```
-/etc/init.d/uhttpd start
-```
-
-Jetzt kann man sich auf dem Webinterface einloggen um Änderungen in der OpenWrt-Software des Knotens vorzunehmen:
-192.168.1.1 
-
-Nach dem Neustart des Knotens ist das Webinterface wieder deaktiviert.
+Es sollte aus Sicherheitsgründen nicht aktiviert werden.
 
 ### Normaler Betrieb
 Bei Anschluss an das vorhandene Heimnetz bezieht der Knoten seine IP im normalen Betrieb automatisch via DHCP.
