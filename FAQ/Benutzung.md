@@ -1,4 +1,4 @@
-v# FAQ - Knoten-Benutzung
+# FAQ - Knoten-Benutzung
 
 ## Inhaltsübersicht
 [[_TOC_]]
@@ -41,7 +41,7 @@ Im laufenden Betrieb wird nun die QSS-Taste (oder Reset-Taste, je nach Modell) c
 Dann muss der Button ''sofort'' losgelassen werden, damit er in den Configmode geht.
 
 Danach hängt man seinen Rechner an einen der gelben LAN-Ports und lässt sich eine IP geben.
-Im Browser wird nun die http://192.168.1.1 aufgerufen und die notwendigen Einstellungen werden vorgenommen.
+Im Browser wird nun die 192.168.1.1 aufgerufen und die notwendigen Einstellungen werden vorgenommen.
 Im letzten Schritt des Configmodes ist der Knoten per Klick neuzustarten, da man sich erst jetzt sicher sein kann, dass er die Einstellungen übernimmt und danach in den Normalzustand als Freifunkknoten neustartet.
 
 Um die Firmware zu aktualisieren wählt man auf der Ersten Seite im Configmode den zweiten Link um die neue Firmware einzuspielen. (Beim TL-WR842ND kann man nicht in den Configmode gelangen, man kann aber auch Über den _Failsafemode_ im Webinterface die Firmware aktulaisieren unter "Backup/Flash Firmware")
