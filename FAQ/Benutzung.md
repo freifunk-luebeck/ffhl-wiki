@@ -85,7 +85,7 @@ Es sollte aus Sicherheitsgründen nur aktiviert werden solange der Router einzig
 ```
 
 Jetzt kann man sich auf dem Webinterface einloggen um Änderungen in der OpenWrt-Software des Knotens vorzunehmen:
-192.168.1.1/  
+192.168.1.1 
 
 Nach dem Neustart des Knotens ist das Webinterface wieder deaktiviert.
 
