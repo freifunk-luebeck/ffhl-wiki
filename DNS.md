@@ -80,7 +80,7 @@ stub/ffa.zone
     zone "ffki" IN {
         type slave;
         file "slave/ffki.zone";
-        masters { fda1:384a:74de:4242::66; fda1:384a:74de:4242::2; };
+        masters { fda1:384a:74de:4242::1; fda1:384a:74de:4242::2; };
         allow-transfer { any; };
         forwarders { };
     };
