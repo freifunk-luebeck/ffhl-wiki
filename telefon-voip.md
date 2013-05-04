@@ -74,6 +74,22 @@ Weiterhin sind alle SIP Telefone aus dem Festnetz erreichbar:
 
  * VOIP mit einem Nokia N900 (nativer SIP Client) funktioniert auch mit Roaming erstaunlich gut.
 
+## VoIP Proxy: proxy.sip.ffhl
+
+Auf proxy.sip.ffhl ist momentan ein SIP Proxy konfiguriert. Bei Benutzung dieses Proxies werden Telefonate nicht erst ins Ausland weitergeleitet sondern mit weniger Umwegen aufgebaut. Vorteile sind folgende:
+
+* Geringere Verzögerung
+* Reservierte Bandbreite
+
+Also insgesamt sollte die Sprachqualität mit so einem Proxy steigen.
+
+Zur Einrichtung in einem Gerät müssen beim SIP Konto zusätzlich folgende Einstellungen vorgenommen werden:
+
+* Ausgehender Proxy / Outbound Proxy: proxy.sip.ffhl
+* Ausgehender Proxy, Port: 5060
+* STUN Server: leer lassen / deaktivieren
+* Automatische STUN-Erkennung, Öffentliche Adresse erkennen, etc.: deaktivieren
+
 ## Konfiguration
 
 ### kamailio.cfg
