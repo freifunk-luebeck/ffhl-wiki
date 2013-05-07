@@ -76,7 +76,9 @@ Weiterhin sind alle SIP Telefone aus dem Festnetz erreichbar:
 
 ## VoIP Proxy: proxy.sip.ffhl
 
-Auf proxy.sip.ffhl ist momentan ein SIP Proxy konfiguriert. Bei Benutzung dieses Proxies werden Telefonate nicht erst ins Ausland weitergeleitet sondern mit weniger Umwegen aufgebaut. Vorteile sind folgende:
+Auf proxy.sip.ffhl ist momentan ein SIP Proxy konfiguriert. Bei Benutzung dieses Proxies werden Telefonate nicht erst ins Ausland weitergeleitet sondern mit weniger Umwegen aufgebaut.
+Dies ist nur von Bedeutung, wenn z.B. ein eigener SIP-Gate-Account im Freifunknetz genutzt werden soll.
+Die Vorteile sind folgende:
 
 * Geringere Verzögerung
 * Reservierte Bandbreite
