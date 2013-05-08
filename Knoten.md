@@ -124,6 +124,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse087                   | Fluse087         |                                  |  Uplink                 |                       |               0.3.2.1 | f8:1a:67:31:39:96 | 53.89933815589085 10.656416416168213  |
 | Cafe Art #1               | Fluse088         |                                  |                   |                       |               0.3.2.1 | F8:1a:67:31:3a:1e |  53.86319837567089 10.68593144416809 |
 | Cafe Art #2                  | Fluse089         |                                  |                   |                       |               0.3.2.1 | A0:f3:c1:d7:24:42 | 53.8632521547782 10.685743689537048  |
+| Cafe Art #3                  | bullet02        |                                  |                   |                       |               0.3.2.1 | dc:9f:db:02:f9:3d |  |
 | Fluse090                   | Fluse090         |                                  |                   |                       |               0.3.2.1 | f8:1a:67:31:3a:6c |   |
 | 9to5                       | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
 | Dennis                     | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND           |                 0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
