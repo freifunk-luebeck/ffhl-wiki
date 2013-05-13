@@ -31,9 +31,11 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 
 | Subnetz       | IP Bereich  | Notizen                                                                |
 |---------------|-------------|------------------------------------------------------------------------|
-| 10.130.0.0/22 | 0.1...3.254 | zur statischen Konfiguration frei zur Verfügung (siehe unten)          |
-| 10.130.3.0/24 |     1...254 | temporäre IPs. Einfach verwenden und bei Kollision eine andere nehmen. |
-| 10.130.5.0/27 |      1...30 | Netz von j.ohny.b                                                      |
+| 10.130.0.0/24 |     1...255 | zur statischen Konfiguration frei zur Verfügung (siehe unten)          |
+| 10.130.1.0/27 |      0...31 | Eichi                                                                  |
+| 10.130.2.0/24 |     0...255 | Fluse Knoten                                                           |
+| 10.130.3.0/24 |     0...255 | temporäre IPs. Einfach verwenden und bei Kollision eine andere nehmen. |
+| 10.130.5.0/27 |      0...31 | Netz von j.ohny.b                                                      |
 
 Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange uns nicht die /24 ausgehen. Ist das /27 voll, kann man dann problemlos auf ein /26 oder /25 aufstocken, sodass keine übermäßige Fragmentierung der Adress-Bereiche entsteht.
 
@@ -41,7 +43,7 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 
 Einzelne Adressen kann jeder selbst für sich reservieren. Es ist zu empfehlen, einmal per Ping zu testen, ob eine Adresse wirklich frei ist.
 
-Mögliche Adressen: 10.130.0.1 bis 10.130.2.254
+Mögliche Adressen: 10.130.0.1 bis 10.130.0.255
 Netmask: 255.255.240.0 (/20)
 
 | IP-Adresse    | Notizen                       | Hostname       |
@@ -97,9 +99,7 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.120 | passe0815                     |                |
 |  10.130.0.131 | Daniel1 (Raspberry Pi, Ying1) | ying1          |
 |  10.130.0.132 | Daniel2 (AtomN230, Ying2)     | ying2          |
-| 10.130.1.0/27 | Eichi                         |                |
 |  10.130.1.46  | Georg (Pirat)                 |                |
-| 10.130.2.0/24 | Fluse Knoten                  |                |
 
 ## Andere reservierte Subnetze
 
