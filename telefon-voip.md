@@ -55,6 +55,7 @@ Bei manchen Clients muss noch @&zwj;sip.ffhl angefügt werden.
  * irallia (Laptop)
  * tux
  * bjo (FFOL)
+ * nbsp
 
 ### Vanity Nummern
 
