@@ -192,6 +192,8 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Gutenberg6                 |  Daniel          | Hans-Sachs-Straße                |                         | TL-WDR3600            |                0.3.2.1|64:70:02:d1:60:fe  | 53.85074 10.74279     
 | jaso01                 |  Jaso          |Bülowstr.                |mit Internetanbindung                         | TL-WR841N            |                0.3.2.1|64:70:02:59:36:4c  | 53.869985 10.714765  |
 | DGHNiendorf                |  Bodo            | Dorfstr.                         |                         | TL-WR741ND            |                 0.3.2 | a0:f3:c1:82:56:c4 |                                       |
+| Falke               |  FLO            | Reiherstieg                       |                         | TL-WR741ND            |                 0.3.2.1 | a0:f3:c1:36:6c:a2 |                                       |
+
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
