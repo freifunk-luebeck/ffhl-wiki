@@ -14,3 +14,7 @@ Bitte überlegt euch eine Lizenz unter der ihr eure Werke stellen wollt und gebt
 ## Publikationen in der Presse
 
 [[Beiträge|Pressebeitraege]] in der Presse sammeln wir auf einer eigenen Unterseite.
+
+## Vorträge
+
+Da wir ab und an Vorträge bei anderen Communities oder Gruppen halten, werden wir diese [[hier|Vortraege]] sammeln.
