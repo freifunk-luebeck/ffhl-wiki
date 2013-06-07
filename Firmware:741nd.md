@@ -22,6 +22,6 @@ Durch die geringe Sendeleistung dieser Modellreihe sollten lieber die [[TP-Link 
 Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision.
 
 ## Firmware
-* Hardware v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2/lff-0.3.2-ar71xx-generic-tl-wr741nd-v1-squashfs-factory.bin]]
-* Hardware v2.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2/lff-0.3.2-ar71xx-generic-tl-wr741nd-v2-squashfs-factory.bin]]
-* Hardware v4.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2/lff-0.3.2-ar71xx-generic-tl-wr741nd-v4-squashfs-factory.bin]]
+* Hardware v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.1/lff-0.3.2.1-ar71xx-generic-tl-wr741nd-v1-squashfs-factory.bin]]
+* Hardware v2.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.1/lff-0.3.2.1-ar71xx-generic-tl-wr741nd-v2-squashfs-factory.bin]]
+* Hardware v4.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.1/lff-0.3.2.1-ar71xx-generic-tl-wr741nd-v4-squashfs-factory.bin]]
