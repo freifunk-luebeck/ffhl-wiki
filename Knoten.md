@@ -117,7 +117,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fenris                     | Fluse079         | Friedenstrasse                   | Uplink                  | TL-WD842nd            |               0.3.2.1 | 64:70:02:39:79:7c | 53.875012301091 10.671962499618       |
 | BulletM2 #1                | Fluse082         | Friedenstrasse                   |                         | Bullet M2 HP          |                 0.3.2 | dc:9f:db:0c:19:8e | 53.875043926935 10.672026872634       |
 | Fluse083                   | Fluse083         |                                  | Uplink                  |                       |               0.3.2.1 | 64:70:02:f7:0d:f4 | 53.89371797220992 10.651717185974121  |
-| Hotel Stadt Luebeck 0                   | Fluse084         |                                  | Uplink                  | Hotel                 |               0.3.2.1 | 64:70:02:b3:dd:10 | 53.86632377611033 10.670304894447327   |
+| Hotel Stadt Luebeck 0      | Fluse084         |                                  | Uplink                  | Hotel                 |               0.3.2.1 | 64:70:02:b3:dd:10 | 53.86632377611033 10.670304894447327  |
 | Fluse085                   | Fluse085         |                                  |  Uplink                 |                       |               0.3.2.1 | 64:70:02:4c:3c:2e | 53.91937563725815 10.698226690292357  |
 | Fluse086                   | Fluse086         |                                  |  Uplink                 |                       |               0.3.2.1 | f8:1a:67:31:38:b6 | 53.8996858364636 10.656126737594604   |
 | Fluse087                   | Fluse087         |                                  |  Uplink                 |                       |               0.3.2.1 | f8:1a:67:31:39:96 | 53.89933815589085 10.656416416168213  |
@@ -193,7 +193,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | jaso01                     |  Jaso            |Bülowstr.                         | mit Internetanbindung   | TL-WR841N             |                0.3.2.1|64:70:02:59:36:4c  | 53.869985 10.714765                   |
 | DGHNiendorf                |  Bodo            | Dorfstr.                         |                         | TL-WR741ND            |                 0.3.2 | a0:f3:c1:82:56:c4 |                                       |
 | Falke                      |  Flo             | Reiherstieg                      |                         | TL-WR741ND            |               0.3.2.1 | a0:f3:c1:36:6c:a2 | 53.86673 10.70060                     |
-| Mokuba                     | Scoop            | Fischergrube                     | mit Internetanbindung   | TL-WR741ND    |                       | a0:f3:c1:36:6b:a2 | 53.87056 10.68475                     |
+| Mokuba                     | Scoop            | Fischergrube                     | mit Internetanbindung   | TL-WR741ND            |                       | a0:f3:c1:36:6b:a2 | 53.87056 10.68475                     |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
