@@ -194,6 +194,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | DGHNiendorf                |  Bodo            | Dorfstr.                         |                         | TL-WR741ND            |                 0.3.2 | a0:f3:c1:82:56:c4 |                                       |
 | Falke                      |  Flo             | Reiherstieg                      |                         | TL-WR741ND            |               0.3.2.1 | a0:f3:c1:36:6c:a2 | 53.86673 10.70060                     |
 | Mokuba                     | Scoop            | Fischergrube                     | mit Internetanbindung   | TL-WR741ND            |                       | a0:f3:c1:36:6b:a2 | 53.87056 10.68475                     |
+|    Karlshof       | mchai            |                      | mit Internetanbindung   | ?            |                       | ? |  53.892703 10.730150 |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
