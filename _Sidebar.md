@@ -9,6 +9,7 @@
    * [[Knoten-Benutzung|FAQ/Benutzung]]
    * [[Technische Realisierung|FAQ/Technisches]]
    * [[Privates Netz|FAQ/Privates-Netz-einrichten]]
+   * [[batman-adv-kabelverbindung]]
    * [[Knoten retten|FAQ/Knoten-retten]]
  * [[Material]]
    * [[Grafiken]]
