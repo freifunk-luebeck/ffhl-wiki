@@ -124,13 +124,13 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Cafe Art #1                | Fluse088         |                                  |                         |                       |               0.3.2.1 | F8:1a:67:31:3a:1e | 53.86319837567089 10.68593144416809   |
 | Cafe Art #2                | Fluse089         |                                  |                         |                       |               0.3.2.1 | A0:f3:c1:d7:24:42 | 53.8632521547782 10.685743689537048   |
 | Cafe Art #3                | bullet02         |                                  |                         |                       |               0.3.2.1 | dc:9f:db:02:f9:3d |                                       |
-| Gingko                     | Fluse090         |                                  | Uplink                  |                       |               0.3.2.1 | f8:1a:67:31:3a:6c |  53.861949 10.667331 |
+| Gingko                     | Fluse090         |                                  | Uplink                  |                       |               0.3.2.1 | f8:1a:67:31:3a:6c |  53.861949 10.667331                  |
 | Hotel Stadt Luebeck 1      | Fluse091         |                                  |                         |                       |               0.3.2.1 | F8:1a:67:31:3a:4a | 53.866288980427214 10.670294165611267 |
 | Hotel Stadt Luebeck 2      | Fluse092         |                                  |                         |                       |               0.3.2.1 | A0:f3:c1:05:84:84 | 53.86623204197421 10.670299530029297  |
 | Hotel Stadt Luebeck 3      | Fluse093         |                                  |                         |                       |               0.3.2.1 | A0:f3:c1:05:85:02 | 53.866209899221566 10.670299530029297 |
 | Hotel Stadt Luebeck 4      | Fluse094         |                                  |                         |                       |               0.3.2.1 | A0:f3:c1:05:84:6c | 53.8661940829625 10.670379996299744   |
-| Rübe                       | Fluse095         |                                  | Uplink                  |                       |               0.3.2.1 | B0:48:7a:cb:30:48 | 53.857795 10.719049 |
-| Fluse096                  | Fluse096         |                                  | Uplink                  |                       |               0.3.2.1 | 64:70:02:b5:da:ce |  |
+| Rübe                       | Fluse095         |                                  | Uplink                  |                       |               0.3.2.1 | B0:48:7a:cb:30:48 | 53.857795 10.719049                   |
+| Fluse096                   | Fluse096         |                                  | Uplink                  |                       |               0.3.2.1 | 64:70:02:b5:da:ce |                                       |
 | 9to5                       | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
 | Dennis                     | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND           |                 0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
 | Garuda-ZOB                 | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND            |                0.3pre | f8:d1:11:55:9f:9a | 53.866705 10.671694                   |
@@ -170,7 +170,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | JazzCafeLuebeck02          |                  | Mühlenstraße 62                  | uplink                  | TL-WR741ND            |                 0.3.1 | f8:d1:11:87:4f:c6 |                                       |
 | Eden                       | Magu             | St. Lorenz Nord                  | Uplink                  | TL-WDR3600            |                 0.3.3 | 64:70:02:b5:cf:74 |                                       |
 | Shiva                      | Eichi - enjoy    | Taschenmacherstraße 1-5          | Uplink                  | TL-WDR3600            |                 0.3.2 | 64:70:02:D1:62:12 | 53.866912135097 10.613463521003       |
-| Kaktorius                      | Eichi - essBAR   | Königstraße 102              | Uplink                  | TL-WR841ND            |                 0.3.2 | A0:F3:C1:89:6D:24 | 53.865017336514 10.686296224594       |
+| Kaktorius                  | Eichi - essBAR   | Königstraße 102                  | Uplink                  | TL-WR841ND            |                 0.3.2 | A0:F3:C1:89:6D:24 | 53.865017336514 10.686296224594       |
 | Cerberus                   |                  |                                  |                         |                       |                       | 64:70:02:94:04:54 |                                       |
 | Leviathan                  |                  | Carlebachpark                    | Mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 64:70:02:93:ff:c6 | 53.833703236943 10.698042190594       |
 | JazzCafeLuebeck01          |                  | Mühlenstraße 62                  | mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 90:f6:52:fd:3d:0a | 53.866471324141 10.671263015747       |
@@ -195,7 +195,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | DGHNiendorf                |  Bodo            | Dorfstr.                         |                         | TL-WR741ND            |                 0.3.2 | a0:f3:c1:82:56:c4 |                                       |
 | Falke                      |  Flo             | Reiherstieg                      |                         | TL-WR741ND            |               0.3.2.1 | a0:f3:c1:36:6c:a2 | 53.86673 10.70060                     |
 | Mokuba                     | Scoop            | Fischergrube                     | mit Internetanbindung   | TL-WR741ND            |                       | a0:f3:c1:36:6b:a2 | 53.87056 10.68475                     |
-|    Karlshof       | mchai            |                      | mit Internetanbindung   | ?            |                       | ? |  53.892703 10.730150 |
+| Karlshof                   | mchai            |                                  | mit Internetanbindung   | ?                     |                       |                 ? |  53.892703 10.730150 |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
