@@ -184,7 +184,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Bundeslade                 | wzl              | Mühlenstraße                     |                         | TL-WR841ND            |               0.3.2.1 | 66:70:02:ae:73:19 | 53.86328062604232 10.686784386634827  |
 | Atlantis                   | zweiblum         | Mühlenstraße                     |                         | TL-WR842ND            |                 0.3.2 | 66:70:02:4c:39:5f | 53.862201867939234 10.687159895896912 |
 | draic                      |                  |                                  |                         |                       |                       | 90:f6:52:ff:cd:b0 | 53.871890712637 10.716594457626       |
-| Stellbrink                 |                  | Stellbrinkstr                    |                         | TL-WR1043ND           |                 0.3.2 | f8:d1:11:24:76:12  | 53.8728 10.7206                      |
+| Stellbrink                 |                  | Stellbrinkstr                    |                         | TL-WR1043ND           |                 0.3.2 | f8:d1:11:24:76:12 | 53.8728 10.7206                       |
 | Gutenberg1                 |  Daniel          | Gutenbergstraße                  |  mit Internetanbindung  | TL-WDR3600            |                0.3.2.1| 64:70:02:d1:72:ca | 53.85211 10.73936                     |
 | Gutenberg2                 |  Daniel          | Hans-Sachs-Straße                |  mit Internetanbindung  | TL-WDR3600            |                0.3.2.1|64:70:02:d1:71:76  | 53.85084 10.74283                     |
 | Gutenberg3                 |  Daniel          | Beckergrube                      |  mit Internetanbindung  | TL-WDR3600            |                0.3.2.1| 64:70:02:b5:e0:5c | 53.86993 10.68582                     |
@@ -195,7 +195,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | DGHNiendorf                |  Bodo            | Dorfstr.                         |                         | TL-WR741ND            |                 0.3.2 | a0:f3:c1:82:56:c4 |                                       |
 | Falke                      |  Flo             | Reiherstieg                      |                         | TL-WR741ND            |               0.3.2.1 | a0:f3:c1:36:6c:a2 | 53.86673 10.70060                     |
 | Mokuba                     | Scoop            | Fischergrube                     | mit Internetanbindung   | TL-WR741ND            |                       | a0:f3:c1:36:6b:a2 | 53.87056 10.68475                     |
-| Karlshof                   | mchai            |                                  | mit Internetanbindung   | ?                     |                       |                 ? |  53.892703 10.730150 |
+| Karlshof                   | mchai            |                                  | mit Internetanbindung   | ?                     |                       |                 ? |  53.892703 10.730150                  |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
