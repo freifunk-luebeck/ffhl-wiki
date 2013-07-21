@@ -32,7 +32,7 @@ Hier befindet sich eine Aufnahme der Sendung:
 Alternativ kannst du das Interview auch als [MP3 herunterladen](http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.mp3).
 
 ### Vorkonfigurierte Knoten
-Wir haben wieder eine begrenzte Anzahl fertig konfigurierter Router. Wenn du dich am lübecker Freifunk beteiligen möchtest, kannst du gerne ein Gerät für einmalig 20;- € von uns erwerben. Mail uns bitte einfach kurz an :-)
+Wir haben wieder eine begrenzte Anzahl fertig konfigurierter Router. Wenn du dich am lübecker Freifunk beteiligen möchtest, kannst du gerne ein Gerät für einmalig 20 € von uns erwerben. Mail uns bitte einfach kurz an :-)
 
 Besonders interessant für Gastronomiebetriebe und Hotels. Mit dem Freifunkrouter können die Gäste frei im Netz surfen, ohne das der Betreiber sich durch die mißbräuchliche Nutzung des Internets von einem Gast haftbar macht. (Störerhaftung)
 
