@@ -197,7 +197,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Mokuba                     | Scoop            | Fischergrube                     | mit Internetanbindung   | TL-WR741ND            |                       | a0:f3:c1:36:6b:a2 | 53.87056 10.68475                     |
 | Karlshof                   | mchai            |                                  | mit Internetanbindung   | ?                     |                       |                 ? |  53.892703 10.730150                  |
 | Christian                 | Christian         | Fünfhausen                       | mit Internetanbindung   | TL-WR841ND            |               0.3.2.1 | a0:f3:c1:f5:59:69 |  53.86895 10.68468                    |
-| layban                    | svensson          | Stresemannstraße                 | mit Internetanbindung   | TL-WR841ND            |               0.3.2.1 | a0:f3:c1:05:89:fa |  53.85673 10.69191                    |
+| layban                    | svensson          | Stresemannstraße                 | mit Internetanbindung   | TL-WR841ND            |               0.3.2.1 | a0:f3:c1:05:89:fa |  53.85673 10.69191                    |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
