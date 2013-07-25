@@ -56,7 +56,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | La Crona a                 | Fluse005         | BS ZOB                           | Uplink                  | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7e:57:d4 | 53.918935379332 10.694474852564       |
 | randomweb2                 | berik            |    derzeit Mobilknoten           |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:2c:76 |                                       |
 | Fluse008                   | Fluse008         |                                  |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7e:58:0c |                                       |
-| La Crona b                 | Fluse009         | BS ZOB                           |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7e:57:7a | 53.918875353291 10.694415843971       |
+| Reserve              | Fluse009         |                            |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7e:57:7a |        |
 | Reserve                    | Fluse010         | ehemals HanseDiner 2             |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:2a:d8 |                                       |
 | Kinder                     | Fluse011         | Stockelsdorf                     | Uplink                  | TL-WR741ND            |               0.3.2.1 | f8:d1:11:55:9f:86 | 53.902516 10.669674                   |
 | LAN-Zentrum                | Fluse012         | Lanzentrum                       | Uplink                  | TL-WR1043ND           |                 0.3.1 | 56:e6:fc:b0:43:80 | 53.87643 10.65837                     |
@@ -131,7 +131,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Hotel Stadt Luebeck 4      | Fluse094         |                                  |                         |                       |               0.3.2.1 | A0:f3:c1:05:84:6c | 53.8661940829625 10.670379996299744   |
 | Rübe                       | Fluse095         |                                  | Uplink                  |                       |               0.3.2.1 | B0:48:7a:cb:30:48 | 53.857795 10.719049                   |
 | Fluse096                   | Fluse096         |                                  |                   |                       |               0.3.2.1 | 64:70:02:b5:da:ce | 53.87183378180927 10.68995475769043  |
-| Fluse097                   | Fluse097         |                                  |                   |                       |               0.3.2.1 | 90:f6:52:e9:ba:68 |   |
+| La Crona b                   | Fluse097         |                                  |                   |                       |               0.3.2.1 | 90:f6:52:e9:ba:68 | 53.918875353291 10.694415843971  |
 | Fluse098                   | Fluse098         |                                  |                   |                       |               0.3.2.1 | f8:1a:67:7f:6d:10 |   |
 | Fluse099                   | Fluse099         |                                  |                   |                       |               0.3.2.1 |  |   |
 | Fluse100                   | Fluse100         |                                  |                   |                       |               0.3.2.1 |  |   |
