@@ -19,6 +19,6 @@ Wir haben einige Dienste aufgesetzt, die die Struktur des Netzes überwachen und
 ## Statistiken
 
  * Knotenstatistiken<br>
-   <http://krtek.ffhl/cacti-export>
+   <http://map.ffhl/rrd/globalGraph.png>
  * Knoten Highscores<br>
    <http://krtek.ffhl/nodegame>
