@@ -134,7 +134,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | La Crona b                   | Fluse097         |                                  |                   |                       |               0.3.2.1 | 90:f6:52:e9:ba:68 | 53.918875353291 10.694415843971  |
 | Fluse098                   | Fluse098         |                                  |                   |                       |               0.3.2.1 | f8:1a:67:7f:6d:10 |   |
 | Fluse099                   | Fluse099         |                                  |                   |                       |               0.3.2.1 |  |   |
-| Fluse100                   | Fluse100         |                                  |                   |                       |               0.3.2.1 |  |   |
+| Fluse100                   | Fluse100         |                                  | Bullet M2 15 dB Antenne nur Mesh  |                       |               0.3.2.1 | 53.87568592639191 10.677165985107422 |   |
 | 9to5                       | Andre            | Dankwartsgrube                   | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
 | Dennis                     | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND           |                 0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
 | Garuda-ZOB                 | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND            |                0.3pre | f8:d1:11:55:9f:9a | 53.866705 10.671694                   |
