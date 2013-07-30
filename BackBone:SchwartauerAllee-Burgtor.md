@@ -7,7 +7,7 @@
 
 Foto: http://krtek.ffhl/~nils/stuff/Burgtor-Dach/PANO_20130710_154003.jpg
 
-Ausleuchtung (dunkel blau: freie Sicht; hell blau: ein Baum davor): [[PNG|bilder/schwartauer-burgtor.png]] [[SVG|bilder/schwartauer-burgtor.svg]]
+_Ausleuchtung_ (dunkel blau: freie Sicht; hell blau: ein Baum davor): [[PNG|bilder/schwartauer-burgtor.png]] [[SVG|bilder/schwartauer-burgtor.svg]]
 
 Sowie weitere Bilder verschiedener, anderer Fenster beim Burgtor: [[http://krtek.ffhl/~nils/stuff/Burgtor-Dach/]]
 
