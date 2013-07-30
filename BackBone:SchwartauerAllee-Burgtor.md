@@ -5,7 +5,7 @@
 **Burgtor:**
  * Dachluke an der West-Seite: [[53.87423 10.69036|http://openstreetmap.org/?lat=53.874236&lon=10.689695&zoom=18&layers=M]]
 
-Foto: [[http://krtek.ffhl/~nils/stuff/Burgtor-Dach/PANO_20130710_154003.jpg]]
+Foto: http://krtek.ffhl/~nils/stuff/Burgtor-Dach/PANO_20130710_154003.jpg
 
 Ausleuchtung (dunkel blau: freie Sicht; hell blau: ein Baum davor): [[PNG|bilder/schwartauer-burgtor.png]] [[SVG|bilder/schwartauer-burgtor.svg]]
 
