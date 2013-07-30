@@ -5,11 +5,13 @@
 **Burgtor:**
  * Dachluke an der West-Seite: [[53.87423 10.69036|http://openstreetmap.org/?lat=53.874236&lon=10.689695&zoom=18&layers=M]]
 
-[[Foto|http://www.youtube.com/watch?v=kKFVzhWoq2I&feature=share&list=UUqP-nU6QwZ8ijGhr_vomAUA]]
+Foto: [[http://krtek.ffhl/~nils/stuff/Burgtor-Dach/PANO_20130710_154003.jpg]]
 
 Ausleuchtung (dunkel blau: freie Sicht; hell blau: ein Baum davor): [[PNG|bilder/schwartauer-burgtor.png]] [[SVG|bilder/schwartauer-burgtor.svg]]
 
-**Fluse100 (Schwartauer Allee:**
+Sowie weitere Bilder verschiedener, anderer Fenster beim Burgtor: [[http://krtek.ffhl/~nils/stuff/Burgtor-Dach/]]
+
+**Fluse100 (Schwartauer Allee):**
  * Dach: [[53.87568592639191 10.677165985107422|http://openstreetmap.org/?lat=53.875688&lon=10.677166&zoom=18&layers=M]]
 
 [[Video|http://www.youtube.com/watch?v=kKFVzhWoq2I&feature=share&list=UUqP-nU6QwZ8ijGhr_vomAUA]]
@@ -80,6 +82,7 @@ Fluse100 ist also leider gerade so nicht mehr im Sichtfeld zum Burgtor, ein Baum
 
 **Vorteile:**
  * Extrem hoher Durchsatz dank 4x4 MIMO (bis zu drei mal so hoch wie 2x2 MIMO, also ~150-200MBit/s netto?)
+ * HT40 sollte problemlos gehen (mehr Durchsatz)
  * Hoher Gewinn (wird auch bei Regen gut funktionieren)
  * Kaum anfällig gegenüber Umgebungsrauschen etc. da stark gerichtet und 5GHz
 
@@ -126,5 +129,5 @@ Beschreibungen siehe oben.
 ## Außerdem
 
 Nicht vergessen:
- * In der Software muss bei Sektor und Rundstrahlern mit hohem Gewinn unbedingt CTS/RTS aktiviert werden.
+ * In der Software muss bei Sektor und Rundstrahlern mit großer Abdeckung unbedingt CTS/RTS aktiviert werden.
  * HT40 wird bei 2.4GHz mit anderen Access-Points im Sichtfeld nicht funktionieren (ca. halb so hoher Durchsatz). 5GHz oder Richtverbindungen haben das Problem eher weniger.
