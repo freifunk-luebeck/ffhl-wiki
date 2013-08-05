@@ -44,7 +44,7 @@ sein.
 
 ## Antrag zum Kauf folgender Hardware an den Chaotikum e.V.
 
-Zur Realisierung werden WLAN-Router und Antennen im Wert von 537,67€
+Zur Realisierung werden WLAN-Router und Antennen im Wert von 537,68€
 plus Kosten für Antennenkabel, Netzwerkkabel, Outdoor-Gehäuse,
 PoE-Adapter, Masten und Mastschellen benötigt (ca. 150€)
 (plus Blitzschutz? TODO: Kosten heraus finden)
@@ -55,69 +55,73 @@ PoE-Adapter, Masten und Mastschellen benötigt (ca. 150€)
 Burgtor, Tor, Ost:
 - Richtung Kaiserstraße
 
-|    |                                                                |       |
-|----|----------------------------------------------------------------|-------|
-| 1x | Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version  | 18,90 |
-|    | (75° h, 38° v)                                                 |       |
-| 1x | 741ND                                                          | 15,00 |
+ * 1x Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version (75° h, 38° v)
+ * 1x 741ND
 
 ----
 **Burgtor, Tor, Süd:**
 - Richtung Große Burgstraße
 
-2x Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version	37,80
-   (75° h, 38° v)
-1x 841ND								25,00
+ * 2x Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version (75° h, 38° v)
+ * 1x 841ND
 
 ----
 **Burgtor, Tor, Mitte (Fenster im Musikzimmer):**
 
-1x 841ND								25,00
+ * 1x 841ND
 
 ----
 **Burgtor, Tor, Nord (IT-Raum):**
 - Richtung Burgtorbrücke / Gustav Radbruch Platz
 
-2x IT ELITE PAT24014 - 14dBi Outdoor Panelantenne, 2.4 – 2.5 GHz	38.98
-   (38° h, 39° v)
-1x 841ND								25,00
+ * 2x IT ELITE PAT24014 - 14dBi Outdoor Panelantenne, 2.4 – 2.5 GHz (38° h, 39° v)
+ * 1x 841ND
 
 ----
 **Burgtor, West (Fenster links von Luke):**
 - Richtung Sankt Lorenz Nord
 
-2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit		47,80
-   (35° h, 18° v)
-1x 841ND								25,00
+ * 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit (35° h, 18° v)
+ * 1x 841ND
 
 ----
 **Fluse100, Ost:**
 - Richtung Burgtor
 
-2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit		47,80
-   (35° h, 18° v)
-1x 841ND								25,00
+ * 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit (35° h, 18° v)
+ * 1x 841ND
 
 ----
 **Fluse100, Ost:**
 - Richtung Brauberger
 
-2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit		47,80
-   (35° h, 18° v)
-1x 841ND								25,00
+ * 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit (35° h, 18° v)
+ * 1x 841ND
 
 ----
 **Brauberger, West:**
 - Richtung Fluse100
 
-2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit		47,80
-   (35° h, 18° v)
-1x 841ND								25,00
+ * 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit (35° h, 18° v)
+ * 1x 841ND
 
 ----
 **Brauberger, rundum:**
 
-2x Omni Antenne 9dbi 2.4GHz, Outdoor, Economy Version, N Buchse		35,80
-1x 841ND								25,00
+ * 2x Omni Antenne 9dbi 2.4GHz, Outdoor, Economy Version, N Buchse (360° h, 10° v)
+ * 1x 841ND
 
 ----
+
+#### Kostenauflistung
+
+| Stück | Beschreibung                                                   | Stück-Kosten | Kosten |
+|-------|----------------------------------------------------------------|--------------|--------|    
+| 3x    | Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version  |        18,90 |  56,70 |
+| 2x    | IT ELITE PAT24014 - 14dBi Outdoor Panelantenne, 2.4 – 2.5 GHz  |        19,49 |  38,98 |
+| 8x    | Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit         |        23,90 | 191,20 |
+| 2x    | Omni Antenne 9dbi 2.4GHz, Outdoor, Economy Version, N Buchse   |        17,90 |  35,80 |
+| 1x    | 741ND                                                          |        15,00 |  15,00 |
+| 8x    | 841ND                                                          |        25,00 | 200,00 |
+|       | Gesamt                                                         |              | 537,68 |
+
