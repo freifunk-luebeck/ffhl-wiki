@@ -55,6 +55,7 @@ PoE-Adapter, Masten und Mastschellen benötigt (ca. 150€)
 Burgtor, Tor, Ost:
 - Richtung Kaiserstraße
 
+|----|----------------------------------------------------------------|-------|
 | 1x | Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version  | 18,90 |
 |    | (75° h, 38° v)                                                 |       |
 | 1x | 741ND                                                          | 15,00 |
