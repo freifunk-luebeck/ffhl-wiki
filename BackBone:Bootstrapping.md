@@ -55,58 +55,67 @@ PoE-Adapter, Masten und Mastschellen benötigt (ca. 150€)
 Burgtor, Tor, Ost:
 - Richtung Kaiserstraße
 
-1x Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version	18,90
-   (75° h, 38° v)
-1x 741ND								15,00
+| 1x | Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version  | 18,90 |
+|    | (75° h, 38° v)                                                 |       |
+| 1x | 741ND                                                          | 15,00 |
+
 ----
-Burgtor, Tor, Süd:
+**Burgtor, Tor, Süd:**
 - Richtung Große Burgstraße
 
 2x Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version	37,80
    (75° h, 38° v)
 1x 841ND								25,00
+
 ----
-Burgtor, Tor, Mitte (Fenster im Musikzimmer):
+**Burgtor, Tor, Mitte (Fenster im Musikzimmer):**
 
 1x 841ND								25,00
+
 ----
-Burgtor, Tor, Nord (IT-Raum):
+**Burgtor, Tor, Nord (IT-Raum):**
 - Richtung Burgtorbrücke / Gustav Radbruch Platz
 
 2x IT ELITE PAT24014 - 14dBi Outdoor Panelantenne, 2.4 – 2.5 GHz	38.98
    (38° h, 39° v)
 1x 841ND								25,00
+
 ----
-Burgtor, West (Fenster links von Luke):
+**Burgtor, West (Fenster links von Luke):**
 - Richtung Sankt Lorenz Nord
 
 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit		47,80
    (35° h, 18° v)
 1x 841ND								25,00
+
 ----
-Fluse100, Ost:
+**Fluse100, Ost:**
 - Richtung Burgtor
 
 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit		47,80
    (35° h, 18° v)
 1x 841ND								25,00
+
 ----
-Fluse100, Ost:
+**Fluse100, Ost:**
 - Richtung Brauberger
 
 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit		47,80
    (35° h, 18° v)
 1x 841ND								25,00
+
 ----
-Brauberger, West:
+**Brauberger, West:**
 - Richtung Fluse100
 
 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit		47,80
    (35° h, 18° v)
 1x 841ND								25,00
+
 ----
-Brauberger, rundum:
+**Brauberger, rundum:**
 
 2x Omni Antenne 9dbi 2.4GHz, Outdoor, Economy Version, N Buchse		35,80
 1x 841ND								25,00
+
 ----
