@@ -46,7 +46,7 @@ sein.
 
 ## Antrag zum Kauf folgender Hardware an den Chaotikum e.V.
 
-Zur Realisierung werden WLAN-Router und Antennen im Wert von 587,24€
+Zur Realisierung werden WLAN-Router und Antennen im Wert von 578,24€
 plus Kosten für Antennenkabel, Netzwerkkabel, Outdoor-Gehäuse,
 PoE-Adapter, Masten und Mastschellen, sowie Blitzschutz benötigt (ca. 150€)
 
