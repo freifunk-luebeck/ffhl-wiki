@@ -1,10 +1,12 @@
 # BackBone - Bootstrapping
 
+_Spenden- und Ausbauaktion 2013_
+
 ## Einleitung, Ziele, Begründung
 
 Hier ein konkreter Vorschlag für die Anschaffung von Hardware.
 
-Ziele:
+_Ziele:_
  * Komplette, durchgehende Ausleuchtung der Kaiserstraße, Großen Burgstraße
    und Burgtorbrücke
  * Vernetzung von Burgtor, Fluse100 und Brauberger mit 300MBit/s (brutto)
@@ -44,10 +46,9 @@ sein.
 
 ## Antrag zum Kauf folgender Hardware an den Chaotikum e.V.
 
-Zur Realisierung werden WLAN-Router und Antennen im Wert von 537,68€
+Zur Realisierung werden WLAN-Router und Antennen im Wert von 587,24€
 plus Kosten für Antennenkabel, Netzwerkkabel, Outdoor-Gehäuse,
-PoE-Adapter, Masten und Mastschellen benötigt (ca. 150€)
-(plus Blitzschutz? TODO: Kosten heraus finden)
+PoE-Adapter, Masten und Mastschellen, sowie Blitzschutz benötigt (ca. 150€)
 
 ### Hardware-Liste
 
@@ -81,29 +82,25 @@ Burgtor, Tor, Ost:
 **Burgtor, West (Fenster links von Luke):**
 - Richtung Sankt Lorenz Nord
 
- * 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit (35° h, 18° v)
- * 1x 841ND
+ * 1x NanoBridge M5 NB-5G25: 5GHz MIMO Bridging Solution (UBNT)
 
 ----
 **Fluse100, Ost:**
 - Richtung Burgtor
 
- * 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit (35° h, 18° v)
- * 1x 841ND
+ * 1x NanoBridge M5 NB-5G25: 5GHz MIMO Bridging Solution (UBNT)
 
 ----
 **Fluse100, Ost:**
 - Richtung Brauberger
 
- * 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit (35° h, 18° v)
- * 1x 841ND
+ * 1x NanoBridge M5 NB-5G25: 5GHz MIMO Bridging Solution (UBNT)
 
 ----
 **Brauberger, West:**
 - Richtung Fluse100
 
- * 2x Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit (35° h, 18° v)
- * 1x 841ND
+ * 1x NanoBridge M5 NB-5G25: 5GHz MIMO Bridging Solution (UBNT)
 
 ----
 **Brauberger, rundum:**
@@ -119,9 +116,8 @@ Burgtor, Tor, Ost:
 |-------|----------------------------------------------------------------|--------------|--------|    
 | 3x    | Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version  |        18,90 |  56,70 |
 | 2x    | IT ELITE PAT24014 - 14dBi Outdoor Panelantenne, 2.4 – 2.5 GHz  |        19,49 |  38,98 |
-| 8x    | Outdoor Panel Antenne 18dbi bg 2.4GHz, w/ Mounting Kit         |        23,90 | 191,20 |
 | 2x    | Omni Antenne 9dbi 2.4GHz, Outdoor, Economy Version, N Buchse   |        17,90 |  35,80 |
 | 1x    | 741ND                                                          |        15,00 |  15,00 |
-| 8x    | 841ND                                                          |        25,00 | 200,00 |
-|       | Gesamt                                                         |              | 537,68 |
-
+| 4x    | 841ND                                                          |        25,00 | 100,00 |
+| 4x    | NanoBridge M5 NB-5G25: 5GHz MIMO Bridging Solution (UBNT)      |        82,94 | 331,76 |
+|       | Gesamt                                                         |              | 578,24 |
