@@ -8,10 +8,10 @@ Hier ein konkreter Vorschlag für die Anschaffung von Hardware.
 
 _Ziele:_
  * Komplette, durchgehende Ausleuchtung der Kaiserstraße, Großen Burgstraße
-   und Burgtorbrücke
- * Vernetzung von Burgtor, Fluse100 und Brauberger mit 300MBit/s (brutto)
-   Hardware (802.11n, 2.4GHz, 2x2 MIMO, Richtfunk)
- * Ausleuchtung großer Dachgebiete um Fluse100 und Brauberger
+   und Burgtorbrücke (802.11n, 2.4GHz)
+ * Vernetzung von Burgtor, Fluse100 und Brauberger mit 150MBit/s+ (netto)
+   Hardware (802.11n, 5GHz, 2x2 MIMO, Richtfunk)
+ * Ausleuchtung großer Dachgebiete um Fluse100 und Brauberger (802.11n, 2.4GHz)
 
 
 Ersteres ist einfach super für uns um auch praktisch zu zeigen, welches
