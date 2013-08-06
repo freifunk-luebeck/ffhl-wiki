@@ -53,7 +53,7 @@ PoE-Adapter, Masten und Mastschellen, sowie Blitzschutz benötigt (ca. 150€)
 ### Hardware-Liste
 
 ----
-Burgtor, Tor, Ost:
+**Burgtor, Tor, Ost:**
 - Richtung Kaiserstraße
 
  * 1x Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version (75° h, 38° v)
