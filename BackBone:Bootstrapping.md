@@ -119,5 +119,5 @@ PoE-Adapter, Masten und Mastschellen, sowie Blitzschutz benötigt (ca. 150€)
 | 2x    | [[Omni Antenne 9dbi 2.4GHz, Outdoor, Economy Version, N Buchse|http://varia-store.com/Antennen/Antennen-2-4-2-5GHz/Omni-Aussenbereich-2-4-2-5GHz/Omni-Antenne-9dbi-2-4GHz-Outdoor-Economy-Version-N-Buchse::1317.html]]   |        17,90 |  16,99 |  35,80 |
 | 1x    | 741ND                                                          |        15,00 |  15,00 |  15,00 |
 | 4x    | 841ND                                                          |        25,00 |  22,90 | 100,00 |
-| 4x    | [[NanoBridge M5 NB-5G25: 5GHz MIMO Bridging Solution (UBNT)|http://varia-store.com/Antennas/Antennas-5-0-6-0GHz/Dish-antennas-5-0-6-0GHz/NanoBridge-M5-NB-5G25-5GHz-MIMO-Bridging-Solution-UBNT::1067.html]]      |        82,94 | 79,99 | 331,76 |
+| 4x    | [[NanoBridge M5 NB-5G25: 5GHz MIMO Bridging Solution (UBNT)|http://varia-store.com/Antennas/Antennas-5-0-6-0GHz/Dish-antennas-5-0-6-0GHz/NanoBridge-M5-NB-5G25-5GHz-MIMO-Bridging-Solution-UBNT::1067.html]]      |        82,94 | 79,00 | 331,76 |
 |       | Gesamt                                                         |              |        | 578,24 |
