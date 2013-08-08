@@ -203,6 +203,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Christian                 | Christian         | Fünfhausen                       | mit Internetanbindung   | TL-WR841ND            |               0.3.2.1 | a0:f3:c1:f5:59:69 |  53.86895 10.68468                    |
 | layban                    | svensson          | Stresemannstraße                 | mit Internetanbindung   | TL-WR841ND            |               0.3.2.1 | a0:f3:c1:05:89:fa |  53.85673 10.69191                    |
 | GukaHL                    | Gordon            | Forstweg / Am Wallberg           | mit Internetanbindung   | TL-WR841ND            |               0.3.2.1 | a0:f3:c1:05:63:d8 |  53.912721769526456 10.788037776947021|
+| Alfred                    | Fluse             |                                  | mit Internetanbindung   | Intel Atom - x86-64   |                custom | 38:60:77:2f:e2:93 |                                       |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
