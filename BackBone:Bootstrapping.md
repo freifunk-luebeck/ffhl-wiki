@@ -117,7 +117,7 @@ PoE-Adapter, Masten und Mastschellen, sowie Blitzschutz benötigt (ca. 150€)
 | 3x    | [[Panel Antenne 12dbi 2.4GHz, für Außenbereich, economy version|http://varia-store.com/Antennen/Antennen-2-4-2-5GHz/Panel-Aussenbereich-2-4-2-5GHz/Panel-Antenne-12dbi-2-4]]  |        18,90 |  17,80 |  53,40 (56,70) |
 | 2x    | [[IT ELITE PAT24014 - 14dBi Outdoor Panelantenne, 2.4 – 2.5 GHz|http://varia-store.com/Antennen/Antennen-2-4-2-5GHz/Panel-Aussenbereich-2-4-2-5GHz/IT-ELITE-PAT24014-14dBi-Outdoor-Panelantenne-2-4-2-5-GHz::586.html]]  |        19,49 |  18,85 |  37,70 (38,98) |
 | 2x    | [[Omni Antenne 9dbi 2.4GHz, Outdoor, Economy Version, N Buchse|http://varia-store.com/Antennen/Antennen-2-4-2-5GHz/Omni-Aussenbereich-2-4-2-5GHz/Omni-Antenne-9dbi-2-4GHz-Outdoor-Economy-Version-N-Buchse::1317.html]]   |        17,90 |  16,99 |  33,98 (35,80) |
-| 1x    | 741ND                                                          |        15,00 |  15,00 |  15,00 (15,00) |
+| 1x    | 741ND                                                          |        15,00 |  17,00 |  17,00        |
 | 4x    | 841ND                                                          |        25,00 |  22,90 |  91,60 (100,00) |
 | 4x    | [[NanoBridge M5 NB-5G25: 5GHz MIMO Bridging Solution (UBNT)|http://varia-store.com/Antennas/Antennas-5-0-6-0GHz/Dish-antennas-5-0-6-0GHz/NanoBridge-M5-NB-5G25-5GHz-MIMO-Bridging-Solution-UBNT::1067.html]]      |        82,94 | 79,00 | 316,- (331,76) |
-|       | Gesamt                                                         |              |        | 547,68 (578,24) |
+|       | Gesamt                                                         |              |        | 549,68 (578,24) |
