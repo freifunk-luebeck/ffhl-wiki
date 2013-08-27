@@ -200,13 +200,13 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | APH-HL_11 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D0:A1:20 | 53.871058882275555 10.690866708755493 |
 | APH-HL_12 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:7C | 53.87128344647498 10.690646767616272 |
 | APH-HL_13 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E1:CC | 53.8709892987578 10.691344141960144 |
-| APH-HL_14 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:BE | 53.8714415895539 10.690743327140808 |
+| APH-HL_14 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:BE | 53.87118539746579 10.690625309944151 |
 | APH-HL_15 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:EA | 53.87087227167145 10.691333413124084 |
 | APH-HL_16 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:26 | 53.87079003622566 10.691306591033936 |
 | APH-HL_17 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:40 | 53.870922878019236 10.691370964050293 |
 | APH-HL_18 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:DF:5A | 53.871058882275555 10.691290497779846 |
-| APH-HL_19 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E0:08 | 53.87107469669527 10.691108107566833 |
-| APH-HL_20 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:06 | 53.87118223459069 10.690636038780212 |
+| APH-HL_19 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E0:08 | 53.8709766471967 10.691349506378174 |
+| APH-HL_20 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:06 | 53.871077859578484 10.691113471984863 |
 | APH-HL_21 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CF:14 | 53.87121386333085 10.69013178348541 |
 | APH-HL_22 | yBit | Heiligen-Geist-Hospital |  | Bullet M2 HP | 0.3.2.1 | DC:9F:DB:94:87:58 | 53.871296097943315 10.691108107566833 |
 | Cerberus                   |                  |                                  |                         |                       |                       | 64:70:02:94:04:54 |                                       |
