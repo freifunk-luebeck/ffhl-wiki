@@ -56,6 +56,8 @@ Beim TL-WR842ND ist das Verfahren etwas anders:
 Man schaltet den Router normal an und wartet ca. 15 Sekunden bis die Sys-Lampe aufleuchtet.
 Erst dann drückt man kurz die Reset-Taste, bis die Sys-Lampe schnell blinkt.
 
+Bei manchen Routern kommt man nur in den Failsafemode durch extrem schnelles intervall-drücken der QSS-Taste direkt nach dem Einschalten.
+
 Da im Failsafemode kein DHCP zur Verfügung steht, muss man seine Netzwerkkarte manuell Konfigurieren:
 ```
 IP: 192.168.1.1
