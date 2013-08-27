@@ -50,19 +50,19 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Rapture                    |                  |                                  | mit Internetanbindung   | TL-WR1043ND           |                 0.3.2 | b0:48:7a:de:20:fa | 53.84598 10.70838                     |
 | Enki                       | magu             | St. Lorenz Nord                  | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:58:29:0e |                                       |
 | mkm                        | mkm              | Mölln                            | mit Internetanbindung   | TL-WR741ND            |                0.3pre | b0:48:7a:db:3b:18 |                                       |
-|                            | Fluse001         |                                  |                         | TL-WR741ND            | 0.3pre (build 120809) | f8:d1:11:7e:57:98 |                                       |
-| Genußdepot                 | Fluse002         |                                  |                         | TL-WR741ND            |                 0.3.1 | f8:d1:11:7e:57:76 | 53.86734436691 10.688042915331        |
-| ZOB RU                     | Fluse003/Abdi    | ZOB RU Switchmode                | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:2a:f2 | 53.866414 10.671173                   |
-| Fluse004                   | Fluse004         |                                  |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:57:e2 |                                       |
-| Fluse005                 | Fluse005         | BS ZOB                           |                   | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7e:57:d4 |        |
-| randomweb2                 | berik            |    derzeit Mobilknoten           |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:2c:76 |                                       |
-| Fluse008                   | Fluse008         |                                  |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7e:58:0c |                                       |
-| Reserve              | Fluse009         |                            |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7e:57:7a |        |
-| Reserve                    | Fluse010         | ehemals HanseDiner 2             |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:2a:d8 |                                       |
-| Kinder                     | Fluse011         | Stockelsdorf                     | Uplink                  | TL-WR741ND            |               0.3.2.1 | f8:d1:11:55:9f:86 | 53.902516 10.669674                   |
-| LAN-Zentrum                | Fluse012         | Lanzentrum                       | Uplink                  | TL-WR1043ND           |                 0.3.1 | 56:e6:fc:b0:43:80 | 53.87643 10.65837                     |
-| Fluse014                   | Fluse014         | Reserve 1043                     |                         | TL-WR741ND            |               0.3.2.1 | b0:48:7a:bb:50:54 | 53.868967 10.671359                   |
-| Mobiler Knoten             | Fluse015         | Mobiler Knoten 1043              |                         | TL-WR1043ND           |                 0.3.1 | 54:e6:fc:af:43:ba |                                       |
+| Fluse001  | Fluse001         |            |        | TL-WR741ND | 0.3pre  | f8:d1:11:7e:57:98 |       |
+| Genußdepot| Fluse002         |            |        | TL-WR741ND | 0.3.1   | f8:d1:11:7e:57:76 | 53.86734436 10.688042915 |
+| ZOB RU    | Fluse003/Abdi    | ZOB RU SW  | Uplink | TL-WR741ND | 0.3.2   | f8:d1:11:7e:2a:f2 | 53.866414 10.671173      |
+| Fluse004  | Fluse004         |            |        | TL-WR741ND | 0.3.2   | f8:d1:11:7e:57:e2 |                          |
+| Fluse005  | Fluse005         | BS ZOB     |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:d4 |                          |
+| randomweb2| berik            | Mobilknoten|        | TL-WR741ND | 0.3.2   | f8:d1:11:7e:2c:76 |                          |
+| Fluse008  | Fluse008         |            |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:58:0c |                          |
+| Reserve   | Fluse009         |            |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:7a |                          |
+| Reserve   | Fluse010         | ehemals HanseDiner 2|| TL-WR741ND| 0.3.2   | f8:d1:11:7e:2a:d8 |                          |
+| Kinder    | Fluse011         | Stodo      | Uplink | TL-WR741ND | 0.3.2.1 | f8:d1:11:55:9f:86 | 53.902516 10.669674      |
+| Psycho    | Fluse012         |            | Uplink | TL-WR1043ND| 0.3.1   | 56:e6:fc:b0:43:80 | 53.87643 10.65837        |
+| Fluse014  | Fluse014         | Reserve    |        | TL-WR741ND | 0.3.2.1 | b0:48:7a:bb:50:54 | 53.868967 10.671359      |
+| Mob. Kn.  | Fluse015         | Mobiler Knoten|     | TL-WR1043ND| 0.3.1   | 54:e6:fc:af:43:ba |                          |
 | Fluse016                   | Fluse016         | Testweise in der Hüxstrasse      |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:55:9b:e4 | 53.8662668377 10.68842053413391       |
 | ZOB R                      | Fluse017         | ZOB R                            |                         | TL-WR741ND            |                 0.3.2 | b0:48:7a:cb:2c:b8 | 53.866346 10.671321                   |
 | Fluse3600                  | Fluse018         |                                  | Uplink                  | TL-WDR3600            |               0.3.2.1 | 64:70:02:91:53:5a | 53.895523 10.65213                    |
