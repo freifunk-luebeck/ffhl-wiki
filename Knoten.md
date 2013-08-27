@@ -191,10 +191,10 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | APH-HL_02 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:64:48 | 53.871504846618 10.6900995969772 |
 | APH-HL_03 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:8C:C2 | 53.871501683767 10.6902712583541 |
 | APH-HL_04 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DB:6E | 53.871530149416 10.6903731822967 |
-| APH-HL_05 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:7E:AF:12 | 53.871514335169 10.690432190895 |
-| APH-HL_06 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DB:18 | 53.871492195212 10.6905341148376 |
+| APH-HL_05 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:7E:AF:12 | 53.871210700457915 10.69019615650177 |
+| APH-HL_06 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DB:18 | 53.87123284056347 10.690003037452698 |
 | APH-HL_07 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:D9:3C | 53.87145424097437 10.690625309944151 |
-| APH-HL_08 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:7E:AE:74 | 53.871346703778315 10.690555572509766 |
+| APH-HL_08 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:7E:AE:74 | 53.871289772209636 10.690657496452332 |
 | APH-HL_09 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DD:0C | 53.871375169533586 10.690539479255674 |
 | APH-HL_10 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:8C:90 | 53.8715934063471 10.69017469882965 |
 | APH-HL_11 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D0:A1:20 | 53.871058882275555 10.690866708755493 |
