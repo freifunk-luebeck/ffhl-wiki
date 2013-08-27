@@ -146,7 +146,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse107 | Fluse107 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:70 |   |
 | Fluse108 | Fluse108 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:bb:02 |   |
 | Fluse109 | Fluse109 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:6a |   |
-| Fluse110 | Fluse110 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:bc:58 |   |
+| Fluse110 | Fluse110 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:bc:58 | 53.863986074510 10.685588121414  |
 | Fluse111 | Fluse111 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ba:54 | 53.867089273816 10.701005458831  |
 | 9to5     | Andre    | Dankwartsgrube      | Uplink  | TL-WR741ND     | 0.3.2   | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
 | Dennis                     | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND           |                 0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
