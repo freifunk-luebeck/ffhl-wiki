@@ -187,28 +187,28 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Eden                       | Magu             | St. Lorenz Nord                  | Uplink                  | TL-WDR3600            |                 0.3.3 | 64:70:02:b5:cf:74 |                                       |
 | Shiva                      | Eichi - enjoy    | Taschenmacherstraße 1-5          | Uplink                  | TL-WDR3600            |                 0.3.2 | 64:70:02:D1:62:12 | 53.866912135097 10.613463521003       |
 | Kaktorius                  | Eichi - essBAR   | Königstraße 102                  | Uplink                  | TL-WR841ND            |                 0.3.2 | A0:F3:C1:89:6D:24 | 53.865017336514 10.686296224594       |
-| APH-HL_01 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:98:B8 |  |
-| APH-HL_02 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:64:48 |  |
-| APH-HL_03 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:8C:C2 |  |
-| APH-HL_04 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DB:6E |  |
-| APH-HL_05 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:7E:AF:12 |  |
-| APH-HL_06 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DB:18 |  |
-| APH-HL_07 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:D9:3C |  |
-| APH-HL_08 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:7E:AE:74 |  |
-| APH-HL_09 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DD:0C |  |
-| APH-HL_10 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:8C:90 |  |
-| APH-HL_11 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D0:A1:20 |  |
-| APH-HL_12 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:7C |  |
-| APH-HL_13 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E1:CC |  |
-| APH-HL_14 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:BE |  |
-| APH-HL_15 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:EA |  |
-| APH-HL_16 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:26 |  |
-| APH-HL_17 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:40 |  |
-| APH-HL_18 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:DF:5A |  |
-| APH-HL_19 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E0:08 |  |
-| APH-HL_20 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:06 |  |
-| APH-HL_21 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CF:14 |  |
-| APH-HL_22 | yBit | Heiligen-Geist-Hospital |  | Bullet M2 HP | 0.3.2.1 | DC:9F:DB:94:87:58 |  |
+| APH-HL_01 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:98:B8 | 53.8715902435028 10.6901425123214 |
+| APH-HL_02 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:64:48 | 53.871504846618 10.6900995969772 |
+| APH-HL_03 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:8C:C2 | 53.871501683767 10.6902712583541 |
+| APH-HL_04 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DB:6E | 53.871530149416 10.6903731822967 |
+| APH-HL_05 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:7E:AF:12 | 53.871514335169 10.690432190895 |
+| APH-HL_06 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DB:18 | 53.871492195212 10.6905341148376 |
+| APH-HL_07 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:D9:3C | 53.87145424097437 10.690625309944151 |
+| APH-HL_08 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:7E:AE:74 | 53.871346703778315 10.690555572509766 |
+| APH-HL_09 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DD:0C | 53.871403635269495 10.69094717502594 |
+| APH-HL_10 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:8C:90 | 53.871375169533586 10.691151022911072 |
+| APH-HL_11 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D0:A1:20 | 53.871058882275555 10.690866708755493 |
+| APH-HL_12 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:7C | 53.87128344647498 10.690646767616272 |
+| APH-HL_13 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E1:CC | 53.87137833239408 10.691049098968506 |
+| APH-HL_14 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:BE | 53.87093236670264 10.691349506378174 |
+| APH-HL_15 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:EA | 53.87087227167145 10.691333413124084 |
+| APH-HL_16 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:26 | 53.87079003622566 10.691306591033936 |
+| APH-HL_17 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:40 | 53.870922878019236 10.691370964050293 |
+| APH-HL_18 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:DF:5A | 53.871058882275555 10.691290497779846 |
+| APH-HL_19 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E0:08 | 53.87107469669527 10.691108107566833 |
+| APH-HL_20 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:06 | 53.87118223459069 10.690636038780212 |
+| APH-HL_21 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CF:14 | 53.87121386333085 10.69013178348541 |
+| APH-HL_22 | yBit | Heiligen-Geist-Hospital |  | Bullet M2 HP | 0.3.2.1 | DC:9F:DB:94:87:58 | 53.871296097943315 10.691108107566833 |
 | Cerberus                   |                  |                                  |                         |                       |                       | 64:70:02:94:04:54 |                                       |
 | Leviathan                  |                  | Carlebachpark                    | Mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 64:70:02:93:ff:c6 | 53.833703236943 10.698042190594       |
 | JazzCafeLuebeck01          |                  | Mühlenstraße 62                  | mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 90:f6:52:fd:3d:0a | 53.866471324141 10.671263015747       |
