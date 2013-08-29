@@ -13,9 +13,9 @@
 
     case "$1" in                        
             deconfig)
-                    batctl if add $IF
+                    batctl if add $interface
             ;;                       
             renew|bound)             
-                    batctl if del $IF
+                    batctl if del $interface
             ;;                       
     esac
