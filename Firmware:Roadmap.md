@@ -2,29 +2,43 @@
 
 ### RM01 Kein Passwort im Configmode setzen
 
+*Status: Idee*
+
 Das Passwort wird nur für den SSH-Zugriff benötigt. Den jedoch nutzen jedoch wenige. Darum sollte der Configmode auch keines mehr setzen. Stattdessen sollte der Rootzugang gesperrt (passwd -l root) werden, so dass im Normalbetrieb kein Login möglich ist. Es sollte jedoch optional einfach möglich sein ein Passwort zu setzen. Telnet im Configmode?
 
 ### RM02 Autoupdater
+
+*Status: Idee*
 
 Der Autoupdater sollte implementiert werden und unabhängig vom Mesh funktionieren, so dass sichergestellt ist, dass alle Knoten jederzeit die aktuelle Firmware verwenden.
 
 ### RM03 batman-adv auf dem WAN Port
 
+*Status: Idee*
+
 Es wäre wünschenswert auf dem WAN Port batman-adv zu sprechen. Die beste Idee ist bisher: DHCP auf dem WAN Port versuchen. Wenn es fehlschlägt, `batctl if add $WAN`. Danach jedoch weiterhin DHCP versuchen und das Interface wieder herausnehmen sobald es gelingt.
 
 ### RM04 batman-adv auf dem LAN Ports
+
+*Status: Idee*
 
 In einigen Fällen wäre es praktisch auf den LAN Ports alternativ batman-adv zu sprechen. Z.B. dann, wenn ein WDR3600 den VPN Uplink bereitstellt und Bullets an die LAN Ports angeschlossen werden.
 
 ### RM05 Nearest-Node Webinterface
 
+*Status: Idee*
+
 Es sollte möglich sein jederzeit den nächstgelegenden Knoten zu erreichen und dort eine Statusseite zu sehen. Von dort sollten auch andere Knoten in der Nachbarschaft erreicht werden können.
 
 ### RM06 fastd Key automatisch hinterlegen
 
+*Status: Idee*
+
 fastd Keys könnten durch Knoten automatisch eingetragen werden, wenn man den neuen Knoten mit einem bereits eingebundenen Knoten per Kabel verbindet und an diesem den Button drückt. So ist sichergestellt, dass man Kontakt zur Community aufnimmt.
 
 ### RM07 Configmode abschaffen
+
+*Status: Idee*
 
 Sobald RM01, RM02 und RM06 umgesetzt sind, sollte der Configmode entfernt werden, so dass neue Knoten direkt als Meshknoten verwendet werden können. Weitere Konfigurationen könnten über das Interface in RM05 vorgenommen werden.
 
