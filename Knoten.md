@@ -141,7 +141,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse102 | Fluse102 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:c2 | 53.918935379332 10.694474852564  |
 | Fluse103 | Fluse103 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:9a | 53.869335074679 10.685244798660  |
 | Fluse104 | Fluse104 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c7:22 | 53.871912852383 10.689820647239  |
-| Fluse105 | Fluse105 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c8:1e |   |
+| Fluse105 | Fluse105 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c8:1e | 53.869388845898 10.685255527496  |
 | Fluse106 | Fluse106 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:ae |   |
 | Fluse107 | Fluse107 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:70 |   |
 | Fluse108 | Fluse108 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:bb:02 |   |
