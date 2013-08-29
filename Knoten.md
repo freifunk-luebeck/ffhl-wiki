@@ -132,10 +132,10 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Hotel Stadt Luebeck 3      | Fluse093         |                                  |                         |                       |               0.3.2.1 | A0:f3:c1:05:85:02 | 53.866209899221566 10.670299530029297 |
 | Hotel Stadt Luebeck 4      | Fluse094         |                                  |                         |                       |               0.3.2.1 | A0:f3:c1:05:84:6c | 53.8661940829625 10.670379996299744   |
 | Rübe                       | Fluse095         |                                  | Uplink                  |                       |               0.3.2.1 | B0:48:7a:cb:30:48 | 53.857795 10.719049                   |
-| Fluse096                   | Fluse096         |                                  |                   |                       |               0.3.2.1 | 64:70:02:b5:da:ce | 53.87183378180927 10.68995475769043  |
+| Fluse096                   | Fluse096         |                                  |                   |                       |               0.3.2.1 | 64:70:02:b5:da:ce |   |
 | La Crona b                   | Fluse097         |                                  |                   |                       |               0.3.2.1 | 90:f6:52:e9:ba:68 | 53.918875353291 10.694415843971  |
 | Fluse098                   | Fluse098         |                                  |                   |                       |               0.3.2.1 | f8:1a:67:7f:6d:10 |   |
-| Fluse099                   | Fluse099         |                                  |                   |                       |               0.3.2.1 |  |   |
+| Fluse099                   | Fluse099         |                                  |                   |                       |               0.3.2.1 | f8:1a:67:7f:74:0e | 53.87183378180927 10.68995475769043  |
 | Fluse100 | Fluse100 |  | Bullet M2 15 dB Antenne nur Mesh  |  | 0.3.2.1 | dc:9f:db:30:94:f5 | 53.87568592639191 10.677165985107422  |
 | Fluse101 | Fluse101 |          |         | Bullet M2 HP | 0.3.2.1 | Dc:9f:db:94:8a:4e |   |
 | Fluse102 | Fluse102 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:c2 | 53.918935379332 10.694474852564  |
