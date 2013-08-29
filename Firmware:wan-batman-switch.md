@@ -9,8 +9,8 @@
     case "$1" in
       deconfig)
     		batctl if add $IF
-    	;;
+            ;;
       renew|bound)
     		batctl if del $IF
-      ;;
+            ;;
     esac
