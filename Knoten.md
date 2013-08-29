@@ -140,7 +140,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse101 | Fluse101 |          |         | Bullet M2 HP | 0.3.2.1 | Dc:9f:db:94:8a:4e |   |
 | Fluse102 | Fluse102 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:c2 | 53.918935379332 10.694474852564  |
 | Fluse103 | Fluse103 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:9a |   |
-| Fluse104 | Fluse104 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c7:22 |   |
+| Fluse104 | Fluse104 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c7:22 | 53.871912852383 10.689820647239  |
 | Fluse105 | Fluse105 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c8:1e |   |
 | Fluse106 | Fluse106 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:ae |   |
 | Fluse107 | Fluse107 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:70 |   |
