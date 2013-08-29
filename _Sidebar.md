@@ -46,6 +46,7 @@
      * [[Download|https://luebeck.freifunk.net/mitmachen.html]]
      * [[Changelog|Firmware:Changelog]]
      * [[Individuelle Firmware|Firmware:Individuell]]
+     * [[Roadmap|Firmware:Roadmap]]
    * [[Empfohlene Routermodelle|Router]]
      * [[TP-Link WR741ND|Firmware:741nd]]
      * [[TP-Link WR841ND|Firmware:841nd]]
