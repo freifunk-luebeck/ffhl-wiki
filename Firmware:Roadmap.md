@@ -18,6 +18,8 @@ Der Autoupdater sollte implementiert werden und unabhängig vom Mesh funktionier
 
 Es wäre wünschenswert auf dem WAN Port batman-adv zu sprechen. Die beste Idee ist bisher: DHCP auf dem WAN Port versuchen. Wenn es fehlschlägt, `batctl if add $WAN`. Danach jedoch weiterhin DHCP versuchen und das Interface wieder herausnehmen sobald es gelingt.
 
+[[Firmware:wan-batman-switch]]
+
 ### RM04 batman-adv auf dem LAN Ports
 
 *Status: Idee*
