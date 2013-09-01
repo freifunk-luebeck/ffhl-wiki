@@ -54,3 +54,5 @@
      * [[TP-Link WDR3600|Firmware:3600]]
    * [[fastd Schlüsselverwaltung|fastd-schlusselverwaltung]]
  * [[Probleme]]
+ * Ideensammlung
+   * [[IPv6-only Mesh]]
