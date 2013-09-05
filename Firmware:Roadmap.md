@@ -44,6 +44,22 @@ fastd Keys könnten durch Knoten automatisch eingetragen werden, wenn man den ne
 
 Sobald RM01, RM02 und RM06 umgesetzt sind, sollte der Configmode entfernt werden, so dass neue Knoten direkt als Meshknoten verwendet werden können. Weitere Konfigurationen könnten über das Interface in RM05 vorgenommen werden.
 
+### RM08 Alfred
+
+*Status: Idee*
+
+Alfred kann die Meshvisualisierung übernehmen und zusätzlich Informationen über die Knoten (z.B. Hostname, Firmwareversion, GPS Koordinaten) sammeln.
+
+### RM09 GPS Koordinaten im Configmode
+
+*Status: Idee*
+
+Wenn der Benutzer die GPS Koordinaten im Knoten direkt einträgt, könnten wir auf die Knotenliste im Wiki vollständig verzichten. 
+
+Dazu könnten wir eine kleine Karte der näheren Umgebung vorhalten oder über das Mesh laden. Dann könnte der Benutzer seinen Knoten entsprechend auf der Karte positionieren.
+
+Benötigt RM08.
+
 # Alte Roadmap
 
 ## Ideen für LFF v0.2
