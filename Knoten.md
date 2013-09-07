@@ -134,7 +134,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Rübe                       | Fluse095         |                                  | Uplink                  |                       |               0.3.2.1 | B0:48:7a:cb:30:48 | 53.857795 10.719049                   |
 | Fluse096                   | Fluse096         |                                  |                   |                       |               0.3.2.1 | 64:70:02:b5:da:ce |   |
 | La Crona b                   | Fluse097         |                                  |                   |                       |               0.3.2.1 | 90:f6:52:e9:ba:68 | 53.918875353291 10.694415843971  |
-| Fluse098                   | Fluse098         |                                  |                   |                       |               0.3.2.1 | f8:1a:67:7f:6d:10 |   |
+| Amiga1200                   | Amiga1200         |                                  |                   |                       |               0.3.2.1 | f8:1a:67:7f:6d:10 |   |
 | Fluse099                   | Fluse099         |                                  |                   |                       |               0.3.2.1 | f8:1a:67:7f:74:0e | 53.87183378180927 10.68995475769043  |
 | Fluse100 | Fluse100 |  | Bullet M2 15 dB Antenne nur Mesh  |  | 0.3.2.1 | dc:9f:db:30:94:f5 | 53.87568592639191 10.677165985107422  |
 | Fluse101 | Fluse101 |          |         | Bullet M2 HP | 0.3.2.1 | Dc:9f:db:94:8a:4e |   |
