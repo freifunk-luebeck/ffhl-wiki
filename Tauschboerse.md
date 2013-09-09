@@ -7,18 +7,12 @@ Dann trag sie hier ein und vielleicht findet sich ein neuer Verwendungszweck daf
 
 | Bezeichnung        | Anzahl | Tauschwert | Anbieter               | Kommentar   |
 |--------------------|--------|------------|------------------------|-------------|
-| 1043ND             | 1      | 30€ VHB    | jamalaka+ffhl@ccchl.de | gebraucht   |
 | WDR3600            | 1      | 50€        | jamalaka+ffhl@ccchl.de | wie neu     |
-| 1043ND             | 1      | 35€        | Eichi - se@ybit.eu     | wie neu     |
-| WDR3600            | 1      | 60€        | Eichi - se@ybit.eu     | neu         |
-| 841ND              | 1      | 25€        | Eichi - se@ybit.eu     | neu         |
-| 842ND              | 1      | 30€        | Eichi - se@ybit.eu     | neu         |
-| 741ND              | 1      | 20€        | Eichi - se@ybit.eu     | neu         |
-| 1043ND             | 2      | 45€        | Eichi - se@ybit.eu     | neu         |
+| 1043ND             | 1      | 35€        | Eichi - se@ybit.eu     | wie neu     
 
+Eichi (se@ybit.eu) bestellt oft größere Mengen an Routern, Du kannst dich bei ihm melden, wenn du neue Hardware möchtest.
 
 # Suche
 
 | Bezeichnung        | Anzahl | Tauschwert | Suchender | Kommentar                 |
 |--------------------|--------|------------|-----------|---------------------------|
-
