@@ -53,6 +53,7 @@
      * [[TP-Link WR842ND|Firmware:842nd]]
      * [[TP-Link WDR3600|Firmware:3600]]
    * [[fastd Schlüsselverwaltung|fastd-schlusselverwaltung]]
+   * [[fastd Durchsatz|fast-throughput]]
  * [[Probleme]]
  * Ideensammlung
    * [[IPv6-only Mesh]]
