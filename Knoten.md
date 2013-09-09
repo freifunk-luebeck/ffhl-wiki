@@ -70,10 +70,10 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | off                        | Fluse020         | off                              |                         | TL-WR741ND            |                 0.3.1 | f8:d1:11:7b:de:58 |                                       |
 | Thai Restaurant            | Fluse021         | König. Thai Restaurant           |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e5:2c | 53.866844 10.6886                     |
 | Prians                     | Fluse022         | Große Burgstrasse                | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e5:28 | 53.873406 10.691006                   |
-| Hanseatic 3                | Fluse023         | Hanseatic 3                      |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:f0 | 53.865119 10.670505                   |
+| Hotel Hanseatic Dach                | Fluse023         | Hanseatic 3                      |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:f0 | 53.865119 10.670505                   |
 | off                        | Fluse024         | off                              |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e3:02 |                                       |
 | Daisy                      | Fluse025         |                                  | Uplink                  | TL-WR741ND            |                 0.3.1 | f8:d1:11:7b:e2:fe | 53.840831806378 10.704683340072       |
-| Hanseatic ?                | Fluse027         |                                  |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:de | 53.865067949946 10.670728683471       |
+| Hotel Hanseatic 1                | Fluse027         |                                  |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:de | 53.865067949946 10.670728683471       |
 | Omni 7dB aussen            | Fluse029         |                                  |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:80 | 53.895625 10.652161                   |
 | AliBaba                    | Fluse030         |                                  | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:20:08 | 53.86898 10.684700                    |
 | Candys                     | Fluse031         |                                  | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:21:24 | 53.869929 10.663736                   |
@@ -102,12 +102,12 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse061                   | Fluse061         | Wiener Caféhaus                  | Uplink                  | TL-WDR3600            |               0.3.2.1 | 64:70:02:d1:5c:36 | 53.868022402901 10.68605482578        |
 | Fluse062                   | Fluse062         | Wiener Caféhaus                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:d1:78:6c | 53.867804147454 10.686054825782       |
 | Fluse063                   | Fluse063         | Wiener Caféhaus                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:d1:5c:5a | 53.867725069113 10.685968995094       |
-| Hanseatic Dach             | Fluse064         |                                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:b5:d1:fa | 53.865157 10.6709                     |
+| Hotel Hanseatic 2          | Fluse064         |                                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:b5:d1:fa | 53.865157 10.6709                     |
 | ZOB L                      | Fluse065         |                                  | Uplink                  | TL-WDR3600            |               0.3.2.1 | 64:70:02:b5:d1:f6 | 53.866355408524 10.671227574348       |
 | ZOB LU                     | Fluse067         |                                  |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:d2:10 | 53.866390204152 10.671066641807       |
 | Fluse068                   | Fluse068         | Wiener Cafehaus                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:b5:d2:20 | 53.867851594387 10.686044096946       |
 | Fluse069                   | Fluse069         |                                  |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:d1:3e | 53.887553234556826 10.649115443229675 |
-| Hanseatic                  | Fluse071         |                                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:b5:d2:d4 | 53.865151 10.670697                   |
+|Hotel Hanseatic EG                  | Fluse071         |                                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:b5:d2:d4 | 53.865151 10.670697                   |
 | Café Czudaj                | Fluse072         | Café Czudaj                      |                         | TL-WD842nd            |               0.3.2.1 | 64:70:02:39:72:3c | 53.86450803545 10.6857651472091       |
 | Café Czudaj                | Fluse073         | Café Czudaj                      | Uplink                  | TL-WD842nd            |               0.3.2.1 | 64:70:02:39:78:be | 53.864416297332 10.68577587604        |
 | Abessa                     | Fluse074         | Abessa Caferösterei              | Uplink                  | TL-WD842nd            |                 0.3.2 | 64:70:02:39:79:46 | 53.866124491351 10.68827569484        |
@@ -139,7 +139,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse100 | Fluse100 |  | Bullet M2 15 dB Antenne nur Mesh  |  | 0.3.2.1 | dc:9f:db:30:94:f5 | 53.87568592639191 10.677165985107422  |
 | Fluse101 | Fluse101 |          |         | Bullet M2 HP | 0.3.2.1 | Dc:9f:db:94:8a:4e |   |
 | Fluse102 | Fluse102 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:c2 | 53.918935379332 10.694474852564  |
-| Fluse103 | Fluse103 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:9a | 53.869335074679 10.685244798660  |
+| Hotel Hanseatic Dach2  | Fluse103 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:9a | 53.869335074679 10.685244798660  |
 | Fluse104 | Fluse104 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c7:22 | 53.871912852383 10.689820647239  |
 | Fluse105 | Fluse105 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c8:1e | 53.869388845898 10.685255527496  |
 | Fluse106 | Fluse106 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:ae | 53.871688291562 10.689681172370  |
