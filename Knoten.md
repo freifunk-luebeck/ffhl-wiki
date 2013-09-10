@@ -212,7 +212,8 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | APH-HL_23 | yBit | Heiligen-Geist-Hospital |  | WR842N       | 0.3.2.1 | F8:1A:67:7F:74:36 | 53.870818502359796 10.691274404525757 |
 | APH-HL_24 | yBit | Heiligen-Geist-Hospital |  | WR842N       | 0.3.2.1 | 64:66:B3:9A:04:0C | 53.870818502359796 10.691274404525757 |
 | APH-HL_25 | yBit | Heiligen-Geist-Hospital |  | WR842N       | 0.3.2.1 | 64:66:B3:99:F4:B0 | 53.870818502359796 10.691274404525757 |
-| hairLeanders | Eichi | HairLounge Leanders | mit Internetanbindung | WDR3600 | 0.3.2.1 | F8:1A:67:D8:DA:9C | 53.779513563780185 10.65144896507263 |
+| Hansolu | yBit | Hansolu   | mit Internetanbindung | WDR3600 | 0.3.2.1 | 64:70:02:D1:8C:84 | 53.87382631468652 10.688254237174988 |
+| hairLeanders | yBit | HairLounge Leanders | mit Internetanbindung | WDR3600 | 0.3.2.1 | F8:1A:67:D8:DA:9C | 53.779513563780185 10.65144896507263 |
 | Cerberus                   |                  |                                  |                         |                       |                       | 64:70:02:94:04:54 |                                       |
 | Leviathan                  |                  | Carlebachpark                    | Mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 64:70:02:93:ff:c6 | 53.833703236943 10.698042190594       |
 | JazzCafeLuebeck01          |                  | Mühlenstraße 62                  | mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 90:f6:52:fd:3d:0a | 53.866471324141 10.671263015747       |
