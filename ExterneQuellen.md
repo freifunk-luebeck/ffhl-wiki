@@ -1,7 +1,7 @@
 # Externe Quellen
 
 ## Videos
- * Bericht bei Nano, 3sat über Freifunk: [[http://www.ddmesh.de/videos/63-freifunk-video.html]]
+# (The requested URL /videos/63-freifunk-video.html] was not found on this server.) * Bericht bei Nano, 3sat über Freifunk: [[http://www.ddmesh.de/videos/63-freifunk-video.html]]
 
  * Bericht vom Funkfeuer in Österreich: [[http://xaok.org/funkfeuer/Wir_sind_das_Netz.torrent]] (~30min.)
 
