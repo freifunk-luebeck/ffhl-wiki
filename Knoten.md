@@ -139,7 +139,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse100 | Fluse100 |  | Bullet M2 15 dB Antenne nur Mesh  |  | 0.3.2.1 | dc:9f:db:30:94:f5 | 53.87568592639191 10.677165985107422  |
 | Fluse101 | Fluse101 |          |         | Bullet M2 HP | 0.3.2.1 | Dc:9f:db:94:8a:4e |   |
 | Fluse102 | Fluse102 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:c2 | 53.918935379332 10.694474852564  |
-| Hotel Hanseatic Dach2  | Fluse103 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:9a | 53.869335074679 10.685244798660  |
+| Hotel Hanseatic Dach2 | Fluse103 |  |    | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:9a | 53.865093256639 10.670648217201  |
 | Fluse104 | Fluse104 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c7:22 | 53.871912852383 10.689820647239  |
 | Fluse105 | Fluse105 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c8:1e | 53.869388845898 10.685255527496  |
 | Fluse106 | Fluse106 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:ae | 53.871688291562 10.689681172370  |
