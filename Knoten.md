@@ -51,7 +51,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Enki                       | magu             | St. Lorenz Nord                  | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:58:29:0e |                                       |
 | mkm                        | mkm              | Mölln                            | mit Internetanbindung   | TL-WR741ND            |                0.3pre | b0:48:7a:db:3b:18 |                                       |
 | Fluse001  | Fluse001         |            |        | TL-WR741ND | 0.3pre  | f8:d1:11:7e:57:98 |       |
-| Genußdepot| Fluse002         |            |        | TL-WR741ND | 0.3.1   | f8:d1:11:7e:57:76 | 53.86734436 10.688042915 |
+| Fluse002  | Fluse002         |            |        | TL-WR741ND | 0.3.1   | f8:d1:11:7e:57:76 |                          |
 | ZOB RU    | Fluse003/Abdi    | ZOB RU SW  | Uplink | TL-WR741ND | 0.3.2   | f8:d1:11:7e:2a:f2 | 53.866414 10.671173      |
 | Fluse004  | Fluse004         |            |        | TL-WR741ND | 0.3.2   | f8:d1:11:7e:57:e2 |                          |
 | Fluse005  | Fluse005         | BS ZOB     |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:d4 |                          |
@@ -86,7 +86,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Alt Görtz                  | Fluse040         | König. Görtz                     |                         | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:1f:fc | 53.867306 10.689003                   |
 | Fluse041                   | Fluse041         |                                  |                         | TL-WR741ND            |                 0.3.2 | b0:48:7a:cb:20:20 |                                       |
 | König Mall 1               | Fluse042         | König. Mall 1                    |                         | TL-WR741ND            |                 0.3.2 | b0:48:7a:cb:1f:c0 | 53.86735 10.688445                    |
-| e-zig                      | Fluse045         |                                  | Uplink                  | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:2d:4e | 53.867227329623 10.68833795833        |
+| Fluse045                   | Fluse045         |                                  |                        | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:2d:4e |                                       |
 | figura                     | Fluse046         |                                  | Uplink                  | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:2b:7c | 53.867189371517 10.688949501978       |
 | Cafe am Theater            | Fluse047         | Beckergrube                      | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:2b:fc | 53.869368743803 10.686186826712       |
 | Manni                      | Fluse050         | Albert Schweizer Str.            | Uplink                  | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:2d:06 | 53.868106682832 10.727546489708       |
@@ -141,9 +141,9 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse102 | Fluse102 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:c2 | 53.918935379332 10.694474852564  |
 | Hotel Hanseatic Dach2 | Fluse103 |  |    | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:9a | 53.865093256639 10.670648217201  |
 | Fluse104 | Fluse104 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c7:22 | 53.871912852383 10.689820647239  |
-| Fluse105 | Fluse105 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c8:1e | 53.869388845898 10.685255527496  |
+| Fluse105 | Fluse105 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c8:1e | 53.867227329623 10.68833795833   |
 | Fluse106 | Fluse106 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:ae | 53.871688291562 10.689681172370  |
-| Fluse107 | Fluse107 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:70 |   |
+| Fluse107 | Fluse107 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:70 | 53.86734436     10.688042915     |
 | Fluse108 | Fluse108 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:bb:02 |   |
 | Fluse109 | Fluse109 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:6a |   |
 | Fluse110 | Fluse110 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:bc:58 | 53.863986074510 10.685588121414  |
