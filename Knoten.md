@@ -18,7 +18,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 
 | Knotenname                 | Betreiber        | Ort                              | Hinweise                | Router                |           LFF Version | MAC               | GPS                                   |
 |----------------------------|------------------|----------------------------------|-------------------------|-----------------------|-----------------------|-------------------|---------------------------------------|
-| Meute-AP                   | Meta-Meute       | Meute-Keller                     |                         | TL-WR1043ND           |                0.3pre | b0:48:7a:e7:d3:64 | 53.834384 10.702304                   |
+| Meute-AP                   | Meta-Meute       | Meute-Keller                     |                         | TL-WR1043ND           |                0.3pre | 90:f6:52:ff:cd:6e | 53.834384 10.702304                   |
 | kmr1                       | Karstadt         | Karstadt-Dach                    |                         | DIR-300               |                custom | 00:24:01:b7:6a:d9 | 53.868039 10.686392                   |
 | kmr2                       | Karstadt         | Karstadt-Dach                    |                         | DIR-300               |                custom | 02:24:01:b7:69:c2 | 53.867906 10.686322                   |
 | kmr3                       | Karstadt         | Karstadt-Dach                    |                         | DIR-300               |                custom | 00:24:01:b7:6a:b3 | 53.867789 10.6863                     |
