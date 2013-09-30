@@ -149,7 +149,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse110 | Fluse110 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:bc:58 | 53.863986074510 10.685588121414  |
 | Fluse111 | Fluse111 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ba:54 | 53.867089273816 10.701005458831  |
 | Fluse112 | Fluse112 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:9a:00:ee | 53.862306265100 10.690389275550  |
-| Fluse113 | Fluse113 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:4b:04 |   |
+| Fluse113 | Fluse113 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:4b:04 | 53.873310795442 10.686119198799  |
 | Fluse114 | Fluse114 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:4a:56 | 53.873215913907 10.686269402503  |
 | Fluse115 | Fluse115 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:49:e6 |   |
 | 9to5     | Andre    | Dankwartsgrube      | Uplink  | TL-WR741ND     | 0.3.2   | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
