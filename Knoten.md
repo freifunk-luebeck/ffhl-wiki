@@ -50,8 +50,8 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Rapture                    |                  |                                  | mit Internetanbindung   | TL-WR1043ND           |                 0.3.2 | b0:48:7a:de:20:fa | 53.84598 10.70838                     |
 | Enki                       | magu             | St. Lorenz Nord                  | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:58:29:0e |                                       |
 | mkm                        | mkm              | Mölln                            | mit Internetanbindung   | TL-WR741ND            |                0.3pre | b0:48:7a:db:3b:18 |                                       |
-| Fluse001  | Fluse001         |            |        | TL-WR741ND | 0.3pre  | f8:d1:11:7e:57:98 |       |
-| Fluse002  | Fluse002         |            |        | TL-WR741ND | 0.3.1   | f8:d1:11:7e:57:76 |                          |
+| Fluse001  | Fluse001         |            |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:98 |       |
+| Fluse002  | Fluse002         |            |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:76 | 53.863682385 10.690834522 |
 | ZOB RU    | Fluse003/Abdi    | ZOB RU SW  | Uplink | TL-WR741ND | 0.3.2   | f8:d1:11:7e:2a:f2 | 53.866414 10.671173      |
 | Fluse004  | Fluse004         |            |        | TL-WR741ND | 0.3.2   | f8:d1:11:7e:57:e2 |                          |
 | Fluse005  | Fluse005         | BS ZOB     |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:d4 |                          |
