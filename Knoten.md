@@ -210,10 +210,11 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | APH-HL_20 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:06 | 53.87119172321527 10.690823793411255 |
 | APH-HL_21 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CF:14 | 53.8710968368728 10.69096326828003 |
 | APH-HL_22 | yBit | Heiligen-Geist-Hospital |  | Bullet M2 HP | 0.3.2.1 | DC:9F:DB:94:87:58 | 53.871296097943315 10.691108107566833 |
-| APH-HL_23 | yBit | Heiligen-Geist-Hospital |  | WR842N       | 0.3.2.1 | F8:1A:67:7F:74:36 | 53.870818502359796 10.691274404525757 |
-| APH-HL_24 | yBit | Heiligen-Geist-Hospital |  | WR842N       | 0.3.2.1 | 64:66:B3:9A:04:0C | 53.870818502359796 10.691274404525757 |
-| APH-HL_25 | yBit | Heiligen-Geist-Hospital |  | WR842N       | 0.3.2.1 | 64:66:B3:99:F4:B0 | 53.870818502359796 10.691274404525757 |
-| Hansolu | yBit | Hansolu   | mit Internetanbindung | WDR3600 | 0.3.2.1 | 64:70:02:D1:8C:84 | 53.873750410411425 10.68796992301941 |
+| APH-HL_23 | yBit | Heiligen-Geist-Hospital |  | WR841N       | 0.3.2.1 | F8:1A:67:7F:74:36 | 53.870818502359796 10.691274404525757 |
+| APH-HL_24 | yBit | Heiligen-Geist-Hospital |  | WR841N       | 0.3.2.1 | 64:66:B3:9A:04:0C | 53.870818502359796 10.691274404525757 |
+| APH-HL_25 | yBit | Heiligen-Geist-Hospital |  | WR841N       | 0.3.2.1 | 64:66:B3:99:F4:B0 | 53.870818502359796 10.691274404525757 |
+| Hansolu  | yBit | Hansolu   | mit Internetanbindung | WDR3600 | 0.3.2.1 | 64:70:02:D1:8C:84 | 53.873750410411425 10.68796992301941 |
+| Hansolu2 | yBit | Hansolu   | Mesh                  | WR841N  | 0.3.2.1 | F8:1A:67:7F:74:8E | 53.87368715674364 10.688098669052124 |
 | hairLeanders | yBit | HairLounge Leanders | mit Internetanbindung | WDR3600 | 0.3.2.1 | F8:1A:67:D8:DA:9C | 53.779513563780185 10.65144896507263 |
 | Cerberus                   |                  |                                  |                         |                       |                       | 64:70:02:94:04:54 |                                       |
 | Leviathan                  |                  | Carlebachpark                    | Mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 64:70:02:93:ff:c6 | 53.833703236943 10.698042190594       |
