@@ -50,8 +50,8 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Rapture                    |                  |                                  | mit Internetanbindung   | TL-WR1043ND           |                 0.3.2 | b0:48:7a:de:20:fa | 53.84598 10.70838                     |
 | Enki                       | magu             | St. Lorenz Nord                  | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:58:29:0e |                                       |
 | mkm                        | mkm              | Mölln                            | mit Internetanbindung   | TL-WR741ND            |                0.3pre | b0:48:7a:db:3b:18 |                                       |
-| Fluse001  | Fluse001         |            |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:98 |       |
-| Fluse002  | Fluse002         |            |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:76 | 53.863682385 10.690834522 |
+| Fluse001  | Fluse001  |   |                        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:98 | 53.872883826 10.689284205 |
+| Fluse002  | Fluse002  |                   |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:76 | 53.863682385 10.690834522 |
 | ZOB RU    | Fluse003/Abdi    | ZOB RU SW  | Uplink | TL-WR741ND | 0.3.2   | f8:d1:11:7e:2a:f2 | 53.866414 10.671173      |
 | Fluse004  | Fluse004         |            |        | TL-WR741ND | 0.3.2   | f8:d1:11:7e:57:e2 |                          |
 | Fluse005  | Fluse005         | BS ZOB     |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:d4 |                          |
@@ -86,10 +86,10 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Alt Görtz                  | Fluse040         | König. Görtz                     |                         | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:1f:fc | 53.867306 10.689003                   |
 | Fluse041                   | Fluse041         |                                  |                         | TL-WR741ND            |                 0.3.2 | b0:48:7a:cb:20:20 |                                       |
 | König Mall 1               | Fluse042         | König. Mall 1                    |                         | TL-WR741ND            |                 0.3.2 | b0:48:7a:cb:1f:c0 | 53.86735 10.688445                    |
-| Fluse045                   | Fluse045         |                                  |                        | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:2d:4e |                                       |
-| figura                     | Fluse046         |                                  | Uplink                  | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:2b:7c | 53.867189371517 10.688949501978       |
-| Cafe am Theater            | Fluse047         | Beckergrube                      | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:2b:fc | 53.869368743803 10.686186826712       |
-| Manni                      | Fluse050         | Albert Schweizer Str.            | Uplink                  | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:2d:06 | 53.868106682832 10.727546489708       |
+| Fluse045 | Fluse045 |             |         | TL-WR741ND | 0.3.1 | b0:48:7a:cb:2d:4e | 53.8728015953 10.68932712078    |
+| figura   | Fluse046 |             | Uplink  | TL-WR741ND | 0.3.1 | b0:48:7a:cb:2b:7c | 53.867189371517 10.688949501978 |
+| Cafe am Theater | Fluse047 | Beckergrube | Uplink | TL-WR741ND | 0.3.2.1 | b0:48:7a:cb:2b:fc | 53.86936874 10.68618682 |
+| Manni | Fluse050 | Albert Schweizer Str. | Uplink | TL-WR741ND | 0.3.1   | B0:48:7a:cb:2d:06 | 53.86810668 10.72754648 |
 | Manni´s ?                  | Fluse051         | Albert Schweizer Str.            |                         | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:2c:32 | 53.868577983236 10.72743383693        |
 | Geruda Spezial             | Fluse052         | Spezial Geruda im Test           |                         | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:25:b8 | 53.866857236597 10.671617067338       |
 | Sonnenstudio               | Fluse053         | Bad Schwartau                    |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:91:51:fe | 53.918951175644 10.69473234464        |
