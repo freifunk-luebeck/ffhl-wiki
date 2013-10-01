@@ -219,6 +219,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Hansolu  | yBit | Hansolu   | mit Internetanbindung | WDR3600 | 0.3.2.1 | 64:70:02:D1:8C:84 | 53.873750410411425 10.68796992301941 |
 | Hansolu2 | yBit | Hansolu   | Mesh                  | WR841N  | 0.3.2.1 | F8:1A:67:7F:74:8E | 53.87368715674364 10.688098669052124 |
 | hairLeanders | yBit | HairLounge Leanders | mit Internetanbindung | WDR3600 | 0.3.2.1 | F8:1A:67:D8:DA:9C | 53.779513563780185 10.65144896507263 |
+| Fizon    | yBit | Fizon    | mit Internetanbindung | WDR3600 | 0.3.2.1 | F8:1A:67:D8:D5:BE | 53.84215911633189 10.638579726219177 |
 | Cerberus                   |                  |                                  |                         |                       |                       | 64:70:02:94:04:54 |                                       |
 | Leviathan                  |                  | Carlebachpark                    | Mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 64:70:02:93:ff:c6 | 53.833703236943 10.698042190594       |
 | JazzCafeLuebeck01          |                  | Mühlenstraße 62                  | mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 90:f6:52:fd:3d:0a | 53.866471324141 10.671263015747       |
