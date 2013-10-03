@@ -250,6 +250,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Alfred                    | Fluse             |                                  | mit Internetanbindung   | Intel Atom - x86-64   |                custom | 38:60:77:2f:e2:93 |     |
 | kurauerstrasse01        | sfof / Dirk         | Kurauer Straße           | mit Internetanbindung   | TL-WR841ND            |               0.3.2.1 | a0:f3:c1:05:81:1e |  53.88560562074451 10.656416416168213|
 | unaone                  | unaone Markus Hagge | Dr.-Julius-Leber-Straße1         | mit Internetanbindung   | TL-WDR3600            |               0.3.2.1 | a0:f3:c1:99:2e:9c |  53.8682428 10.6867561                 |
+| Fritz                      | nbsp             | Große Burgstraße                 |                         | Intel Celeron - x86-64|                custom | 00:0a:cd:19:07:9c | 53.87389 10.69090                     |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
