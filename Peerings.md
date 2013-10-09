@@ -17,11 +17,11 @@ Es kann daher vorkommen, dass man auf Webseiten nicht die gewohnte deutsche Seit
 Dieser Zugang ist nicht sonderlich schnell, aber ausreichend für kleinere Downloads und dem allgemeinen Surfen im Web.
 Nur der Port 25 (SMTP) wird gesperrt. Nutzen Sie zum Versenden von E-Mails bitte SSL.
 
-## Dn42
+## dn42
 
-Das Dn42 ist ein privates Netzwerk ähnlich dem Freifunk, unterscheidet sich aber von diesem dahingehend grundlegend, dass es in erster Linie nur zwischen Servern aufgespannt wird. Es soll allerdings nicht - wie beim Freifunk - ein leichter Zugang für die Allgemeinheit gewährleistet werden, sondern es wird zum Beitreten ein gewisser Kenntnisstand mit Netzwerken erwartet. Zur Nutzung ist dies aber nicht notwendig.
+Das dn42 ist ein privates Netzwerk ähnlich dem Freifunk, unterscheidet sich aber von diesem dahingehend grundlegend, dass es in erster Linie nur zwischen Servern aufgespannt wird. Es soll allerdings nicht - wie beim Freifunk - ein leichter Zugang für die Allgemeinheit gewährleistet werden, sondern es wird zum Beitreten ein gewisser Kenntnisstand mit Netzwerken erwartet. Zur Nutzung ist dies aber nicht notwendig.
 
-[[Dn42 in der englischen Wikipedia|http://en.wikipedia.org/wiki/Dn42]]
+[[dn42 in der englischen Wikipedia|http://en.wikipedia.org/wiki/Dn42]]
 
 ## IC-VPN
 
