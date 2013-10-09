@@ -79,6 +79,7 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.31  | innana [node] {magu}          | innana.ffhl    |
 |  10.130.0.32  | opz [x21] {magu}              | opz.ffhl       |
 |  10.130.0.33  | me {magu}                     | me.ffhl        |
+|  10.130.0.34  | alfred                        |                |
 |  10.130.0.35  | Silber1                       |                |
 |  10.130.0.36  | nutch                         | nutch.ffhl     |
 |  10.130.0.37  | bo                            |                |
