@@ -5,7 +5,7 @@ Aus unserem Netzwerk kann man Knoten (Rechner) in anderen Netzwerken ebenfalls e
 ## Aktuelle Peerings
 
 * Internet
-* DN42
+* dn42
 * IC-VPN
 * Chaos-VPN
 * Freifunk Kiel (IPv6 only)
