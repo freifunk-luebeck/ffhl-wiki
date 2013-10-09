@@ -40,4 +40,4 @@ Dieses Netzwerk soll eine Möglichkeit zur unabhängigen Vernetzung für Compute
 | 10.11.0.0/16              | .ffa  | [[Freifunk Augsburg|http://augsburg.freifunk.net]] |
 | 10.130.0.0/16             | .ffhl | [[Freifunk Lübeck|http://luebeck.freifunk.net]]    |
 | fda1:384a:74de:4242::1/48 | .ffki | [[Freifunk Kiel|http://kiel.freifunk.net]]         |
-| 172.22.0.0/15             | .dn42 | [[Dn42|https://dn42.net]]                          |
+| 172.22.0.0/15             | .dn42 | [[dn42|https://dn42.net]]                          |
