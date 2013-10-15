@@ -75,7 +75,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Hotel Hanseatic 1                | Fluse027         |                                  |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:de | 53.865067949946 10.670728683471       |
 | Omni 7dB aussen            | Fluse029         |                                  |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:80 | 53.895625 10.652161                   |
 | AliBaba                    | Fluse030         |                                  | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:20:08 | 53.86898 10.684700                    |
-| Candys                     | Fluse031         |                                  | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:21:24 | 53.869929 10.663736                   |
+| Fluse031                     | Fluse031         |                                  | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:21:24 |                    |
 | Pauline                    | Pauline          | Strese                           |                         | TL-WR741ND            |                   0.3 | b0:48:7a:cb:1f:98 | 53.855360 10.692420                   |
 | BlauDirekt NO              | Fluse033         |                                  |                         | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:1f:b8 | 53.86886061975462 10.6715011596       |
 | BlauDirekt SW              | Fluse035         |                                  | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:1f:fa | 53.86875 10.6712898                   |
@@ -161,7 +161,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse123 | Fluse123 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:48 |   |
 | Fluse124 | Fluse124 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f0 |   |
 | Fluse125 | Fluse125 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:42 |   |
-| Fluse126 | Fluse126 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f4 |   |
+| Candys   | Fluse126 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f4 | 53.869929 10.663736  |
 | Fluse127 | Fluse127 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:32 |   |
 | Fluse128 | Fluse128 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:20 | 53.89544709685 10.652521848678   |
 | 9to5     | Andre    | Dankwartsgrube      | Uplink  | TL-WR741ND     | 0.3.2   | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
