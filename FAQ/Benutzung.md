@@ -49,7 +49,7 @@ Um die Firmware zu aktualisieren wählt man auf der Ersten Seite im Configmode d
 ### Failsafemode
 Der Failsafemode dient nur zur Rettung eines zerschossenen Freifunkrouters und ermöglicht ein neues Passwort zu vergeben, falls man das root Passwort nicht mehr hat.
 
-In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf so lange gedrückt hält, bis die Sys-Lampe schnell blinkt, dann loslassen.
+In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf im richtigen Moment drücken, so dass die Sys-Lampe schnell blinkt. (siehe http://wiki.openwrt.org/de/doc/howto/generic.failsafe )
 Danach muss der eigene Computer mit einem Netzwerkkabel am blauen WAN-Port angeschlossen werden.
 
 Beim TL-WR842ND ist das Verfahren etwas anders:
