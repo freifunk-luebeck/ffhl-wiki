@@ -264,6 +264,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | unaone                  | unaone Markus Hagge | Dr.-Julius-Leber-Straße1         | mit Internetanbindung   | TL-WDR3600            |               0.3.2.1 | a0:f3:c1:99:2e:9c |  53.8682428 10.6867561                 |
 | Fritz                      | nbsp             | Große Burgstraße                 |                         | Intel Celeron - x86-64|                custom | 00:0a:cd:19:07:9c | 53.87389 10.69090                     |
 | Lilien-Freifunk            | ahaspharos       | Lilienstraße                     | mit Internetanbindung   | TL-WR841N                |               0.3.2.1 | 64:66:b3:ab:4a:84  | 53.855349048223204 10.670278072357176|
+| el                        | el               | Marlesgrube | mit Internetanbindung   | TL-WR841N                |               0.3.2.1 | 64:66:b3:ab:49:68 | 53.86413791836431 10.684563517570496 |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
