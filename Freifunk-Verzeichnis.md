@@ -18,7 +18,31 @@ Wir haben einige Dienste aufgesetzt, die die Struktur des Netzes überwachen und
 
 ## Statistiken
 
+### Knoten
+
  * Knotenstatistiken<br>
    <http://map.ffhl/rrd/globalGraph.png>
  * Knoten Highscores<br>
    <http://krtek.ffhl/nodegame>
+
+### Gateways
+
+_Allgemein:_
+
+ * Muehlentor<br>
+   <http://muehlentor.ffhl/vnstat/>
+ * Burgtor<br>
+   <http://burgtor.ffhl/vnstat/>
+ * Holstentor<br>
+   <http://holstentor.ffhl/vnstat/>
+
+_Verfügbare Bandbreite:_
+
+ * Muehlentor<br>
+   <http://muehlentor.ffhl/rrd/monitor-bw.png>
+ * Burgtor<br>
+   <http://burgtor.ffhl/rrd/monitor-bw.png>
+ * Holstentor<br>
+   <http://holstentor.ffhl/rrd/monitor-bw.png>
+
+(Code: <https://github.com/MetaMeute/ff-monitor-bw>)
