@@ -61,11 +61,11 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Psycho    | Fluse012         |            | Uplink | TL-WR1043ND| 0.3.1   | 56:e6:fc:b0:43:80 | 53.87643 10.65837        |
 | Fluse014  | Fluse014         | Reserve    |        | TL-WR741ND | 0.3.2.1 | b0:48:7a:bb:50:54 | 53.868967 10.671359      |
 | Mob. Kn.  | Fluse015         | Mobiler Knoten|     | TL-WR1043ND| 0.3.1   | 54:e6:fc:af:43:ba |                          |
-| Fluse016                   | Fluse016         | Testweise in der Hüxstrasse      |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:55:9b:e4 | 53.8662668377 10.68842053413391       |
-| ZOB R                      | Fluse017         | ZOB R                            |                         | TL-WR741ND            |                 0.3.2 | b0:48:7a:cb:2c:b8 | 53.866346 10.671321                   |
-| Fluse3600                  | Fluse018         |                                  | Uplink                  | TL-WDR3600            |               0.3.2.1 | 64:70:02:91:53:5a | 53.895523 10.65213                    |
-| Fluse841nd                 | Fluse019         | Königpassage                     |                         | TL-WR841ND            |                 0.3.2 | 90:f6:52:b1:95:1c | 53.867461403867 10.687881982804       |
-| off                        | Fluse020         | off                              |                         | TL-WR741ND            |                 0.3.1 | f8:d1:11:7b:de:58 |                                       |
+| Fluse016  | Fluse016         | Hüxstrasse |        | TL-WR741ND | 0.3.2   | f8:d1:11:55:9b:e4 | 53.8662668 10.688420534  |
+| ZOB R     | Fluse017         | ZOB R      |        | TL-WR741ND |   0.3.2 | b0:48:7a:cb:2c:b8 | 53.866346 10.671321      |
+| Fluse3600 | Fluse018         |            | Uplink | TL-WDR3600 | 0.3.2.1 | 64:70:02:91:53:5a | 53.871662988 10.69738984 |
+| Fluse841nd| Fluse019         | Königpassage |      | TL-WR841ND |   0.3.2 | 90:f6:52:b1:95:1c | 53.867461403 10.68788198 |
+| off       | Fluse020         | off          |      | TL-WR741ND |  0.3.1  | f8:d1:11:7b:de:58 |                          |
 | Thai Restaurant            | Fluse021         | König. Thai Restaurant           |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e5:2c | 53.866844 10.6886                     |
 | Prians                     | Fluse022         | Große Burgstrasse                | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e5:28 | 53.873406 10.691006                   |
 | Hotel Hanseatic Dach                | Fluse023         | Hanseatic 3                      |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:f0 | 53.865119 10.670505                   |
