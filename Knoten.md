@@ -153,8 +153,8 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse116 | Fluse116 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:1c |   |
 | Fluse117 | Fluse117 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:cc |   |
 | Fluse118 | Fluse118 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:26 |   |
-| Hotel Baltic 3 | Fluse119 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f8 |   |
-| Hotel Baltic 2 | Fluse120 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4a |   |
+| Hotel Baltic 3 | Fluse119 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f8 | 53.8654095890 10.67142605781 |
+| Hotel Baltic 2 | Fluse120 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4a | 53.8654696918 10.67141532897 |
 | Hotel Baltic 1 | Fluse121 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4c | 53.8654380588 10.67134559154 |
 | Fluse122 | Fluse122 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:1a |   |
 | Fluse123 | Fluse123 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:48 |   |
