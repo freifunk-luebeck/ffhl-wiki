@@ -159,7 +159,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse122 | Fluse122 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:1a |   |
 | Fluse123 | Fluse123 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:48 |   |
 | Fluse124 | Fluse124 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f0 |   |
-| Fluse125 | Fluse125 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:42 |   |
+| Auto Adam | Fluse125 |         |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:42 | 53.86326480867 10.612095594406128  |
 | Hotel Baltic 0| Fluse126 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f4 | 53.86540642569 10.67127585411 |
 | Candys | Fluse127 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:32 | 53.869929 10.663736  |
 | Fluse128 | Fluse128 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:20 | 53.89544709685 10.652521848678   |
