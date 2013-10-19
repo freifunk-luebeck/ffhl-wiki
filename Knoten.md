@@ -156,9 +156,9 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Hotel Baltic 3 | Fluse119 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f8 | 53.8654095890 10.67142605781 |
 | Hotel Baltic 2 | Fluse120 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4a | 53.8654696918 10.67141532897 |
 | Hotel Baltic 1 | Fluse121 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4c | 53.8654380588 10.67134559154 |
-| Fluse122 | Fluse122 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:1a |   |
-| Fluse123 | Fluse123 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:48 |   |
-| Fluse124 | Fluse124 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f0 |   |
+| Hotel Trave 0 | Fluse122 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:1a | 53.8418046270 10.65284371376  |
+| Hotel Trave 1 | Fluse123 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:48 | 53.8418172874 10.65300464630  |
+| Hotel Trave 2 | Fluse124 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f0 | 53.84188058928 10.65312266349 |
 | Auto Adam | Fluse125 |         |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:42 | 53.86326480867 10.612095594406128  |
 | Hotel Baltic 0| Fluse126 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f4 | 53.86540642569 10.67127585411 |
 | Candys | Fluse127 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:32 | 53.869929 10.663736  |
