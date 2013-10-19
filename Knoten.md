@@ -66,8 +66,8 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse3600 | Fluse018         |            | Uplink | TL-WDR3600 | 0.3.2.1 | 64:70:02:91:53:5a | 53.871662988 10.69738984 |
 | Fluse841nd| Fluse019         | Königpassage |      | TL-WR841ND |   0.3.2 | 90:f6:52:b1:95:1c | 53.867461403 10.68788198 |
 | off       | Fluse020         | off          |      | TL-WR741ND |  0.3.1  | f8:d1:11:7b:de:58 |                          |
-| Thai Restaurant            | Fluse021         | König. Thai Restaurant           |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e5:2c | 53.866844 10.6886                     |
-| Prians                     | Fluse022         | Große Burgstrasse                | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e5:28 | 53.873406 10.691006                   |
+| Thai Restaurant | Fluse021   | König. Thai Restaurant | | TL-WR741ND | 0.3.2 | f8:d1:11:7b:e5:2c | 53.866844 10.6886     |
+| Prians    | Fluse022         | Große Burgstrasse | Uplink | TL-WR741ND | 0.3.2 | f8:d1:11:7b:e5:28 | 53.873406 10.691006 |
 | Hotel Hanseatic Dach                | Fluse023         | Hanseatic 3                      |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:f0 | 53.865119 10.670505                   |
 | off                        | Fluse024         | off                              |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e3:02 |                                       |
 | Daisy                      | Fluse025         |                                  | Uplink                  | TL-WR741ND            |                 0.3.1 | f8:d1:11:7b:e2:fe | 53.840831806378 10.704683340072       |
@@ -165,8 +165,8 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse128 | Fluse128 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:20 | 53.89544709685 10.652521848678   |
 | 9to5     | Andre    | Dankwartsgrube      | Uplink  | TL-WR741ND     | 0.3.2   | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
 | Dennis                     | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND           |                 0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
-| Garuda-ZOB                 | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND            |                0.3pre | f8:d1:11:55:9f:9a | 53.866705 10.671694                   |
-| Garuda-HBF                 | MHintz           | Lübeck ZOB                       | Uplink                  | TL-WR1043ND           |                0.3pre | 54:e6:fc:98:67:e1 | 53.866808 10.67171                    |
+| Garuda-ZOB                 | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND            |                0.3pre | f8:d1:11:55:9f:9a |  |
+| Garuda-HBF                 | MHintz           | Lübeck ZOB                       | Uplink                  | TL-WR1043ND           |                0.3pre | 54:e6:fc:98:67:e1 |  |
 | Peter                      | Peter            |                                  | Uplink                  | TL-WR741ND            |                   0.3 | f8:d1:11:58:18:2e |                                       |
 | Castor                     |                  | Koberg                           |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:58:00:3a | 53.87164921 10.6898507                |
 | Frank002                   | DerDerwish       | wechselnd                        | mit USB-Stromversorgung | TL-WR741ND            |                   0.3 | f8:d1:11:38:05:f6 |                                       |
