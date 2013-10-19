@@ -153,17 +153,17 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse116 | Fluse116 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:1c |   |
 | Fluse117 | Fluse117 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:cc |   |
 | Fluse118 | Fluse118 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:26 |   |
-| Hotel Baltic 3 | Fluse119 |    |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f8 |   |
-| Hotel Baltic 2 | Fluse120 |    |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4a |   |
-| Hotel Baltic 1 | Fluse121 |    |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4c |   |
+| Fluse119 | Fluse119 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f8 |   |
+| Fluse120 | Fluse120 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4a |   |
+| Fluse121 | Fluse121 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4c |   |
 | Fluse122 | Fluse122 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:1a |   |
 | Fluse123 | Fluse123 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:48 |   |
 | Fluse124 | Fluse124 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f0 |   |
 | Fluse125 | Fluse125 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:42 |   |
-| Hotel Baltic 0 | Fluse126 |    |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f4 |   |
-| Candys   | Fluse127 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:32 | 53.869929 10.663736  |
+| Candys   | Fluse126 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f4 |   |
+| Fluse127 | Fluse127 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:32 | 53.869929 10.663736  |
 | Fluse128 | Fluse128 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:20 | 53.89544709685 10.652521848678   |
-| 9to5     | Andre    | Dankwartsgrube     | Uplink  | TL-WR741ND     | 0.3.2   | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
+| 9to5     | Andre    | Dankwartsgrube      | Uplink  | TL-WR741ND     | 0.3.2   | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
 | Dennis                     | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND           |                 0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
 | Garuda-ZOB                 | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND            |                0.3pre | f8:d1:11:55:9f:9a | 53.866705 10.671694                   |
 | Garuda-HBF                 | MHintz           | Lübeck ZOB                       | Uplink                  | TL-WR1043ND           |                0.3pre | 54:e6:fc:98:67:e1 | 53.866808 10.67171                    |
@@ -264,6 +264,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fritz                      | nbsp             | Große Burgstraße                 |                         | Intel Celeron - x86-64|                custom | 00:0a:cd:19:07:9c | 53.87389 10.69090                     |
 | Lilien-Freifunk            | ahaspharos       | Lilienstraße                     | mit Internetanbindung   | TL-WR841N                |               0.3.2.1 | 64:66:b3:ab:4a:84  | 53.855349048223204 10.670278072357176|
 | el                        | el               | Marlesgrube | mit Internetanbindung   | TL-WR841N                |               0.3.2.1 | 64:66:b3:ab:49:68 | 53.86413791836431 10.684563517570496 |
+| Karpfen                  | Die Rochen       | Karpfenstraße| mit Internetanbindung   | TL-WR841ND               |         0.3.2.1 | F8:1A:67:3E:42:5C |53.51811 010.40291|
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
