@@ -50,7 +50,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | mkm                        | mkm              | Mölln                            | mit Internetanbindung   | TL-WR741ND            |                0.3pre | b0:48:7a:db:3b:18 |                                       |
 | Fluse001  | Fluse001  |   |                        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:98 | 53.872883826 10.689284205 |
 | Fluse002  | Fluse002  |                   |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:76 | 53.863682385 10.690834522 |
-| ZOB RU    | Fluse003/Abdi    | ZOB RU SW  | Uplink | TL-WR741ND | 0.3.2   | f8:d1:11:7e:2a:f2 | 53.866414 10.671173      |
+| ZOB RU    | Fluse003/Abdi    | ZOB RU SW  | Uplink | TL-WR741ND | 0.3.2   | f8:d1:11:7e:2a:f2 |       |
 | Fluse004  | Fluse004         |            |        | TL-WR741ND | 0.3.2   | f8:d1:11:7e:57:e2 |                          |
 | Fluse005  | Fluse005         | BS ZOB     |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:d4 |                          |
 | randomweb2| berik            | Mobilknoten|        | TL-WR741ND | 0.3.2   | f8:d1:11:7e:2c:76 |                          |
@@ -62,7 +62,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse014  | Fluse014         | Reserve    |        | TL-WR741ND | 0.3.2.1 | b0:48:7a:bb:50:54 | 53.868967 10.671359      |
 | Mob. Kn.  | Fluse015         | Mobiler Knoten|     | TL-WR1043ND| 0.3.1   | 54:e6:fc:af:43:ba |                          |
 | Fluse016  | Fluse016         | Hüxstrasse |        | TL-WR741ND | 0.3.2   | f8:d1:11:55:9b:e4 | 53.8662668 10.688420534  |
-| ZOB R     | Fluse017         | ZOB R      |        | TL-WR741ND |   0.3.2 | b0:48:7a:cb:2c:b8 | 53.866346 10.671321      |
+| ZOB R     | Fluse017         | ZOB R      |        | TL-WR741ND |   0.3.2 | b0:48:7a:cb:2c:b8 |       |
 | Fluse3600 | Fluse018         |            | Uplink | TL-WDR3600 | 0.3.2.1 | 64:70:02:91:53:5a | 53.871662988 10.69738984 |
 | Fluse841nd| Fluse019         | Königpassage |      | TL-WR841ND |   0.3.2 | 90:f6:52:b1:95:1c | 53.867461403 10.68788198 |
 | off       | Fluse020         | off          |      | TL-WR741ND |  0.3.1  | f8:d1:11:7b:de:58 |                          |
