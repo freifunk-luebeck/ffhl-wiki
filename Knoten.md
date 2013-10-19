@@ -68,13 +68,13 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | off       | Fluse020         | off          |      | TL-WR741ND |  0.3.1  | f8:d1:11:7b:de:58 |                          |
 | Thai Restaurant | Fluse021   | König. Thai Restaurant | | TL-WR741ND | 0.3.2 | f8:d1:11:7b:e5:2c | 53.866844 10.6886     |
 | Prians    | Fluse022         | Große Burgstrasse | Uplink | TL-WR741ND | 0.3.2 | f8:d1:11:7b:e5:28 | 53.873406 10.691006 |
-| Hotel Hanseatic Dach                | Fluse023         | Hanseatic 3                      |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:f0 | 53.865119 10.670505                   |
-| off                        | Fluse024         | off                              |                         | TL-WR741ND            |                 0.3.2 | f8:d1:11:7b:e3:02 |                                       |
-| Daisy                      | Fluse025         |                                  | Uplink                  | TL-WR741ND            |                 0.3.1 | f8:d1:11:7b:e2:fe | 53.840831806378 10.704683340072       |
-| Hotel Hanseatic 1                | Fluse027         |                                  |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:de | 53.865067949946 10.670728683471       |
-| Omni 7dB aussen            | Fluse029         |                                  |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:7b:e4:80 | 53.895625 10.652161                   |
-| AliBaba                    | Fluse030         |                                  | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:20:08 | 53.86898 10.684700                    |
-| Fluse031                     | Fluse031         |                                  | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:21:24 |                    |
+| Hotel Hanseatic Dach | Fluse023 | Hanseatic 3 |    | TL-WR741ND |  0.3.2.1 | f8:d1:11:7b:e4:f0 | 53.865119 10.670505     |
+| off       | Fluse024         | off          |       | TL-WR741ND |0.3.2    | f8:d1:11:7b:e3:02 |                    |
+| Daisy     | Fluse025         |            | Uplink | TL-WR741ND  | 0.3.2.1 | f8:d1:11:7b:e2:fe | 53.840831806 10.704683340 |
+| Hotel Hanseatic 1 | Fluse027 | |                   | TL-WR741ND  | 0.3.2.1 | f8:d1:11:7b:e4:de | 53.8650679499 10.6707286 |
+| Omni 7dB aussen | Fluse029   | |                   | TL-WR741ND  | 0.3.2.1 | f8:d1:11:7b:e4:80 | 53.895625 10.652161     |
+| AliBaba   | Fluse030         || Uplink             | TL-WR741ND  | 0.3.2.1 | b0:48:7a:cb:20:08 | 53.86898 10.684700      |
+| Fluse031  | Fluse031         || Uplink             | TL-WR741ND  | 0.3.2.1 | b0:48:7a:cb:21:24 |                    |
 | Pauline                    | Pauline          | Strese                           |                         | TL-WR741ND            |                   0.3 | b0:48:7a:cb:1f:98 | 53.855360 10.692420                   |
 | BlauDirekt NO              | Fluse033         |                                  |                         | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:1f:b8 | 53.86886061975462 10.6715011596       |
 | BlauDirekt SW              | Fluse035         |                                  | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:1f:fa | 53.86875 10.6712898                   |
@@ -89,7 +89,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Cafe am Theater | Fluse047 | Beckergrube | Uplink | TL-WR741ND | 0.3.2.1 | b0:48:7a:cb:2b:fc | 53.86936874 10.68618682 |
 | Manni | Fluse050 | Albert Schweizer Str. | Uplink | TL-WR741ND | 0.3.1   | B0:48:7a:cb:2d:06 | 53.86810668 10.72754648 |
 | Manni´s ?                  | Fluse051         | Albert Schweizer Str.            |                         | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:2c:32 | 53.868577983236 10.72743383693        |
-| Geruda Spezial             | Fluse052         | Spezial Geruda im Test           |                         | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:25:b8 | 53.866857236597 10.671617067338       |
+| Geruda Spezial             | Fluse052         | Spezial Geruda im Test           |                         | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:25:b8 |        |
 | Sonnenstudio               | Fluse053         | Bad Schwartau                    |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:91:51:fe | 53.918951175644 10.69473234464        |
 | St. Jürgen                 | Fluse055         | HL Sankt Jürgen                  | Uplink                  | TL-WR741ND            |                 0.3.1 | f8:d1:11:87:4f:d6 | 53.854306931024 10.684792078026       |
 | Verschwunden               | Fluse056         | Ehemals Hansediner               | Uplink                  | TL-WR842ND            |                 0.3.2 | 64:70:02:62:5f:c8 |                                       |
@@ -233,7 +233,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | FIZON    | yBit | FIZON    | mit Internetanbindung | WDR3600 | 0.3.2.1 | F8:1A:67:D8:D5:BE | 53.84215911633189 10.638579726219177 |
 | Cerberus                   |                  |                                  |                         |                       |                       | 64:70:02:94:04:54 |                                       |
 | Leviathan                  |                  | Carlebachpark                    | Mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 64:70:02:93:ff:c6 | 53.833703236943 10.698042190594       |
-| JazzCafeLuebeck01          |                  | Mühlenstraße 62                  | mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 90:f6:52:fd:3d:0a | 53.866471324141 10.671263015747       |
+| JazzCafeLuebeck01          |                  | Mühlenstraße 62                  | mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 90:f6:52:fd:3d:0a |   |
 | Tombery                    |                  |                                  |                         |                       |                       | 64:70:02:94:03:b0 |                                       |
 | Donald                     | Tyme             | Stadtweide                       |  mit Internetanbindung  | TL-WR741ND            |               0.3.2.1 | f8:d1:11:58:28:e8 | 53.84066 10.70455                     |
 | roceHA                     | geoigeek         | 23611 Sereetz                    | mit Internetanbindung   | TL-WR842N             |                 0.3.2 | 64:70:02:62:6C:70 | 53.919678 10.743222                   |
