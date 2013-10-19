@@ -153,15 +153,15 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse116 | Fluse116 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:1c |   |
 | Fluse117 | Fluse117 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:cc |   |
 | Fluse118 | Fluse118 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:26 |   |
-| Fluse119 | Fluse119 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f8 |   |
-| Fluse120 | Fluse120 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4a |   |
-| Fluse121 | Fluse121 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4c |   |
+| Hotel Baltic 3 | Fluse119 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f8 |   |
+| Hotel Baltic 2 | Fluse120 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4a |   |
+| Hotel Baltic 1 | Fluse121 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4c |   |
 | Fluse122 | Fluse122 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:1a |   |
 | Fluse123 | Fluse123 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:48 |   |
 | Fluse124 | Fluse124 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f0 |   |
 | Fluse125 | Fluse125 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:42 |   |
-| Candys   | Fluse126 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f4 |   |
-| Fluse127 | Fluse127 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:32 | 53.869929 10.663736  |
+| Hotel Baltic 0| Fluse126 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f4 |   |
+| Candys | Fluse127 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:32 | 53.869929 10.663736  |
 | Fluse128 | Fluse128 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:20 | 53.89544709685 10.652521848678   |
 | 9to5     | Andre    | Dankwartsgrube      | Uplink  | TL-WR741ND     | 0.3.2   | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
 | Dennis                     | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND           |                 0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
