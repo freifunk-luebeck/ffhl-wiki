@@ -90,7 +90,8 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.65  | johnyb                        |                |
 |  10.130.0.66  | muehlentor-monitor            |                |
 |  10.130.0.67  | holstentor-monitor            |                |
-|  10.130.0.68  | burgtor-monitor               |                |
+|  10.130.0.68  | Fluse100Cam                   |                |
+|  10.130.0.69  | burgtor-monitor               |                |
 |  10.130.0.100 | zafer                         |                |
 |  10.130.0.101 | zafer-g1                      | zafer-g1.ffhl  |
 |  10.130.0.102 | zafer-g2                      |                |
