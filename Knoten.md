@@ -55,7 +55,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse005  | Fluse005         | BS ZOB     |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:d4 |                          |
 | randomweb2| berik            | Mobilknoten|        | TL-WR741ND | 0.3.2   | f8:d1:11:7e:2c:76 |                          |
 | Fluse008  | Fluse008         |            |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:58:0c |                          |
-| Reserve   | Fluse009         |            |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:7a |                          |
+| Reserve   | Fluse009         |            |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:7a | 53.89382545 10.6517010927|
 | Reserve   | Fluse010         | ehemals HanseDiner 2|| TL-WR741ND| 0.3.2   | f8:d1:11:7e:2a:d8 |                          |
 | Kinder    | Fluse011         | Stodo      | Uplink | TL-WR741ND | 0.3.2.1 | f8:d1:11:55:9f:86 | 53.902516 10.669674      |
 | Psycho    | Fluse012         |            | Uplink | TL-WR1043ND| 0.3.1   | 56:e6:fc:b0:43:80 | 53.87643 10.65837        |
