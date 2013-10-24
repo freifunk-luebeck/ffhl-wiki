@@ -16,258 +16,258 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau diese ist für die richtige Zuordnung wichtig.
 
 
-| Knotenname                 | Betreiber        | Ort                              | Hinweise                | Router                |           LFF Version | MAC               | GPS                                   |
-|----------------------------|------------------|----------------------------------|-------------------------|-----------------------|-----------------------|-------------------|---------------------------------------|
-| Meute-AP                   | Meta-Meute       | Meute-Keller                     |                         | TL-WR1043ND           |                0.3pre | 90:f6:52:ff:cd:6e | 53.834384 10.702304                   |
-| kmr1                       | Karstadt         | Karstadt-Dach                    |                         | DIR-300               |                custom | 00:24:01:b7:6a:d9 |                                       |
-| kmr2                       | Karstadt         | Karstadt-Dach                    |                         | DIR-300               |                custom | 02:24:01:b7:69:c2 |                                       |
-| kmr3                       | Karstadt         | Karstadt-Dach                    |                         | DIR-300               |                custom | 00:24:01:b7:6a:b3 |                                       |
-| kmr4                       | Karstadt         | Karstadt-Innen                   |                         | DIR-300               |                custom | 00:24:01:b7:61:19 |                                       |
-| kmr5                       | Karstadt         | Karstadt-Innen                   |                         | DIR-300               |                custom | 00:24:01:b7:61:49 |                                       |
-| kmr6                       | Karstadt         | Karstadt-Innen                   |                         | DIR-300               |                custom | 00:24:01:b7:6a:fd |                                       |
-| Groeni                     | Groeni           | 23560 Lübeck                     |                         | TL-WR1043ND           |                0.3pre | 54:e6:fc:b0:1a:7e | 53.838783 10.639233                   |
-| Mr.Pupswindel              | Kai              | Poggenpohl                       | mit Internetanbindung   | TL-WR1043ND           |                0.3pre | 56:e6:fc:98:58:aa |                                       |
-| techem                     | Infoladen Kollektiv             | Walli                   | nur mesh   | TL-WR1043ND           |                 0.3.2 | b0:48:7a:99:d8:ce | 53.8699170653715 10.67718207836151           |
-| Fluse070                   | Alex             | St. Lorenz Süd                   |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:d2:dc | 53.8598228074 10.65690457820          |
-| Birke                      | 7jM              | Röntgenstraße                    | mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | f8:d1:11:24:9d:a2 | 53.846658 10.68926                    |
-| StrahlenKiste              | 7jM              | Röntgenstraße                    |                         | TL-WDR3600            |                 0.3.1 | 66:70:02:b6:d1:ee | 53.846642 10.689338                   |
-| confusion                  | NeoRaider        | Ratzeburger Allee                | Uplink                  | TL-WDR3600            |               0.3.2.1 | 64:70:02:91:51:92 | 53.846141 10.707231                   |
-| sweetmorn                  | NeoRaider        | Ratzeburger Allee                |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:30:1b:e2 | 53.846169 10.707274                   |
-| boomtime                   | NeoRaider        | Ratzeburger Allee                |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:37:fc:38 | 53.846064 10.707203                   |
-| avalon                     | NeoRaider        | Mobil                            |                         | TL-WR741ND            |         Arch Linux ;) | 02:21:cc:bc:7d:5f |                                       |  
-| Rübe 2                     | Groeni           | Rübenkoppel, Brandenbaum         | Verteiler / Richtfunk   | TL-WR1043ND           |                0.3.2.1 | 56:e6:fc:98:58:f3 | 53.856126 10.721051                  |
-| mizu-ffrouter                    | Mizu             | 23556 Lübeck                     | mit Internetanbindung   | TL-WR1043ND           |                0.3.2.1 | fa:d1:11:25:95:58 | 53.867605 10.656458                   |
-| kyubey                     | jix & Laeila     | Bürgerweide                      | Internetanbindung       | TL-WR1043ND           |                0.3pre | 92:f6:52:3f:b9:26 | 53.842003 10.704269                   |
-| Yangshuo                   | Kaspar           | St. Jürgen                       | Internetanbindung       | TL-WR1043ND           |                 0.3.2 | b0:48:7a:a0:16:de |                                       |
-| Birne                      | Pascal           | Hüxstraße      | mit Internetanbindung   | TL-WDR3600            |              0.3.2 | 64:70:02:91:51:b4 | 53.86566581647423 10.690035223960876                   |
-| Rapture                    |                  |                                  | mit Internetanbindung   | TL-WR1043ND           |                 0.3.2 | b0:48:7a:de:20:fa | 53.84598 10.70838                     |
-| Enki                       | magu             | St. Lorenz Nord                  | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:58:29:0e |                                       |
-| mkm                        | mkm              | Mölln                            | mit Internetanbindung   | TL-WR741ND            |                0.3pre | b0:48:7a:db:3b:18 |                                       |
-| Fluse001  | Fluse001  |   |                        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:98 | 53.872883826 10.689284205 |
-| Fluse002  | Fluse002  |                   |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:76 | 53.863682385 10.690834522 |
-| ZOB RU    | Fluse003/Abdi    | ZOB RU SW  | Uplink | TL-WR741ND | 0.3.2   | f8:d1:11:7e:2a:f2 |       |
-| Fluse004  | Fluse004         |            |        | TL-WR741ND | 0.3.2   | f8:d1:11:7e:57:e2 |                          |
-| Fluse005  | Fluse005         | BS ZOB     |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:d4 |                          |
-| randomweb2| berik            | Mobilknoten|        | TL-WR741ND | 0.3.2   | f8:d1:11:7e:2c:76 |                          |
-| Fluse008  | Fluse008         |            |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:58:0c |                          |
-| Fluse009  | Fluse009         |            |        | TL-WR741ND | 0.3.2.1 | f8:d1:11:7e:57:7a | 53.89382545 10.6517010927|
-| Reserve   | Fluse010         | ehemals HanseDiner 2|| TL-WR741ND| 0.3.2   | f8:d1:11:7e:2a:d8 |                          |
-| Kinder    | Fluse011         | Stodo      | Uplink | TL-WR741ND | 0.3.2.1 | f8:d1:11:55:9f:86 | 53.902516 10.669674      |
-| Psycho    | Fluse012         |            | Uplink | TL-WR1043ND| 0.3.1   | 56:e6:fc:b0:43:80 | 53.87643 10.65837        |
-| Fluse014  | Fluse014         | Reserve    |        | TL-WR741ND | 0.3.2.1 | b0:48:7a:bb:50:54 | 53.868967 10.671359      |
-| Mob. Kn.  | Fluse015         | Mobiler Knoten|     | TL-WR1043ND| 0.3.1   | 54:e6:fc:af:43:ba |                          |
-| Fluse016  | Fluse016         | Hüxstrasse |        | TL-WR741ND | 0.3.2   | f8:d1:11:55:9b:e4 | 53.8662668 10.688420534  |
-| ZOB R     | Fluse017         | ZOB R      |        | TL-WR741ND |   0.3.2 | b0:48:7a:cb:2c:b8 |       |
-| Fluse3600 | Fluse018         |            | Uplink | TL-WDR3600 | 0.3.2.1 | 64:70:02:91:53:5a | 53.871662988 10.69738984 |
-| Fluse841nd| Fluse019         | Königpassage |      | TL-WR841ND |   0.3.2 | 90:f6:52:b1:95:1c | 53.867461403 10.68788198 |
-| off       | Fluse020         | off          |      | TL-WR741ND |  0.3.1  | f8:d1:11:7b:de:58 |                          |
-| Thai Restaurant | Fluse021   | König. Thai Restaurant | | TL-WR741ND | 0.3.2 | f8:d1:11:7b:e5:2c | 53.866844 10.6886     |
-| Prians    | Fluse022         | Große Burgstrasse | Uplink | TL-WR741ND | 0.3.2 | f8:d1:11:7b:e5:28 | 53.873406 10.691006 |
-| Hotel Hanseatic Dach | Fluse023 | Hanseatic 3 |    | TL-WR741ND |  0.3.2.1 | f8:d1:11:7b:e4:f0 | 53.865119 10.670505     |
-| off       | Fluse024         | off          |       | TL-WR741ND |0.3.2    | f8:d1:11:7b:e3:02 |                    |
-| Daisy     | Fluse025         |            | Uplink | TL-WR741ND  | 0.3.2.1 | f8:d1:11:7b:e2:fe | 53.840831806 10.704683340 |
-| Hotel Hanseatic 1 | Fluse027 | |                   | TL-WR741ND  | 0.3.2.1 | f8:d1:11:7b:e4:de | 53.8650679499 10.6707286 |
-| Omni 7dB aussen | Fluse029   | |                   | TL-WR741ND  | 0.3.2.1 | f8:d1:11:7b:e4:80 | 53.895625 10.652161     |
-| AliBaba   | Fluse030         || Uplink             | TL-WR741ND  | 0.3.2.1 | b0:48:7a:cb:20:08 | 53.86898 10.684700      |
-| Fluse031  | Fluse031         || Uplink             | TL-WR741ND  | 0.3.2.1 | b0:48:7a:cb:21:24 |                    |
-| Pauline                    | Pauline          | Strese                           |                         | TL-WR741ND            |                   0.3 | b0:48:7a:cb:1f:98 | 53.855360 10.692420                   |
-| BlauDirekt NO              | Fluse033         |                                  |                         | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:1f:b8 | 53.86886061975462 10.6715011596       |
-| BlauDirekt SW              | Fluse035         |                                  | Uplink                  | TL-WR741ND            |               0.3.2.1 | b0:48:7a:cb:1f:fa | 53.86875 10.6712898                   |
-| König Mall 3               | Fluse037         | König Mall 3                     |                         | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:1f:d0 | 53.867167 10.688595                   |
-| König Mall 2               | Fluse038         | König. Mall mitte                |                         | TL-WR741ND            |                 0.3.2 | b0:48:7a:cb:12:9c | 53.867249 10.688965                   |
-| Werkstatt                  | Fluse039         | König. Werkstatt                 |                         | TL-WR741ND            |                 0.3.2 | b0:48:7a:cb:20:2e | 53.867587 10.689464                   |
-| Alt Görtz                  | Fluse040         | König. Görtz                     |                         | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:1f:fc | 53.867306 10.689003                   |
-| Fluse041                   | Fluse041         |                                  |                         | TL-WR741ND            |                 0.3.2 | b0:48:7a:cb:20:20 |                                       |
-| König Mall 1               | Fluse042         | König. Mall 1                    |                         | TL-WR741ND            |                 0.3.2 | b0:48:7a:cb:1f:c0 | 53.86735 10.688445                    |
-| Fluse045 | Fluse045 |             |         | TL-WR741ND | 0.3.1 | b0:48:7a:cb:2d:4e | 53.8728015953 10.68932712078    |
-| figura   | Fluse046 |             | Uplink  | TL-WR741ND | 0.3.1 | b0:48:7a:cb:2b:7c | 53.867189371517 10.688949501978 |
-| Cafe am Theater | Fluse047 | Beckergrube | Uplink | TL-WR741ND | 0.3.2.1 | b0:48:7a:cb:2b:fc | 53.86936874 10.68618682 |
-| Manni | Fluse050 | Albert Schweizer Str. | Uplink | TL-WR741ND | 0.3.1   | B0:48:7a:cb:2d:06 | 53.86810668 10.72754648 |
-| Manni´s ?                  | Fluse051         | Albert Schweizer Str.            |                         | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:2c:32 | 53.868577983236 10.72743383693        |
-| Geruda Spezial             | Fluse052         | Spezial Geruda im Test           |                         | TL-WR741ND            |                 0.3.1 | B0:48:7a:cb:25:b8 |        |
-| Sonnenstudio               | Fluse053         | Bad Schwartau                    |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:91:51:fe | 53.918951175644 10.69473234464        |
-| St. Jürgen                 | Fluse055         | HL Sankt Jürgen                  | Uplink                  | TL-WR741ND            |                 0.3.1 | f8:d1:11:87:4f:d6 | 53.854306931024 10.684792078026       |
-| Verschwunden               | Fluse056         | Ehemals Hansediner               | Uplink                  | TL-WR842ND            |                 0.3.2 | 64:70:02:62:5f:c8 |                                       |
-| Brauberger 2               | Fluse057         | Brauberger                       | Uplink                  | TL-WDR3600            |               0.3.2.1 | 64:70:02:aa:cd:cc | 53.868356567601 10.680967247975       |
-| Brauberger 1               | Fluse058         | Brauberger                       | Uplink                  | TL-WDR3600            |               0.3.2.1 | 64:70:02:b5:db:4a | 53.868280653399 10.680940425885       |
-| Brauberger 3               | Fluse059         | Brauberger                       |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:db:24 | 53.868407176993 10.68098334123        |
-| Spencer                    | Fluse060         | Hansestrasse                     | Uplink                  | TL-WR741ND            |                 0.3.2 | f8:d1:11:94:a5:e0 | 53.864770595158 10.66998302936        |
-| Fluse061                   | Fluse061         | Wiener Caféhaus                  | Uplink                  | TL-WDR3600            |               0.3.2.1 | 64:70:02:d1:5c:36 | 53.868022402901 10.68605482578        |
-| Fluse062                   | Fluse062         | Wiener Caféhaus                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:d1:78:6c | 53.867804147454 10.686054825782       |
-| Fluse063                   | Fluse063         | Wiener Caféhaus                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:d1:5c:5a | 53.867725069113 10.685968995094       |
-| Hotel Hanseatic 2          | Fluse064         |                                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:b5:d1:fa | 53.865157 10.6709                     |
-| ZOB L                      | Fluse065         |                                  | Uplink                  | TL-WDR3600            |               0.3.2.1 | 64:70:02:b5:d1:f6 | 53.866355408524 10.671227574348       |
-| ZOB LU                     | Fluse067         |                                  |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:d2:10 | 53.866390204152 10.671066641807       |
-| Fluse068                   | Fluse068         | Wiener Cafehaus                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:b5:d2:20 | 53.867851594387 10.686044096946       |
-| Fluse069                   | Fluse069         |                                  |                         | TL-WDR3600            |                 0.3.2 | 64:70:02:b5:d1:3e | 53.887553234556826 10.649115443229675 |
-|Hotel Hanseatic EG                  | Fluse071         |                                  |                         | TL-WDR3600            |               0.3.2.1 | 64:70:02:b5:d2:d4 | 53.865151 10.670697                   |
-| Café Czudaj                | Fluse072         | Café Czudaj                      |                         | TL-WD842nd            |               0.3.2.1 | 64:70:02:39:72:3c | 53.86450803545 10.6857651472091       |
-| Café Czudaj                | Fluse073         | Café Czudaj                      | Uplink                  | TL-WD842nd            |               0.3.2.1 | 64:70:02:39:78:be | 53.864416297332 10.68577587604        |
-| Abessa                     | Fluse074         | Abessa Caferösterei              | Uplink                  | TL-WD842nd            |                 0.3.2 | 64:70:02:39:79:46 | 53.866124491351 10.68827569484        |
-| Fluse075                   | Fluse075         | Contigo Königstrasse             |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:6e:80 | 53.86457446637557 10.686360597610474  |
-| Fluse076                   | Fluse076         |                                  |                         | TL-WD842nd            |                 0.3.2 | 64:70:02:39:78:ee | 53.86576704170721 10.674360394477844  |
-| Eis                        | Fluse077         |                                  |                         | TL-WD842nd            |               0.3.2.1 | 64:70:02:39:78:58 | 53.86703 10.688718                    |
-| Fluse078                   | Majo             |                                  | Uplink                  | TL-WD842nd            |               0.3.2.1 | 64:70:02:39:77:ae | 53.89908845623992 10.64600944519043   |
-| Fenris                     | Fluse079         | Friedenstrasse                   | Uplink                  | TL-WD842nd            |               0.3.2.1 | 64:70:02:39:79:7c | 53.875012301091 10.671962499618       |
-| Fluse080                     | Fluse080         |                                  | Uplink                  | TL-WD841n            |               0.3.2.1 | 64:70:02:39:74:88 |        |
-| BulletM2 #1                | Fluse082         | Friedenstrasse                   |                         | Bullet M2 HP          |                 0.3.2 | dc:9f:db:0c:19:8e | 53.875043926935 10.672026872634       |
-| Fluse083                   | Fluse083         |                                  | Uplink                  |                       |               0.3.2.1 | 64:70:02:f7:0d:f4 | 53.89371797220992 10.651717185974121  |
-| Hotel Stadt Luebeck 0      | Fluse084         |                                  | Uplink                  | Hotel                 |               0.3.2.1 | 64:70:02:b3:dd:10 | 53.86632377611033 10.670304894447327  |
-| Fluse085                   | Fluse085         |                                  |  Uplink                 |                       |               0.3.2.1 | 64:70:02:4c:3c:2e | 53.91937563725815 10.698226690292357  |
-| Fluse086                   | Fluse086         |                                  |  Uplink                 |                       |               0.3.2.1 | f8:1a:67:31:38:b6 | 53.8996858364636 10.656126737594604   |
-| Fluse087                   | Fluse087         |                                  |  Uplink                 |                       |               0.3.2.1 | f8:1a:67:31:39:96 | 53.89933815589085 10.656416416168213  |
-| Cafe Art #1                | Fluse088         |                                  |                         |                       |               0.3.2.1 | F8:1a:67:31:3a:1e | 53.86319837567089 10.68593144416809   |
-| Cafe Art #2                | Fluse089         |                                  |                         |                       |               0.3.2.1 | A0:f3:c1:d7:24:42 | 53.8632521547782 10.685743689537048   |
-| Cafe Art #3                | bullet02         |                                  |                         |                       |               0.3.2.1 | dc:9f:db:02:f9:3d | 53.863150923459976 10.685818791389465                                      |
-| Gingko                     | Fluse090         |                                  | Uplink                  |                       |               0.3.2.1 | f8:1a:67:31:3a:6c |  53.861949 10.667331                  |
-| Hotel Stadt Luebeck 1      | Fluse091         |                                  |                         |                       |               0.3.2.1 | F8:1a:67:31:3a:4a | 53.866288980427214 10.670294165611267 |
-| Hotel Stadt Luebeck 2      | Fluse092         |                                  |                         |                       |               0.3.2.1 | A0:f3:c1:05:84:84 | 53.86623204197421 10.670299530029297  |
-| Hotel Stadt Luebeck 3      | Fluse093         |                                  |                         |                       |               0.3.2.1 | A0:f3:c1:05:85:02 | 53.866209899221566 10.670299530029297 |
-| Hotel Stadt Luebeck 4      | Fluse094         |                                  |                         |                       |               0.3.2.1 | A0:f3:c1:05:84:6c | 53.8661940829625 10.670379996299744   |
-| Rübe                       | Fluse095         |                                  | Uplink                  |                       |               0.3.2.1 | B0:48:7a:cb:30:48 | 53.857795 10.719049                   |
-| Fluse096                   | Fluse096         |                                  |                   |                       |               0.3.2.1 | 64:70:02:b5:da:ce |   |
-| La Crona b                   | Fluse097         |                                  |                   |                       |               0.3.2.1 | 90:f6:52:e9:ba:68 | 53.918875353291 10.694415843971  |
-| Amiga1200                   | Amiga1200         |                                  |                   |                       |               0.3.2.1 | f8:1a:67:7f:6d:10 |   |
-| Fluse099                   | Fluse099         |                                  |                   |                       |               0.3.2.1 | f8:1a:67:7f:74:0e | 53.87183378180927 10.68995475769043  |
-| Fluse100 | Fluse100 |  | Bullet M2 15 dB Antenne nur Mesh  |  | 0.3.2.1 | dc:9f:db:30:94:f5 | 53.87568592639191 10.677165985107422  |
-| Fluse101 | Fluse101 |          |         | Bullet M2 HP | 0.3.2.1 | Dc:9f:db:94:8a:4e | 53.862195540830 10.689707994461  |
-| Fluse102 | Fluse102 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:c2 | 53.918935379332 10.694474852564  |
-| Hotel Hanseatic Dach2 | Fluse103 |  |    | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:9a | 53.865093256639 10.670648217201  |
-| Fluse104 | Fluse104 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c7:22 | 53.871912852383 10.689820647239  |
-| Fluse105 | Fluse105 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:c8:1e | 53.867227329623 10.68833795833   |
-| Fluse106 | Fluse106 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:ae | 53.871688291562 10.689681172370  |
-| Genußdepot | Fluse107 |        |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:70 | 53.867317022491 10.688061118125  |
-| Dagobert | Fluse108 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:bb:02 | 53.865545611191 10.713955163955  |
-| Fluse109 | Fluse109 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ca:6a |   |
-| Fluse110 | Fluse110 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:bc:58 | 53.863986074510 10.685588121414  |
-| Fluse111 | Fluse111 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:8e:ba:54 | 53.867089273816 10.701005458831  |
-| Fluse112 | Fluse112 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:9a:00:ee | 53.862306265100 10.690389275550  |
-| Fluse113 | Fluse113 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:4b:04 | 53.873310795442 10.686119198799  |
-| Fluse114 | Fluse114 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:4a:56 | 53.873215913907 10.686269402503  |
-| Fluse115 | Fluse115 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:49:e6 |   |
-| Fluse116 | Fluse116 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:1c |   |
-| Fluse117 | Fluse117 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:cc |   |
-| Fluse118 | Fluse118 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:26 |   |
-| Hotel Baltic 3 | Fluse119 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f8 | 53.8654095890 10.67142605781 |
-| Hotel Baltic 2 | Fluse120 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4a | 53.8654696918 10.67141532897 |
-| Hotel Baltic 1 | Fluse121 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:4c | 53.8654380588 10.67134559154 |
-| Hotel Trave 0 | Fluse122 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:1a | 53.8418046270 10.65284371376  |
-| Hotel Trave 1 | Fluse123 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:48 | 53.8418172874 10.65300464630  |
-| Hotel Trave 2 | Fluse124 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f0 | 53.84188058928 10.65312266349 |
-| Auto Adam | Fluse125 |         |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:42 | 53.86326480867 10.612095594406128  |
-| Hotel Baltic 0| Fluse126 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:46:f4 | 53.86540642569 10.67127585411 |
-| Candys | Fluse127 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:32 | 53.869929 10.663736  |
-| Fluse128 | Fluse128 |          |         | TL-W841n     | 0.3.2.1 | 64:66:b3:ab:47:20 | 53.8781589553399 10.66962361335754 |
-| 9to5     | Andre    | Dankwartsgrube      | Uplink  | TL-WR741ND     | 0.3.2   | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
-| Dennis                     | Fluse            | Rehsprung, Lübeck                | Uplink                  | TL-WR1043ND           |                 0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
-| Garuda-ZOB                 | MHintz           | Lübeck ZOB                       |                         | TL-WR741ND            |                0.3pre | f8:d1:11:55:9f:9a |  |
-| Garuda-HBF                 | MHintz           | Lübeck ZOB                       | Uplink                  | TL-WR1043ND           |                0.3pre | 54:e6:fc:98:67:e1 |  |
-| Peter                      | Peter            |                                  | Uplink                  | TL-WR741ND            |                   0.3 | f8:d1:11:58:18:2e |                                       |
-| Castor                     |                  | Koberg                           |                         | TL-WR741ND            |               0.3.2.1 | f8:d1:11:58:00:3a | 53.87164921 10.6898507                |
-| Frank002                   | DerDerwish       | wechselnd                        | mit USB-Stromversorgung | TL-WR741ND            |                   0.3 | f8:d1:11:38:05:f6 |                                       |
-| nbsp                       | Chaotikum e.V.   |             | Uplink | TL-WR1043ND           |                   0.3.2.1 | 54:e6:fc:98:5a:2e | 53.873854778754165 10.690904259681702 |
-| BKA-van017                 | BKA              |                                  |                         |                       |                custom | 02:b4:ab:4a:42:42 |                                       |
-| Hellgate                   | Devil            |                                  |                         |                       |                custom | 02:13:13:13:13:13 |                                       |
-| wlan_Oase                  | berik            |                                  | derzeit Mobilknoten     | TL-WR741ND            |                 0.3.2 | b0:48:7a:cb:20:be | 53.876704250142055 10.669746994972229 |
-| randomweb                  | berik            |                                  | mit Internetanbindung   | TL-WR741ND            |                 0.3.2 | b2:48:7a:cc:2c:40 | 53.881376977561 10.648947036744       |
-| Fussel                     | berik            |                                  | mit Internetanbindung   | TL-WR841ND            |                 0.3.2 | 92:f6:52:b5:fc:4a | 53.876612538770715 10.669537782669066 |
-| ehemals CaféAlgarve  | berik            |                                  | mit Internetanbindung   | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:2b:74 |  |
-| Prometheus                 | zenforyen        | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz              | TL-WR842ND            |                 0.3.2 | 64:70:02:82:ce:fc | 53.837666 10.694050                   |
-| Hades                      | anonym           | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz              | TL-WR842ND            |                 0.3.1 | 64:70:02:ae:0e:84 | 53.837666 10.694200                   |
-| Ikarus                     | anonym           | Wohnheim Anschützstr. 11 (7. OG) | im Uninetz              | TL-WR741ND            |                 0.3.1 | f8:d1:11:99:02:86 | 53.837566 10.694006                   |
-| Herkules                   | Pascal M.        | Wohnheim Anschützstr. 13 (6. OG) | im Uninetz              | TL-WR841ND            |                   0.3 | b2:48:7a:cc:2b:9a | 53.838095 10.693865                   |
-| Achilles                   | Kai              | Wohnheim Anschützstr.            | im Uninetz              | TL-WR841ND            |                   0.3 | b0:48:7a:cb:2c:aa | 53.838095 10.693865                   |
-| Perseus                    | lumero           | Wohnheim Anschützstr. 7A (1. OG) | im Uninetz              | TL-WR841ND            |                 0.3.1 | b0:48:7a:cb:25:84 | 53.837938 10.695268                   |
-| Daidalos                   | anonym           | Wohnheim Anschützstr. 7A (2. OG) | im Uninetz              | TL-WR842ND            |                 0.3.1 | 64:70:02:62:5c:fa | 53.837938 10.695268                   |
-| Anima                      | anonym           | Wohnheim Anschützstr.            | im Uninetz              | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:92:20 | 53.838120 10.694139                   |
-| FFHL-Smarty-1              | Smarty           | Georgstrasse 34 EG               | Uplink                  | TL-WR1043ND           |                 0.3.1 | b2:48:7a:ec:6e:ec | 53.860223 10.670361                   |
-| FFHL-Smarty-2              | Smarty           | Hansestrasse 28 1.OG             | Uplink                  | TL-WR741ND            |                   0.3 | b0:48:7a:cb:2f:a8 | 53.864437 10.668339                   |
-| FFHL-Smarty-3              | Smarty           | Georgstrasse 34 3.OG             | Uplink                  | TL-WR741ND            |                   0.3 | b0:48:7a:cb:2f:62 | 53.860217 10.670249                   |
-| FFHL-Smarty-4              | Smarty           | Töpferweg 47 2.OG                |                         | TL-WR741ND            |                   0.3 | b0:48:7a:cb:2e:c1 | 53.859600 10.669347                   |
-| FFHL-Smarty-5              | Smarty           | Schwartauer Landstrasse 114      |                         | TL-WR741ND            |                 0.3.1 | b0:48:7a:cb:2f:1c |                                      |
-| zafer                      | Zafer            |                                  | mit Internetanbindung   | TL-WDR3600            |               0.3.2.1 | 64:70:02:aa:b6:dc | 53.989464 10.766832                   |
-| Café Brazil                | Brazil Kollektiv | Walli                            | mit Internetanbindung   | TL-WR741ND            |                 0.3.2 | f8:d1:11:7e:97:dc | 53.86981585018073 10.677241086959839                   |
-| Treibsand-alt              | Treibsand-Plenum | Walli                            |                         | TL-WR741ND            |                 0.3.1 | f8:d1:11:7e:92:40 | 53.869889 10.676359                   |
-| Treibsand-neu              | Treibsand-Plenum | Walli                            | mit Internetanbindung   | TL-WR741ND            |                 0.3.1 | f8:d1:11:82:cc:d8 | 53.869859 10.676530                   |
-| Orpheus                    | Lennart          | Hüx                              | mit Internetanbindung   | TL-WR741ND            |               0.3.2.1 | f8:d1:11:87:52:1c | 53.864839 10.694442                   |
-| Ramuh                      |                  |                                  |                         |                       |                       | f8:d1:11:87:4f:b0 |                                       |
-| Carbuncle                  |                  |                                  |                         | TL-WR1043ND           |                       | 64:70:02:94:16:1e |                                       |
-| JazzCafeLuebeck02          |                  | Mühlenstraße 62                  | uplink                  | TL-WR741ND            |                 0.3.1 | f8:d1:11:87:4f:c6 |                                       |
-| Eden                       | Magu             | St. Lorenz Nord                  | Uplink                  | TL-WDR3600            |                 0.3.3 | 64:70:02:b5:cf:74 |                                       |
-| Odin                       | yBit            | 23562 Lübeck                     | mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 54:e6:fc:98:64:9c | 53.85038 10.69014                     |
-| Gilgameš                   | yBit            | 23564 Lübeck                     |                         | TL-WR1043ND           |                 0.3.1 | f4:ec:38:e9:73:90 | 53.858563622336 10.724405050277       |
-| Bahamut                    | yBit            | 23564 Lübeck                     |                         | TL-WR741ND            |                 0.3.1 | fa:d1:11:7e:95:5f | 53.858318882437 10.722343004243       |
-| Yojinbo                    | yBit            | 23564 Lübeck                     |                         | TL-WR741ND            |                 0.3.1 | fa:d1:11:88:58:48 | 53.858089045238 10.724136829376       |
-| Flary                      | yBit            | 23564 Lübeck                     |                         | Bullet M2 HP            |               0.3.2.1 | de:9f:db:94:8a:b4 | 53.858032095625 10.723069310188       |
-| Ifrit                      | yBit    | Larry's Bar                    | Uplink                  | TL-WR741ND            |                 0.3.1 | f8:d1:11:87:52:34 | 53.864109447683 10.684354305267       |
-| Shiva                      | yBit    | enjoy XXL-Restaurant          | Uplink                  | TL-WDR3600            |                 0.3.2 | 64:70:02:D1:62:12 | 53.866912135097 10.613463521003       |
-| Kaktorius                  | yBit  | essBAR                 | Uplink                  | TL-WR841ND            |                 0.3.2 | A0:F3:C1:89:6D:24 | 53.865017336514 10.686296224594       |
-| APH-HL_01 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:98:B8 | 53.87154280081059 10.69016933441162 |
-| APH-HL_02 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:64:48 | 53.871460566683176 10.690421462059021 |
-| APH-HL_03 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:8C:C2 | 53.87145424097437 10.690518021583557 |
-| APH-HL_04 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DB:6E | 53.871375169533586 10.690534114837646 |
-| APH-HL_05 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:7E:AF:12 | 53.87144475240939 10.69069504737854 |
-| APH-HL_06 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DB:18 | 53.87139730955207 10.690888166427612 |
-| APH-HL_07 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:D9:3C | 53.871353029503375 10.691097378730774 |
-| APH-HL_08 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:7E:AE:74 | 53.871289772209636 10.690657496452332 |
-| APH-HL_09 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:71:DD:0C | 53.871476380951 10.690281987190247 |
-| APH-HL_10 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | 64:70:02:D1:8C:90 | 53.8715934063471 10.69017469882965 |
-| APH-HL_11 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D0:A1:20 | 53.871368843811865 10.691049098968506 |
-| APH-HL_12 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:7C | 53.87121702620356 10.690104961395264 |
-| APH-HL_13 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E1:CC | 53.87089757485299 10.691349506378174 |
-| APH-HL_14 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:BE | 53.87112213991852 10.690555572509766 |
-| APH-HL_15 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CE:EA | 53.87150484661804 10.690003037452698 |
-| APH-HL_16 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:26 | 53.87105571939089 10.691290497779846 |
-| APH-HL_17 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:40 | 53.87089757485299 10.691349506378174 |
-| APH-HL_18 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:DF:5A | 53.87089757485299 10.691349506378174 |
-| APH-HL_19 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E0:08 | 53.87110316263567 10.69118320941925 |
-| APH-HL_20 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:D8:E2:06 | 53.87119172321527 10.690823793411255 |
-| APH-HL_21 | yBit | Heiligen-Geist-Hospital |  | WDR3600      | 0.3.2.1 | F8:1A:67:EB:CF:14 | 53.8710968368728 10.69096326828003 |
-| APH-HL_22 | yBit | Heiligen-Geist-Hospital |  | Bullet M2 HP | 0.3.2.1 | DC:9F:DB:94:87:58 | 53.871296097943315 10.691108107566833 |
-| APH-HL_23 | yBit | Heiligen-Geist-Hospital |  | WR841N       | 0.3.2.1 | F8:1A:67:7F:74:36 | 53.870818502359796 10.691274404525757 |
-| APH-HL_24 | yBit | Heiligen-Geist-Hospital |  | WR841N       | 0.3.2.1 | 64:66:B3:9A:04:0C | 53.870818502359796 10.691274404525757 |
-| APH-HL_25 | yBit | Heiligen-Geist-Hospital |  | WR841N       | 0.3.2.1 | 64:66:B3:99:F4:B0 | 53.870818502359796 10.691274404525757 |
-| Hansolu      | yBit | Hansolu   | mit Internetanbindung | WDR3600 | 0.3.2.1 | 64:70:02:D1:8C:84 | 53.873750410411425 10.68796992301941 |
-| Hansolu2     | yBit | Hansolu   | Mesh                  | WR841N  | 0.3.2.1 | F8:1A:67:7F:74:8E | 53.87368715674364 10.688098669052124 |
-| hairLeanders | yBit | HairLounge Leanders | mit Internetanbindung | WDR3600 | 0.3.2.1 | F8:1A:67:D8:DA:9C | 53.779513563780185 10.65144896507263 |
-| FIZON        | yBit | FIZON    | mit Internetanbindung | WDR3600 | 0.3.2.1 | F8:1A:67:D8:D5:BE | 53.84215911633189 10.638579726219177 |
-| LothPahn1    | yBit | Loth-Pahn | im Aufbau | WR841N | 0.3.2.1 | 64:66:B3:AB:4B:00 | 53.86203103565918 10.662285089492798 |
-| LothPahn2    | yBit | Loth-Pahn | im Aufbau | WR841N | 0.3.2.1 | 64:66:B3:AB:4A:2E | 53.86193612853553 10.662392377853394 |
-| Cerberus                   |                  |                                  |                         |                       |                       | 64:70:02:94:04:54 |                                       |
-| Leviathan                  |                  | Carlebachpark                    | Mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 64:70:02:93:ff:c6 | 53.833703236943 10.698042190594       |
-| JazzCafeLuebeck01          |                  | Mühlenstraße 62                  | mit Internetanbindung   | TL-WR1043ND           |                 0.3.1 | 90:f6:52:fd:3d:0a |   |
-| Tombery                    |                  |                                  |                         |                       |                       | 64:70:02:94:03:b0 |                                       |
-| Donald                     | Tyme             | Stadtweide                       |  mit Internetanbindung  | TL-WR741ND            |               0.3.2.1 | f8:d1:11:58:28:e8 | 53.84066 10.70455                     |
-| roceHA                     | geoigeek         | 23611 Sereetz                    | mit Internetanbindung   | TL-WR842N             |                 0.3.2 | 64:70:02:62:6C:70 | 53.919678 10.743222                   |
-| Bernsteinzimmer            | wzl              | Röntgenstraße                    |                         | FON2202               |                custom | 02:18:84:d0:10:bb | 53.846588854637 10.689888275147       |
-| Rheingold                  | wzl              |                                  |                         | Buffalo WMBR-HP-G300H |                custom | 02:24:a5:bd:25:b2 |                                       |
-| Eldorado                   | wzl              | Königstraße                      |                         | TL-WDR3600            |               0.3.2.1 | 66:70:02:d1:62:54 | 53.8647959020312 10.686392784118652   |
-| Bundeslade                 | wzl              | Mühlenstraße                     |                         | TL-WR841ND            |               0.3.2.1 | 66:70:02:ae:73:19 | 53.86328062604232 10.686784386634827  |
-| Atlantis                   | zweiblum         | Dankwartsgrube                     |                         | TL-WR842ND            |                 0.3.2 | 66:70:02:4c:39:5f | 53.86297693155947 10.683040022850037 |
-| draic                      |                  |                                  |                         |                       |                       | 90:f6:52:ff:cd:b0 | 53.871890712637 10.716594457626       |
-| Stellbrink                 |                  | Stellbrinkstr                    |                         | TL-WR1043ND           |                 0.3.2 | f8:d1:11:24:76:12 | 53.8728 10.7206                       |
-| Gutenberg1                 |  Daniel          | Gutenbergstraße                  |  mit Internetanbindung  | TL-WDR3600            |                0.3.2.1| 64:70:02:d1:72:ca | 53.85211 10.73936                     |
-| Gutenberg2                 |  Daniel          | Hans-Sachs-Straße                |  mit Internetanbindung  | TL-WDR3600            |                0.3.2.1|64:70:02:d1:71:76  | 53.85084 10.74283                     |
-| Gutenberg3                 |  Daniel          | Beckergrube                      |  mit Internetanbindung  | TL-WDR3600            |                0.3.2.1| 64:70:02:b5:e0:5c | 53.86993 10.68582                     |
-| Gutenberg4                 |  Daniel          | Gutenbergstraße                  |                         | TL-WR842ND            |                0.3.2.1| a0:f3:c1:81:cf:74 | 53.85213 10.73938                     |
-| Gutenberg5                 |  Daniel          | Gutenbergstraße                  |                         | TL-WR842ND            |                0.3.2.1| a0:f3:c1:81:ce:00 | 53.85214 10.73939                     |
-| Gutenberg6                 |  Daniel          | Hans-Sachs-Straße                |                         | TL-WDR3600            |                0.3.2.1|64:70:02:d1:60:fe  | 53.85074 10.74279                     |
-| jaso01                     |  Jaso            |Bülowstr.                         | mit Internetanbindung   | TL-WR841N             |                0.3.2.1|64:70:02:59:36:4c  | 53.869985 10.714765                   |
-| DGHNiendorf                |  Bodo            | Dorfstr.                         |                         | TL-WR741ND            |                 0.3.2 | a0:f3:c1:82:56:c4 |                                       |
-| Falke                      |  Flo             | Reiherstieg                      |                         | TL-WR741ND            |               0.3.2.1 | a0:f3:c1:36:6c:a2 | 53.86673 10.70060                     |
-| Mokuba                     | Scoop            | Fischergrube                     | mit Internetanbindung   | TL-WR741ND            |                       | a0:f3:c1:36:6b:a2 | 53.87056 10.68475                     |
-| Karlshof                   | mchai            |                                  | mit Internetanbindung   | ?                     |                       |                 ? |  53.892703 10.730150                  |
-| Christian                 | Christian         | Fünfhausen                       | mit Internetanbindung   | TL-WR841ND            |               0.3.2.1 | a0:f3:c1:f5:59:69 |  53.86895 10.68468                    |
-| layban                    | svensson          | Stresemannstraße                 | mit Internetanbindung   | TL-WR841ND            |               0.3.2.1 | a0:f3:c1:05:89:fa |  53.85673 10.69191                    |
-| GukaHL                    | Gordon            | Forstweg / Am Wallberg           | mit Internetanbindung   | TL-WR841ND            |               0.3.2.1 | a0:f3:c1:05:63:d8 |  53.912721769526456 10.788037776947021|
-| Alfred                    | Fluse             |                                  | mit Internetanbindung   | Intel Atom - x86-64   |                custom | 38:60:77:2f:e2:93 |     |
-| kurauerstrasse01        | sfof / Dirk         | Kurauer Straße           | mit Internetanbindung   | TL-WR841ND            |               0.3.2.1 | a0:f3:c1:05:81:1e |  53.88560562074451 10.656416416168213|
-| unaone                  | unaone Markus Hagge | Dr.-Julius-Leber-Straße1         | mit Internetanbindung   | TL-WDR3600            |               0.3.2.1 | a0:f3:c1:99:2e:9c |  53.8682428 10.6867561                 |
-| Fritz                      | nbsp             | Große Burgstraße                 |                         | Intel Celeron - x86-64|                custom | 00:0a:cd:19:07:9c | 53.87389 10.69090                     |
-| Lilien-Freifunk            | ahaspharos       | Lilienstraße                     | mit Internetanbindung   | TL-WR841N                |               0.3.2.1 | 64:66:b3:ab:4a:84  | 53.855349048223204 10.670278072357176|
-| el                        | el               | Marlesgrube | mit Internetanbindung   | TL-WR841N                |               0.3.2.1 | 64:66:b3:ab:49:68 | 53.86413791836431 10.684563517570496 |
-| Karpfen                  | Die Rochen       | Karpfenstraße| mit Internetanbindung   | TL-WR841ND               |         0.3.2.1 | F8:1A:67:3E:42:5C |53.51811 010.40291|
-| Blauer Engel | | Clemensstraße || 841N | 0.3.2.1 |64:66:B3:AB:4A:5E | 53.870340901322685 10.681049823760986 |
+| Knotenname            | Betreiber           | Ort                              | Hinweise                         | Router                 |   LFF Version | MAC               | GPS                                   |
+|-----------------------|---------------------|----------------------------------|----------------------------------|------------------------|---------------|-------------------|---------------------------------------|
+| Meute-AP              | Meta-Meute          | Meute-Keller                     |                                  | TL-WR1043ND            |        0.3pre | 90:f6:52:ff:cd:6e | 53.834384 10.702304                   |
+| kmr1                  | Karstadt            | Karstadt-Dach                    |                                  | DIR-300                |        custom | 00:24:01:b7:6a:d9 |                                       |
+| kmr2                  | Karstadt            | Karstadt-Dach                    |                                  | DIR-300                |        custom | 02:24:01:b7:69:c2 |                                       |
+| kmr3                  | Karstadt            | Karstadt-Dach                    |                                  | DIR-300                |        custom | 00:24:01:b7:6a:b3 |                                       |
+| kmr4                  | Karstadt            | Karstadt-Innen                   |                                  | DIR-300                |        custom | 00:24:01:b7:61:19 |                                       |
+| kmr5                  | Karstadt            | Karstadt-Innen                   |                                  | DIR-300                |        custom | 00:24:01:b7:61:49 |                                       |
+| kmr6                  | Karstadt            | Karstadt-Innen                   |                                  | DIR-300                |        custom | 00:24:01:b7:6a:fd |                                       |
+| Groeni                | Groeni              | 23560 Lübeck                     |                                  | TL-WR1043ND            |        0.3pre | 54:e6:fc:b0:1a:7e | 53.838783 10.639233                   |
+| Mr.Pupswindel         | Kai                 | Poggenpohl                       | mit Internetanbindung            | TL-WR1043ND            |        0.3pre | 56:e6:fc:98:58:aa |                                       |
+| techem                | Infoladen Kollektiv | Walli                            | nur mesh                         | TL-WR1043ND            |         0.3.2 | b0:48:7a:99:d8:ce | 53.8699170653715 10.67718207836151    |
+| Fluse070              | Alex                | St. Lorenz Süd                   |                                  | TL-WDR3600             |         0.3.2 | 64:70:02:b5:d2:dc | 53.8598228074 10.65690457820          |
+| Birke                 | 7jM                 | Röntgenstraße                    | mit Internetanbindung            | TL-WR1043ND            |         0.3.1 | f8:d1:11:24:9d:a2 | 53.846658 10.68926                    |
+| StrahlenKiste         | 7jM                 | Röntgenstraße                    |                                  | TL-WDR3600             |         0.3.1 | 66:70:02:b6:d1:ee | 53.846642 10.689338                   |
+| confusion             | NeoRaider           | Ratzeburger Allee                | Uplink                           | TL-WDR3600             |       0.3.2.1 | 64:70:02:91:51:92 | 53.846141 10.707231                   |
+| sweetmorn             | NeoRaider           | Ratzeburger Allee                |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:30:1b:e2 | 53.846169 10.707274                   |
+| boomtime              | NeoRaider           | Ratzeburger Allee                |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:37:fc:38 | 53.846064 10.707203                   |
+| avalon                | NeoRaider           | Mobil                            |                                  | TL-WR741ND             | Arch Linux ;) | 02:21:cc:bc:7d:5f |                                       |
+| Rübe 2                | Groeni              | Rübenkoppel, Brandenbaum         | Verteiler / Richtfunk            | TL-WR1043ND            |       0.3.2.1 | 56:e6:fc:98:58:f3 | 53.856126 10.721051                   |
+| mizu-ffrouter         | Mizu                | 23556 Lübeck                     | mit Internetanbindung            | TL-WR1043ND            |       0.3.2.1 | fa:d1:11:25:95:58 | 53.867605 10.656458                   |
+| kyubey                | jix & Laeila        | Bürgerweide                      | Internetanbindung                | TL-WR1043ND            |        0.3pre | 92:f6:52:3f:b9:26 | 53.842003 10.704269                   |
+| Yangshuo              | Kaspar              | St. Jürgen                       | Internetanbindung                | TL-WR1043ND            |         0.3.2 | b0:48:7a:a0:16:de |                                       |
+| Birne                 | Pascal              | Hüxstraße                        | mit Internetanbindung            | TL-WDR3600             |         0.3.2 | 64:70:02:91:51:b4 | 53.86566581647423 10.690035223960876  |
+| Rapture               |                     |                                  | mit Internetanbindung            | TL-WR1043ND            |         0.3.2 | b0:48:7a:de:20:fa | 53.84598 10.70838                     |
+| Enki                  | magu                | St. Lorenz Nord                  | Uplink                           | TL-WR741ND             |         0.3.2 | f8:d1:11:58:29:0e |                                       |
+| mkm                   | mkm                 | Mölln                            | mit Internetanbindung            | TL-WR741ND             |        0.3pre | b0:48:7a:db:3b:18 |                                       |
+| Fluse001              | Fluse001            |                                  |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:7e:57:98 | 53.872883826 10.689284205             |
+| Fluse002              | Fluse002            |                                  |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:7e:57:76 | 53.863682385 10.690834522             |
+| ZOB RU                | Fluse003/Abdi       | ZOB RU SW                        | Uplink                           | TL-WR741ND             |         0.3.2 | f8:d1:11:7e:2a:f2 |                                       |
+| Fluse004              | Fluse004            |                                  |                                  | TL-WR741ND             |         0.3.2 | f8:d1:11:7e:57:e2 |                                       |
+| Fluse005              | Fluse005            | BS ZOB                           |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:7e:57:d4 |                                       |
+| randomweb2            | berik               | Mobilknoten                      |                                  | TL-WR741ND             |         0.3.2 | f8:d1:11:7e:2c:76 |                                       |
+| Fluse008              | Fluse008            |                                  |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:7e:58:0c |                                       |
+| Fluse009              | Fluse009            |                                  |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:7e:57:7a | 53.89382545 10.6517010927             |
+| Reserve               | Fluse010            | ehemals HanseDiner 2             |                                  | TL-WR741ND             |         0.3.2 | f8:d1:11:7e:2a:d8 |                                       |
+| Kinder                | Fluse011            | Stodo                            | Uplink                           | TL-WR741ND             |       0.3.2.1 | f8:d1:11:55:9f:86 | 53.902516 10.669674                   |
+| Psycho                | Fluse012            |                                  | Uplink                           | TL-WR1043ND            |         0.3.1 | 56:e6:fc:b0:43:80 | 53.87643 10.65837                     |
+| Fluse014              | Fluse014            | Reserve                          |                                  | TL-WR741ND             |       0.3.2.1 | b0:48:7a:bb:50:54 | 53.868967 10.671359                   |
+| Mob. Kn.              | Fluse015            | Mobiler Knoten                   |                                  | TL-WR1043ND            |         0.3.1 | 54:e6:fc:af:43:ba |                                       |
+| Fluse016              | Fluse016            | Hüxstrasse                       |                                  | TL-WR741ND             |         0.3.2 | f8:d1:11:55:9b:e4 | 53.8662668 10.688420534               |
+| ZOB R                 | Fluse017            | ZOB R                            |                                  | TL-WR741ND             |         0.3.2 | b0:48:7a:cb:2c:b8 |                                       |
+| Fluse3600             | Fluse018            |                                  | Uplink                           | TL-WDR3600             |       0.3.2.1 | 64:70:02:91:53:5a | 53.871662988 10.69738984              |
+| Fluse841nd            | Fluse019            | Königpassage                     |                                  | TL-WR841ND             |         0.3.2 | 90:f6:52:b1:95:1c | 53.867461403 10.68788198              |
+| off                   | Fluse020            | off                              |                                  | TL-WR741ND             |         0.3.1 | f8:d1:11:7b:de:58 |                                       |
+| Thai Restaurant       | Fluse021            | König. Thai Restaurant           |                                  | TL-WR741ND             |         0.3.2 | f8:d1:11:7b:e5:2c | 53.866844 10.6886                     |
+| Prians                | Fluse022            | Große Burgstrasse                | Uplink                           | TL-WR741ND             |         0.3.2 | f8:d1:11:7b:e5:28 | 53.873406 10.691006                   |
+| Hotel Hanseatic Dach  | Fluse023            | Hanseatic 3                      |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:7b:e4:f0 | 53.865119 10.670505                   |
+| off                   | Fluse024            | off                              |                                  | TL-WR741ND             |         0.3.2 | f8:d1:11:7b:e3:02 |                                       |
+| Daisy                 | Fluse025            |                                  | Uplink                           | TL-WR741ND             |       0.3.2.1 | f8:d1:11:7b:e2:fe | 53.840831806 10.704683340             |
+| Hotel Hanseatic 1     | Fluse027            |                                  |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:7b:e4:de | 53.8650679499 10.6707286              |
+| Omni 7dB aussen       | Fluse029            |                                  |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:7b:e4:80 | 53.895625 10.652161                   |
+| AliBaba               | Fluse030            |                                  | Uplink                           | TL-WR741ND             |       0.3.2.1 | b0:48:7a:cb:20:08 | 53.86898 10.684700                    |
+| Fluse031              | Fluse031            |                                  | Uplink                           | TL-WR741ND             |       0.3.2.1 | b0:48:7a:cb:21:24 |                                       |
+| Pauline               | Pauline             | Strese                           |                                  | TL-WR741ND             |           0.3 | b0:48:7a:cb:1f:98 | 53.855360 10.692420                   |
+| BlauDirekt NO         | Fluse033            |                                  |                                  | TL-WR741ND             |       0.3.2.1 | b0:48:7a:cb:1f:b8 | 53.86886061975462 10.6715011596       |
+| BlauDirekt SW         | Fluse035            |                                  | Uplink                           | TL-WR741ND             |       0.3.2.1 | b0:48:7a:cb:1f:fa | 53.86875 10.6712898                   |
+| König Mall 3          | Fluse037            | König Mall 3                     |                                  | TL-WR741ND             |         0.3.1 | b0:48:7a:cb:1f:d0 | 53.867167 10.688595                   |
+| König Mall 2          | Fluse038            | König. Mall mitte                |                                  | TL-WR741ND             |         0.3.2 | b0:48:7a:cb:12:9c | 53.867249 10.688965                   |
+| Werkstatt             | Fluse039            | König. Werkstatt                 |                                  | TL-WR741ND             |         0.3.2 | b0:48:7a:cb:20:2e | 53.867587 10.689464                   |
+| Alt Görtz             | Fluse040            | König. Görtz                     |                                  | TL-WR741ND             |         0.3.1 | b0:48:7a:cb:1f:fc | 53.867306 10.689003                   |
+| Fluse041              | Fluse041            |                                  |                                  | TL-WR741ND             |         0.3.2 | b0:48:7a:cb:20:20 |                                       |
+| König Mall 1          | Fluse042            | König. Mall 1                    |                                  | TL-WR741ND             |         0.3.2 | b0:48:7a:cb:1f:c0 | 53.86735 10.688445                    |
+| Fluse045              | Fluse045            |                                  |                                  | TL-WR741ND             |         0.3.1 | b0:48:7a:cb:2d:4e | 53.8728015953 10.68932712078          |
+| figura                | Fluse046            |                                  | Uplink                           | TL-WR741ND             |         0.3.1 | b0:48:7a:cb:2b:7c | 53.867189371517 10.688949501978       |
+| Cafe am Theater       | Fluse047            | Beckergrube                      | Uplink                           | TL-WR741ND             |       0.3.2.1 | b0:48:7a:cb:2b:fc | 53.86936874 10.68618682               |
+| Manni                 | Fluse050            | Albert Schweizer Str.            | Uplink                           | TL-WR741ND             |         0.3.1 | B0:48:7a:cb:2d:06 | 53.86810668 10.72754648               |
+| Manni´s ?             | Fluse051            | Albert Schweizer Str.            |                                  | TL-WR741ND             |         0.3.1 | B0:48:7a:cb:2c:32 | 53.868577983236 10.72743383693        |
+| Geruda Spezial        | Fluse052            | Spezial Geruda im Test           |                                  | TL-WR741ND             |         0.3.1 | B0:48:7a:cb:25:b8 |                                       |
+| Sonnenstudio          | Fluse053            | Bad Schwartau                    |                                  | TL-WDR3600             |       0.3.2.1 | 64:70:02:91:51:fe | 53.918951175644 10.69473234464        |
+| St. Jürgen            | Fluse055            | HL Sankt Jürgen                  | Uplink                           | TL-WR741ND             |         0.3.1 | f8:d1:11:87:4f:d6 | 53.854306931024 10.684792078026       |
+| Verschwunden          | Fluse056            | Ehemals Hansediner               | Uplink                           | TL-WR842ND             |         0.3.2 | 64:70:02:62:5f:c8 |                                       |
+| Brauberger 2          | Fluse057            | Brauberger                       | Uplink                           | TL-WDR3600             |       0.3.2.1 | 64:70:02:aa:cd:cc | 53.868356567601 10.680967247975       |
+| Brauberger 1          | Fluse058            | Brauberger                       | Uplink                           | TL-WDR3600             |       0.3.2.1 | 64:70:02:b5:db:4a | 53.868280653399 10.680940425885       |
+| Brauberger 3          | Fluse059            | Brauberger                       |                                  | TL-WDR3600             |         0.3.2 | 64:70:02:b5:db:24 | 53.868407176993 10.68098334123        |
+| Spencer               | Fluse060            | Hansestrasse                     | Uplink                           | TL-WR741ND             |         0.3.2 | f8:d1:11:94:a5:e0 | 53.864770595158 10.66998302936        |
+| Fluse061              | Fluse061            | Wiener Caféhaus                  | Uplink                           | TL-WDR3600             |       0.3.2.1 | 64:70:02:d1:5c:36 | 53.868022402901 10.68605482578        |
+| Fluse062              | Fluse062            | Wiener Caféhaus                  |                                  | TL-WDR3600             |       0.3.2.1 | 64:70:02:d1:78:6c | 53.867804147454 10.686054825782       |
+| Fluse063              | Fluse063            | Wiener Caféhaus                  |                                  | TL-WDR3600             |       0.3.2.1 | 64:70:02:d1:5c:5a | 53.867725069113 10.685968995094       |
+| Hotel Hanseatic 2     | Fluse064            |                                  |                                  | TL-WDR3600             |       0.3.2.1 | 64:70:02:b5:d1:fa | 53.865157 10.6709                     |
+| ZOB L                 | Fluse065            |                                  | Uplink                           | TL-WDR3600             |       0.3.2.1 | 64:70:02:b5:d1:f6 | 53.866355408524 10.671227574348       |
+| ZOB LU                | Fluse067            |                                  |                                  | TL-WDR3600             |         0.3.2 | 64:70:02:b5:d2:10 | 53.866390204152 10.671066641807       |
+| Fluse068              | Fluse068            | Wiener Cafehaus                  |                                  | TL-WDR3600             |       0.3.2.1 | 64:70:02:b5:d2:20 | 53.867851594387 10.686044096946       |
+| Fluse069              | Fluse069            |                                  |                                  | TL-WDR3600             |         0.3.2 | 64:70:02:b5:d1:3e | 53.887553234556826 10.649115443229675 |
+| Hotel Hanseatic EG    | Fluse071            |                                  |                                  | TL-WDR3600             |       0.3.2.1 | 64:70:02:b5:d2:d4 | 53.865151 10.670697                   |
+| Café Czudaj           | Fluse072            | Café Czudaj                      |                                  | TL-WD842nd             |       0.3.2.1 | 64:70:02:39:72:3c | 53.86450803545 10.6857651472091       |
+| Café Czudaj           | Fluse073            | Café Czudaj                      | Uplink                           | TL-WD842nd             |       0.3.2.1 | 64:70:02:39:78:be | 53.864416297332 10.68577587604        |
+| Abessa                | Fluse074            | Abessa Caferösterei              | Uplink                           | TL-WD842nd             |         0.3.2 | 64:70:02:39:79:46 | 53.866124491351 10.68827569484        |
+| Fluse075              | Fluse075            | Contigo Königstrasse             |                                  | TL-WD842nd             |         0.3.2 | 64:70:02:39:6e:80 | 53.86457446637557 10.686360597610474  |
+| Fluse076              | Fluse076            |                                  |                                  | TL-WD842nd             |         0.3.2 | 64:70:02:39:78:ee | 53.86576704170721 10.674360394477844  |
+| Eis                   | Fluse077            |                                  |                                  | TL-WD842nd             |       0.3.2.1 | 64:70:02:39:78:58 | 53.86703 10.688718                    |
+| Fluse078              | Majo                |                                  | Uplink                           | TL-WD842nd             |       0.3.2.1 | 64:70:02:39:77:ae | 53.89908845623992 10.64600944519043   |
+| Fenris                | Fluse079            | Friedenstrasse                   | Uplink                           | TL-WD842nd             |       0.3.2.1 | 64:70:02:39:79:7c | 53.875012301091 10.671962499618       |
+| Fluse080              | Fluse080            |                                  | Uplink                           | TL-WD841n              |       0.3.2.1 | 64:70:02:39:74:88 |                                       |
+| BulletM2 #1           | Fluse082            | Friedenstrasse                   |                                  | Bullet M2 HP           |         0.3.2 | dc:9f:db:0c:19:8e | 53.875043926935 10.672026872634       |
+| Fluse083              | Fluse083            |                                  | Uplink                           |                        |       0.3.2.1 | 64:70:02:f7:0d:f4 | 53.89371797220992 10.651717185974121  |
+| Hotel Stadt Luebeck 0 | Fluse084            |                                  | Uplink                           | Hotel                  |       0.3.2.1 | 64:70:02:b3:dd:10 | 53.86632377611033 10.670304894447327  |
+| Fluse085              | Fluse085            |                                  | Uplink                           |                        |       0.3.2.1 | 64:70:02:4c:3c:2e | 53.91937563725815 10.698226690292357  |
+| Fluse086              | Fluse086            |                                  | Uplink                           |                        |       0.3.2.1 | f8:1a:67:31:38:b6 | 53.8996858364636 10.656126737594604   |
+| Fluse087              | Fluse087            |                                  | Uplink                           |                        |       0.3.2.1 | f8:1a:67:31:39:96 | 53.89933815589085 10.656416416168213  |
+| Cafe Art #1           | Fluse088            |                                  |                                  |                        |       0.3.2.1 | F8:1a:67:31:3a:1e | 53.86319837567089 10.68593144416809   |
+| Cafe Art #2           | Fluse089            |                                  |                                  |                        |       0.3.2.1 | A0:f3:c1:d7:24:42 | 53.8632521547782 10.685743689537048   |
+| Cafe Art #3           | bullet02            |                                  |                                  |                        |       0.3.2.1 | dc:9f:db:02:f9:3d | 53.863150923459976 10.685818791389465 |
+| Gingko                | Fluse090            |                                  | Uplink                           |                        |       0.3.2.1 | f8:1a:67:31:3a:6c | 53.861949 10.667331                   |
+| Hotel Stadt Luebeck 1 | Fluse091            |                                  |                                  |                        |       0.3.2.1 | F8:1a:67:31:3a:4a | 53.866288980427214 10.670294165611267 |
+| Hotel Stadt Luebeck 2 | Fluse092            |                                  |                                  |                        |       0.3.2.1 | A0:f3:c1:05:84:84 | 53.86623204197421 10.670299530029297  |
+| Hotel Stadt Luebeck 3 | Fluse093            |                                  |                                  |                        |       0.3.2.1 | A0:f3:c1:05:85:02 | 53.866209899221566 10.670299530029297 |
+| Hotel Stadt Luebeck 4 | Fluse094            |                                  |                                  |                        |       0.3.2.1 | A0:f3:c1:05:84:6c | 53.8661940829625 10.670379996299744   |
+| Rübe                  | Fluse095            |                                  | Uplink                           |                        |       0.3.2.1 | B0:48:7a:cb:30:48 | 53.857795 10.719049                   |
+| Fluse096              | Fluse096            |                                  |                                  |                        |       0.3.2.1 | 64:70:02:b5:da:ce |                                       |
+| La Crona b            | Fluse097            |                                  |                                  |                        |       0.3.2.1 | 90:f6:52:e9:ba:68 | 53.918875353291 10.694415843971       |
+| Amiga1200             | Amiga1200           |                                  |                                  |                        |       0.3.2.1 | f8:1a:67:7f:6d:10 |                                       |
+| Fluse099              | Fluse099            |                                  |                                  |                        |       0.3.2.1 | f8:1a:67:7f:74:0e | 53.87183378180927 10.68995475769043   |
+| Fluse100              | Fluse100            |                                  | Bullet M2 15 dB Antenne nur Mesh |                        |       0.3.2.1 | dc:9f:db:30:94:f5 | 53.87568592639191 10.677165985107422  |
+| Fluse101              | Fluse101            |                                  |                                  | Bullet M2 HP           |       0.3.2.1 | Dc:9f:db:94:8a:4e | 53.862195540830 10.689707994461       |
+| Fluse102              | Fluse102            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:8e:ca:c2 | 53.918935379332 10.694474852564       |
+| Hotel Hanseatic Dach2 | Fluse103            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:8e:ca:9a | 53.865093256639 10.670648217201       |
+| Fluse104              | Fluse104            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:8e:c7:22 | 53.871912852383 10.689820647239       |
+| Fluse105              | Fluse105            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:8e:c8:1e | 53.867227329623 10.68833795833        |
+| Fluse106              | Fluse106            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:8e:ca:ae | 53.871688291562 10.689681172370       |
+| Genußdepot            | Fluse107            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:8e:ca:70 | 53.867317022491 10.688061118125       |
+| Dagobert              | Fluse108            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:8e:bb:02 | 53.865545611191 10.713955163955       |
+| Fluse109              | Fluse109            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:8e:ca:6a |                                       |
+| Fluse110              | Fluse110            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:8e:bc:58 | 53.863986074510 10.685588121414       |
+| Fluse111              | Fluse111            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:8e:ba:54 | 53.867089273816 10.701005458831       |
+| Fluse112              | Fluse112            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:9a:00:ee | 53.862306265100 10.690389275550       |
+| Fluse113              | Fluse113            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:4b:04 | 53.873310795442 10.686119198799       |
+| Fluse114              | Fluse114            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:4a:56 | 53.873215913907 10.686269402503       |
+| Fluse115              | Fluse115            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:49:e6 |                                       |
+| Fluse116              | Fluse116            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:1c |                                       |
+| Fluse117              | Fluse117            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:46:cc |                                       |
+| Fluse118              | Fluse118            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:26 |                                       |
+| Hotel Baltic 3        | Fluse119            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:46:f8 | 53.8654095890 10.67142605781          |
+| Hotel Baltic 2        | Fluse120            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:4a | 53.8654696918 10.67141532897          |
+| Hotel Baltic 1        | Fluse121            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:4c | 53.8654380588 10.67134559154          |
+| Hotel Trave 0         | Fluse122            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:1a | 53.8418046270 10.65284371376          |
+| Hotel Trave 1         | Fluse123            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:48 | 53.8418172874 10.65300464630          |
+| Hotel Trave 2         | Fluse124            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:46:f0 | 53.84188058928 10.65312266349         |
+| Auto Adam             | Fluse125            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:42 | 53.86326480867 10.612095594406128     |
+| Hotel Baltic 0        | Fluse126            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:46:f4 | 53.86540642569 10.67127585411         |
+| Candys                | Fluse127            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:32 | 53.869929 10.663736                   |
+| Fluse128              | Fluse128            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:20 | 53.8781589553399 10.66962361335754    |
+| 9to5                  | Andre               | Dankwartsgrube                   | Uplink                           | TL-WR741ND             |         0.3.2 | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
+| Dennis                | Fluse               | Rehsprung, Lübeck                | Uplink                           | TL-WR1043ND            |         0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
+| Garuda-ZOB            | MHintz              | Lübeck ZOB                       |                                  | TL-WR741ND             |        0.3pre | f8:d1:11:55:9f:9a |                                       |
+| Garuda-HBF            | MHintz              | Lübeck ZOB                       | Uplink                           | TL-WR1043ND            |        0.3pre | 54:e6:fc:98:67:e1 |                                       |
+| Peter                 | Peter               |                                  | Uplink                           | TL-WR741ND             |           0.3 | f8:d1:11:58:18:2e |                                       |
+| Castor                |                     | Koberg                           |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:58:00:3a | 53.87164921 10.6898507                |
+| Frank002              | DerDerwish          | wechselnd                        | mit USB-Stromversorgung          | TL-WR741ND             |           0.3 | f8:d1:11:38:05:f6 |                                       |
+| nbsp                  | Chaotikum e.V.      |                                  | Uplink                           | TL-WR1043ND            |       0.3.2.1 | 54:e6:fc:98:5a:2e | 53.873854778754165 10.690904259681702 |
+| BKA-van017            | BKA                 |                                  |                                  |                        |        custom | 02:b4:ab:4a:42:42 |                                       |
+| Hellgate              | Devil               |                                  |                                  |                        |        custom | 02:13:13:13:13:13 |                                       |
+| wlan_Oase             | berik               |                                  | derzeit Mobilknoten              | TL-WR741ND             |         0.3.2 | b0:48:7a:cb:20:be | 53.876704250142055 10.669746994972229 |
+| randomweb             | berik               |                                  | mit Internetanbindung            | TL-WR741ND             |         0.3.2 | b2:48:7a:cc:2c:40 | 53.881376977561 10.648947036744       |
+| Fussel                | berik               |                                  | mit Internetanbindung            | TL-WR841ND             |         0.3.2 | 92:f6:52:b5:fc:4a | 53.876612538770715 10.669537782669066 |
+| ehemals CaféAlgarve   | berik               |                                  | mit Internetanbindung            | TL-WR741ND             |         0.3.1 | b0:48:7a:cb:2b:74 |                                       |
+| Prometheus            | zenforyen           | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz                       | TL-WR842ND             |         0.3.2 | 64:70:02:82:ce:fc | 53.837666 10.694050                   |
+| Hades                 | anonym              | Wohnheim Anschützstr. 11 (2. OG) | im Uninetz                       | TL-WR842ND             |         0.3.1 | 64:70:02:ae:0e:84 | 53.837666 10.694200                   |
+| Ikarus                | anonym              | Wohnheim Anschützstr. 11 (7. OG) | im Uninetz                       | TL-WR741ND             |         0.3.1 | f8:d1:11:99:02:86 | 53.837566 10.694006                   |
+| Herkules              | Pascal M.           | Wohnheim Anschützstr. 13 (6. OG) | im Uninetz                       | TL-WR841ND             |           0.3 | b2:48:7a:cc:2b:9a | 53.838095 10.693865                   |
+| Achilles              | Kai                 | Wohnheim Anschützstr.            | im Uninetz                       | TL-WR841ND             |           0.3 | b0:48:7a:cb:2c:aa | 53.838095 10.693865                   |
+| Perseus               | lumero              | Wohnheim Anschützstr. 7A (1. OG) | im Uninetz                       | TL-WR841ND             |         0.3.1 | b0:48:7a:cb:25:84 | 53.837938 10.695268                   |
+| Daidalos              | anonym              | Wohnheim Anschützstr. 7A (2. OG) | im Uninetz                       | TL-WR842ND             |         0.3.1 | 64:70:02:62:5c:fa | 53.837938 10.695268                   |
+| Anima                 | anonym              | Wohnheim Anschützstr.            | im Uninetz                       | TL-WR741ND             |         0.3.2 | f8:d1:11:7e:92:20 | 53.838120 10.694139                   |
+| FFHL-Smarty-1         | Smarty              | Georgstrasse 34 EG               | Uplink                           | TL-WR1043ND            |         0.3.1 | b2:48:7a:ec:6e:ec | 53.860223 10.670361                   |
+| FFHL-Smarty-2         | Smarty              | Hansestrasse 28 1.OG             | Uplink                           | TL-WR741ND             |           0.3 | b0:48:7a:cb:2f:a8 | 53.864437 10.668339                   |
+| FFHL-Smarty-3         | Smarty              | Georgstrasse 34 3.OG             | Uplink                           | TL-WR741ND             |           0.3 | b0:48:7a:cb:2f:62 | 53.860217 10.670249                   |
+| FFHL-Smarty-4         | Smarty              | Töpferweg 47 2.OG                |                                  | TL-WR741ND             |           0.3 | b0:48:7a:cb:2e:c1 | 53.859600 10.669347                   |
+| FFHL-Smarty-5         | Smarty              | Schwartauer Landstrasse 114      |                                  | TL-WR741ND             |         0.3.1 | b0:48:7a:cb:2f:1c |                                       |
+| zafer                 | Zafer               |                                  | mit Internetanbindung            | TL-WDR3600             |       0.3.2.1 | 64:70:02:aa:b6:dc | 53.989464 10.766832                   |
+| Café Brazil           | Brazil Kollektiv    | Walli                            | mit Internetanbindung            | TL-WR741ND             |         0.3.2 | f8:d1:11:7e:97:dc | 53.86981585018073 10.677241086959839  |
+| Treibsand-alt         | Treibsand-Plenum    | Walli                            |                                  | TL-WR741ND             |         0.3.1 | f8:d1:11:7e:92:40 | 53.869889 10.676359                   |
+| Treibsand-neu         | Treibsand-Plenum    | Walli                            | mit Internetanbindung            | TL-WR741ND             |         0.3.1 | f8:d1:11:82:cc:d8 | 53.869859 10.676530                   |
+| Orpheus               | Lennart             | Hüx                              | mit Internetanbindung            | TL-WR741ND             |       0.3.2.1 | f8:d1:11:87:52:1c | 53.864839 10.694442                   |
+| Ramuh                 |                     |                                  |                                  |                        |               | f8:d1:11:87:4f:b0 |                                       |
+| Carbuncle             |                     |                                  |                                  | TL-WR1043ND            |               | 64:70:02:94:16:1e |                                       |
+| JazzCafeLuebeck02     |                     | Mühlenstraße 62                  | uplink                           | TL-WR741ND             |         0.3.1 | f8:d1:11:87:4f:c6 |                                       |
+| Eden                  | Magu                | St. Lorenz Nord                  | Uplink                           | TL-WDR3600             |         0.3.3 | 64:70:02:b5:cf:74 |                                       |
+| Odin                  | yBit                | 23562 Lübeck                     | mit Internetanbindung            | TL-WR1043ND            |         0.3.1 | 54:e6:fc:98:64:9c | 53.85038 10.69014                     |
+| Gilgameš              | yBit                | 23564 Lübeck                     |                                  | TL-WR1043ND            |         0.3.1 | f4:ec:38:e9:73:90 | 53.858563622336 10.724405050277       |
+| Bahamut               | yBit                | 23564 Lübeck                     |                                  | TL-WR741ND             |         0.3.1 | fa:d1:11:7e:95:5f | 53.858318882437 10.722343004243       |
+| Yojinbo               | yBit                | 23564 Lübeck                     |                                  | TL-WR741ND             |         0.3.1 | fa:d1:11:88:58:48 | 53.858089045238 10.724136829376       |
+| Flary                 | yBit                | 23564 Lübeck                     |                                  | Bullet M2 HP           |       0.3.2.1 | de:9f:db:94:8a:b4 | 53.858032095625 10.723069310188       |
+| Ifrit                 | yBit                | Larry's Bar                      | Uplink                           | TL-WR741ND             |         0.3.1 | f8:d1:11:87:52:34 | 53.864109447683 10.684354305267       |
+| Shiva                 | yBit                | enjoy XXL-Restaurant             | Uplink                           | TL-WDR3600             |         0.3.2 | 64:70:02:D1:62:12 | 53.866912135097 10.613463521003       |
+| Kaktorius             | yBit                | essBAR                           | Uplink                           | TL-WR841ND             |         0.3.2 | A0:F3:C1:89:6D:24 | 53.865017336514 10.686296224594       |
+| APH-HL_01             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | 64:70:02:D1:98:B8 | 53.87154280081059 10.69016933441162   |
+| APH-HL_02             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | 64:70:02:D1:64:48 | 53.871460566683176 10.690421462059021 |
+| APH-HL_03             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | 64:70:02:D1:8C:C2 | 53.87145424097437 10.690518021583557  |
+| APH-HL_04             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:71:DB:6E | 53.871375169533586 10.690534114837646 |
+| APH-HL_05             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:7E:AF:12 | 53.87144475240939 10.69069504737854   |
+| APH-HL_06             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:71:DB:18 | 53.87139730955207 10.690888166427612  |
+| APH-HL_07             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:71:D9:3C | 53.871353029503375 10.691097378730774 |
+| APH-HL_08             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:7E:AE:74 | 53.871289772209636 10.690657496452332 |
+| APH-HL_09             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:71:DD:0C | 53.871476380951 10.690281987190247    |
+| APH-HL_10             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | 64:70:02:D1:8C:90 | 53.8715934063471 10.69017469882965    |
+| APH-HL_11             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:D0:A1:20 | 53.871368843811865 10.691049098968506 |
+| APH-HL_12             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:EB:CE:7C | 53.87121702620356 10.690104961395264  |
+| APH-HL_13             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:D8:E1:CC | 53.87089757485299 10.691349506378174  |
+| APH-HL_14             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:EB:CE:BE | 53.87112213991852 10.690555572509766  |
+| APH-HL_15             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:EB:CE:EA | 53.87150484661804 10.690003037452698  |
+| APH-HL_16             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:D8:E2:26 | 53.87105571939089 10.691290497779846  |
+| APH-HL_17             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:D8:E2:40 | 53.87089757485299 10.691349506378174  |
+| APH-HL_18             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:D8:DF:5A | 53.87089757485299 10.691349506378174  |
+| APH-HL_19             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:D8:E0:08 | 53.87110316263567 10.69118320941925   |
+| APH-HL_20             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:D8:E2:06 | 53.87119172321527 10.690823793411255  |
+| APH-HL_21             | yBit                | Heiligen-Geist-Hospital          |                                  | WDR3600                |       0.3.2.1 | F8:1A:67:EB:CF:14 | 53.8710968368728 10.69096326828003    |
+| APH-HL_22             | yBit                | Heiligen-Geist-Hospital          |                                  | Bullet M2 HP           |       0.3.2.1 | DC:9F:DB:94:87:58 | 53.871296097943315 10.691108107566833 |
+| APH-HL_23             | yBit                | Heiligen-Geist-Hospital          |                                  | WR841N                 |       0.3.2.1 | F8:1A:67:7F:74:36 | 53.870818502359796 10.691274404525757 |
+| APH-HL_24             | yBit                | Heiligen-Geist-Hospital          |                                  | WR841N                 |       0.3.2.1 | 64:66:B3:9A:04:0C | 53.870818502359796 10.691274404525757 |
+| APH-HL_25             | yBit                | Heiligen-Geist-Hospital          |                                  | WR841N                 |       0.3.2.1 | 64:66:B3:99:F4:B0 | 53.870818502359796 10.691274404525757 |
+| Hansolu               | yBit                | Hansolu                          | mit Internetanbindung            | WDR3600                |       0.3.2.1 | 64:70:02:D1:8C:84 | 53.873750410411425 10.68796992301941  |
+| Hansolu2              | yBit                | Hansolu                          | Mesh                             | WR841N                 |       0.3.2.1 | F8:1A:67:7F:74:8E | 53.87368715674364 10.688098669052124  |
+| hairLeanders          | yBit                | HairLounge Leanders              | mit Internetanbindung            | WDR3600                |       0.3.2.1 | F8:1A:67:D8:DA:9C | 53.779513563780185 10.65144896507263  |
+| FIZON                 | yBit                | FIZON                            | mit Internetanbindung            | WDR3600                |       0.3.2.1 | F8:1A:67:D8:D5:BE | 53.84215911633189 10.638579726219177  |
+| LothPahn1             | yBit                | Loth-Pahn                        | im Aufbau                        | WR841N                 |       0.3.2.1 | 64:66:B3:AB:4B:00 | 53.86203103565918 10.662285089492798  |
+| LothPahn2             | yBit                | Loth-Pahn                        | im Aufbau                        | WR841N                 |       0.3.2.1 | 64:66:B3:AB:4A:2E | 53.86193612853553 10.662392377853394  |
+| Cerberus              |                     |                                  |                                  |                        |               | 64:70:02:94:04:54 |                                       |
+| Leviathan             |                     | Carlebachpark                    | Mit Internetanbindung            | TL-WR1043ND            |         0.3.1 | 64:70:02:93:ff:c6 | 53.833703236943 10.698042190594       |
+| JazzCafeLuebeck01     |                     | Mühlenstraße 62                  | mit Internetanbindung            | TL-WR1043ND            |         0.3.1 | 90:f6:52:fd:3d:0a |                                       |
+| Tombery               |                     |                                  |                                  |                        |               | 64:70:02:94:03:b0 |                                       |
+| Donald                | Tyme                | Stadtweide                       | mit Internetanbindung            | TL-WR741ND             |       0.3.2.1 | f8:d1:11:58:28:e8 | 53.84066 10.70455                     |
+| roceHA                | geoigeek            | 23611 Sereetz                    | mit Internetanbindung            | TL-WR842N              |         0.3.2 | 64:70:02:62:6C:70 | 53.919678 10.743222                   |
+| Bernsteinzimmer       | wzl                 | Röntgenstraße                    |                                  | FON2202                |        custom | 02:18:84:d0:10:bb | 53.846588854637 10.689888275147       |
+| Rheingold             | wzl                 |                                  |                                  | Buffalo WMBR-HP-G300H  |        custom | 02:24:a5:bd:25:b2 |                                       |
+| Eldorado              | wzl                 | Königstraße                      |                                  | TL-WDR3600             |       0.3.2.1 | 66:70:02:d1:62:54 | 53.8647959020312 10.686392784118652   |
+| Bundeslade            | wzl                 | Mühlenstraße                     |                                  | TL-WR841ND             |       0.3.2.1 | 66:70:02:ae:73:19 | 53.86328062604232 10.686784386634827  |
+| Atlantis              | zweiblum            | Dankwartsgrube                   |                                  | TL-WR842ND             |         0.3.2 | 66:70:02:4c:39:5f | 53.86297693155947 10.683040022850037  |
+| draic                 |                     |                                  |                                  |                        |               | 90:f6:52:ff:cd:b0 | 53.871890712637 10.716594457626       |
+| Stellbrink            |                     | Stellbrinkstr                    |                                  | TL-WR1043ND            |         0.3.2 | f8:d1:11:24:76:12 | 53.8728 10.7206                       |
+| Gutenberg1            | Daniel              | Gutenbergstraße                  | mit Internetanbindung            | TL-WDR3600             |       0.3.2.1 | 64:70:02:d1:72:ca | 53.85211 10.73936                     |
+| Gutenberg2            | Daniel              | Hans-Sachs-Straße                | mit Internetanbindung            | TL-WDR3600             |       0.3.2.1 | 64:70:02:d1:71:76 | 53.85084 10.74283                     |
+| Gutenberg3            | Daniel              | Beckergrube                      | mit Internetanbindung            | TL-WDR3600             |       0.3.2.1 | 64:70:02:b5:e0:5c | 53.86993 10.68582                     |
+| Gutenberg4            | Daniel              | Gutenbergstraße                  |                                  | TL-WR842ND             |       0.3.2.1 | a0:f3:c1:81:cf:74 | 53.85213 10.73938                     |
+| Gutenberg5            | Daniel              | Gutenbergstraße                  |                                  | TL-WR842ND             |       0.3.2.1 | a0:f3:c1:81:ce:00 | 53.85214 10.73939                     |
+| Gutenberg6            | Daniel              | Hans-Sachs-Straße                |                                  | TL-WDR3600             |       0.3.2.1 | 64:70:02:d1:60:fe | 53.85074 10.74279                     |
+| jaso01                | Jaso                | Bülowstr.                        | mit Internetanbindung            | TL-WR841N              |       0.3.2.1 | 64:70:02:59:36:4c | 53.869985 10.714765                   |
+| DGHNiendorf           | Bodo                | Dorfstr.                         |                                  | TL-WR741ND             |         0.3.2 | a0:f3:c1:82:56:c4 |                                       |
+| Falke                 | Flo                 | Reiherstieg                      |                                  | TL-WR741ND             |       0.3.2.1 | a0:f3:c1:36:6c:a2 | 53.86673 10.70060                     |
+| Mokuba                | Scoop               | Fischergrube                     | mit Internetanbindung            | TL-WR741ND             |               | a0:f3:c1:36:6b:a2 | 53.87056 10.68475                     |
+| Karlshof              | mchai               |                                  | mit Internetanbindung            | ?                      |               | ?                 | 53.892703 10.730150                   |
+| Christian             | Christian           | Fünfhausen                       | mit Internetanbindung            | TL-WR841ND             |       0.3.2.1 | a0:f3:c1:f5:59:69 | 53.86895 10.68468                     |
+| layban                | svensson            | Stresemannstraße                 | mit Internetanbindung            | TL-WR841ND             |       0.3.2.1 | a0:f3:c1:05:89:fa | 53.85673 10.69191                     |
+| GukaHL                | Gordon              | Forstweg / Am Wallberg           | mit Internetanbindung            | TL-WR841ND             |       0.3.2.1 | a0:f3:c1:05:63:d8 | 53.912721769526456 10.788037776947021 |
+| Alfred                | Fluse               |                                  | mit Internetanbindung            | Intel Atom - x86-64    |        custom | 38:60:77:2f:e2:93 |                                       |
+| kurauerstrasse01      | sfof / Dirk         | Kurauer Straße                   | mit Internetanbindung            | TL-WR841ND             |       0.3.2.1 | a0:f3:c1:05:81:1e | 53.88560562074451 10.656416416168213  |
+| unaone                | unaone Markus Hagge | Dr.-Julius-Leber-Straße1         | mit Internetanbindung            | TL-WDR3600             |       0.3.2.1 | a0:f3:c1:99:2e:9c | 53.8682428 10.6867561                 |
+| Fritz                 | nbsp                | Große Burgstraße                 |                                  | Intel Celeron - x86-64 |        custom | 00:0a:cd:19:07:9c | 53.87389 10.69090                     |
+| Lilien-Freifunk       | ahaspharos          | Lilienstraße                     | mit Internetanbindung            | TL-WR841N              |       0.3.2.1 | 64:66:b3:ab:4a:84 | 53.855349048223204 10.670278072357176 |
+| el                    | el                  | Marlesgrube                      | mit Internetanbindung            | TL-WR841N              |       0.3.2.1 | 64:66:b3:ab:49:68 | 53.86413791836431 10.684563517570496  |
+| Karpfen               | Die Rochen          | Karpfenstraße                    | mit Internetanbindung            | TL-WR841ND             |       0.3.2.1 | F8:1A:67:3E:42:5C | 53.51811 010.40291                    |
+| Blauer Engel          |                     | Clemensstraße                    |                                  | 841N                   |       0.3.2.1 | 64:66:B3:AB:4A:5E | 53.870340901322685 10.681049823760986 |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
