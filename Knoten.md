@@ -55,13 +55,13 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Kinder                | Fluse011            | Stodo                            | Uplink                           | TL-WR741ND             |       0.3.2.1 | f8:d1:11:55:9f:86 | 53.902516 10.669674                   |
 | Psycho                | Fluse012            |                                  | Uplink                           | TL-WR1043ND            |         0.3.1 | 56:e6:fc:b0:43:80 | 53.87643 10.65837                     |
 | Fluse014              | Fluse014            | Reserve                          |                                  | TL-WR741ND             |       0.3.2.1 | b0:48:7a:bb:50:54 | 53.868967 10.671359                   |
-| Mob. Kn.              | Fluse015            | Mobiler Knoten                   |                                  | TL-WR1043ND            |         0.3.1 | 54:e6:fc:af:43:ba |                                       |
-| Fluse016              | Fluse016            | Hüxstrasse                       |                                  | TL-WR741ND             |         0.3.2 | f8:d1:11:55:9b:e4 | 53.8662668 10.688420534               |
-| ZOB R                 | Fluse017            | ZOB R                            |                                  | TL-WR741ND             |         0.3.2 | b0:48:7a:cb:2c:b8 |                                       |
-| Fluse3600             | Fluse018            |                                  | Uplink                           | TL-WDR3600             |       0.3.2.1 | 64:70:02:91:53:5a | 53.871662988 10.69738984              |
-| Fluse841nd            | Fluse019            | Königpassage                     |                                  | TL-WR841ND             |         0.3.2 | 90:f6:52:b1:95:1c | 53.867461403 10.68788198              |
-| off                   | Fluse020            | off                              |                                  | TL-WR741ND             |         0.3.1 | f8:d1:11:7b:de:58 |                                       |
-| Thai Restaurant       | Fluse021            | König. Thai Restaurant           |                                  | TL-WR741ND             |         0.3.2 | f8:d1:11:7b:e5:2c | 53.866844 10.6886                     |
+| Mob. Kn. | Fluse015 | Mobiler Knoten  | | TL-WR1043ND | 0.3.1   | 54:e6:fc:af:43:ba | 53.87570806412841 10.676763653755188|
+| Fluse016 | Fluse016 | Hüxstrasse      | | TL-WR741ND  | 0.3.2   | f8:d1:11:55:9b:e4 | 53.8662668 10.688420534             |
+| ZOB R    | Fluse017 | ZOB R           | | TL-WR741ND  | 0.3.2   | b0:48:7a:cb:2c:b8 |                                     |
+| Fluse3600 | Fluse018 |  |               | TL-WDR3600  | 0.3.2.1 | 64:70:02:91:53:5a | 53.871662988 10.69738984            |
+| Fluse841nd | Fluse019 | Königpassage |  | TL-WR841ND  | 0.3.2   | 90:f6:52:b1:95:1c | 53.867461403 10.68788198            |
+| off       | Fluse020  | off          |  | TL-WR741ND  | 0.3.1   | f8:d1:11:7b:de:58 |                                     |
+| Thai Restaurant | Fluse021 | König. Thai Restaurant | | TL-WR741ND | 0.3.2 | f8:d1:11:7b:e5:2c | 53.866844 10.6886        |
 | Prians                | Fluse022            | Große Burgstrasse                | Uplink                           | TL-WR741ND             |         0.3.2 | f8:d1:11:7b:e5:28 | 53.873406 10.691006                   |
 | Hotel Hanseatic Dach  | Fluse023            | Hanseatic 3                      |                                  | TL-WR741ND             |       0.3.2.1 | f8:d1:11:7b:e4:f0 | 53.865119 10.670505                   |
 | off                   | Fluse024            | off                              |                                  | TL-WR741ND             |         0.3.2 | f8:d1:11:7b:e3:02 |                                       |
@@ -109,7 +109,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Eis                   | Fluse077            |                                  |                                  | TL-WD842nd             |       0.3.2.1 | 64:70:02:39:78:58 | 53.86703 10.688718                    |
 | Fluse078              | Majo                |                                  | Uplink                           | TL-WD842nd             |       0.3.2.1 | 64:70:02:39:77:ae | 53.89908845623992 10.64600944519043   |
 | Fenris                | Fluse079            | Friedenstrasse                   | Uplink                           | TL-WD842nd             |       0.3.2.1 | 64:70:02:39:79:7c | 53.875012301091 10.671962499618       |
-| Fluse080              | Fluse080            |                                  | Uplink                           | TL-WD841n              |       0.3.2.1 | 64:70:02:39:74:88 |                                       |
+| Fluse080 | Fluse080 |             | Uplink  | TL-WD841n | 0.3.2.1 | 64:70:02:39:74:88 | 53.87568908892 10.677101612091  |
 | BulletM2 #1           | Fluse082            | Friedenstrasse                   |                                  | Bullet M2 HP           |         0.3.2 | dc:9f:db:0c:19:8e | 53.875043926935 10.672026872634       |
 | Fluse083              | Fluse083            |                                  | Uplink                           |                        |       0.3.2.1 | 64:70:02:f7:0d:f4 | 53.89371797220992 10.651717185974121  |
 | Hotel Stadt Luebeck 0 | Fluse084            |                                  | Uplink                           | Hotel                  |       0.3.2.1 | 64:70:02:b3:dd:10 | 53.86632377611033 10.670304894447327  |
