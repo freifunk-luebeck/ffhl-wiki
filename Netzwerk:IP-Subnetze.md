@@ -47,6 +47,7 @@ Netmask: 255.255.240.0 (/20)
 
 | IP-Adresse    | Notizen                       | Hostname       |
 |---------------|-------------------------------|----------------|
+|   10.130.0.0  | reserviert                    | reserviert     |
 |   10.130.0.1  | reserviert                    | reserviert     |
 |   10.130.0.2  | reserviert                    | reserviert     |
 |   10.130.0.3  | reserviert                    | reserviert     |
