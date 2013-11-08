@@ -268,7 +268,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fritz                 | nbsp                | Große Burgstraße                 |                                  | Intel Celeron - x86-64 |        custom | 00:0a:cd:19:07:9c | 53.87389 10.69090                     |
 | Lilien-Freifunk       | ahaspharos          | Lilienstraße                     | mit Internetanbindung            | TL-WR841N              |       0.3.2.1 | 64:66:b3:ab:4a:84 | 53.855349048223204 10.670278072357176 |
 | el                    | el                  | Marlesgrube                      | mit Internetanbindung            | TL-WR841N              |       0.3.2.1 | 64:66:b3:ab:49:68 | 53.86413791836431 10.684563517570496  |
-| Karpfen               | Die Rochen          | Karpfenstraße                    | mit Internetanbindung            | TL-WR841ND             |       0.3.2.1 | F8:1A:67:3E:42:5C | 53.51811 010.40291                    |
+| Karpfen               | Die Rochen          | Karpfenstraße                    | mit Internetanbindung            | TL-WR841ND             |       0.3.2.1 | F8:1A:67:3E:42:5C | 53.8639 10.672383                    |
 | Blauer Engel          |                     | Clemensstraße                    |                                  | 841N                   |       0.3.2.1 | 64:66:B3:AB:4A:5E | 53.870340901322685 10.681049823760986 |
 | FreeWayLan          |      EinSpender               | Schönböckener Str.84/84a/86/86a            |     mit 20 Mbit / 3Mbit Internet Zugang                       | TL-WR1043ND (3 x TL-ANT2408CL 8dBi)                  |       0.3.2.1 | A0:F3:C1:76:58:5A | 53.869654537964195 10.643155574798584 |
 
