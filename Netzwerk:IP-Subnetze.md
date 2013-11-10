@@ -109,6 +109,7 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.120 | passe0815                     |                |
 |  10.130.0.131 | Daniel1 (Raspberry Pi, Ying1) | ying1          |
 |  10.130.0.132 | Daniel2 (AtomN230, Ying2)     | ying2          |
+|  10.130.0.132 | FreeWayLan (StatServer)     | freeway.ffhl      |
 
 ## Andere reservierte Subnetze
 
