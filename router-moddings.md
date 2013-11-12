@@ -3,5 +3,11 @@ Ich zum beispiel habe eine Webiste mit ftp zugang dazu genutzt , Statitisken fü
 
 Beipiel: [FreeWayLan Statistiken](http://www.Simbamail.de)
 
+Benötigt wird:
+-Usb Stick
+-Ssh
+-winscp
 
+Ich habe die Statistik auf einen UsB Stick ausgelagert,
+Weil der 1043Na d leider wenig ram hat.
 Weiteres folgt....
