@@ -6,8 +6,8 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 
 **Aktuell befinden sich in allen Karten noch die Möllner & Lübecker Knoten gemeinsam.**
 
-* Aus dem Internet: [[Stadtkarte|http://freifunk.metameute.de/map/geomap.html]] | [[Interaktiver Graph|http://freifunk.metameute.de/map/nodes.html]] ([[Code|https://github.com/tcatm/ffmap-d3]])
-* Aus dem Freifunknetz: [[Stadtkarte|http://map.ffhl/geomap.html]] | [[Interaktiver Graph|http://map.ffhl/nodes.html]]
+* Aus dem Internet: [[Stadtkarte|http://freifunk.metameute.de/map/geomap.html]] | [[Interaktiver Graph|http://freifunk.metameute.de/map/graph.html]] ([[Code|https://github.com/tcatm/ffmap-d3]])
+* Aus dem Freifunknetz: [[Stadtkarte|http://map.ffhl/geomap.html]] | [[Interaktiver Graph|http://map.ffhl/graph.html]]
 
 ## Bereits vorhandene Knoten
 **Es sollten keine fremden Einträge ohne Erlaubnis des Betreibers bearbeitet werden. Insbesondere dürfen keine GPS-Koordinaten oder Adresse angegeben werden, wenn der Betreiber dies nicht will!**
