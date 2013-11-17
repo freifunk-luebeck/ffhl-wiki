@@ -15,7 +15,7 @@ Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccch
 
  
 ## AKTUELL: 
-### Firmware 0.3.2.1
+### Firmware 0.3.2.2
 Die aktuelle Firmware ist nun freigegeben und auf den Seiten der jeweiligen Geräte verlinkt. [[Nähere Infos|Firmware:ChangeLog]]
 
 ### Radioauftritt
