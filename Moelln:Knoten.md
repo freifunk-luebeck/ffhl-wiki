@@ -20,7 +20,7 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 | Hirschberger Straße 6 | 53.59999 10.694002 | mkm | TL-WDR3600 | 0.3.2.1 | mit Internetanbindung | 64:70:02:AA:9E:66 | Waldstadt |
 | Lange Straße 36a | 53.620829 10.693082 | mhm | TL-WR841ND | 0.3.2.1 | mit Internetanbindung | 64:66:B3:87:A3:8C | Till-2 |
 | Lange Straße 36a | 53.620514 10.693645 | mhm | TL-WR841N | 0.3.2.1 | mit Internetanbindung | 10:FE:ED:A0:2D:86 | Till-1 |
-
+| Schönböckener Str.84/84a/86/86a | 53.869654537964195 10.643155574798584 | EinSpender | TL-WR1043ND (3 x TL-ANT2408CL 8dBi) | 0.3.2.1 | mit 20 Mbit / 3Mbit Internet Zugang  (Statistik:http://www.simbamail.de) | A0:F3:C1:A0:CE:A0 | FreeWayLan |
 
 ### Umrechnung von GPS Koordinaten
 http://rechneronline.de/geo-koordinaten/
