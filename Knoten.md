@@ -52,7 +52,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Mob. Kn. | Fluse015 | Mobiler Knoten  | | TL-WR1043ND | 0.3.1   | 54:e6:fc:af:43:ba | 53.87570806412841 10.676763653755188|
 | Fluse016 | Fluse016 | Hüxstrasse      | | TL-WR741ND  | 0.3.2   | f8:d1:11:55:9b:e4 | 53.8662668 10.688420534             |
 | ZOB R    | Fluse017 | ZOB R           | | TL-WR741ND  | 0.3.2   | b0:48:7a:cb:2c:b8 |                                     |
-| Fluse3600 | Fluse018 |  |               | TL-WDR3600  | 0.3.2.1 | 64:70:02:91:53:5a | 53.871662988 10.69738984            |
+| Fluse3600 | Fluse018 |  |               | TL-WDR3600  | 0.3.2.1 | 64:70:02:91:53:58 | 53.871662988 10.69738984            |
 | Fluse841nd | Fluse019 | Königpassage |  | TL-WR841ND  | 0.3.2   | 90:f6:52:b1:95:1c | 53.867461403 10.68788198            |
 | off       | Fluse020  | off          |  | TL-WR741ND  | 0.3.1   | f8:d1:11:7b:de:58 |                                     |
 | Thai Restaurant | Fluse021 | König. Thai Restaurant | | TL-WR741ND | 0.3.2 | f8:d1:11:7b:e5:2c | 53.866844 10.6886        |
