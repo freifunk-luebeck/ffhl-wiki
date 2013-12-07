@@ -1,6 +1,6 @@
 # Knoten retten
 Die folgenden Anleitungen sollten nur in Notfällen benutzt werden, wenn Knoten anders nicht mehr erreichbar sind.
-Der empfohlene Weg für normale Einstellungen ist eindeutig der [[Configmode|FAQ:Benutzung#Configmode]].
+Der empfohlene Weg für normale Einstellungen ist eindeutig der [[Configmode|FAQ/Benutzung#Configmode]].
 
 Diese Anleitungen sind für erfahrene Personen gedacht.
 Das Wissen, wie man sich per Telnet verbindet und wie man sich in einer Linux-Shell bewegt, werden vorrausgesetzt.
