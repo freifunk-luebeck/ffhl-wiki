@@ -1,6 +1,6 @@
 # Knoten retten
 Die folgenden Anleitungen sollten nur in Notfällen benutzt werden, wenn Knoten anders nicht mehr erreichbar sind.
-Der empfohlene Weg für normale Einstellungen ist eindeutig der [[Benutzung#Configmode|FAQ/Benutzung]].
+Der empfohlene Weg für normale Einstellungen ist eindeutig der Configmode (siehe Abschnitt [[Benutzung#Configmode|FAQ/Benutzung]]).
 
 Diese Anleitungen sind für erfahrene Personen gedacht.
 Das Wissen, wie man sich per Telnet verbindet und wie man sich in einer Linux-Shell bewegt, werden vorrausgesetzt.
@@ -11,7 +11,7 @@ Er ist durch Hardwarezugriff auslösbar und dann für erfahrene Nutzer gedacht.
 
 ### In den Failsafemode gelangen
 In den Failsafemode kommt man per Hardwarezugriff.
-Wie man in den Failsafemode kommt, ist unter [[Benutzung#Failsafemode|Benutzung]] beschrieben. 
+Wie man in den Failsafemode kommt, ist im Abschnitt [[Benutzung#Failsafemode|Benutzung]] beschrieben. 
 
 ### Den SSH-Server starten
 Da dieser Modus nur die notwendigsten Dienste bietet, ist der SSH-Server manuell zu starten.
