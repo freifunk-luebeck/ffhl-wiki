@@ -270,6 +270,8 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
  FreeWayLan2            | MSEB          | Beethovenstraße 67  | mit 30 Mbit / 3 Mbit Internet Zugang (Statistik:http://www.simbamail.de/index.php/de/statistiken-von-freewaylan2.html) | TL-WR1043ND|       0.3.2.2 | a0:f3:c1:a0:c1:9a | 53.927607777953426 10.688490271568298 |
   raupe                 | raupe                | Warendorpstraße                  | mit Internetanbindung       | TL-WR841ND           | 0.3.2.2      | 64:66:b3:2e:9c:95 | 53.87527163230387 10.673126578330994|
   raupe2                | raupe                | Warendorpstraße                  |             .                       | TL-WR841ND           | 0.3.2.2      | 12:fe:ed:b7:02:99 | 53.87519573065205 10.673196315765379|
+  raupe3                | raupe                | Warendorpstraße                  | mit Internetanbindung       | TL-WR841ND           | 0.3.2.2      | 10:fe:ed:af:b7:aa | 
+                        |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
