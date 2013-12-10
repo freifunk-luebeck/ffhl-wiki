@@ -137,11 +137,11 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse111              | Fluse111            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:8e:ba:54 | 53.867089273816 10.701005458831       |
 | Fluse112              | Fluse112            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:9a:00:ee | 53.862306265100 10.690389275550       |
 | Fluse113              | Fluse113            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:4b:04 | 53.873310795442 10.686119198799       |
-| Fluse114 | Fluse114 |             |      | TL-W841n | 0.3.2.1 | 64:66:b3:ab:4a:56 | 53.873215913907 10.686269402503       |
-| Fluse115 | Fluse115 |             |      | TL-W841n | 0.3.2.1 | 64:66:b3:ab:49:e6 |                                       |
-| Fluse116| Fluse116  |             |      | TL-W841n | 0.3.2.1 | 64:66:b3:ab:47:1c |                                       |
-| Fluse117 | Fluse117 |             |      | TL-W841n | 0.3.2.1 | 64:66:b3:ab:46:cc | 53.88628223712807 10.767052173614502  |
-| Fluse118 | Fluse118 |             |      | TL-W841n | 0.3.2.1 | 64:66:b3:ab:47:26 | 53.87173257125674 10.697593688964844  |
+| Fluse114              | Fluse114            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:4a:56 | 53.873215913907 10.686269402503       |
+| Fluse115              | Fluse115            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:49:e6 |                                       |
+| Fluse116              | Fluse116            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:1c |                                       |
+| Fluse117              | Fluse117            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:46:cc |                                       |
+| Fluse118              | Fluse118            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:26 | 53.87173257125674 10.697593688964844  |
 | Hotel Baltic 3        | Fluse119            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:46:f8 | 53.8654095890 10.67142605781          |
 | Hotel Baltic 2        | Fluse120            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:4a | 53.8654696918 10.67141532897          |
 | Hotel Baltic 1        | Fluse121            |                                  |                                  | TL-W841n               |       0.3.2.1 | 64:66:b3:ab:47:4c | 53.8654380588 10.67134559154          |
@@ -269,9 +269,12 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | FreeWayLan            | SHEN          | Schönböckener Str.84/84a/86/86a  | mit 40 Mbit / 3 Mbit Internet Zugang (Statistik:http://www.simbamail.de/index.php/de/stats.html / http://freeway.ffhl) | TL-WR1043ND (3 x TL-ANT2408CL 8dBi) |       0.3.2.2 | a0:f3:c1:a0:ce:a0 | 53.869654537964195 10.643155574798584 |
  FreeWayLan2            | MSEB          | Beethovenstraße 67  | mit 30 Mbit / 3 Mbit Internet Zugang (Statistik:http://www.simbamail.de/index.php/de/statistiken-von-freewaylan2.html) | TL-WR1043ND|       0.3.2.2 | a0:f3:c1:a0:c1:9a | 53.927607777953426 10.688490271568298 |
   raupe                 | raupe                | Warendorpstraße                  | mit Internetanbindung       | TL-WR841ND           | 0.3.2.2      | 64:66:b3:2e:9c:95 | 53.87527163230387 10.673126578330994|
-  raupe2                | raupe                | Warendorpstraße                  |             .                       | TL-WR841ND           | 0.3.2.2      | 12:fe:ed:b7:02:99 | 53.87519573065205 10.673196315765379|
-  raupe3                | raupe                | Warendorpstraße                  | mit Internetanbindung       | TL-WR841ND           | 0.3.2.2      | 10:fe:ed:af:b7:aa | 
-                        |
+  raupe2                | raupe                | Warendorpstraße                  |             .                       | TL-WR841ND           | 0.3.2.2      | 12:fe:ed:b7:02:99 |                    .                       |
+  raupe3                | raupe                | Warendorpstraße                  |                 .                       | TL-WR841ND           | 0.3.2.2      | 10:fe:ed:af:b7:aa | 53.87519573065205 10.673196315765379|
+  raupe4                | raupe                | Warendorpstraße                  |                 .                       | TL-WR841ND           | 0.3.2.2      | 10:fe:ed:7b:51:3e | 
+  raupe5                | raupe                | Warendorpstraße                  |               .                       | TL-WR841ND           | 0.3.2.2      | 10:fe:ed:7b:92:44 | 
+  raupe6                | raupe                | Warendorpstraße                  |                  .                       | TL-WR841ND           | 0.3.2.2      | 10:fe:ed:7b:91:cc | 
+
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
