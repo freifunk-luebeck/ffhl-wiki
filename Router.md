@@ -3,10 +3,11 @@
 ## Unterstützte Router
 Wir empfehlen den Einsatz vom [[TP-Link WR841ND|Firmware:841nd]] und [[TP-Link WDR3600|Firmware:3600]], da wir mit diesen gute Erfahrungen gemacht haben.
 Für beide stehen fertige Images auf der [[Mitmach-Seite|https://luebeck.freifunk.net/mitmachen.html]] bereit.
+Andere Modelle könnten funktionieren, sofern sie von [[OpenWRT|http://www.openwrt.org]] unterstützt werden. Doch ist dies keinesfalls die Regel. Bitte kauft keine anderen Modelle.
 
 ## Modelle
 Auf den folgenden Seiten befinden sich nähere Informationen zu den einzelnen unterstützten Gerätetypen:
- * [[TP-Link WR741ND|Firmware:741nd]]
+ * [[TP-Link WR741ND|Firmware:741nd]] - *nicht verlässlich!!*
  * [[TP-Link WR841ND|Firmware:841nd]]
  * [[TP-Link WR842ND|Firmware:842nd]]
  * [[TP-Link WR1043ND|Firmware:1043nd]]
