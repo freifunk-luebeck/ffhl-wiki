@@ -1,4 +1,9 @@
 # TP-Link WR741ND
+
+*Achtung - diesen Router nicht neu beschaffen! Mit vorhandenen Geräten
+kann experimentiert werden, doch tauschen wir die WR741 aktuell wegen
+deren geringen Verlässlichkeit allesamt wieder aus.*
+
 [![höhere Auflösung](/bilder/Freifunkrouter/TP-Link_741nd_300px.JPG)](bilder/Freifunkrouter/TP-Link_741nd.JPG)
 
 ## Verwendungszweck
