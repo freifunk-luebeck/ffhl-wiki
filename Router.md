@@ -7,7 +7,6 @@ Andere Modelle könnten funktionieren, sofern sie von [[OpenWRT|http://www.openw
 
 ## Modelle
 Auf den folgenden Seiten befinden sich nähere Informationen zu den einzelnen unterstützten Gerätetypen:
- * [[TP-Link WR741ND|Firmware:741nd]] - *nicht verlässlich!!*
  * [[TP-Link WR841ND|Firmware:841nd]]
  * [[TP-Link WR842ND|Firmware:842nd]]
  * [[TP-Link WR1043ND|Firmware:1043nd]]
