@@ -277,6 +277,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | PensionAmKlinikum     | raupe               | Ratzeburger Landstraße           | mit Internetanbindung                                                                                                  | TL-WR841ND                          |       0.3.2.2 | 10:fe:ed:af:b7:aa |                                       |
 | PensionAmKlinikum     | raupe               | Ratzeburger Landstraße           | mit Internetanbindung                                                                                                  | TL-WR841ND                          |       0.3.2.2 | 12:fe:ed:b7:02:99 |                                       |
 | PensionAmKlinikum     | raupe               | Ratzeburger Landstraße           | mit Internetanbindung                                                                                                  | TL-WR841ND                          |       0.3.2.2 | 10:fe:ed:7b:51:3e |                                       |
+| Freifunk-Haerderplatz | Jürgen              | Fritz-Reuter Straße              | mit Internetanbindung                                                                                                  | ?                                   |       0.3.2.2 | a0:f3:c1:d8:ae:e2 | 53.852909477281834 10.695405006408691 |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
