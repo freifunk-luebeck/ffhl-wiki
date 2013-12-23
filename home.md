@@ -36,11 +36,17 @@ Wir haben wieder eine begrenzte Anzahl fertig konfigurierter Router. Wenn du dic
 
 Besonders interessant für Gastronomiebetriebe und Hotels: Mit dem Freifunkrouter können die Gäste frei im Netz surfen, ohne das der Betreiber sich durch die mißbräuchliche Nutzung des Internets von einem Gast haftbar macht. (Störerhaftung)
 
+## Benachbarte Freifunk-Kreise
 
-## Mölln
+Die Lübecker Freifunker freuen sich nicht nur über ein Mitmachen in der Hansestadt. Wir freuen uns auch über jeden, der den Freifunk-Gedanken mit nach Hause nimmt. Hier stehen wir mit Rat und Tat zur Seite - und im Falle unserer direkten Nachbarn helfen wir gar mit unserer Server Infrastruktur bis die neuen Initiativen eine kritische Größe erreicht haben.
+
+### Lauenburg 
 
 In Mölln wird gerade mit Unterstützung der Lübecker Community ein neues Netz aufgebaut. Näheres dazu findet sich im entsprechenden [[Unterpunkt|Moelln]].
 
+### Ostholstein
+
+In Timmendorfer Strand ist schon seit längerem ein Freifunk Knoten. Seit Mitte Dezember 2013 stehen weitere Freifunk-Knoten im Ortsteil Niendorf. Nun hoffen wir auf ein Mitmachen der vielen kleinen Läden und Kneipen an der Strandpromenade. Wer mitmachen möchte, melde sich bitte bei der u.a. Kontakt-Adresse.
 
 ## Kontakt
 
