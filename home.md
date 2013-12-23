@@ -44,7 +44,7 @@ Die Lübecker Freifunker freuen sich nicht nur über ein Mitmachen in der Hanses
 
 In Mölln wird gerade mit Unterstützung der Lübecker Community ein neues Netz aufgebaut. Näheres dazu findet sich im entsprechenden [[Unterpunkt|Moelln]].
 
-### Ostholstein
+### [[Ostholstein]]
 
 In Timmendorfer Strand ist schon seit längerem ein Freifunk Knoten. Seit Mitte Dezember 2013 stehen weitere Freifunk-Knoten im Ortsteil Niendorf. Nun hoffen wir auf ein Mitmachen der vielen kleinen Läden und Kneipen an der Strandpromenade. Wer mitmachen möchte, melde sich bitte bei der u.a. Kontakt-Adresse.
 
