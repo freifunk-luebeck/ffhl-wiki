@@ -13,7 +13,7 @@ Die Lübecker Freifunker entwickeln und pflegen für uns die auf den WLAN Router
 
 ### Anfassbar
 
-Es sind derzeit 8-12 Knoten in Niendorf auf Abruf für eine Installation bereit. Wir werden nun geeignete Orte für eine Installation uns anschauen und die jeweiligen Inhaber ansprechen. Aber ein "zu dicht" wird es vermutlich so schnell nicht geben. Bitte sprechen Sie uns an. Der Eintrag für eine grafische Repräsentation in diese Knotenkarte ist optional aber sehr hilfreich.
+Es sind derzeit 8-12 Knoten in Niendorf auf Abruf für eine Installation bereit. Wir werden nun geeignete Orte für eine Installation uns anschauen und die jeweiligen Inhaber ansprechen. Aber ein "zu dicht" wird es vermutlich so schnell nicht geben. Bitte sprechen Sie uns an. Der Eintrag für eine grafische Repräsentation in diese [[http://luebeck.freifunk.net/map/geomap.html|Knotenkarte]] ist optional aber sehr hilfreich.
 
 ## Kontakt
 
