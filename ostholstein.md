@@ -9,11 +9,11 @@ Der Schwerpunkt beim Ausbau liegt zunächst in Timmendorfer Strand, dort dem Ort
 
 ### Das Nicht-Anfassbare
 
-Die Lübecker Freifunker entwickeln und pflegen für uns die auf den WLAN Routern laufende Software ("[firmware]")  und betreiben die vier Server, über die die Datenpakete laufen sowie dieses Wiki.
+Die Lübecker Freifunker entwickeln und pflegen für uns die auf den WLAN Routern laufende Software ("[[firmware]]")  und betreiben die vier Server, über die die Datenpakete laufen sowie dieses Wiki.
 
 ### Anfassbar
 
-Es sind derzeit 8-12 Knoten in Niendorf auf Abruf für eine Installation bereit. Wir werden nun geeignete Orte für eine Installation uns anschauen und die jeweiligen Inhaber ansprechen. Aber ein "zu dicht" wird es vermutlich so schnell nicht geben. Bitte sprechen Sie uns an. Der Eintrag für eine grafische Repräsentation in diese Knotenkarte|http://luebeck.freifunk.net/map/geomap.html ist optional aber sehr hilfreich.
+Es sind derzeit 8-12 Knoten in Niendorf auf Abruf für eine Installation bereit. Wir werden nun geeignete Orte für eine Installation uns anschauen und die jeweiligen Inhaber ansprechen. Aber ein "zu dicht" wird es vermutlich so schnell nicht geben. Bitte sprechen Sie uns an. Der Eintrag für eine grafische Repräsentation in diese [Knotenkarte](http://luebeck.freifunk.net/map/geomap.html) ist optional aber sehr hilfreich.
 
 ## Kontakt
 
