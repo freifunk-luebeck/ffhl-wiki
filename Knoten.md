@@ -287,6 +287,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Niendorf-7            | smoe                | Niendorf                         | mit Internetanbindung (test)                                                                                           | TL-WDR3600 v1.1                     | Gluon 0.3.2.2 | 64:70:02:b5:d3:f0 |                                       |
 | Niendorf-8            | smoe                | Niendorf                         | mit Internetanbindung (test), Gerät labelt MAC mit 10:fe:ed:7d:80:56                                                   | TL-WR841N v8.4                      | Gluon 0.3.2.2 | 12:fe:ed:7d:80:56 |                                       |
 | Niendorf-9            | smoe                | Niendorf                         | mit Internetanbindung (test)                                                                                           | TL-WR841ND v8.1                     | Gluon 0.3.2.2 | 64:70:02:eb:84:d4 |                                       |
+| Niendorf-10            | smoe                | Niendorf                         | mit Internetanbindung (test)                                                                                           | TL-WR841N v7.2                      | Gluon 0.3.2.2 | F8:D1:11:9C:82:54 |                                       |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
