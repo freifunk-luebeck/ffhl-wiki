@@ -39,8 +39,10 @@ user@vm-moeller-debian:~/freifunk-source$ git clone https://github.com/freifunk-
  remote: Total 115 (delta 2), reused 4 (delta 0)  
  Empfange Objekte: 100% (115/115), 13.24 KiB | 0 bytes/s, done.  
  Löse Unterschiede auf: 100% (46/46), done.  
- Prüfe Konnektivität... Fertig  
+ Prüfe Konnektivität... Fertig
+ </code>
  user@vm-moeller-debian:~/freifunk-source/gluon$ make update  
+ <code>
  /home/user/freifunk-source/gluon/scripts/update.sh /home/user/freifunk-source/gluon  
  Initialized empty Git repository in /home/user/freifunk-source/gluon/openwrt/.git/  
  remote: Counting objects: 10150, done.  
@@ -223,7 +225,7 @@ user@vm-moeller-debian:~/freifunk-source/gluon$ make
  make[2] image/UBNT
 </code>
 
-Das war's! Die fertigen Images liegen im gleichgenannten Verzeichnis:
+Das war's! Die fertigen images liegen im gleichgenannten Verzeichnis:
 
 <code>
  $ find images -name *factory.bin
@@ -263,3 +265,6 @@ Das war's! Die fertigen Images liegen im gleichgenannten Verzeichnis:
 Die Verfuegbarkeit eines images heisst nicht zwingend, dass die Hardware fuer den
 Freifunk verwendet werden sollte. So sehen wir etwa von dem Einsatz des TL-WR740
 oder TL-WR741 ab.
+
+Auf einer schnellen Haswell Maschine benoetigte der hier beschriebene Durchlauf
+auf einem virtuellen Kern mit Virtualbox 4.3.6 etwa 65 Minuten.
