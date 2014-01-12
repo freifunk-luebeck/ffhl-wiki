@@ -128,8 +128,9 @@ auch noch die Kompilier-Werkzeuge erstellt werden muessen. Der Linux Kernel fuer
 
 Es lohnt sich, mehrere CPU Kerne fuer die Kompilation einzusetzen. Das gilt auch schon bei Verfuegbarkeit nur eines Kerns, da so der Quellcode von der Festplatte geladen werden kann, wenn die CPU arbeitet und andersherum. Beim ersten Versuch moechte ich davon jedoch abraten, sicher ist sicher. Dann aufrufen mit "make -j5" oder -j6 bei vier Kernen. 
 
+
+user@vm-moeller-debian:~/freifunk-source/gluon$ make  
 <code>
-user@vm-moeller-debian:~/freifunk-source/gluon$ make
  make[1] prepare                                                                                                                              
  make[2] feeds                                                                                                                                
  make[2] config                                                                                                                               
