@@ -120,7 +120,9 @@ user@vm-moeller-debian:~/freifunk-source/gluon$  du -sh .
 164M    .                                      
 
 Nun wird der Compiliervorgang angestartet mit 'make'. Beim ersten mal dauert das noch recht lange, da nicht nur kompiliert wird, sondern zunaechst
-auch noch die Kompilier-Werkzeuge erstellt werden muessen. Es lohnt sich, mehrere CPU Kerne fuer die Kompilation einzusetzen. Das gilt auch schon bei Verfuegbarkeit nur eines Kerns, da so der Quellcode von der Festplatte geladen werden kann, wenn die CPU arbeitet und andersherum. Beim ersten Versuch moechte ich davon jedoch abraten, sicher ist sicher. Dann aufrufen mit "make -j5" oder -j6 bei vier Kernen. 
+auch noch die Kompilier-Werkzeuge erstellt werden muessen. Der Linux Kernel fuer den meist in den Routern befindlichen MIPS Kernel und dessen Umfeld werden auf diese Weise von einer anderen Platform kompiliert, dem Rechner zu Hause.
+
+Es lohnt sich, mehrere CPU Kerne fuer die Kompilation einzusetzen. Das gilt auch schon bei Verfuegbarkeit nur eines Kerns, da so der Quellcode von der Festplatte geladen werden kann, wenn die CPU arbeitet und andersherum. Beim ersten Versuch moechte ich davon jedoch abraten, sicher ist sicher. Dann aufrufen mit "make -j5" oder -j6 bei vier Kernen. 
 
 <code>
 user@vm-moeller-debian:~/freifunk-source/gluon$ make
@@ -168,14 +170,96 @@ user@vm-moeller-debian:~/freifunk-source/gluon$ make
  make[4] -C toolchain/uClibc/utils compile  
  make[4] -C toolchain/uClibc/utils install  
  make[2] kernel  
-
-
-Das war's! Die fertigen Images liegen im ebenso genanntn Verzeichnis:
-
-
-
- .....  
- 
-
+ make[2] packages  
+ make[3] package/cleanup  
+ make[3] package/compile  
+ make[4] -C package/toolchain compile  
+ make[4] -C package/libnl-tiny compile  
+ make[4] -C package/libjson-c compile  
+ make[4] -C package/lua compile  
+ make[4] -C package/libubox compile   
+ make[4] -C package/ubus compile  
+ make[4] -C package/uci compile  
+ .....
+ make[4] -C package/lua host-compile  
+ make[4] -C package/px5g compile  
+ make[4] -C package/uhttpd compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/luci/contrib/package/luci compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/gluon/gluon/gluon-config-mode compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/gluon/gluon/gluon-ebtables compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/gluon/gluon/gluon-ebtables-filter-multicast compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/gluon/gluon/gluon-ebtables-filter-ra-dhcp compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/gluon/gluon/gluon-luci-admin compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/gluon/gluon/gluon-luci-autoupdater compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/routing/batman-adv compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/gluon/gluon/gluon-mesh-batman-adv compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/gluon/gluon/gluon-mesh-vpn-fastd compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/gluon/gluon/gluon-next-node compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/openwrt/libs/libdaemon compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/openwrt/ipv6/radvd compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/gluon/gluon/gluon-radvd compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/mac80211/hostapd compile  
+ make[4] -C package/iw compile  
+ make[4] -C /home/user/freifunk-source/gluon/packages/mac80211/mac80211 compile  
+ .....
+ make[4] -C package/uboot-ar71xx compile  
+ make[4] -C package/zlib compile  
+ make[4] -C package/uboot-envtools compile  
+ make[3] package/index  
+ make[2] prepare-image  
+ make[3] -C target/linux/ar71xx/image prepare  
+ make[1] images  
+ make[2] image/TLWR740  
+ make[2] image/TLWR741  
+ make[2] image/TLWR841  
+ make[2] image/TLWR842
+ make[2] image/TLWR941
+ make[2] image/TLWR1043
+ make[2] image/TLWDR4300
+ make[2] image/TLMR3020
+ make[2] image/TLMR3040
+ make[2] image/TLMR3220
+ make[2] image/TLMR3420
+ make[2] image/UBNT
 </code>
 
+Das war's! Die fertigen Images liegen im gleichgenannten Verzeichnis:
+
+<code>
+ $ find images -name *factory.bin
+ images/ar71xx/TLMR3220/gluon-ar71xx-generic-tl-mr3220-v1-squashfs-factory.bin
+ images/ar71xx/TLWR741/gluon-ar71xx-generic-tl-wr741nd-v1-squashfs-factory.bin
+ images/ar71xx/TLWR741/gluon-ar71xx-generic-tl-wr741nd-v2-squashfs-factory.bin
+ images/ar71xx/TLWR741/gluon-ar71xx-generic-tl-wr741nd-v4-squashfs-factory.bin
+ images/ar71xx/TLMR3020/gluon-ar71xx-generic-tl-mr3020-v1-squashfs-factory.bin
+ images/ar71xx/TLMR3040/gluon-ar71xx-generic-tl-mr3040-v1-squashfs-factory.bin
+ images/ar71xx/TLWDR4300/gluon-ar71xx-generic-tl-wdr4300-v1-squashfs-factory.bin
+ images/ar71xx/TLWDR4300/gluon-ar71xx-generic-tl-wdr3600-v1-squashfs-factory.bin
+ images/ar71xx/TLWDR4300/gluon-ar71xx-generic-tl-wdr4310-v1-squashfs-factory.bin
+ images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841nd-v7-squashfs-factory.bin
+ images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841nd-v5-squashfs-factory.bin
+ images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841nd-v3-squashfs-factory.bin
+ images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841n-v8-squashfs-factory.bin
+ images/ar71xx/TLWR1043/gluon-ar71xx-generic-tl-wr1043nd-v1-squashfs-factory.bin
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-bullet-m-squashfs-factory.bin
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-ls-sr71-squashfs-factory.bin
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-rspro-squashfs-factory.bin
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-rocket-m-squashfs-factory.bin
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-airrouter-squashfs-factory.bin
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-unifi-squashfs-factory.bin
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-unifi-outdoor-squashfs-factory.bin
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-nano-m-squashfs-factory.bin
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-rs-squashfs-factory.bin
+ images/ar71xx/TLWR842/gluon-ar71xx-generic-tl-wr842n-v1-squashfs-factory.bin
+ images/ar71xx/TLWR941/gluon-ar71xx-generic-tl-wr941nd-v2-squashfs-factory.bin
+ images/ar71xx/TLWR941/gluon-ar71xx-generic-tl-wr941nd-v4-squashfs-factory.bin
+ images/ar71xx/TLWR941/gluon-ar71xx-generic-tl-wr941nd-v3-squashfs-factory.bin
+ images/ar71xx/TLMR3420/gluon-ar71xx-generic-tl-mr3420-v1-squashfs-factory.bin
+ images/ar71xx/TLWR740/gluon-ar71xx-generic-tl-wr740n-v3-squashfs-factory.bin
+ images/ar71xx/TLWR740/gluon-ar71xx-generic-tl-wr740n-v1-squashfs-factory.bin
+ images/ar71xx/TLWR740/gluon-ar71xx-generic-tl-wr740n-v4-squashfs-factory.bin
+</code>
+
+Die Verfuegbarkeit eines images heisst nicht zwingend, dass die Hardware fuer den
+Freifunk verwendet werden sollte. So sehen wir etwa von dem Einsatz des TL-WR740
+oder TL-WR741 ab.
