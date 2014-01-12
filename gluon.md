@@ -269,10 +269,19 @@ Freifunk verwendet werden sollte. So sehen wir etwa von dem Einsatz des TL-WR740
 oder TL-WR741 ab.
 
 Auf einer schnellen Haswell Maschine benoetigte der hier beschriebene Durchlauf
-auf einem virtuellen Kern mit Virtualbox 4.3.6 etwa 65 Minuten.
+auf einem virtuellen Kern mit Virtualbox 4.3.6 etwa 65 Minuten. Beeindruckender
+noch ist der gestiegene Speicherplatz
 
-<code>
 user@vm-moeller-debian:~/freifunk-source/gluon$ du -sh .  
-5,8G    .  
+<code>
+ 5,8G    .  
 </code>
 
+an dem die images 
+
+user@vm-moeller-debian:~/freifunk-source/gluon$ du -sh images/
+<code>
+ 481M    images/  
+</code>
+
+einen nicht ungehoerigen Anteil haben.
