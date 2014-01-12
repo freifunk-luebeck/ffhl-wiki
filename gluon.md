@@ -118,8 +118,10 @@ user@vm-moeller-debian:~/freifunk-source$ git clone https://github.com/freifunk-
  
 Der Speicherplatzbedarf ist nicht zu unterschaetzen. Bislang haben wir nur den Quellcode besorgt und noch nichts damit gemacht. Und dennoch, werden schlappe 164MB belegt.
 
-user@vm-moeller-debian:~/freifunk-source/gluon$  du -sh .
+<code>
+user@vm-moeller-debian:~/freifunk-source/gluon$  du -sh .  
 164M    .                                      
+</code>
 
 Nun wird der Compiliervorgang angestartet mit 'make'. Beim ersten mal dauert das noch recht lange, da nicht nur kompiliert wird, sondern zunaechst
 auch noch die Kompilier-Werkzeuge erstellt werden muessen. Der Linux Kernel fuer den meist in den Routern befindlichen MIPS Kernel und dessen Umfeld werden auf diese Weise von einer anderen Platform kompiliert, dem Rechner zu Hause.
@@ -268,3 +270,9 @@ oder TL-WR741 ab.
 
 Auf einer schnellen Haswell Maschine benoetigte der hier beschriebene Durchlauf
 auf einem virtuellen Kern mit Virtualbox 4.3.6 etwa 65 Minuten.
+
+<code>
+user@vm-moeller-debian:~/freifunk-source/gluon$ du -sh .  
+5,8G    .  
+</code>
+
