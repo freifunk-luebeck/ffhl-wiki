@@ -162,13 +162,13 @@ user@vm-moeller-debian:~/freifunk-source/gluon$ make
  make[4] -C tools/flex compile  
  make[4] -C tools/flex install  
  make[4] -C tools/bison compile  
- .....
+ .....   
  make[4] -C tools/b43-tools compile  
  make[4] -C tools/b43-tools install  
  make[3] toolchain/install  
  make[4] -C toolchain/gdb prepare  
  make[4] -C toolchain/gdb compile  
- .....
+ .....   
  make[4] -C toolchain/uClibc/utils compile  
  make[4] -C toolchain/uClibc/utils install  
  make[2] kernel  
@@ -182,7 +182,7 @@ user@vm-moeller-debian:~/freifunk-source/gluon$ make
  make[4] -C package/libubox compile   
  make[4] -C package/ubus compile  
  make[4] -C package/uci compile  
- .....
+ .....   
  make[4] -C package/lua host-compile  
  make[4] -C package/px5g compile  
  make[4] -C package/uhttpd compile  
@@ -203,7 +203,7 @@ user@vm-moeller-debian:~/freifunk-source/gluon$ make
  make[4] -C /home/user/freifunk-source/gluon/packages/mac80211/hostapd compile  
  make[4] -C package/iw compile  
  make[4] -C /home/user/freifunk-source/gluon/packages/mac80211/mac80211 compile  
- .....
+ .....   
  make[4] -C package/uboot-ar71xx compile  
  make[4] -C package/zlib compile  
  make[4] -C package/uboot-envtools compile  
