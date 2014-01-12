@@ -39,7 +39,7 @@ user@vm-moeller-debian:~/freifunk-source$ git clone https://github.com/freifunk-
  remote: Total 115 (delta 2), reused 4 (delta 0)  
  Empfange Objekte: 100% (115/115), 13.24 KiB | 0 bytes/s, done.  
  Löse Unterschiede auf: 100% (46/46), done.  
- Prüfe Konnektivität... Fertig
+ Prüfe Konnektivität... Fertig  
  </code>
  user@vm-moeller-debian:~/freifunk-source/gluon$ make update  
  <code>
@@ -214,15 +214,15 @@ user@vm-moeller-debian:~/freifunk-source/gluon$ make
  make[2] image/TLWR740  
  make[2] image/TLWR741  
  make[2] image/TLWR841  
- make[2] image/TLWR842
- make[2] image/TLWR941
- make[2] image/TLWR1043
- make[2] image/TLWDR4300
- make[2] image/TLMR3020
- make[2] image/TLMR3040
- make[2] image/TLMR3220
- make[2] image/TLMR3420
- make[2] image/UBNT
+ make[2] image/TLWR842  
+ make[2] image/TLWR941  
+ make[2] image/TLWR1043  
+ make[2] image/TLWDR4300  
+ make[2] image/TLMR3020  
+ make[2] image/TLMR3040  
+ make[2] image/TLMR3220  
+ make[2] image/TLMR3420  
+ make[2] image/UBNT  
 </code>
 
 Das war's! Die fertigen images liegen im gleichgenannten Verzeichnis:
