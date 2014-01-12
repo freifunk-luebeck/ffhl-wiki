@@ -228,38 +228,38 @@ user@vm-moeller-debian:~/freifunk-source/gluon$ make
 Das war's! Die fertigen images liegen im gleichgenannten Verzeichnis:
 
 <code>
- $ find images -name *factory.bin
- images/ar71xx/TLMR3220/gluon-ar71xx-generic-tl-mr3220-v1-squashfs-factory.bin
- images/ar71xx/TLWR741/gluon-ar71xx-generic-tl-wr741nd-v1-squashfs-factory.bin
- images/ar71xx/TLWR741/gluon-ar71xx-generic-tl-wr741nd-v2-squashfs-factory.bin
- images/ar71xx/TLWR741/gluon-ar71xx-generic-tl-wr741nd-v4-squashfs-factory.bin
- images/ar71xx/TLMR3020/gluon-ar71xx-generic-tl-mr3020-v1-squashfs-factory.bin
- images/ar71xx/TLMR3040/gluon-ar71xx-generic-tl-mr3040-v1-squashfs-factory.bin
- images/ar71xx/TLWDR4300/gluon-ar71xx-generic-tl-wdr4300-v1-squashfs-factory.bin
- images/ar71xx/TLWDR4300/gluon-ar71xx-generic-tl-wdr3600-v1-squashfs-factory.bin
- images/ar71xx/TLWDR4300/gluon-ar71xx-generic-tl-wdr4310-v1-squashfs-factory.bin
- images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841nd-v7-squashfs-factory.bin
- images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841nd-v5-squashfs-factory.bin
- images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841nd-v3-squashfs-factory.bin
- images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841n-v8-squashfs-factory.bin
- images/ar71xx/TLWR1043/gluon-ar71xx-generic-tl-wr1043nd-v1-squashfs-factory.bin
- images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-bullet-m-squashfs-factory.bin
- images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-ls-sr71-squashfs-factory.bin
- images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-rspro-squashfs-factory.bin
- images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-rocket-m-squashfs-factory.bin
- images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-airrouter-squashfs-factory.bin
- images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-unifi-squashfs-factory.bin
- images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-unifi-outdoor-squashfs-factory.bin
- images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-nano-m-squashfs-factory.bin
- images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-rs-squashfs-factory.bin
- images/ar71xx/TLWR842/gluon-ar71xx-generic-tl-wr842n-v1-squashfs-factory.bin
- images/ar71xx/TLWR941/gluon-ar71xx-generic-tl-wr941nd-v2-squashfs-factory.bin
- images/ar71xx/TLWR941/gluon-ar71xx-generic-tl-wr941nd-v4-squashfs-factory.bin
- images/ar71xx/TLWR941/gluon-ar71xx-generic-tl-wr941nd-v3-squashfs-factory.bin
- images/ar71xx/TLMR3420/gluon-ar71xx-generic-tl-mr3420-v1-squashfs-factory.bin
- images/ar71xx/TLWR740/gluon-ar71xx-generic-tl-wr740n-v3-squashfs-factory.bin
- images/ar71xx/TLWR740/gluon-ar71xx-generic-tl-wr740n-v1-squashfs-factory.bin
- images/ar71xx/TLWR740/gluon-ar71xx-generic-tl-wr740n-v4-squashfs-factory.bin
+ $ find images -name *factory.bin  
+ images/ar71xx/TLMR3220/gluon-ar71xx-generic-tl-mr3220-v1-squashfs-factory.bin  
+ images/ar71xx/TLWR741/gluon-ar71xx-generic-tl-wr741nd-v1-squashfs-factory.bin  
+ images/ar71xx/TLWR741/gluon-ar71xx-generic-tl-wr741nd-v2-squashfs-factory.bin  
+ images/ar71xx/TLWR741/gluon-ar71xx-generic-tl-wr741nd-v4-squashfs-factory.bin  
+ images/ar71xx/TLMR3020/gluon-ar71xx-generic-tl-mr3020-v1-squashfs-factory.bin  
+ images/ar71xx/TLMR3040/gluon-ar71xx-generic-tl-mr3040-v1-squashfs-factory.bin  
+ images/ar71xx/TLWDR4300/gluon-ar71xx-generic-tl-wdr4300-v1-squashfs-factory.bin  
+ images/ar71xx/TLWDR4300/gluon-ar71xx-generic-tl-wdr3600-v1-squashfs-factory.bin  
+ images/ar71xx/TLWDR4300/gluon-ar71xx-generic-tl-wdr4310-v1-squashfs-factory.bin  
+ images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841nd-v7-squashfs-factory.bin  
+ images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841nd-v5-squashfs-factory.bin  
+ images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841nd-v3-squashfs-factory.bin  
+ images/ar71xx/TLWR841/gluon-ar71xx-generic-tl-wr841n-v8-squashfs-factory.bin  
+ images/ar71xx/TLWR1043/gluon-ar71xx-generic-tl-wr1043nd-v1-squashfs-factory.bin  
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-bullet-m-squashfs-factory.bin  
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-ls-sr71-squashfs-factory.bin  
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-rspro-squashfs-factory.bin  
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-rocket-m-squashfs-factory.bin  
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-airrouter-squashfs-factory.bin  
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-unifi-squashfs-factory.bin  
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-unifi-outdoor-squashfs-factory.bin  
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-nano-m-squashfs-factory.bin  
+ images/ar71xx/UBNT/gluon-ar71xx-generic-ubnt-rs-squashfs-factory.bin  
+ images/ar71xx/TLWR842/gluon-ar71xx-generic-tl-wr842n-v1-squashfs-factory.bin  
+ images/ar71xx/TLWR941/gluon-ar71xx-generic-tl-wr941nd-v2-squashfs-factory.bin  
+ images/ar71xx/TLWR941/gluon-ar71xx-generic-tl-wr941nd-v4-squashfs-factory.bin  
+ images/ar71xx/TLWR941/gluon-ar71xx-generic-tl-wr941nd-v3-squashfs-factory.bin  
+ images/ar71xx/TLMR3420/gluon-ar71xx-generic-tl-mr3420-v1-squashfs-factory.bin  
+ images/ar71xx/TLWR740/gluon-ar71xx-generic-tl-wr740n-v3-squashfs-factory.bin  
+ images/ar71xx/TLWR740/gluon-ar71xx-generic-tl-wr740n-v1-squashfs-factory.bin  
+ images/ar71xx/TLWR740/gluon-ar71xx-generic-tl-wr740n-v4-squashfs-factory.bin  
 </code>
 
 Die Verfuegbarkeit eines images heisst nicht zwingend, dass die Hardware fuer den
