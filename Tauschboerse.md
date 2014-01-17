@@ -3,15 +3,12 @@
 Du hast noch alte Hardware rumliegen, die du nicht mehr brauchst, aber noch nutzbar ist?
 Dann trag sie hier ein und vielleicht findet sich ein neuer Verwendungszweck dafür.
 
+Solltest du neue Hardware haben wollen: Eichi (se@ybit.eu) bestellt oft größere Mengen an Routern, Du kannst dich einfach bei ihm melden, wenn du mitbestellen möchtest.
+
 # Biete - Router
 
 | Bezeichnung                        | Anzahl | Tauschwert | Anbieter               | Kommentar      |
 |------------------------------------|--------|------------|------------------------|----------------|
-| 1043ND                             |  n     | 45€        | Eichi - se@ybit.eu     | neu + geflasht |
-| WDR3600                            |  n     | 60€        | Eichi - se@ybit.eu     | neu + geflasht |
-| 841ND                              |  n     | 25€        | Eichi - se@ybit.eu     | neu + geflasht |
-| 841N                               |  n     | 20€        | Eichi - se@ybit.eu     | neu + geflasht |
-| 741ND                              |  n     | 20€        | Eichi - se@ybit.eu     | neu + geflasht |
 | [[Bullet M2 Hi Power|http://varia-store.com/Wireless-Systems/Outdoor-Solutions/Bullet-M2-HP-BULLETM2-HP-2-4GHz-Hi-Power-802-11N-UBNT::867.html]]                 |  1     | VHB        | T_X                    | zum Testen oder Dauerleihgabe für tolle Dach-Installationen |
 | [[Alix-Board, 2x 802.11n (indoor)|http://varia-store.com/Hardware/PC-Engines-ALIX-Boards/ALIX-2D2-Mainboard-500MHz-256MB-2xLAN-2xMini-PCI-USB::543.html]]    |  2     | VHB        | T_X                    | zum Testen oder Dauerleihgabe für tolle Standorte |
 | [[Alix-Board, 2x 802.11n (outdoor)|http://varia-store.com/Hardware/PC-Engines-ALIX-Boards/ALIX-3D2-Mainboard-500MHz-256MB-1xLAN-2xMini-PCI-USB::491.html]]   |  1     | VHB        | T_X                    | zum Testen oder Dauerleihgabe für tolle Dach-Installationen |
@@ -27,8 +24,6 @@ Dann trag sie hier ein und vielleicht findet sich ein neuer Verwendungszweck daf
 | [[19dBi Yagi-Antenne, 2.4GHz, outdoor|http://yagi.pl/antena-kierunkowa-yagi-gold-p-973.html]]   |  2     | -          | MetaMeute              | zum Testen |
 
 
-
-Eichi (se@ybit.eu) bestellt oft größere Mengen an Routern, Du kannst dich bei ihm melden, wenn du neue Hardware möchtest.
 
 # Suche
 
