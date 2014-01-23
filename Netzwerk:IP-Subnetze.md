@@ -157,4 +157,4 @@ Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
 | 10.130.16.18 | berik /ampache testuser pw 1234| hinkelstein.ffhl|
 | 10.130.16.19 | mkm                            |                 |
 | 10.130.16.20 | tux                            |                 |
-
+| 10.130.16.21 | zafer                          |                 |
