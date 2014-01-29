@@ -10,6 +10,6 @@ Eine kleine Broschüre für Einsteiger wurde gebaut. Die Lizenz ist [[http://i.c
 
 ## Präsentation
 
-Eine Präsentation für Freifunk-Lübeck.
+Eine Präsentation für Freifunk-Lübeck. Ebenfalls unter der Lizenz [[http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png]] [[nähere Infos|http://creativecommons.org/licenses/by-nc-sa/3.0/]] veröffentlicht.
 
 [[Link zum Download|http://ybit.eu/files/media/ff-hl.pdf]]
