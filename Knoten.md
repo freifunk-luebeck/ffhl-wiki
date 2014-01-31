@@ -155,7 +155,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse133        | Fluse133 |   |          | Unifi     | 0.3.2.2 | 24:a4:3c:3e:c6:86 | 53.86623204197421 10.67040681838989 |
 | Fluse134        | Fluse134 |   |          | Unifi     | 0.3.2.2 | 24:a4:3c:3e:c6:77 | 53.866260511210406 10.67037463188171|
 | Fluse140        | Fluse140 |   |          | TL-WDR3600| 0.3.2.2 | 64:70:02:d1:76:4c | 53.897836774742025 10.6435042619705 | 
-| Fluse143        | Fluse143 |   |          | TL-W841n  | 0.3.2.2 | 64:70:02:ba:11:7e | |
+| Fluse143        | Fluse143 |   |          | TL-W841n  | 0.3.2.2 | 64:70:02:f7:0e:02 | |
 | Fluse144        | Fluse144 |   |          | TL-W841n  | 0.3.2.2 | 64:66:b3:d4:3f:36 | 53.897915796147494 10.643466711044312| 
 | 9to5                  | Andre               | Dankwartsgrube                   | Uplink                                                                                                                 | TL-WR741ND                          |         0.3.2 | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
 | Dennis                | Fluse               | Rehsprung, Lübeck                | Uplink                                                                                                                 | TL-WR1043ND                         |         0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
