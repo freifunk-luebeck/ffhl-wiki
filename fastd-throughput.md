@@ -11,4 +11,6 @@ Einheit: MBit/s
 | Ubiquiti UnifiAP             | 4.83              |            | 29.2 |
 | Ubiquiti Nanostation Loco 2M | 4.65              |            | 28.4 |
 
-Mit einem TP-Link 841N hat rubo77 in Kiel einmal 7,48 Mbit down und 6,74 Mbit up erreicht: http://www.speedtest.net/my-result/3239608362
+Mit einem TP-Link 841N hat rubo77 in Kiel (kff-0.3.2.1) einmal 7,48 Mbit down und 6,74 Mbit up erreicht: http://www.speedtest.net/my-result/3239608362
+
+Test von rubo77 mit einem TP-Link 8412ND hingegen nur 4,6 Mbit down und 4,7Mbit up 
