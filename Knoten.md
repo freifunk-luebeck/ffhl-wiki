@@ -158,7 +158,8 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse141        | Fluse141 |   |          | TL-W841n  | 0.3.2.2 | 64:70.02:b5:d3:f0 |  |
 | Fluse142        | Fluse142 |   |          | TL-WDR3600| 0.3.2.2 | f8:d1:11:9c:82:45 |  |
 | Fluse143        | Fluse143 |   |          | TL-W841n  | 0.3.2.2 | 64:70:02:f7:0e:02 | |
-| Fluse144        | Fluse144 |   |          | TL-W841n  | 0.3.2.2 | 64:66:b3:d4:3f:36 | 53.897915796147494 10.643466711044312| 
+| Fluse144        | Fluse144 |   |          | TL-W841n  | 0.3.2.2 | 64:66:b3:d4:3f:36 | 53.897915796147494 10.643466711044312|
+| Fluse147        | Fluse147 |   |          | TL-W841n  | 0.3.2.2 | 10:fe:ed:8a:1b:02 | 53.89192871124864 10.68793773651123  |
 | 9to5                  | Andre               | Dankwartsgrube                   | Uplink                                                                                                                 | TL-WR741ND                          |         0.3.2 | f8:d1:11:7b:e4:ca | 53.862968 10.682708                   |
 | Dennis                | Fluse               | Rehsprung, Lübeck                | Uplink                                                                                                                 | TL-WR1043ND                         |         0.3.2 | b0:48:7a:99:e0:7e | 53.910475 10.805865                   |
 | Garuda-ZOB            | MHintz              | Lübeck ZOB                       |                                                                                                                        | TL-WR741ND                          |        0.3pre | f8:d1:11:55:9f:9a |                                       |
