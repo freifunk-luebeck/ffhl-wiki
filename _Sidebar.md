@@ -52,6 +52,7 @@
      * [[TP-Link WR841ND|Firmware:841nd]]
      * [[TP-Link WR842ND|Firmware:842nd]]
      * [[TP-Link WDR3600|Firmware:3600]]
+     * [[Nanostation loco M2 Kit|Hardware/NSLM2kit]]
    * [[fastd Schlüsselverwaltung|fastd-schlusselverwaltung]]
    * [[fastd Durchsatz|fastd-throughput]]
  * [[Probleme]]
