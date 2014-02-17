@@ -1,0 +1,18 @@
+# Nanostation loco M2 Kit
+
+![Kit outdoor](nslm2kit.jpg)
+
+Das Nanostation loco M2 Kit besteht aus:
+
+ * Ubiquity Nanostation loco M2 (ca. 45 Euro)
+ * Ubiquity Nanostation Mount (ca. 18 Euro)
+ * 2m flaches Netzwerkkabel
+
+Es eignet sich für Installationen an Fenstern und Außenwänden. Die Halterung
+lässt sich wahlweise mittels Saugnapf an Fenstern oder mit drei Schrauben
+(inkl. Dübel im Lieferumfang) an Wänden befestigen. Durch das flache
+Netzwerkkabel ist die Stromversorgung durchs Fenster einfach möglich.
+
+Die Firma yBit vertreibt das Kit für 70 Euro. Kontakt: se@ybit.eu
+
+![Kit indoor](nslm2kit-innen.jpg)
