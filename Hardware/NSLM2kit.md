@@ -13,6 +13,4 @@ lässt sich wahlweise mittels Saugnapf an Fenstern oder mit drei Schrauben
 (inkl. Dübel im Lieferumfang) an Wänden befestigen. Durch das flache
 Netzwerkkabel ist die Stromversorgung durchs Fenster einfach möglich.
 
-Die Firma yBit vertreibt das Kit für 65 Euro. Kontakt: se@ybit.eu
-
 ![Kit indoor](nslm2kit-innen.jpg)
