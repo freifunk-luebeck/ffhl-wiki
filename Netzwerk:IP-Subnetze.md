@@ -57,11 +57,9 @@ Netmask: 255.255.240.0 (/20)
 |   10.130.0.7  | reserviert                    | reserviert     |
 |   10.130.0.8  | Avahi: krtek.local            | krtek.ffhl     |
 |   10.130.0.9  | rec.metameute.de              |                |
-|  10.130.0.10  | tcatm                         |                |
 |  10.130.0.11  | DerDerwish                    |                |
 |  10.130.0.12  | stmarien (vm auf krtek)       | stmarien.ffhl  |
 |  10.130.0.13  | 7jM                           | serverbox      |
-|  10.130.0.14  | tcatm's 1043nd                |                |
 |  10.130.0.15  | staegidien (vm auf krtek)     | staegidien.ffhl|
 |  10.130.0.16  | Avahi: bluedog.local          |                |
 |  10.130.0.17  | greendog                      | greendog.ffhl  |
