@@ -4,7 +4,7 @@
 
 **Bedingungen:**
 
-* batman-adv, alfred, batadv-vis, sed, grep
+* batman-adv, [[alfred, batadv-vis|http://www.open-mesh.org/projects/open-mesh/wiki/Alfred]], sed, grep
 
 Initial muss eine ffapi-Datei angelegt werden, zum Beispiel so: https://git.metameute.de/ffhl/startseite/tree/ffapi.json. Wichtig ist, dass die Sektion "state" vorhanden ist.
 
