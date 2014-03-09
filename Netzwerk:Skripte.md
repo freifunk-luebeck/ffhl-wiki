@@ -10,7 +10,7 @@ Initial muss eine ffapi-Datei angelegt werden, zum Beispiel so: https://git.meta
 
 Danach kann man folgendes Skript zum Aktualisieren der Knotenanzahl in /etc/cron.hourly/ffapi-update-nodes ausführbar (chmod +x) hinterlegen:
 
-[[Netzwerk:Skripte:ffapi-update-nodes]]
+[[ffapi-update-nodes|Netzwerk:Skripte:ffapi-update-nodes]]
 
 ## Generisches Freifunk-Knoten Skript
 
@@ -18,7 +18,7 @@ Danach kann man folgendes Skript zum Aktualisieren der Knotenanzahl in /etc/cron
 
 * ip, iw, macchanger, brctl, hostapd, dhclient, insmod, modprobe, dmesg, tail, sed, killall, sleep
 
-[[Netzwerk:Skripte:start-ff.sh]]
+[[start-ff.sh|Netzwerk:Skripte:start-ff.sh]]
 
 ## DHCP-Server Prüfer für batman-adv gateways
 
@@ -26,7 +26,7 @@ Danach kann man folgendes Skript zum Aktualisieren der Knotenanzahl in /etc/cron
 
 * etables, awk, pkill, dhclient, grep
 
-[[Netzwerk:Skripte:dhcp-check.sh]]
+[[dhcp-check.sh|Netzwerk:Skripte:dhcp-check.sh]]
 
 ## VPN-Gateway Prüfer
 
