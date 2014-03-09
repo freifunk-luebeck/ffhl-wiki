@@ -12,6 +12,8 @@ Danach kann man folgendes Skript zum Aktualisieren der Knotenanzahl in /etc/cron
 
 [[ffapi-update-nodes|Netzwerk:Skripte:ffapi-update-nodes]]
 
+In diesem Skript muss dann noch der Pfad zur ffapi.json angepasst werden.
+
 ## Generisches Freifunk-Knoten Skript
 
 **Bedingungen:**
