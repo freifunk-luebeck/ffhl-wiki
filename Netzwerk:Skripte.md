@@ -1,5 +1,17 @@
 # Skripte
 
+## Knotenanzahl FFAPI-Updater
+
+**Bedingungen:**
+
+* batman-adv, alfred, batadv-vis, sed, grep
+
+Initial muss eine ffapi-Datei angelegt werden, zum Beispiel so: https://git.metameute.de/ffhl/startseite/tree/ffapi.json. Wichtig ist, dass die Sektion "state" vorhanden ist.
+
+Danach kann man folgendes Skript zum Aktualisieren der Knotenanzahl in /etc/cron.hourly/ffapi-update-nodes ausführbar (chmod +x) hinterlegen:
+
+[[Netzwerk:Skripte:ffapi-update-nodes]]
+
 ## Generisches Freifunk-Knoten Skript
 
 **Bedingungen:**
