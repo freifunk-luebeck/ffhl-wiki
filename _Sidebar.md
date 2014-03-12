@@ -33,8 +33,10 @@
    * Spiele
      * [[NetHack]]
      * [[Minetest]]
- * [[Mölln|Moelln]]
-   * [[Aktive Knoten|Moelln:Knoten]]
+ * Benachbarte Freifunk-Initiativen
+   * [[Ostholstein]]
+   * [[Lauenburg/Mölln|Moelln]]
+     * [[Aktive Knoten|Moelln:Knoten]]
  * Technische Details
    * [[Netzwerk]]
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
@@ -48,11 +50,16 @@
      * [[Individuelle Firmware|Firmware:Individuell]]
      * [[Roadmap|Firmware:Roadmap]]
    * [[Empfohlene Routermodelle|Router]]
-     * [[TP-Link WR741ND|Firmware:741nd]]
      * [[TP-Link WR841ND|Firmware:841nd]]
      * [[TP-Link WR842ND|Firmware:842nd]]
      * [[TP-Link WDR3600|Firmware:3600]]
+     * [[TP-Link WDR4300|Firmware:4300]]
      * [[Nanostation loco M2 Kit|Hardware/NSLM2kit]]
+     * Bullet M2
+     * NanoStation M2
+     * Unifi AP
+     * Unifi AP LR
+     * NanoBridge M2
    * [[fastd Schlüsselverwaltung|fastd-schlusselverwaltung]]
    * [[fastd Durchsatz|fastd-throughput]]
  * [[Probleme]]
