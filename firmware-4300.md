@@ -2,10 +2,7 @@
 
 ## Verwendungszweck
 
-
-Diese Router sollen auf lange Zeit die [[TP-Link 1043ND|Firmware:1043nd]] ersetzen.
-
-Durch die gleichzeitige Nutzbarkeit des 2,4GHz- und 5GHz-Netzes ist eine höhere Geschwindigkeit des Funknetzwerkes möglich. Dies ist insbesondere in Regionen mit sehr vielen anderen Funknetzwerken der Fall, da hier das 2,4GHz-Netz meist überlaufen ist. Außerdem sind [[zwei Bänder|https://en.wikipedia.org/wiki/Wireless_mesh_network#Multi-radio_mesh]] bei längeren Mesh-Ketten vorteilhaft (mit nur einem Funkkanal halbiert sich in der Regel die mögliche Geschwindigkeit mit jedem weiteren Knoten, die die Daten über das WLAN zurücklegen).
+Der Router liegt zwischen dem 3600er und dem 4900er von TP-Link. Die dritte Antenne ist beim 3600er lediglich nicht herausgeführt.
 
 ## Eigenschaften
 
