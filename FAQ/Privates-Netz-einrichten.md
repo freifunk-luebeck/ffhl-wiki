@@ -26,16 +26,16 @@ Zunächst sollte ein Subnetz auf [[Netzwerk:IP Subnetze]] unter "Andere reservie
 
 Es ist äußerst wichtig, dass das benutzte Subnetz dort direkt eingetragen wird, damit es auf keinen Fall zu Doppelbelegung kommt. Selbst bei Tests macht es also Sinn, das zu reservieren!
 
-## IPv6 Linklocal und IPv4 von br-freifunk an Liste senden
+## IPv6 Linklocal und IPv4 von br-client an Liste senden
 
-Die Ausgabe von `ip addr show br-freifunk` muss an die Mailingliste mit einem sinnvollen Kommentar geschickt werden, damit es in den Gateways richtig eingetragen wird und der Knoten später die Routen bekommt.
+Die Ausgabe von `ip addr show br-client` muss an die Mailingliste mit einem sinnvollen Kommentar geschickt werden, damit es in den Gateways richtig eingetragen wird und der Knoten später die Routen bekommt.
 
 ## /etc/config/network
 
-- eth0.1 mit einem Editor der Wahl in der Datei `/etc/config/network` aus `freifunk` rausnehmen
-- `freifunk` die reservierte IP zuweisen
+- eth0.1 mit einem Editor der Wahl in der Datei `/etc/config/network` aus `client` rausnehmen
+- `client` die reservierte IP zuweisen
 
-        config interface 'freifunk'
+        config interface 'client'
         ...
             option proto 'static'
             option ipaddr '10.130.0.120' <-- anpassen!
@@ -54,7 +54,7 @@ Die Ausgabe von `ip addr show br-freifunk` muss an die Mailingliste mit einem si
 
 ## /etc/config/firewall editieren
 
-In config defaults und zone freifunk jeweils `forward ACCEPT` einstellen.
+In config defaults und zone client jeweils `forward ACCEPT` einstellen.
 
 In der Zone wan:
 
