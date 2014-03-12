@@ -1,9 +1,22 @@
 # Mitmachen!
 
 ## Unterstützte Router
-Wir empfehlen den Einsatz vom [[TP-Link WR841ND|Firmware:841nd]] und [[TP-Link WDR3600|Firmware:3600]], da wir mit diesen gute Erfahrungen gemacht haben.
-Für beide stehen fertige Images auf der [[Mitmach-Seite|https://luebeck.freifunk.net/mitmachen.html]] bereit.
-Andere Modelle könnten funktionieren, sofern sie von [[OpenWRT|http://www.openwrt.org]] unterstützt werden. Doch ist dies keinesfalls die Regel. Bitte kauft keine anderen Modelle.
+Wir empfehlen den Einsatz von Geräten von TP-Link
+ * [[TP-Link WR841ND|Firmware:841nd]]
+ * [[TP-Link WDR3600|Firmware:3600]]
+ * [[TP-Link WDR4300|Firmware:4300]],
+ 
+da wir mit diesen gute Erfahrungen gemacht haben. Etwas weniger schnell, aber mit excellenten Reichweiten und höchst verlässlich sind auch die Geräte von Ubiquity:
+ * Nanostation loco M2
+ * Bullet M2
+ * NanoStation M2
+ * Unifi AP
+ * Unifi AP LR
+ * NanoBridge M2
+
+Für die oben genannten Geräte stehen fertige Images auf der [[Mitmach-Seite|https://luebeck.freifunk.net/mitmachen.html]] bereit.
+
+Andere Modelle könnten funktionieren, sofern sie von [[OpenWRT|http://www.openwrt.org]] unterstützt werden. Doch ist dies keinesfalls die Regel. Bitte kauft ohne Rücksprache keine anderen Modelle.
 
 ## Modelle
 Auf den folgenden Seiten befinden sich nähere Informationen zu den einzelnen unterstützten Gerätetypen:
