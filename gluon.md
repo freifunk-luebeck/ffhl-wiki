@@ -2,8 +2,10 @@ Die derzeit in Entwicklung befindliche neue Version der Firmware heisst "Gluon".
  * einheitliche Konfiguration fuer alle Freifunk-Gruppen
  * automatische updates der Firmware
 
-Bislang gibt es keine offiziellen images, und selber gebaute sollten auch nicht in den produktiven Umlauf kommen. Aber jeder moege bitte
-damit experimentieren und Fehler melden. Die Schritte zu Installation sind die folgenden, insbesondere auch erklaert im README des source
+Gluon hat inzwischen beta status. Die Entwickler Nils, Matthias und Linus signieren die jeweiligen stabilen images und stellen sie für automatische Updates in einem separaten stable repository bereit. Für den Download siehe
+http://luebeck.freifunk.net/firmware/beta und eine email von Niels am 12.3.2014 an die Lübecker [[Freifunk Mailing Liste|https://lists.asta.uni-luebeck.de/mailman/private/freifunk.luebeck]].
+
+Selber gebaute sollten auch nicht in den produktiven Umlauf kommen. Aber jeder möge bitte damit experimentieren und Fehler melden. Die Schritte zu Installation sind die folgenden, insbesondere auch erklaert im README des source
 code repositories auf https://github.com/freifunk-gluon/gluon:
 
   git clone https://github.com/freifunk-gluon/gluon.git        # Get the frameworking gluon developments in
