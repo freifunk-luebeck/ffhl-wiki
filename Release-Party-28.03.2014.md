@@ -32,4 +32,6 @@ Grill- und "Gemeinde"-Fest.
 Damit nicht alle am Ende das gleiche für das Buffet und den Grill mitbringen,
 wäre es schön, wenn jeder sein Mitbringsel eintragen könnte:
 
+| Verpflegung          |
+|----------------------|
 | Kartoffelsalat (T_X) |
