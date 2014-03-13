@@ -29,8 +29,7 @@ Grill- und "Gemeinde"-Fest.
 
 ## Verpflegungsliste
 
-Damit nicht alle am Ende das gleiche für das Buffet und den Grill mitbringen,
-wäre es schön, wenn jeder sein Mitbringsel eintragen könnte:
+Damit nicht alle am Ende das gleiche für das Buffet und den Grill mitbringen, wäre es schön, wenn jeder sein Mitbringsel eintragen könnte:
 
 | Verpflegung          | Von wem |
 |----------------------|---------|
