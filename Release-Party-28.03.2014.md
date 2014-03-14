@@ -11,6 +11,9 @@ Gartenanlage Hohewarte
 (ACHTUNG: Kann sich spontan ändern, falls die Teilnehmerliste zu lang wird -
 schaut am besten hier vor eurer Abfahrt nochmal vorbei)
 
+[[bilder/gartenadresse.png]]
+[[bilder/garten.png]]
+
 ## Was?
 
 Grill- und "Gemeinde"-Fest.
