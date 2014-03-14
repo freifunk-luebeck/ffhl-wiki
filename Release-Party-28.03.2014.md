@@ -29,11 +29,13 @@ Grill- und "Gemeinde"-Fest.
 | (Nick-)Name | Community / Stadt |
 |-------------|-------------------|
 | Linus       | Lübeck            |
+| Matthias    | Lübeck            |
 
 ## Verpflegungsliste
 
 Damit nicht alle am Ende das gleiche für das Buffet und den Grill mitbringen, wäre es schön, wenn jeder sein Mitbringsel eintragen könnte:
 
-| Verpflegung          | Von wem |
-|----------------------|---------|
-| Kartoffelsalat       | Linus   |
+| Verpflegung          | Von wem  |
+|----------------------|----------|
+| Kartoffelsalat       | Linus    |
+| Knobibrot/-brötchen  | Matthias |
