@@ -1,7 +1,7 @@
 # Firmware
 Die Lübecker Freifunk-Firmware basiert auf [[OpenWRT|https://openwrt.org/]]. OpenWRT ist eine Linux Distribution für hauptsächlich in Netzwerkumgebungen eingesetzte Embedded Systeme.
 
-Es befindet sich parallel zur aktuell verwendeten Lübeck spezifischen Freifunk-Firmware eine weitere Firmware namens `[[Gluon]]` in Entwicklung. Sie hat zum Ziel eine community-übergreifende Grundlage für die Firmware-Entwicklung zu bieten, indem die Lokalisierungen für eine bestimmte Freifunk-Community separat geführt werden.
+Es befindet sich parallel zur aktuell verwendeten Lübeck spezifischen Freifunk-Firmware eine weitere Firmware namens [[Gluon]] in Entwicklung. Sie hat zum Ziel eine community-übergreifende Grundlage für die Firmware-Entwicklung zu bieten, indem die Lokalisierungen für eine bestimmte Freifunk-Community separat geführt werden.
 
 ## Download
 Die aktuelle Lübecker Firmware findest du auf unserer [[Mitmach-Seite|https://luebeck.freifunk.net/mitmachen.html]].<br>
