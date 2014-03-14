@@ -28,7 +28,7 @@ Grill- und "Gemeinde"-Fest.
 
 | (Nick-)Name | Community / Stadt |
 |-------------|-------------------|
-| T_X         | Lübeck            |
+| Linus       | Lübeck            |
 
 ## Verpflegungsliste
 
@@ -36,4 +36,4 @@ Damit nicht alle am Ende das gleiche für das Buffet und den Grill mitbringen, w
 
 | Verpflegung          | Von wem |
 |----------------------|---------|
-| Kartoffelsalat       | T_X     |
+| Kartoffelsalat       | Linus   |
