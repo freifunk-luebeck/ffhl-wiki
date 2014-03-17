@@ -7,7 +7,7 @@ Wir empfehlen den Einsatz von Geräten von TP-Link
  * [[TP-Link WDR4300|Firmware:4300]],
  
 da wir mit diesen gute Erfahrungen gemacht haben. Etwas weniger schnell, aber mit excellenten Reichweiten und höchst verlässlich sind auch die Geräte von Ubiquity:
- * Nanostation loco M2
+ * [[Nanostation loco M2|Hardware/NSLM2kit]]
  * Bullet M2
  * NanoStation M2
  * Unifi AP
