@@ -30,6 +30,7 @@ Grill- und "Gemeinde"-Fest.
 |-------------|-------------------|
 | Linus       | Lübeck            |
 | Matthias    | Lübeck            |
+| Nils        | Lübeck            |
 
 ## Verpflegungsliste
 
