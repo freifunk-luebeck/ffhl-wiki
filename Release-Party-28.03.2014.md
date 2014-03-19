@@ -6,7 +6,7 @@ Fr. 28.3.2014
 
 ## Wo?
 
-Gartenanlage Hohewarte
+Gartenanlage Hohewarte, Lübeck
 
 (ACHTUNG: Kann sich spontan ändern, falls die Teilnehmerliste zu lang wird -
 schaut am besten hier vor eurer Abfahrt nochmal vorbei)
