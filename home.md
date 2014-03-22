@@ -16,7 +16,7 @@ Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccch
  
 ## AKTUELL: 
 
-### Firmaware Gluon
+### Firmware Gluon
 
 Die neu-implementierte Firmware des Freifunk, [[Gluon]], ist als beta version erschienen. Sie kann bereits heute mit automatischen Updates stabil betrieben werden.
 
