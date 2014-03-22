@@ -43,7 +43,7 @@ Grill- und "Gemeinde"-Fest.
 | 7jM         | Lübeck            |
 | Nils        | Lübeck            |
 | Zafer       | Lübeck            |
-| andre       | ffhh              |
+| <strike>andre</strike> (TBD, wahrscheinlich auf Dienstreise)       | ffhh              |
 | Gernot      | ffhh              |
 
 ## Verpflegungsliste
