@@ -42,6 +42,7 @@ Grill- und "Gemeinde"-Fest.
 | Eichi       | Lübeck            |
 | 7jM         | Lübeck            |
 | Nils        | Lübeck            |
+| Zafer       | Lübeck            |
 | andre       | ffhh              |
 | Gernot      | ffhh              |
 
