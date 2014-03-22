@@ -312,6 +312,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Huebsch-15            | smoe                | Niendorf Huebsch                 |                                                                                           | TL-WDR4300 v1.3                     | Gluon 20140111 | 64:70:02:a0:ba:d6 |                                |
 | Niendorf-16           | smoe                | Niendorf                         | mit Internetanbindung (test)                                                                                           | TL-WR841N v8.2                      | Gluon 20140206 | 66:70:02:5a:33:76 | 53.9872 10.83027               |
 | MaJo                  | Jo                  | Georgstrasse                     | mit Internetanbindung                                                                                                  | TL-WR841ND v8.2                     | 0.3.2.1        | 10:fe:ed:7b:93:2e | 53.860787 10.671334             |
+| mkm | mkm | Kahlhorststraße 34 | mit Internetanbindung | TL-WR1043ND | 0.3.2.1 | B0:48:7A:DB:3B:18 | 53.850642 10.693023 |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
