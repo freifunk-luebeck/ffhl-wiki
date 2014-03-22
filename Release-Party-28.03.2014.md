@@ -30,6 +30,8 @@ Grill- und "Gemeinde"-Fest.
 |-------------|-------------------|
 | Linus       | Lübeck            |
 | Matthias    | Lübeck            |
+| Eichi       | Lübeck            |
+| 7jM         | Lübeck            |
 | Nils        | Lübeck            |
 | andre       | ffhh              |
 | Gernot      | ffhh              |
