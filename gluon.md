@@ -5,7 +5,7 @@ Die derzeit in Entwicklung befindliche neue Version der Firmware heisst "Gluon".
 ## Aktueller Entwicklungsstand
 
 Gluon hat inzwischen beta status (März, 2014). Die Entwickler Nils, Matthias und Linus signieren die jeweiligen stabilen images und stellen sie für automatische Updates in einem separaten stable repository bereit. Für den Download siehe
-http://luebeck.freifunk.net/firmware/beta und eine email von Niels am 12.3.2014 an die Lübecker [[Freifunk Mailing Liste|https://lists.asta.uni-luebeck.de/mailman/private/freifunk.luebeck]].
+http://luebeck.freifunk.net/firmware/beta und eine email von Nils am 12.3.2014 an die Lübecker [[Freifunk Mailing Liste|https://lists.asta.uni-luebeck.de/mailman/private/freifunk.luebeck]].
 
 ## Selber kochen statt Konserve
 
