@@ -92,6 +92,8 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.67  | holstentor-monitor            |                |
 |  10.130.0.68  | Fluse100Cam                   |                |
 |  10.130.0.69  | burgtor-monitor               |                |
+|  10.130.0.70  | nils                          |                |
+|  10.130.0.71  | nils                          |                |
 |  10.130.0.72  | Fluse-IP-Stromleiste          |                |
 |  10.130.0.100 | zafer                         |                |
 |  10.130.0.101 | zafer-g1                      | zafer-g1.ffhl  |
