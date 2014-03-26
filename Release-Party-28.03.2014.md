@@ -44,7 +44,7 @@ Grill- und "Gemeinde"-Fest.
 | Nils        | Lübeck            |
 | Zafer       | Lübeck            |
 | <strike>andre</strike> (TBD, wahrscheinlich auf Dienstreise)       | ffhh              |
-| Gernot      | ffhh              |
+| Gernot (nach 18:30)      | ffhh              |
 | BenBE       | Kiel              |
 | magu        | Lübeck            |
 
@@ -56,3 +56,4 @@ Damit nicht alle am Ende das gleiche für das Buffet und den Grill mitbringen, w
 |----------------------|----------|
 | Kartoffelsalat       | Linus    |
 | Knobibrot/-brötchen  | Matthias |
+| Wurst u. Fleisch von Großhandel  | Gernot    |
