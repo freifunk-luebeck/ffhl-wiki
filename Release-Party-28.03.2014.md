@@ -57,3 +57,4 @@ Damit nicht alle am Ende das gleiche für das Buffet und den Grill mitbringen, w
 | Kartoffelsalat       | Linus    |
 | Knobibrot/-brötchen  | Matthias |
 | Wurst u. Fleisch von Großhandel  | Gernot    |
+| Grillsaucen, Tzaziki | Zafer    |
