@@ -12,7 +12,7 @@ http://luebeck.freifunk.net/firmware/beta und eine email von Nils am 12.3.2014 a
 Jeder möge bitte damit mit dem Quellcode der Images experimentieren und Fehler melden oder Verbesserungen vornehmen. Diese vielen "Eyeballs" sind ein wesentliches Element der Open Source Kultur. Bei einem
 geplanten längerfristigen Einsatz bedenke man bitte, dass bei selbst gebauten Images die automatischen Updates nicht vorgenommen werden.
 Die Schritte zu Installation sind die folgenden, insbesondere auch erklaert im README des source
-code repositories auf https://github.com/freifunk-gluon/gluon:
+code repositories auf https://github.com/freifunk-gluon/gluon :
 
   git clone https://github.com/freifunk-gluon/gluon.git        # Get the frameworking gluon developments in
   cd gluon
