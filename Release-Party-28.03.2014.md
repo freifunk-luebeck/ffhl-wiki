@@ -48,6 +48,7 @@ Grill- und "Gemeinde"-Fest.
 | Arnd (nch 18:30) | ffhh |
 | BenBE       | Kiel              |
 | magu        | Lübeck            |
+| bo          | Lübeck            |
 
 ## Verpflegungsliste
 
