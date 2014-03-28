@@ -45,6 +45,7 @@ Grill- und "Gemeinde"-Fest.
 | Zafer       | Lübeck            |
 | <strike>andre</strike> (TBD, wahrscheinlich auf Dienstreise)       | ffhh              |
 | Gernot (nach 18:30)      | ffhh              |
+| Arnd (nch 18:30) | ffhh |
 | BenBE       | Kiel              |
 | magu        | Lübeck            |
 
