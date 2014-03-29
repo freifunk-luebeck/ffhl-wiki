@@ -1,11 +1,11 @@
-Die derzeit in Entwicklung befindliche neue Version der Firmware heisst "Gluon". Die damit insbesondere zu erreichenden features sind
+Die derzeit in Entwicklung befindliche neue Version der Firmware heisst "Gluon". Die damit insbesondere zu erreichenden Features sind
  * einheitliche Konfiguration fuer alle Freifunk-Gruppen
- * automatische updates der Firmware
+ * automatische Updates der Firmware
 
 ## Aktueller Entwicklungsstand
 
-Gluon hat inzwischen beta status (März, 2014). Die Entwickler Nils, Matthias und Linus signieren die jeweiligen stabilen images und stellen sie für automatische Updates in einem separaten stable repository bereit. Für den Download siehe
-http://luebeck.freifunk.net/firmware/beta und eine email von Nils am 12.3.2014 an die Lübecker [[Freifunk Mailing Liste|https://lists.asta.uni-luebeck.de/mailman/private/freifunk.luebeck]].
+Gluon hat inzwischen beta Status (März, 2014) erreicht. Die Entwickler Nils, Matthias und Linus signieren die jeweiligen stabilen Images und stellen sie für automatische Updates in einem separaten stable Repository bereit. Für den Download siehe
+http://luebeck.freifunk.net/firmware/beta und eine Email von Nils am 12.3.2014 an die Lübecker [[Freifunk Mailing Liste|https://lists.asta.uni-luebeck.de/mailman/private/freifunk.luebeck]].
 
 ## Selber kochen statt Konserve
 
