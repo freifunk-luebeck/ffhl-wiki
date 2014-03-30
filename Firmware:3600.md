@@ -17,5 +17,5 @@ Durch die gleichzeitige Nutzbarkeit des 2,4GHz- und 5GHz-Netzes ist eine höhere
 
 ## Unterstützte Hardwarerevisionen:
 
-* v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.1/lff-0.3.2.1-ar71xx-generic-tl-wdr3600-v1-squashfs-factory.bin]]
-* [[Gluon]] beta images [[factory|http://luebeck.freifunk.net/firmware/beta/factory/gluon-ffhl-0.3.100-beta1-tp-link-tl-wdr3600-v1.bin]] [[sysupgrade|http://luebeck.freifunk.net/firmware/beta/sysupgrade/gluon-ffhl-0.3.100-beta1-tp-link-tl-wdr3600-v1-sysupgrade.bin]]
+* v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.2/lff-0.3.2.2-ar71xx-generic-tl-wdr3600-v1-squashfs-factory.bin]]
+* [[Gluon]] stable Images [[factory|http://luebeck.freifunk.net/firmware/_stable/factory/gluon-ffhl-0.4-tp-link-tl-wdr3600-v1.bin]] [[sysupgrade|http://luebeck.freifunk.net/firmware/_stable/sysupgrade/gluon-ffhl-0.4-tp-link-tl-wdr3600-v1-sysupgrade.bin]]
