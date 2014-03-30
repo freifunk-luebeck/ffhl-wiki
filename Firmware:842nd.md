@@ -17,4 +17,4 @@ Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision
 
 ## Firmware
 
-* v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.1/lff-0.3.2.1-ar71xx-generic-tl-wr842n-v1-squashfs-factory.bin]]
+* v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.2/lff-0.3.2.1-ar71xx-generic-tl-wr842n-v1-squashfs-factory.bin]]
