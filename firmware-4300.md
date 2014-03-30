@@ -18,4 +18,4 @@ Details zum Router finden sich auf der entsprechenden [[OpenWRT|http://wiki.open
 ## Unterstützte Hardwarerevisionen:
 
 * v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.1/lff-0.3.2.1-ar71xx-generic-tl-wdr4300-v1-squashfs-factory.bin]]
-* [[Gluon]] beta images [[factory|http://luebeck.freifunk.net/firmware/beta/factory/gluon-ffhl-0.3.100-beta1-tp-link-tl-wdr4300-v1.bin]] [[sysupgrade|http://luebeck.freifunk.net/firmware/beta/sysupgrade/gluon-ffhl-0.3.100-beta1-tp-link-tl-wdr4300-v1-sysupgrade.bin]]
+* [[Gluon]] 
