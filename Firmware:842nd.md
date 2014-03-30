@@ -17,4 +17,5 @@ Auf dem Typenschild der Unterseite befindet sich die Angabe der Hardwarerevision
 
 ## Firmware
 
-* v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.2/lff-0.3.2.1-ar71xx-generic-tl-wr842n-v1-squashfs-factory.bin]]
+* v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.2/lff-0.3.2.2-ar71xx-generic-tl-wr842n-v1-squashfs-factory.bin]]
+* [[Gluon]] stable Images [[factory|http://luebeck.freifunk.net/firmware/_stable/factory/gluon-ffhl-0.4-tp-link-tl-wr842n-nd-v1.bin]] [[sysupgrade|http://luebeck.freifunk.net/firmware/_stable/sysupgrade/gluon-ffhl-0.4-tp-link-tl-wr842n-nd-v1-sysupgrade.bin]]
