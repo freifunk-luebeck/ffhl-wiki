@@ -18,5 +18,5 @@ Details zum Router finden sich auf der entsprechenden [[OpenWRT|http://wiki.open
 
 ## Unterstützte Hardwarerevisionen:
 
-* v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.1/lff-0.3.2.1-ar71xx-generic-tl-wdr4300-v1-squashfs-factory.bin]]
+* v1.x [[Link zum Image|http://metameute.de/~freifunk/firmware/0.3.2.2/lff-0.3.2.2-ar71xx-generic-tl-wdr4300-v1-squashfs-factory.bin]]
 * [[Gluon]] 
