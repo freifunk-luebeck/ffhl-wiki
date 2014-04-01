@@ -1,6 +1,6 @@
 # Radio-Streams
 
-Eine Auswahl an öffentlich-rechtlichen sowie [[Creative-Commons|http://www.creativecommons.org/] lizensierten Streams findet man auf:
+Eine Auswahl an öffentlich-rechtlichen sowie [[Creative-Commons|http://www.creativecommons.org/]] lizensierten Streams findet man auf:
 
 * http://streams.ffhl/
 
