@@ -100,7 +100,7 @@ Für den SSH-Login gilt das gleiche Passwort wie für das Webinterface.
 ```
 
 ### Version der Firmware anzeigen
-Die [[http://freifunk.metameute.de/map/list.html|automatisch generierte Liste der Knoten]] sollte die Version zeigen - aber was, wenn der Knoten gar nicht am Netz ist?
+Die [[automatisch generierte Liste der Knoten|http://freifunk.metameute.de/map/list.html]] sollte die Version zeigen - aber was, wenn der Knoten gar nicht am Netz ist?
 ```
 cat /lib/gluon/release
 ```
