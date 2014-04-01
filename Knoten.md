@@ -13,6 +13,8 @@ Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, o
 
 **Es sollten keine fremden Einträge ohne Erlaubnis des Betreibers bearbeitet werden. Insbesondere dürfen keine GPS-Koordinaten oder Adresse angegeben werden, wenn der Betreiber dies nicht will!**
 
+Mit Einzug von Gluon wird diese Liste nicht mehr benötigt. Stattdessen wird diese Information im jeweiligen Knoten selbst verwaltet und auf der [[http://freifunk.metameute.de/map/list.html|automatisch generierten Liste]] angezeigt.
+
 Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau diese ist für die richtige Zuordnung wichtig.
 
 
