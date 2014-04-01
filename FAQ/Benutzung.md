@@ -99,6 +99,12 @@ Für den SSH-Login gilt das gleiche Passwort wie für das Webinterface.
 /etc/init.d/fastd show_key mesh_vpn
 ```
 
+### Version der Firmware anzeigen
+Die [[http://freifunk.metameute.de/map/list.html|automatisch generierte Liste der Knoten]] sollte die Version zeigen - aber was, wenn der Knoten gar nicht am Netz ist?
+```
+cat /lib/gluon/release
+```
+
 ## In den ConfigMode gelangen
 
 ### Der Unterschied zwischen Configmode und Failsafemode
