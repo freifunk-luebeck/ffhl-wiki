@@ -54,11 +54,9 @@
      * [[TP-Link WR842ND|Firmware:842nd]]
      * [[TP-Link WDR3600|Firmware:3600]]
      * [[TP-Link WDR4300|Firmware:4300]]
-     * [[Nanostation loco M2 Kit|Hardware/NSLM2kit]]
-     * Bullet M2
-     * NanoStation M2
-     * Unifi AP
-     * Unifi AP LR
+     * [[Bullet Familie|Firmware:Bullet]]
+     * [[NanoStation Familie|Firmware:NanoStation]]
+     * [[Unifi AP Familie|Firmware:UnifiAP]]
      * NanoBridge M2
    * [[fastd Schlüsselverwaltung|fastd-schlusselverwaltung]]
    * [[fastd Durchsatz|fastd-throughput]]
