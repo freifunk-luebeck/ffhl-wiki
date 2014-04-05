@@ -18,7 +18,7 @@ Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccch
 
 ### Firmware Gluon
 
-Die neu-implementierte Firmware des Freifunk, [[Gluon]], ist als beta version erschienen. Sie kann bereits heute mit automatischen Updates stabil betrieben werden.
+Die neu-implementierte Firmware des Freifunk, [[Gluon]], ist als stabile Version erschienen. Sie kann bereits heute mit automatischen Updates stabil betrieben werden.
 
 ### Firmware 0.3.2.2 
 Die vormals stabile 0.3.2.2 Version der Firmware funktioniert zwar noch, sollte aber nach und nach durch die performantere [[Gluon]] Neuimplementierung ersetzt werden.
