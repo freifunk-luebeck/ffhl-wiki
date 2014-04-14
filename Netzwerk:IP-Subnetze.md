@@ -32,8 +32,6 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 | Subnetz       | IP Bereich  | Notizen                                                                |
 |---------------|-------------|------------------------------------------------------------------------|
 | 10.130.0.0/24 |     1...255 | zur statischen Konfiguration frei zur Verfügung (siehe unten)          |
-| 10.130.1.0/27 |      0...31 | Eichi                                                                  |
-| 10.130.2.0/24 |     0...255 | Fluse Knoten                                                           |
 | 10.130.3.0/24 |     0...255 | temporäre IPs. Einfach verwenden und bei Kollision eine andere nehmen. |
 
 Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange uns nicht die /24 ausgehen. Ist das /27 voll, kann man dann problemlos auf ein /26 oder /25 aufstocken, sodass keine übermäßige Fragmentierung der Adress-Bereiche entsteht.
