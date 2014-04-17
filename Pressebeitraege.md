@@ -1,7 +1,7 @@
 # Pressebeiträge
 
 ### 2014-04-17: Artikel Lübecker Nachrichten über Stockelsdorf
-[[LN|http://ln-online.de]] Hauptausschuss beschliesst Piloten in der Lohstrasse
+[[LN|http://ln-online.de]] Stockelsdorfer Hauptausschuss beschliesst Piloten in der Lohstrasse
 [[diesem Artikel|http://www.ln-online.de/Lokales/Bad-Schwartau/Freies-Internet-fuer-alle-Stockelsdorfer]]
 
 
