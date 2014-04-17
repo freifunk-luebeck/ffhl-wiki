@@ -1,5 +1,12 @@
 # Pressebeiträge
 
+### 2014-04-17: Artikel Lübecker Nachrichten über Stockelsdorf
+[[LN|http://ln-online.de]] Hauptausschuss beschliesst Piloten in der Lohstrasse
+[[diesem Artikel|http://www.ln-online.de/Lokales/Bad-Schwartau/Freies-Internet-fuer-alle-Stockelsdorfer]]
+
+
+
+
 ### 2013-03-08: kurzes Interview durch R.SH
 [[R.SH|http://www.rsh.de/]] hat uns in einem zwei-minütigen Interview die Möglichkeit gegeben das Lübecker Freifunk vorzustellen.
 
@@ -13,3 +20,4 @@ Der [[OKL|http://www.okluebeck.de]] bot uns die Möglichkeit eines Beitrages in 
 
 ### 2012-08-23: Beitrag auf [[hl-live.de|http://hl-live.de]]
 Auf der Internetzeitung [[hl-live.de|http://hl-live.de]] wurde ein kleiner Artikel über Freifunk Lübeck am ZOB in [[diesem Artikel|http://www.hl-live.de/aktuell/textstart.php?id=78789]] veröffentlicht.
+
