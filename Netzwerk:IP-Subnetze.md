@@ -69,7 +69,7 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.22  | Jamalaka                      | techem         |
 |  10.130.0.23  | Laeila & jix                  | kyubey         |
 |  10.130.0.24  | Georg (Schrebergärten)        |                |<a href="mailto:b.werbung@gmx.de">gk</a> |
-|  10.130.0.25  | Schrebergarten Tanne          |                |
+|  10.130.0.25  | Schrebergarten Tanne          |                |<a href="mailto:b.werbung@gmx.de">gk</a> |
 |  10.130.0.26  | duckie & xidd                 | Rapture        |
 |  10.130.0.27  | 7jM                           | StrahlenKiste  |
 |  10.130.0.28  | SIP Proxy                     | proxy.sip.ffhl |
