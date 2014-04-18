@@ -19,13 +19,13 @@ mit statischer Adresse 10.130.a.b _sollten_ die IPv6-Adresse
 
 Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[Gateway-Server aktivieren|http://www.open-mesh.org/wiki/batman-adv/Gateways]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
 
-| Name       | Gateway IP    | Gateway MAC | DHCP(Range)         | DNS  | batman-adv GW server | batman-adv originator MAC | batman-adv Version | Status  |
+| Name       | Gateway IP    | Gateway MAC | batman-adv originator MAC | DHCP(Range)         | batman-adv Version | Status  |
 |------------|---------------|-------------|---------------------|------|----------------------|---------------------------|--------------------|---------|
-| kaisertor  | 10.130.6.1  |                   |                     |      |    |                   |          | Planung  |
-| huextertor | 10.130.8.1  |                   |                     |      |    |                   |          | Planung  |
-| muehlentor | 10.130.10.1 | de:ad:ca:fe:46:1d | ja (10.130.10.0/23) | ja   | ja | de:ad:be:ef:46:1d | 2012.4.0 | aktiv    |
-| holstentor | 10.130.12.1 | 52:54:00:0c:bb:eb | ja (10.130.12.0/23) | ja   | ja | 8e:3d:c2:10:10:28 | 2013.1.0 | aktiv    |
-| burgtor    | 10.130.14.1 | 52:54:00:ee:5c:d5 | ja (10.130.14.0/23) | ja   | ja | 52:54:00:f3:62:d9 | 2012.4.0 | aktiv    |
+| kaisertor  | 10.130.6.1  |                   |                   | 10.130.6.0/23  |           | Planung   |
+| huextertor | 10.130.8.1  | 6e:e4:d2:8a:3b:63 | d2:d0:93:63:f7:da | 10.130.8.0/23  | 2013.2.0+ | im Aufbau |
+| muehlentor | 10.130.10.1 | de:ad:ca:fe:46:1d | de:ad:be:ef:46:1d | 10.130.10.0/23 | 2013.2.0+ | aktiv     |
+| holstentor | 10.130.12.1 | 52:54:00:0c:bb:eb | 8e:3d:c2:10:10:28 | 10.130.12.0.23 | 2013.2.0+ | aktiv     |
+| burgtor    | 10.130.14.1 | 52:54:00:ee:5c:d5 | 52:54:00:f3:62:d9 | 10.130.14.0/23 | 2013.1.0  | aktiv     |
 
 ## Reservierte Subnetze des Mesh-Netzes
 
@@ -46,7 +46,7 @@ Netmask: 255.255.240.0 (/20)
 | IP-Adresse    | Notizen                       | Hostname       |
 |---------------|-------------------------------|----------------|
 |   10.130.0.0  | reserviert                    | reserviert     |
-|   10.130.0.1  | reserviert                    | reserviert     |
+|   10.130.0.1  | Magische next-node-Adresse    | node.ffhl      |
 |   10.130.0.2  | reserviert                    | reserviert     |
 |   10.130.0.3  | reserviert                    | reserviert     |
 |   10.130.0.4  | reserviert                    | reserviert     |
