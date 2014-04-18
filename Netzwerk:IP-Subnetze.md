@@ -21,6 +21,7 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 
 | Name       | Gateway IP    | Gateway MAC | batman-adv originator MAC | DHCP(Range)         | batman-adv Version | Status  |
 |------------|---------------|-------------|---------------------|------|----------------------|---------------------------|--------------------|---------|
+| Holsteintor | NamensPool | so wurde das Holstentor | früher genannt |
 | kaisertor  | 10.130.6.1  |                   |                   | 10.130.6.0/23  |           | Planung   |
 | huextertor | 10.130.8.1  | 6e:e4:d2:8a:3b:63 | d2:d0:93:63:f7:da | 10.130.8.0/23  | 2013.2.0+ | im Aufbau |
 | muehlentor | 10.130.10.1 | de:ad:ca:fe:46:1d | de:ad:be:ef:46:1d | 10.130.10.0/23 | 2013.2.0+ | aktiv     |
