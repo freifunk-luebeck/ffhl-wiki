@@ -13,21 +13,12 @@ Die Lübecker Freifunker entwickeln und pflegen für uns die auf den WLAN Router
 
 ### Anfassbar
 
-Es sind derzeit 8-12 Knoten in Niendorf auf Abruf für eine Installation bereit. Wir werden nun geeignete Orte für eine Installation uns anschauen und die jeweiligen Inhaber ansprechen. Aber ein "zu dicht" wird es vermutlich so schnell nicht geben. Bitte sprechen Sie uns an. Der Eintrag für eine grafische Repräsentation in diese [Knotenkarte](http://luebeck.freifunk.net/map/geomap.html) ist optional aber sehr hilfreich. Die benachbarten Cafe/Restaurants
- * Wizzig
- * Hübsch
-
-in Niendorf sind neben einigen Privathaushalten die Pioniere.
+Es sind derzeit 8-12 Knoten in Niendorf auf Abruf für eine Installation bereit. Wir werden nun geeignete Orte für eine Installation uns anschauen und die jeweiligen Inhaber ansprechen. Aber ein "zu dicht" wird es vermutlich so schnell nicht geben. Bitte sprechen Sie uns an. Der Eintrag für eine grafische Repräsentation in diese [Knotenkarte](http://luebeck.freifunk.net/map/geomap.html) ist optional aber sehr hilfreich und zeigt die bereits jetzt gute Verbreitung am südlichsten Strand Ostholsteins.
 
 ## Kontakt
 
 Bislang läuft alles über die Freifunker in Lübeck. Solange wir nicht in Neustadt angekommen sind, wird sich dies vermutlich nicht ändern. Danach werden die Wege einfach zu weit und wir müssen uns etwas ausdenken. Daher bitte bis auf weiteres email an info@luebeck.freifunk.net .
 
 
-## Informationsmaterial
-
-### Flyer
-
-Es gibt einen Entwurf. Offiziell wird dieser frühestens nach dem ersten Freifunk-Treffen im Januar.
 
 
