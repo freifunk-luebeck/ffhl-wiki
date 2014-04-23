@@ -1,3 +1,5 @@
+# ACHTUNG – Diese Seite ist veraltet und wird demnächst überarbeitet. Bitte nicht nutzen!
+
 # Batman-adv Ethernetverbindung
 
 hier die Doku zur Konfiguration einer batman-adv Kabelverbindung
