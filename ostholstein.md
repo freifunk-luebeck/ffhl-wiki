@@ -13,7 +13,7 @@ Die Lübecker Freifunker entwickeln und pflegen für uns die auf den WLAN Router
 
 ### Anfassbar
 
-Es sind derzeit 8-12 Knoten in Niendorf auf Abruf für eine Installation bereit. Wir werden nun geeignete Orte für eine Installation uns anschauen und die jeweiligen Inhaber ansprechen. Aber ein "zu dicht" wird es vermutlich so schnell nicht geben. Bitte sprechen Sie uns an. Der Eintrag für eine grafische Repräsentation in diese [Knotenkarte](http://luebeck.freifunk.net/map/geomap.html) ist optional aber sehr hilfreich und zeigt die bereits jetzt gute Verbreitung am südlichsten Strand Ostholsteins.
+Es sind derzeit 8-12 Knoten in Niendorf auf Abruf für eine Installation bereit. Die Installation von http://ostholstein.freifunk.net macht regelmäßige Fortschritte, so dass wir hoffen, die vielen bereits installierten Knoten bald mit einer ostholsteiner Firmware überspielen zu können. Unser Engagement hinsichtlich einer Erweiterung ist etwas gebremst bis wir mit den Ecken und Kanten des neuen Aufbaus vertraut sind. Aber weder wird es ein "zu dicht"  der Knoten alsbald geben noch lassen wir irgendwelche Interessierte im Regen stehen - wer diese Seite gefunden hat und mitmachen möchte, der ist bei uns jetzt schon richtig. Bitte sprechen Sie uns an. Der Eintrag für eine grafische Repräsentation in diese [Knotenkarte](http://luebeck.freifunk.net/map/geomap.html) ist optional aber sehr hilfreich und zeigt die bereits jetzt gute Verbreitung am südlichsten Strand Ostholsteins.
 
 ## Kontakt
 
