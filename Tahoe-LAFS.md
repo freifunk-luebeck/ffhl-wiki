@@ -28,7 +28,7 @@ Zum Betrieb eines Tahoe-LAFS-Knotens muss von [[https://tahoe-lafs.org]] die Dat
 
 Vor dem ersten Start wird ein Tahoe-LAFS-Knoten mit `bin/tahoe create-node` oder mit `bin/tahoe create-client` ein reiner Client (ohne eigenen Storage) erzeugt. Dabei wird ein `.tahoe`-Ordner im home-Verzeichnis angelegt. In dessen `tahoe.cfg`-Datei muss dann noch unter `introducer.furl` ein Link zu unserer Wolke eingefügt werden:
 
-<pre><code>introducer.furl = pb://gnyiarfmgbsi5cvear5yk2h5zwd3fp7i@172.23.190.65:46571/introducer</code></pre>
+<pre><code>introducer.furl = pb://gnyiarfmgbsi5cvear5yk2h5zwd3fp7i@introducer.ffhl:46571/introducer</code></pre>
 
 Mit `bin/tahoe start` wird der lokale Knoten dann gestartet.
 
