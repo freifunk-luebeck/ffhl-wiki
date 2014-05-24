@@ -33,3 +33,15 @@ Falls eine Aktion, wie das deaktivieren eines Knotens, rückgängig
 gemacht werden soll, ist `git revert` zu verwenden und die vorgegebene
 Commitmessage zu übernehmen, falls keine besonderen Informationen
 festgehalten werden müssen.
+
+## Knoten außerhalb von Lübeck
+
+Wir möchten vermeiden Knoten (weit) außerhalb von Lübeck mit in das Mesh aufzunehmen. Das hat derzeit hauptsächlich technische Gründe und könnte sich mit besser skalierender Technik ándern.
+
+Deshalb nehmen wir in solchen Fällen Kontakt mit dem Betreiber auf und ermitteln den Grund für die Wahl der Lübecker Firmware.
+Meistens handelt es sich um eine neue Community, die gerne Erfahrungen sammeln möchte.
+Handelt es sich nur um einen einzelnen Knoten ohne die Absicht dort kurzfristig ein Mesh aufzubauen, lehnen wir ab und legen den Aufbau einer eigenen Community nahe.
+Ist erkennbar, dass sich eine Community gebildet hat, nehmen wir ein bis zwei Testgeräte mit auf und notieren im Repository ein Ablaufdatum von etwa 30 Tagen.
+Dazu fragen wir dem Knotenbetreiber jedoch vorher, ob dieses Angebot für ihn hilfreich wäre.
+
+Weitere Anfragen werden, mit Verweis auf die bereits eingetragenen Testgeräte, abgelehnt. Stattdessen laden wir die Community ein uns zu besuchen.
