@@ -1,5 +1,7 @@
 # Privates Netz einrichten
 
+## Diese Anleitung ist noch nicht für Gluon geeignet!
+
 ## Benötigte Pakete
 
 Für ein privates Netz werden noch drei zusätzliche Pakete benötigt: radvd, bird6 und bird4
