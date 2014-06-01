@@ -17,6 +17,11 @@ mit statischer Adresse 10.130.a.b _sollten_ die IPv6-Adresse
 
 Auf dem WCW2014 wurde Freifunk Lübeck das Präfix `2001:bf7:110::/44` zugeteilt. Dieser wird derzeit über einen ip6ip6 Tunnel auf burgtor geroutet. Eine redundante Lösung ist geplant und wird in Berlin vorbereitet.
 
+### Ideen zur Unterteilung des Präfixes
+
+* Wir könnten aus dem ersten /48 je /64 für alle Subnetze, die sich aus Gatewaysicht hinter dem Mesh befinden, verwenden. Solche Subnetze wären z.B. die Meute, der nbsp, Heimnetze und das Mesh selber. Dabei wären 65536 Subnetze möglich.
+* Wir könnten weitere /48 für außerhalb des Meshes geroutete Netze verwenden (erstmal wohl unwahrscheinlich).
+
 ## Internet-Gateways
 
 Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[Gateway-Server aktivieren|http://www.open-mesh.org/wiki/batman-adv/Gateways]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
