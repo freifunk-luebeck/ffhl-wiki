@@ -15,6 +15,8 @@ Davon ist bisher nur `fdef:ffc0:3dd7::/64` in Benutzung; Geräte
 mit statischer Adresse 10.130.a.b _sollten_ die IPv6-Adresse
 ``fdef:ffc0:3dd7::0.0.a.b/64`` zugeteilt bekommen.
 
+Auf dem WCW2014 wurde Freifunk Lübeck das Präfix `2001:bf7:110::/44` zugeteilt. Dieser wird derzeit über einen ip6ip6 Tunnel auf burgtor geroutet. Eine redundante Lösung ist geplant und wird in Berlin vorbereitet.
+
 ## Internet-Gateways
 
 Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[Gateway-Server aktivieren|http://www.open-mesh.org/wiki/batman-adv/Gateways]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
