@@ -161,3 +161,4 @@ Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
 | 10.130.16.19 | mkm                            |                 |
 | 10.130.16.20 | tux                            |                 |
 | 10.130.16.21 | zafer                          |                 |
+| 10.130.16.22 | san                            |                 |
