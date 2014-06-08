@@ -272,8 +272,8 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Niendorf-11           | smoe                | Niendorf                         | mit Internetanbindung (test)                                                                                           | TL-WR841ND v8.2                     | Gluon 20131218 | a0:f3:c1:05:92:8c |                                |                                         
 | MaJo                  | Jo                  | Georgstrasse                     | mit Internetanbindung                                                                                                  | TL-WR841ND v8.2                     | 0.3.2.1        | 10:fe:ed:7b:93:2e | 53.860787 10.671334             |
 | mkm | mkm | Kahlhorststraße 34 | mit Internetanbindung | TL-WR1043ND | 0.3.2.1 | b0:48:7a:db:3b:18 | 53.850623 10.693052 |
-| freifunk-b0487ae8bc26 | Oliver B. | Marlistraße 15b (Keller) | mit Internetanbindung | TL-WR841ND | Glueon 0.4 | B0:48:7A:E8:BC:26 | 53.872139 10.710678 |
-| mkm2 | mkm | Kahlhorststraße 34 | mit Internetanbindung | NanoStation loco M2 | Gluon 0.4 | 26:a4:3c:d3:d5:ea | 53.850642 10.693052 |
+| freifunk-b0487ae8bc26 | Oliver B. | Marlistraße 15b (Keller) | mit Internetanbindung | TL-WR841ND | Glueon 0.4 | B0:48:7A:E8:BC:26 | 53.850677 10.693066 |
+| mkm2 | mkm | Kahlhorststraße 34 | mit Internetanbindung | NanoStation loco M2 | Gluon 0.4 | 26:a4:3c:d3:d5:ea | 53.850726 10.693079 |
 
 Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
 
