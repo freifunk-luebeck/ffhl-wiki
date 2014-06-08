@@ -1,5 +1,12 @@
 # Pressebeiträge
 
+### 2014-06-07: Die Zeit (online)
+http://www.zeit.de/digital/internet/2014-06/freifunk-internet-nsa
+
+
+### 2014-05-19: Sat1 "Planetopia" Redaktioneller Bericht
+http://www.youtube.com/watch?v=BuXzib7wilQ
+
 ### 2014-04-17: Artikel Lübecker Nachrichten über Stockelsdorf
 [[LN|http://ln-online.de]] Stockelsdorfer Hauptausschuss beschliesst Piloten in der Lohstrasse
 [[Artikel|http://www.ln-online.de/Lokales/Bad-Schwartau/Freies-Internet-fuer-alle-Stockelsdorfer]]
