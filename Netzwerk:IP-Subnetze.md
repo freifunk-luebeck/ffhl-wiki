@@ -19,6 +19,8 @@ Auf dem WCW2014 wurde Freifunk Lübeck das Präfix `2001:bf7:110::/44` zugeteilt
 
 `2001:bf7:110::/64` wird derzeit von burgtor im Mesh angekündigt.
 
+Statistiken aus Sicht von Berlin finden sich unter: http://monitor.berlin.freifunk.net/host.php?h=bgp01.berlin.freifunk.net&p=interface (tun4403)
+
 ### Ideen zur Unterteilung des Präfixes
 
 * Wir könnten aus dem ersten /48 je /64 für alle Subnetze, die sich aus Gatewaysicht hinter dem Mesh befinden, verwenden. Solche Subnetze wären z.B. die Meute, der nbsp, Heimnetze und das Mesh selber. Dabei wären 65536 Subnetze möglich.
