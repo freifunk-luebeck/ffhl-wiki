@@ -20,3 +20,11 @@ Auch dieser Aufkleber darf gerne weiterverarbeitet werden und steht unter der Li
 
 * Hier der Link zur PDF:
 [[Hotspotaufkleber.pdf|pdf/Hotspotaufkleber.pdf]]
+
+## Flyer
+
+Unser aktueller Flyer im Postkarten-Format:
+
+* Vorderseite: [[https://metameute.de/~nils/2014-01-28_ffhl-flyer-versuch-3-Seite%20001.pdf]]
+* Rückseite: [[https://metameute.de/~nils/2014-01-28_ffhl-flyer-versuch-3-Seite%20002.pdf]]
+* SLA: [[http://metameute.de/~nils/ffhl%20postkarte.sla]]
