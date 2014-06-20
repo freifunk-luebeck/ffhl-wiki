@@ -9,7 +9,7 @@ Der Schwerpunkt beim Ausbau liegt zunächst in Timmendorfer Strand, dort dem Ort
 
 ### Das Nicht-Anfassbare
 
-Die Lübecker Freifunker entwickeln und pflegen für uns die auf den WLAN Routern laufende Software ("[[firmware]]")  und betreiben die vier Server, über die die Datenpakete ins Internet gelangen ("[[gateway]]") sowie dieses Wiki. Unsere ostholsteiner Initiative wird dort zunaechst mitgetragen. 
+Die Lübecker Freifunker entwickeln und pflegen für uns die auf den WLAN Routern laufende Software ("[[firmware]]")  und betreiben die vier Server, über die die Datenpakete ins Internet gelangen ("[[gateway]]") sowie dieses Wiki. Unsere ostholsteiner Initiative betreibt schon einen eigenen solchen gateway, und auch eine firmware ist bereits verfügbar (http://ostholstein.freifunk.net/firmware). Vor dem Betrieb des zweiten Gateway möchten wir jedoch nicht mehr als einen Probebetrieb etablieren. All unsere Server werden betrieben von dem Verein Freifunk Ostholstein. Wir sind gemeinnützig und auf dem üblichen Weg zur Anerkennung - bislang noch beim Amtsgericht.
 
 ### Anfassbar
 
@@ -17,7 +17,7 @@ Es sind derzeit 8-12 Knoten in Niendorf auf Abruf für eine Installation bereit.
 
 ## Kontakt
 
-Bislang läuft alles über die Freifunker in Lübeck. Solange wir nicht in Neustadt angekommen sind, wird sich dies vermutlich nicht ändern. Danach werden die Wege einfach zu weit und wir müssen uns etwas ausdenken. Daher bitte bis auf weiteres email an info@luebeck.freifunk.net .
+Die Freifunker in Lübeck helfen superklasse - Kontaktanfragen können über deren Kanäle laufen. Recht frisch ist unsere eMail Adresse 'info@ostholstein.freifunk.net'.
 
 
 
