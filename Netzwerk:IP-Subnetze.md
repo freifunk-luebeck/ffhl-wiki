@@ -18,6 +18,7 @@ mit statischer Adresse 10.130.a.b _sollten_ die IPv6-Adresse
 Auf dem WCW2014 wurde Freifunk Lübeck das Präfix `2001:bf7:110::/44` zugeteilt. Dieser wird derzeit über einen ip6ip6 Tunnel auf burgtor geroutet. Eine redundante Lösung ist geplant und wird in Berlin vorbereitet.
 
 `2001:bf7:110::/64` wird derzeit von burgtor im Mesh angekündigt.
+`2001:bf7:11f:f000::/52` wird von Nils zum Testen eines Layer3 Meshes verwendet.
 
 Statistiken aus Sicht von Berlin finden sich unter: http://monitor.berlin.freifunk.net/host.php?h=bgp01.berlin.freifunk.net&p=interface (tun4403)
 
