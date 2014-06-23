@@ -56,6 +56,7 @@ Bei manchen Clients muss noch @&zwj;sip.ffhl angefügt werden.
  * tux
  * bjo (FFOL)
  * nbsp
+ * Schwarzwurzel-HQ (Momentan kein Mikro. Im Aufbau)
 
 ### Vanity Nummern
 
