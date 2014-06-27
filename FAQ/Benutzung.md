@@ -25,13 +25,11 @@ pass: admin
 
 ### Buchsenbelegungen bei Freifunkknoten
 ```
-Gelbe Buchse: Client-Netz
-Blaue Buchse: Heimnetzanschluss für den Uplink ins interne VPN
+Gelbe LAN-Buchsen: Client-Netz
+Blaue WAN-Buchse: Heimnetzanschluss für den Uplink ins interne VPN
 ```
 
-Schließt man sein LAN, das Zugang zum Internet bietet, statt an die blaue an die gelbe Buchse an, wird das Freifunk-WLAN nicht über das Freifunk-Netzwerk geroutet sondern geht direkt über den eigenen Router ins Internet. (Wird in einer zukünftigen Firmware geändert.)
-
-Ausnahmen zu dieser Regel werden auf der Wikiseite des jeweiligen Routers festgehalten.
+Im normalen Betrieb ist der Knoten mit seinem WAN-Port am Heimnetz angeschlossen und wird darüber eine Verbindung zum Rest des Netzes aufbauen.
 
 ### Configmode
 Der Configmode dient der grundlegenden Einstellung eines Knotens und ist der empfohlene Weg zum Ändern der Bandbreitenbegrenzung, des Passworts und des Firmware Upgrades.
@@ -41,32 +39,29 @@ Im laufenden Betrieb wird nun die QSS-Taste (oder Reset-Taste, je nach Modell) c
 Dann muss der Button ''sofort'' losgelassen werden, damit er in den Configmode geht.
 
 Danach hängt man seinen Rechner an einen der gelben LAN-Ports und lässt sich eine IP geben.
-Im Browser wird nun die 192.168.1.1 aufgerufen und die notwendigen Einstellungen werden vorgenommen.
+Im Browser wird nun die [[http://192.168.1.1]] aufgerufen und die notwendigen Einstellungen werden vorgenommen.
 Im letzten Schritt des Configmodes ist der Knoten per Klick neuzustarten, da man sich erst jetzt sicher sein kann, dass er die Einstellungen übernimmt und danach in den Normalzustand als Freifunkknoten neustartet.
 
-Um die Firmware zu aktualisieren wählt man auf der Ersten Seite im Configmode den zweiten Link um die neue Firmware einzuspielen. (Beim TL-WR842ND kann man nicht in den Configmode gelangen, man kann aber auch Über den _Failsafemode_ im Webinterface die Firmware aktulaisieren unter "Backup/Flash Firmware")
+Um einen Knoten mit alter Firmware (vor 0.4) zu aktualisieren wählt man auf der Ersten Seite im Configmode den zweiten Link um die neue Firmware einzuspielen. (Beim TL-WR842ND kann man nicht in den Configmode gelangen, man kann aber auch Über den _Failsafemode_ im Webinterface die Firmware aktulaisieren unter "Backup/Flash Firmware")
+
+Bei einem Knoten mit einer Firmware ab 0.4 wird ein manuelles Update über den „Expertmode“ eingespielt. Alternativ kann der Auto-Updater mit regelmäßiger Aktualisierung beauftragt werden, wobei hierbei der Branch darüber entscheidet, ob man nur stabile Releases (stable), Vorabversionen (beta) oder auch ganz experimentelle Firmwares (experimental) bekommen möchte.
+Experimentelle Firmwares eignen sich nur für Betreiber, die auch auf der Entwicklerliste mitlesen und ohne große Probleme an den Knoten kommen, da diese öfter einen Nutzerhandgriff benötigen.
 
 ### Failsafemode
-Der Failsafemode dient nur zur Rettung eines zerschossenen Freifunkrouters und ermöglicht ein neues Passwort zu vergeben, falls man das root Passwort nicht mehr hat.
+Der Failsafemode dient nur zur Rettung eines zerschossenen Freifunkrouters.
 
-In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf im richtigen Moment drücken, so dass die Sys-Lampe schnell blinkt. (siehe http://wiki.openwrt.org/de/doc/howto/generic.failsafe )
+In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf im richtigen Moment drückt. Dabei sollte die Sys-Lampe gerade eingeschaltet wurden sein. Ob man im richtigen Modus ist, erkennt man am schnellen Blinken der Sys-Lampe. (siehe http://wiki.openwrt.org/de/doc/howto/generic.failsafe )
 Danach muss der eigene Computer mit einem Netzwerkkabel am blauen WAN-Port angeschlossen werden.
-
-Beim TL-WR842ND ist das Verfahren etwas anders:
-Man schaltet den Router normal an und wartet ca. 15 Sekunden bis die Sys-Lampe aufleuchtet.
-Erst dann drückt man kurz die Reset-Taste, bis die Sys-Lampe schnell blinkt.
 
 Bei manchen Routern kommt man nur in den Failsafemode durch extrem schnelles intervall-drücken der QSS-Taste direkt nach dem Einschalten.
 
 Da im Failsafemode kein DHCP zur Verfügung steht, muss man seine Netzwerkkarte manuell Konfigurieren:
 ```
-IP: 192.168.1.1
-Netmask: 255.255.255.0
-Gateway 192.168.1.1
+IP-Bereich: 192.168.1.0/24
 ```
 
 Im Failsafemode wird Telnet benutzt, um Zugang zur Kommandozeile des Knotens zu erhalten.
-Hierfür genügt folgendes Kommando auf der Kommandozeile unter Linux: <br />
+Hierfür genügt folgendes Kommando auf der Kommandozeile unter Linux:
 ```
 telnet 192.168.1.1
 ```
@@ -76,11 +71,10 @@ Um dauerhafte Änderungen am System durchführen zu können, muss zunächst ein 
 mount_root
 ``` 
 
-Das Passwort für das Webinterface und den SSH-Zugang des Routers kann im ConfigMode (und auch später) mit dem Kommando
+Passwort und SSH-Key für den entfernten Zugang zum Knoten kann im ConfigMode oder mit dem Kommando geändert werden:
 ```
 passwd
 ```
-geändert werden.
 Es ist hierfür kein weiteres Passwort nötig. Dadurch kann somit der Zugang zu einem Knoten wiedererlangt werden, wenn dessen Passwort nicht länger bekannt ist und physischer Zugang besteht.
 
 Das Webinterface ist seit Firmware v0.3.1 standardmäßig deaktiviert.
@@ -88,11 +82,8 @@ Es sollte aus Sicherheitsgründen nicht aktiviert werden.
 
 ### Normaler Betrieb
 Bei Anschluss an das vorhandene Heimnetz bezieht der Knoten seine IP im normalen Betrieb automatisch via DHCP.
-Dies setzt natürlich voraus, dass ein DHCP-Server im lokalen Netz existiert.
-Meistens erfüllt diese Aufgabe der DSL-Router über den man ins Internet gelangt.
 
 Statt Telnet wird im normalen Betrieb SSH benutzt, um auf die Kommandozeile des Routers zuzugreifen.
-Für den SSH-Login gilt das gleiche Passwort wie für das Webinterface.
 
 ### Public fastd-Schlüssel vom Freifunk-Knoten für den VPN-Zugang anzeigen
 ```
