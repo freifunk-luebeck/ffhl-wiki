@@ -25,8 +25,8 @@ pass: admin
 
 ### Buchsenbelegungen bei Freifunkknoten
 ```
-Gelbe Buchse: Freifunk
-Blaue Buchse: LAN
+Gelbe Buchse: Client-Netz
+Blaue Buchse: Heimnetzanschluss für den Uplink ins interne VPN
 ```
 
 Schließt man sein LAN, das Zugang zum Internet bietet, statt an die blaue an die gelbe Buchse an, wird das Freifunk-WLAN nicht über das Freifunk-Netzwerk geroutet sondern geht direkt über den eigenen Router ins Internet. (Wird in einer zukünftigen Firmware geändert.)
