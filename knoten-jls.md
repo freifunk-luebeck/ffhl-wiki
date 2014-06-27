@@ -1,3 +1,8 @@
+## Himmelsrichtungen
+
+Die Kardinalpunkte (n, s, o, w) meshen derzeit nicht und bieten nur Clients den Zugriff an (Kanal 11, txpower 8 dBm).
+Die übrigen vier Knoten meshen auf Kanal 1 und lassen keine Clients herein.
+
 ## Farben der Netzwerkkabel
 
 | Knoten    | Farbe |
