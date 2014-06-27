@@ -100,7 +100,7 @@ Für den SSH-Login gilt das gleiche Passwort wie für das Webinterface.
 ```
 
 ### Version der Firmware anzeigen
-Die [[automatisch generierte Liste der Knoten|http://freifunk.metameute.de/map/list.html]] sollte die Version zeigen. <\ br>
+Die [[automatisch generierte Liste der Knoten|http://freifunk.metameute.de/map/list.html]] sollte die Version zeigen. <br />
 Alternativ geht folgender Befehl, wenn man SSH auf dem Knoten ist:
 ```
 cat /lib/gluon/release
@@ -122,5 +122,5 @@ Im _Failsafemode_ blinkt die System-LED schnell.
 * Bei erfolgtem Neustart den QSS-Button ''sofort'' los lassen, die sys-lampe sollte dann langsam blinken. Wenn man zu lange gedrückt hält bootet der Knoten in den Failsave-Modus (schnelles blinken)
 * Nun an einen der LAN-Ports hängen und die 192.168.1.1 im Browser aufrufen.
 
-### Ausnahmen
+### Besonderheiten
 * Da der [[841ND|Firmware:841nd]] und der [[842|Firmware:842nd]] nur einen gemeinsamen WPS/RESET-Taster haben, ist dieser zu benutzen.
