@@ -100,7 +100,8 @@ Für den SSH-Login gilt das gleiche Passwort wie für das Webinterface.
 ```
 
 ### Version der Firmware anzeigen
-Die [[automatisch generierte Liste der Knoten|http://freifunk.metameute.de/map/list.html]] sollte die Version zeigen - aber was, wenn der Knoten gar nicht am Netz ist?
+Die [[automatisch generierte Liste der Knoten|http://freifunk.metameute.de/map/list.html]] sollte die Version zeigen. <\ br>
+Alternativ geht folgender Befehl, wenn man SSH auf dem Knoten ist:
 ```
 cat /lib/gluon/release
 ```
@@ -123,6 +124,3 @@ Im _Failsafemode_ blinkt die System-LED schnell.
 
 ### Ausnahmen
 * Da der [[841ND|Firmware:841nd]] und der [[842|Firmware:842nd]] nur einen gemeinsamen WPS/RESET-Taster haben, ist dieser zu benutzen.
-
-## Verwaltung
-Router können in die [[Knotenliste für Lübeck|Knoten]] bzw. in die [[Knotenliste für Mölln|Moelln:Knoten]] eintragen werden, wenn sie im Knotengraph mit ihrem Namen angezeigt werden sollen.
