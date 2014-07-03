@@ -2,7 +2,7 @@
 
 ## Verwendungszweck
 
-Diese Router ist bis auf die zusätzliche Antenne baugleich mit dem  [[TP-Link WDR3600|Firmware:3600]]. Die Geräte werden mitunter gebraucht günstig (<50 Euro, Stand 3/2014 statt neu bei >60) angeboten und sind sehr zu empfehlen.
+Diese Router ist bis auf die zusätzliche Antenne baugleich mit dem  [[TP-Link WDR3600|Firmware:3600]]. Die Geräte werden mitunter gebraucht günstig (weniger als 50 Euro, Stand 07/2014 statt neu ab 50 Euro) angeboten und sind sehr zu empfehlen.
 Die Durchdringung von Wänden ist nicht höher als bei den deutlich günstigeren 841ern. Wegen der höheren Rechenleistung ist jedoch eine höhere Anzahl gleichzeitiger Nutzer zu bewältigen.
 
 ## Eigenschaften
