@@ -9,7 +9,7 @@ Der Schwerpunkt beim Ausbau liegt zunächst in Timmendorfer Strand, dort dem Ort
 
 ### Das Nicht-Anfassbare
 
-Die Lübecker Freifunker entwickeln und pflegen für uns die auf den WLAN Routern laufende Software ("[[firmware]]")  und betreiben die vier Server, über die die Datenpakete ins Internet gelangen ("[[gateway]]") sowie dieses Wiki. Unsere ostholsteiner Initiative betreibt schon einen eigenen solchen gateway, und auch eine firmware ist bereits verfügbar (http://ostholstein.freifunk.net/firmware). Vor dem Betrieb des zweiten Gateway möchten wir jedoch nicht mehr als einen Probebetrieb etablieren. All unsere Server werden betrieben von dem Verein Freifunk Ostholstein. Wir sind gemeinnützig und auf dem üblichen Weg zur Anerkennung - bislang noch beim Amtsgericht.
+Die Lübecker Freifunker entwickeln und pflegen für uns die auf den WLAN Routern laufende Software ("[[firmware]]")  und betreiben die vier Server, über die die Datenpakete ins Internet gelangen ("[[gateway]]") sowie dieses Wiki. Unsere ostholsteiner Initiative betreibt schon einen eigenen solchen Gateway, und auch eine Firmware ist bereits verfügbar (http://ostholstein.freifunk.net/firmware). Vor dem Betrieb des zweiten Gateways möchten wir jedoch nicht mehr als einen Probebetrieb etablieren. Alle unsere Server werden betrieben von dem Verein Freifunk Ostholstein. Wir sind gemeinnützig und auf dem üblichen Weg zur Anerkennung - bislang noch beim Amtsgericht.
 
 ### Anfassbar
 
