@@ -51,7 +51,7 @@ Experimentelle Firmwares eignen sich nur für Betreiber, die auch auf der Entwic
 Der Failsafemode dient nur zur Rettung eines zerschossenen Freifunkrouters.
 
 In den Failsafemode kommt man per Hardwarezugriff, wenn man beim Neustart des Knotens den Reset-Knopf im richtigen Moment drückt. Dabei sollte die Sys-Lampe gerade eingeschaltet wurden sein. Ob man im richtigen Modus ist, erkennt man am schnellen Blinken der Sys-Lampe. (siehe http://wiki.openwrt.org/de/doc/howto/generic.failsafe )
-Danach muss der eigene Computer mit einem Netzwerkkabel am blauen WAN-Port angeschlossen werden.
+Danach muss der eigene Computer mit einem Netzwerkkabel am blauen WAN-Port (beim WR842ND v1 in einen gelben LAN Port) angeschlossen werden.
 
 Bei manchen Routern kommt man nur in den Failsafemode durch extrem schnelles intervall-drücken der QSS-Taste direkt nach dem Einschalten.
 
