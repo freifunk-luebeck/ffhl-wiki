@@ -108,7 +108,7 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | Fluse132        | Fluse132 |   |          |           |         |                   |                                |
 | Fluse133        | Fluse133 |   |          | Unifi     | 0.3.2.2 | 24:a4:3c:3e:c6:86 | 53.86623204197421 10.67040681838989 |
 | Fluse134        | Fluse134 |   |          | Unifi     | 0.3.2.2 | 24:a4:3c:3e:c6:77 | 53.866260511210406 10.67037463188171|
-| Fluse139        | Fluse139 |   |niendorf9 | TL-W841n  | 0.3.2.2 | 64:70.02:eb:84:d4 |  |
+| Fluse139        | Fluse139 |   |niendorf9 | TL-W841n  | 0.3.2.2 | 64:70:02:eb:84:d4 |  |
 | Fluse140        | Fluse140 |   |          | TL-WDR3600| 0.3.2.2 | 64:70:02:d1:76:4c | 53.897836774742025 10.6435042619705 | 
 | Fluse141        | Fluse141 |   |          | TL-WDR3600| 0.3.2.2 | 64:70.02:b5:d3:f0 | 53.86672893278921 10.68794846534729 |
 | Fluse142        | Fluse142 |   |          | TL-WDR3600| 0.3.2.2 | f8:d1:11:9c:82:45 |  |
