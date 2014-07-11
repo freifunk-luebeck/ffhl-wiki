@@ -4,7 +4,7 @@
 http://www.derwesten.de/staedte/arnsberg/erste-freifunk-zone-der-stadt-arnsberg-id9579327.html
 
 ### 2014-07-09: Heise Online, Freifunker wehren sich juristisch gegen Abmahner
-http://www.derwesten.de/staedte/arnsberg/erste-freifunk-zone-der-stadt-arnsberg-id9579327.html
+http://www.heise.de/newsticker/meldung/Freifunker-wehren-sich-juristisch-gegen-Abmahner-2252199.html
 
 ### 2014-06-26: radio-skyline aus Hamburg
 http://www.radio-skyline.com/radio-skyline-vom-26-juni-2014/
