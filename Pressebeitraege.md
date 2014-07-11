@@ -1,5 +1,8 @@
 # Pressebeiträge
 
+### 2014-07-11: WAZ , 70 Router in Arnsberg
+http://www.derwesten.de/staedte/arnsberg/erste-freifunk-zone-der-stadt-arnsberg-id9579327.html
+
 ### 2014-06-26: radio-skyline aus Hamburg
 http://www.radio-skyline.com/radio-skyline-vom-26-juni-2014/
 
