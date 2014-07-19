@@ -1,6 +1,4 @@
-Die derzeit in Entwicklung befindliche neue Version der Firmware heisst "Gluon". Die damit insbesondere zu erreichenden Features sind
- * einheitliche Konfiguration fuer alle Freifunk-Gruppen
- * automatische Updates der Firmware
+Die Informationen auf dieser Seite sind zum Teil veraltet!
 
 ## Aktueller Entwicklungsstand
 
