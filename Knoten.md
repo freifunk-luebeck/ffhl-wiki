@@ -3,20 +3,15 @@
 ## Karte mit den aktiven Knoten im Raum Lübeck
 
 Diese Karten kannst du abrufen, wenn du direkt aus dem Internet auf dieser Seite bist oder dich im Freifunknetz befindest.
-Sie stellen allerdings nur einen Anhaltspunkt dar und dienen nicht als Beweis, ob Knoten online sind.
 
-* Aus dem Internet: [[Stadtkarte|http://freifunk.metameute.de/map/geomap.html]] | [[Interaktiver Graph|http://freifunk.metameute.de/map/nodes.html]] ([[Code|https://github.com/tcatm/ffmap-d3]])
-* Aus dem Freifunknetz: [[Stadtkarte|http://map.ffhl/geomap.html]] | [[Interaktiver Graph|http://map.ffhl/nodes.html]]
-
+* Aus dem Internet: [[http://luebeck.freifunk.net/map/geomap.html]]
+* Aus dem Freifunknetz: [[http://map.ffhl/geomap.html]]
 
 ## Bereits vorhandene Knoten
 
-**Es sollten keine fremden Einträge ohne Erlaubnis des Betreibers bearbeitet werden. Insbesondere dürfen keine GPS-Koordinaten oder Adresse angegeben werden, wenn der Betreiber dies nicht will!**
+**Für Knoten mit Firmware ab Version 0.4 wird diese Liste nicht mehr verwendet. Stattdessen können die Koordinaten direkt im Configmode bei der Installation des Knotens hinterlegt werden.**
 
-Mit Einzug von Gluon wird diese Liste nicht mehr benötigt. Stattdessen wird diese Information im jeweiligen Knoten selbst verwaltet und auf der [[automatisch generierten Liste|http://freifunk.metameute.de/map/list.html]] angezeigt.
-
-Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau diese ist für die richtige Zuordnung wichtig.
-
+In der Praxis bedeutet dies, dass hier keine Veränderungen, mit Ausnahme des Entfernens von Einträgen, mehr stattfinden sollten.
 
 | Knotenname            | Betreiber           | Ort                              | Hinweise                                                                                                               | Router                              |   LFF Version | MAC               | GPS                                   |
 |-----------------------|---------------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------|-------------------|---------------------------------------|
@@ -237,12 +232,3 @@ Die benötigte MAC-Adresse steht auf dem Typenschild unter dem Gerät und genau 
 | freifunk-b0487ae8bc26 | Oliver B. | Marlistraße 15b (Keller) | mit Internetanbindung | TL-WR841ND | Glueon 0.4 | B0:48:7A:E8:BC:26 | 53.850677 10.693066 |
 | Airde2 | mkm | Kahlhorststraße 34 | mit Internetanbindung | NanoStation loco M2 | Gluon 0.4 | 26:a4:3c:d3:d5:ea | 53.850726 10.693079 |
 
-Bitte halte die Tabelle ordentlich (alle „|“ unter denen der Zeile darüber), damit die Übersicht erhalten bleibt.
-
-### Umrechnung von GPS Koordinaten
-
-http://rechneronline.de/geo-koordinaten/
-
-### MACs durch lowercase ersetzen
-
-   {{{%s/\(\([0-9A-Fa-f]\{2\}:\)\{5}[0-9A-Fa-f]\{2\}\)/\L\1/g}}}
