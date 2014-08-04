@@ -85,6 +85,11 @@ Bei Anschluss an das vorhandene Heimnetz bezieht der Knoten seine IP im normalen
 
 Statt Telnet wird im normalen Betrieb SSH benutzt, um auf die Kommandozeile des Routers zuzugreifen.
 
+### Blinksequenzen der Freifunkknoten
+
+Bei den Freifunkknoten gibt es drei wichtige Blinkmuster: Bootvorgang, Configmode und Failsafemode, [Hier eine Übersicht](http://www.nilsschneider.net/2013/02/10/freifunk-blinken.html)
+
+
 ### Public fastd-Schlüssel vom Freifunk-Knoten für den VPN-Zugang anzeigen
 ```
 /etc/init.d/fastd show_key mesh_vpn
