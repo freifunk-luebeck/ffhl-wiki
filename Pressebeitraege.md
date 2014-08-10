@@ -1,5 +1,8 @@
 # Pressebeiträge
 
+### 2014.08-09: Deutschlandfunk , Der Kampf für freies WLAN
+http://www.deutschlandfunk.de/gegen-stoererhaftung-der-kampf-fuer-freies-wlan.684.de.html?dram:article_id=294139
+
 ### 2014-07-11: WAZ , 70 Router in Arnsberg
 http://www.derwesten.de/staedte/arnsberg/erste-freifunk-zone-der-stadt-arnsberg-id9579327.html
 
