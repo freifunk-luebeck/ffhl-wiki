@@ -1,5 +1,8 @@
 # Pressebeiträge
 
+### 2014.08.20 Sueddeutsche Zeitung, komm in mein Wlan
+http://www.sueddeutsche.de/digital/oeffentliches-internet-komm-in-mein-wlan-1.2094532
+
 ### 2014.08-09: Deutschlandfunk , Der Kampf für freies WLAN
 http://www.deutschlandfunk.de/gegen-stoererhaftung-der-kampf-fuer-freies-wlan.684.de.html?dram:article_id=294139
 
