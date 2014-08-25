@@ -23,10 +23,10 @@ Dieser Multiplikator kann auch schön visuell und leicht verständlich mit einem
 ### Feedback
 
 _Pro:_
-* ...
+* Es ist empirisch erwiesen, dass Menschen gerne Multiplikatoren hochjagen
 
 _Kontra:_
-* ...
+* Es ist psychologisch erwiesen, dass Menschen mehr auf Verlust als auf Gewinn ansprechen
 
 _weiteres:_
 * ...
@@ -43,7 +43,9 @@ _Pro:_
 * ...
 
 _Kontra:_
-* ...
+* Es sind schon gar nicht mal so viele Punkte pro VPN
+* so kriegen auch Menschen was, die keine Mesh-Verbindung haben
+* Die Gateways werden sowieso ausgeschlossen (sie haben viele VPNs)
 
 _weiteres:_
 * ...
@@ -74,7 +76,8 @@ _Pro:_
 * ...
 
 _Kontra:_
-* ...
+* Die Abstand-Achievements wären nur möglich, wenn ein Knoten seine Koordinaten angegeben hat, was nicht verpflichend ist
+* Das Hotspot-Achievement ist auch irgendwie "unfair", da offensichtlich in Geschäften und auf öffentlichen Plätzen mehr Clients herumlaufen
 
 _weiteres:_
 * ...
