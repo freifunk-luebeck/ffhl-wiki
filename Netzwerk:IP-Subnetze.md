@@ -115,6 +115,7 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.117 | mkms node                     |                |
 |  10.130.0.118 | zenforyens node               |                |
 |  10.130.0.120 | passe0815                     |                |
+|  10.130.0.123 | zenforyens raspberry          |                |
 |  10.130.0.132 | FreeWayLan (StatServer)       | freeway.ffhl   |
 
 ## Andere reservierte Subnetze
