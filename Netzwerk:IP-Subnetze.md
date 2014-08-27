@@ -100,8 +100,6 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.67  | holstentor-monitor            |                |
 |  10.130.0.68  | Fluse100Cam                   |                |
 |  10.130.0.69  | burgtor-monitor               |                |
-|  10.130.0.70  | nils                          |                |
-|  10.130.0.71  | nils                          |                |
 |  10.130.0.72  | Fluse-IP-Stromleiste          |                |
 |  10.130.0.100 | zafer                         |                |
 |  10.130.0.101 | zafer-g1                      | zafer-g1.ffhl  |
@@ -153,11 +151,9 @@ Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
 | 10.130.16.2  | Pascals Server                 | chip.ffhl       |
 | 10.130.16.3  | DerDerwishs Server             | derderwish.ffhl |
 | 10.130.16.4  | DerDerwishs Server (sekundär)  |                 |
-| 10.130.16.5  | nils' N900                     |                 |
 | 10.130.16.6  | Jamalaka X200                  |                 |
 | 10.130.16.7  | Jamalaka Calvin                |                 |
 | 10.130.16.8  | dysis                          | dysis.ffhl      |
-| 10.130.16.9  | tcatm t410                     |                 |
 | 10.130.16.10 | magu                           |                 |
 | 10.130.16.11 | zenforyen                      |                 |
 | 10.130.16.17 | Eichi                          |                 |
