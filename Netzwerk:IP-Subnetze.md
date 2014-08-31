@@ -1,31 +1,35 @@
 # Freifunk Lübeck Subnetz
 
-Für den Lübecker Raum ist das folgende Subnetz reserviert:
-
-    10.130.0.0/16
-
-Dabei wird für das eigentliche Mesh bisher `10.130.0.0/20` genutzt.
-
-Und hier eingetragen: [[http://wiki.freifunk.net/IP-Netze]]
-
 ## IPv6
 
-Für IPv6 wird der Prefix `fdef:ffc0:3dd7::/48` verwendet.
-Davon ist bisher nur `fdef:ffc0:3dd7::/64` in Benutzung; Geräte
-mit statischer Adresse 10.130.a.b _sollten_ die IPv6-Adresse
-``fdef:ffc0:3dd7::0.0.a.b/64`` zugeteilt bekommen.
+Für IPv6 wird der Prefix `2001:bf7:110::/44` verwendet.
 
-Auf dem WCW2014 wurde Freifunk Lübeck das Präfix `2001:bf7:110::/44` zugeteilt. Dieser wird derzeit über einen ip6ip6 Tunnel auf burgtor geroutet. Eine redundante Lösung ist geplant und wird in Berlin vorbereitet.
+| Prefix                                          | Verwendung       |
+|-------------------------------------------------|------------------|
+| 2001:bf7:110::/64 (fdef:ffc0:3dd7::/64)         | mesh             |
+| 2001:bf7:110:10::/64 (fdef:ffc0:3dd7:10::/64)   | Client-VPN       |
+| 2001:bf7:11f:f000::/52                          | Tests (Nils)     |
 
-`2001:bf7:110::/64` wird derzeit von burgtor im Mesh angekündigt.
-`2001:bf7:11f:f000::/52` wird von Nils zum Testen eines Layer3 Meshes verwendet.
+Geräte mit statischer Adresse 10.130.a.b sollten die IPv6-Adresse
+``2001:bf7:110::0.0.a.b/64`` zugeteilt bekommen.
 
-Statistiken aus Sicht von Berlin finden sich unter: http://monitor.berlin.freifunk.net/host.php?h=bgp01.berlin.freifunk.net&p=interface (tun4403)
+### ULA
+
+Wir möchten das ULA `fdef:ffc0:3dd7::/48` mittelfristig nicht mehr verwenden
+und auf das öffentliche Prefix umstellen.
 
 ### Ideen zur Unterteilung des Präfixes
 
 * Wir könnten aus dem ersten /48 je /64 für alle Subnetze, die sich aus Gatewaysicht hinter dem Mesh befinden, verwenden. Solche Subnetze wären z.B. die Meute, der nbsp, Heimnetze und das Mesh selber. Dabei wären 65536 Subnetze möglich.
 * Wir könnten weitere /48 für außerhalb des Meshes geroutete Netze verwenden (erstmal wohl unwahrscheinlich).
+
+## IPv4
+
+Für den Lübecker Raum ist das folgende Subnetz reserviert:
+
+    10.130.0.0/16
+
+Dabei wird für das eigentliche Mesh bisher `10.130.0.0/20` genutzt.
 
 ## Internet-Gateways
 
