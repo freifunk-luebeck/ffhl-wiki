@@ -157,7 +157,6 @@ Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
 | 10.130.16.4  | DerDerwishs Server (sekundär)  |                 |
 | 10.130.16.6  | Jamalaka X200                  |                 |
 | 10.130.16.7  | Jamalaka Calvin                |                 |
-| 10.130.16.8  | dysis                          | dysis.ffhl      |
 | 10.130.16.10 | magu                           |                 |
 | 10.130.16.11 | zenforyen                      |                 |
 | 10.130.16.17 | Eichi                          |                 |
