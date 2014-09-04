@@ -32,12 +32,6 @@ Das Standortteam führt, je nach Gegebenheiten folgende Arbeiten durch:
 - ggf. handwerkliche Vorarbeiten durchführen
 - Hardware aufbauen
 
-## Umfang der Dokumentation
-
-Die Dokumentation wird fortlaufend im Wiki aktualisiert und soll folgende Angaben enthalten:
-
-- 
-
 ## Lagerverwaltung
 
 Die Hardware wird im Lager (ggf. mehrere) vorgehalten und dort von den Standortteams abgeholt. Als Lager bieten sich z.B. Büros oder Privatwohnungen an, die möglichst zentral gelegen sind.
@@ -95,6 +89,20 @@ Das Standortteam führt, je nach Gegebenheiten folgende Arbeiten durch:
 - Hardware aufbauen
 
 ## Umfang der Dokumentation
+
+Die Dokumentation wird fortlaufend im Wiki aktualisiert und soll u.a. folgende Angaben enthalten:
+
+- Objektadresse, ggf. Webseite
+- Ansprechpartner (Standortteam + ggf. Eigentümer/Hausmeister/...)
+- Status (In Planung, Projektiert, Im Aufbau, Fertiggestellt)
+- Bilder!
+- Liste der verbauten Hardware inkl. Serienummern, MACs, Knotennamen
+- Liste von verwendeten Material (Netzwerkbel, Kabelschellen, Schrauben, ...) bei verwendung von Fördergeldern
+- Liste durchgeführter handwerklicher Arbeiten
+
+### Logbuch
+
+Das Standortteam führt außerdem ein stichpunktartiges Logbuch. Dort wird u.a. der Projektbeginn, durchgeführte Arbeiten und Projektabschluss dokumentiert. Nachträgliche Veränderungen (auch z.B. Kanalwechsel der Software oder Hardwaretausch) werden dort festgehalten.
 
 ## Lagerverwaltung
 
