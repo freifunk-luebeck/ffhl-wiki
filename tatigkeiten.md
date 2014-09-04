@@ -1,6 +1,6 @@
 # Tätigkeiten und Aufgaben im Freifunk
 
-Hier findet ihr eine kleine Liste an Aufgaben im Freifunk und wer diese betreut. 
+Hier findet ihr eine kleine Liste an Aufgaben im Freifunk und von wem diese verwaltet werden. 
 
 - info@luebeck.freifunk.net → Nils
 - Maschinenraum-Liste → Nils
