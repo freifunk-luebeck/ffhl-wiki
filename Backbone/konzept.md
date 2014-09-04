@@ -155,3 +155,4 @@ Für das Bezahlen der Rechnungen ist ggf. eine enge Zusammenarbeit mit oder Prok
 # Hardware und Softwaresetup
 
 TBD
+- keine DSL Anschlüsse!
