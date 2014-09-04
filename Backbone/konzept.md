@@ -1,0 +1,59 @@
+**Bitte editiert diese Dokument nicht ohne Absprache mit Nils**
+
+# Backbonee-Ausbau Freifunk Lübeck
+
+Dieses Dokument versucht ein Konzept für den Ausbau eines Freifunk Backbones in Lübeck zu erarbeiten. Ziele sind:
+
+- einen Funkbackbone, vorzugsweise als Ring um die Altstadt, aufzubauen
+- diesen Backbone an zwei Standorten symmetrisch mit mind. 100 MBit/s an das Internet anzubinden
+- den Ausbau über öffentliche Mittel oder Spenden zu finanzieren
+
+Der Ausbau wird grob in *Standorte* unterteilt. Jeder Standort wird von einem Team aus mindestens zwei Personen projektiert und durchgeführt. Der Fortschritt wird je Standort fortlaufend im Wiki dokumentiert, so dass bei Fertigstellung eine vollständige Dokumentation vorliegt. Fotos sind erwünscht! Diese Dokumentationen dienen maßgeblich zwei Zwecken:
+
+- Dokumentation für uns und diejenigen, die in einigen Jahen die Hardware gegen neuere austauschen oder erweitern.
+- Rechenschaftsbericht gegenüber Sponsoren, die letztendlich die verbaute Hardware bezahlen.
+
+## Finanzierung
+
+Die gesamte Finanzierung soll über öffentliche Gelder oder Spenden erfolgen. Finanziert werden kann:
+
+- Einkauf von Hardware, Netzwerkkabeln, Installationsmaterial, ... die direkt für den Backbone benötigt werden
+- Handwerksdienstleistungen, die im Zusammenhang damit anfallen (Kabeldurchführungen durch Brandschutzdecken, Blitzschutz, usw)
+
+## Workflow Standortteam
+
+Das Standortteam führt, je nach Gegebenheiten folgende Arbeiten durch:
+
+- Erstellen der Standortseite im Wiki
+- Eintragen der Seite in Übersichtsseite
+- Kontaktaufnahme mit dem Eigentümer
+- Besichtigungstermin durchführen (Fotos!)
+- Standort projektieren -> an Beschaffung melden
+- ggf. handwerkliche Vorarbeiten durchführen
+- Hardware aufbauen
+
+## Umfang der Dokumentation
+
+## Lagerverwaltung
+
+Die Hardware wird im Lager (ggf. mehrere) vorgehalten und dort von den Standortteams abgeholt. Als Lager bieten sich z.B. Büros oder Privatwohnungen an, die möglichst zentral gelegen sind.
+
+Für die Verwaltung des Lagers ist jeweils eine Person zuständig, die sowohl die Wareneingangskontrolle als auch die Warenausgabe durchführt. Je Lager wird es eine Wikiseite geben, die den aktuellen Bestand, sowie Ein- und Ausgänge (jeweils mit Seriennummern) auflistet. Desweiteren werden Ein- und Ausgänge auch lokal (Lieferscheine + Ausgabescheine mit Unterschrift) dokumentiert und archiviert.
+
+*Wareneingangskontrolle*
+
+- gelieferte Ware wird mit Bestellungen abgeglichen
+- Lieferscheine abgeheftet
+- Seriennummern notieren
+
+*Warenausgabe*
+
+- Ausgabe gegen Unterschrift. Einsatzzweck festhalten (auch im Wiki)
+
+### Beschaffung
+
+- Einholen von Angeboten / Ausschreibungen
+- Bestellungen durchführen
+- Finanzierungen klären (z.B. öffentliche Gelder)
+
+Generell sind große Bestellungen auf Rechnung gegenüber Einzeleinkäufen zu bevorzugen
