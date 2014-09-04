@@ -1,4 +1,13 @@
-**Bitte editiert diese Dokument nicht ohne Absprache mit Nils**
+**Bitte editiert dieses Dokument nicht ohne Absprache mit Nils**
+
+# Nächste Schritte
+
+- zu Versammlung und Projektstart einladen
+- Personen für Lager und Beschaffung finden
+- erstes Standortteam bilden
+- geeignete Standorte heraussuchen
+- Standortvertrag planen und vorbereiten
+- Hardware und Softwaresetup planen
 
 # Backbone-Ausbau Freifunk Lübeck
 
@@ -28,7 +37,9 @@ Das Standortteam führt, je nach Gegebenheiten folgende Arbeiten durch:
 - Eintragen der Seite in Übersichtsseite
 - Kontaktaufnahme mit dem Eigentümer
 - Besichtigungstermin durchführen (Fotos!)
-- Standort projektieren -> an Beschaffung melden
+- Standort projektieren
+- Vertrag mit Eigentümer abschließen
+- Hardware über Lager/Beschafung reservieren
 - ggf. handwerkliche Vorarbeiten durchführen
 - Hardware aufbauen
 
@@ -135,3 +146,12 @@ Generell sind große Bestellungen auf Rechnung gegenüber Einzeleinkäufen zu be
 Lieferungen erfolgen direkt ans Lager.
 
 Für das Bezahlen der Rechnungen ist ggf. eine enge Zusammenarbeit mit oder Prokura von einem gemeinnützigen Verein nötig.
+
+# Geeignete Standorte
+
+- Flachdach oder ähnlich leicht zugänglich
+- keine privaten Gebäude bei öffentlicher Förderung
+
+# Hardware und Softwaresetup
+
+TBD
