@@ -1,6 +1,6 @@
 **Bitte editiert diese Dokument nicht ohne Absprache mit Nils**
 
-# Backbonee-Ausbau Freifunk Lübeck
+# Backbone-Ausbau Freifunk Lübeck
 
 Dieses Dokument versucht ein Konzept für den Ausbau eines Freifunk Backbones in Lübeck zu erarbeiten. Ziele sind:
 
