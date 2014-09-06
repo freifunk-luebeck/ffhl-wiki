@@ -1,5 +1,8 @@
 # Pressebeiträge
 
+### 2014.08.28 Foerdeschnack, SSW kauft 30 Router
+http://www.foerdeschnack.de/ssw-unterstuetzt-freifunk-und-kauft-30-router-1023342/
+
 ### 2014.08.20 Sueddeutsche Zeitung, komm in mein Wlan
 http://www.sueddeutsche.de/digital/oeffentliches-internet-komm-in-mein-wlan-1.2094532
 
