@@ -2,7 +2,7 @@
 
 # Nächste Schritte
 
-- zu Versammlung und Projektstart einladen
+- ~~zu Versammlung und Projektstart einladen~~
 - Personen für Lager und Beschaffung finden
 - erstes Standortteam bilden
 - geeignete Standorte heraussuchen
