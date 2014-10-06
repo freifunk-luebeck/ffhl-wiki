@@ -35,7 +35,7 @@ Im normalen Betrieb ist der Knoten mit seinem WAN-Port am Heimnetz angeschlossen
 Der Configmode dient der grundlegenden Einstellung eines Knotens und ist der empfohlene Weg zum Ändern der Bandbreitenbegrenzung, des Passworts und des Firmware Upgrades.
 
 Dafür muss der Knoten zuerst komplett gebootet sein und laufen.
-Im laufenden Betrieb wird nun die QSS-Taste (oder Reset-Taste, je nach Modell) ca. 5 Sekunden gedrückt gehalten, bis der Knoten merklich neustartet.
+Im laufenden Betrieb wird nun die QSS-Taste (oder Reset-Taste, je nach Modell) ca. 10 Sekunden gedrückt gehalten, bis der Knoten merklich neustartet (alle Lampen blinken auf).
 Dann muss der Button ''sofort'' losgelassen werden, damit er in den Configmode geht.
 
 Danach hängt man seinen Rechner an einen der gelben LAN-Ports und lässt sich eine IP geben.
