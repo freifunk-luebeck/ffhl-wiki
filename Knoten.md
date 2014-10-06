@@ -9,9 +9,7 @@ Diese Karten kannst du abrufen, wenn du direkt aus dem Internet auf dieser Seite
 
 ## Bereits vorhandene Knoten
 
-**Für Knoten mit Firmware ab Version 0.4 wird diese Liste nicht mehr verwendet. Stattdessen können die Koordinaten direkt im Configmode bei der Installation des Knotens hinterlegt werden.**
-
-In der Praxis bedeutet dies, dass hier keine Veränderungen, mit Ausnahme des Entfernens von Einträgen, mehr stattfinden sollten.
+**Diese Liste wird nicht mehr ausgewertet und demnächst entfernt! Koordinaten können nun direkt im Configmode hinterlegt werden.**
 
 | Knotenname            | Betreiber           | Ort                              | Hinweise                                                                                                               | Router                              |   LFF Version | MAC               | GPS                                   |
 |-----------------------|---------------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------|-------------------|---------------------------------------|
