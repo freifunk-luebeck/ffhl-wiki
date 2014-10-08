@@ -98,6 +98,7 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.38  | Paul-Nook2012                 |                |
 |  10.130.0.39  | fritz (nbsp)                  |                |
 |  10.130.0.40  | nbsp beamer                   |                |
+|  10.130.0.41  | nbsp schloss                  |                |
 |  10.130.0.42  | NasBox                        | nasbox.ffhl    |
 |  10.130.0.64  | magu Server                   | cic.ffhl       |
 |  10.130.0.65  | johnyb                        |                |
