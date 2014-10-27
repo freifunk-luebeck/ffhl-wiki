@@ -20,7 +20,6 @@ Dann trag sie hier ein und vielleicht findet sich ein neuer Verwendungszweck daf
 | 24dBi Gitter-Antenne, 2.4GHz, outdoor |  1     | VHB        | T_X                    | zum Testen oder Dauerleihgabe für tolle Dach-Installationen |
 | [[18dBi Panel-Antenne, 2.4GHz, outdoor|http://varia-store.com/Antennas/Antennas-2-4-2-5GHz/Panel-outdoor-2-4-2-5GHz/Outdoor-Panel-Antenna-18dbi-bg-2-4GHz-w-Mounting-Kit::1759.html]]  |  1     | VHB        | T_X                    | zum Testen oder Dauerleihgabe für tolle Dach-Installationen |
 | [[19dBi Yagi-Antenne, 2.4GHz, outdoor|http://yagi.pl/antena-kierunkowa-yagi-gold-p-973.html]]   |  2     | -          | MetaMeute              | zum Testen |
-| 18dBi Yagi-Antenne,   2,4 - 2,5GHz, outdoor|1  |  ANDERE ANTENNE     | Sven (FreeWaylan)Kontakt:freifunkhl@gmail.com          | Suche eine andere Antenne für Mesh             | zum Testen |
 
 
 
