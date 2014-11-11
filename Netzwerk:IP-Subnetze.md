@@ -32,7 +32,7 @@ und auf das öffentliche Prefix umstellen.
 | :002Y:                           | tux-Net      |
 | :003Y:                           | (frei)       |
 
-Das 'Y' ist dabei Variable.
+Das 'Y' ist dabei variabel.
 
 ## IPv4
 
