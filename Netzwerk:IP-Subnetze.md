@@ -20,17 +20,19 @@ und auf das öffentliche Prefix umstellen.
 
 ### Ideen zur Unterteilung des Präfixes
 
-* Wir könnten aus dem ersten /48 je /64 für alle Subnetze, die sich aus Gatewaysicht hinter dem Mesh befinden, verwenden. Diese Subnetze wollen wir zunächst auf /60 Grenzen legen um die /64 bei Bedarf noch erweitern zu können.
+* Wir könnten aus dem ersten /48 je /60 für alle Subnetze, die sich aus Gatewaysicht hinter dem Mesh befinden, aufsteigend verwenden.
 * Solche Subnetze wären z.B. die Meute, der nbsp, Heimnetze und das Mesh selber. Dabei wären 65536 Subnetze möglich.
 * Wir könnten weitere /48 für außerhalb des Meshes geroutete Netze verwenden (erstmal wohl unwahrscheinlich).
 
 ### Subnetze
 
-| Infix (aaaa:bbbb:cccc:XXX0::/64) | Beschreibung |
+| Infix (aaaa:bbbb:cccc:XXXY::/60) | Beschreibung |
 |----------------------------------|--------------|
-| :0010:                           | ClientVPN    |
-| :0020:                           | tux-Net      |
-| :0030:                           | (frei)       |
+| :001Y:                           | ClientVPN    |
+| :002Y:                           | tux-Net      |
+| :003Y:                           | (frei)       |
+
+Das 'Y' ist dabei Variable.
 
 ## IPv4
 
