@@ -1,4 +1,6 @@
 # Pressebeiträge
+### 2014.11.30 Volksstimme Salzwedel, Freifunk in Salzwedel
+http://www.volksstimme.de/nachrichten/lokal/salzwedel/1376912_Kostenloses-Netz-in-der-Innenstadt.html
 
 ### 2014.08.28 Foerdeschnack, SSW kauft 30 Router
 http://www.foerdeschnack.de/ssw-unterstuetzt-freifunk-und-kauft-30-router-1023342/
