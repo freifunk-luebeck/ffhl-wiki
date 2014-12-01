@@ -1,4 +1,21 @@
 # Pressebeiträge
+### 2014.12.01 verschiedene Beiträge vom FF HH
+
+http://mobil.abendblatt.de/hamburg/kommunales/article134404339/Kostenloses-WLAN-bald-in-der-ganzen-City.html
+
+http://mobil.abendblatt.de/hamburg/kommunales/article134692176/Ist-unverschluesseltes-Gratis-WLAN-ohne-Datenschutz.html
+
+http://mobil.abendblatt.de/hamburg/article134852818/Initiative-erstellt-WLAN-Karte-fuer-Hamburg-und-Umgebung.html
+
+http://www.elbmelancholie.de/2014/11/19/wie-die-freifunker-zur-hotspot-haupstadt-hamburg-stehen-07071/
+
+http://www.ndr.de/nachrichten/hamburg/Hamburg-soll-WLAN-Hauptstadt-werden,freewlan100.html
+
+http://www.taz.de/Freies-WLAN-fuer-alle/!150390/
+
+http://www.taz.de/1/archiv/?dig=/2014/11/29/a0160
+
+http://www.welt.de/regionales/hamburg/article134356792/Hamburg-wird-zur-WLAN-Hauptstadt.html 
 ### 2014.11.30 Volksstimme Salzwedel, Freifunk in Salzwedel
 http://www.volksstimme.de/nachrichten/lokal/salzwedel/1376912_Kostenloses-Netz-in-der-Innenstadt.html
 
