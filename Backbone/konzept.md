@@ -105,7 +105,7 @@ Die Dokumentation wird fortlaufend im Wiki aktualisiert und soll u.a. folgende A
 
 - Objektadresse, ggf. Webseite
 - Ansprechpartner (Standortteam + ggf. Eigentümer/Hausmeister/...)
-- Status (In Planung, Projektiert, Im Aufbau, Fertiggestellt)
+- Status (Kontaktaufnahme, In Planung, Projektiert, Im Aufbau, Fertiggestellt)
 - Bilder!
 - Liste der verbauten Hardware inkl. Serienummern, MACs, Knotennamen
 - Liste von verwendeten Material (Netzwerkbel, Kabelschellen, Schrauben, ...) bei verwendung von Fördergeldern
