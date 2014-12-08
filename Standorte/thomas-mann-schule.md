@@ -1,7 +1,7 @@
 # Thomas-Mann-Schule
 
 * **Status:** Kontaktaufnahme
-* **Verantwortlicher:** TBD
+* **Verantwortlicher:** Stefan (FFHLWSHL)
 * **Ansprechpartner:** Nils fragen
 
 ## Anschrift
