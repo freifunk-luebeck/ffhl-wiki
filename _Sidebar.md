@@ -39,6 +39,7 @@
      * [[Aktive Knoten|Moelln:Knoten]]
  * Installationen
    * [[Julius-Leber-Schule|knoten-jls]]
+   * [[Standorte]]
  * Technische Details
    * [[Netzwerk]]
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
