@@ -37,9 +37,7 @@
    * [[Ostholstein]]
    * [[Lauenburg/Mölln|Moelln]]
      * [[Aktive Knoten|Moelln:Knoten]]
- * Installationen
-   * [[Julius-Leber-Schule|knoten-jls]]
-   * [[Standorte]]
+ * [[Standorte]]
  * Technische Details
    * [[Netzwerk]]
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
