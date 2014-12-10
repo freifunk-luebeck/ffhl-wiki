@@ -1,3 +1,5 @@
+# Standorte
+
 | Standort                              | Status          |
 |---------------------------------------|-----------------|
 | [[Thomas-Mann-Schule|Standorte/tms]]  | Kontaktaufnahme |
