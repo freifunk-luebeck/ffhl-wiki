@@ -1,6 +1,6 @@
 | Standort                         | Status          |
 |----------------------------------|-----------------|
-| [[Standorte/thomas-mann-schule]] | Kontaktaufnahme |
+| [[Thomas-Mann-Schule|Standorte/thomas-mann-schule]] | Kontaktaufnahme |
 | Julius-Leber-Schule              | Fertiggestellt  |
 | Brauberger                       | ?               |
 | Buddenbrookhaus                  | ?               |
