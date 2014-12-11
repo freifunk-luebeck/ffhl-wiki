@@ -24,7 +24,7 @@ Features:
 
 ### RM03 batman-adv auf dem WAN Port
 
-*Status: In Progress* 
+*Status: In Progress*  
 *Target: 0.4*
 
 Es wäre wünschenswert auf dem WAN Port batman-adv zu sprechen. Die beste Idee ist bisher: DHCP auf dem WAN Port versuchen. Wenn es fehlschlägt, `batctl if add $WAN`. Danach jedoch weiterhin DHCP versuchen und das Interface wieder herausnehmen sobald es gelingt.
