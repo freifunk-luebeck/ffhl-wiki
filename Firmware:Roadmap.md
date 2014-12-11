@@ -2,7 +2,7 @@
 
 ### RM01 Kein Passwort im Configmode setzen
 
-*Status: In Progress*  
+*Status: Finished*  
 *Target: 0.4*
 
 Das Passwort wird nur für den SSH-Zugriff benötigt. Den jedoch nutzen jedoch wenige. Darum sollte der Configmode auch keines mehr setzen. Stattdessen sollte der Rootzugang gesperrt (passwd -l root) werden, so dass im Normalbetrieb kein Login möglich ist. Es sollte jedoch optional einfach möglich sein ein Passwort zu setzen. Telnet im Configmode?
@@ -24,7 +24,7 @@ Features:
 
 ### RM03 batman-adv auf dem WAN Port
 
-*Status: In Progress*  
+*Status: In Progress*
 *Target: 0.4*
 
 Es wäre wünschenswert auf dem WAN Port batman-adv zu sprechen. Die beste Idee ist bisher: DHCP auf dem WAN Port versuchen. Wenn es fehlschlägt, `batctl if add $WAN`. Danach jedoch weiterhin DHCP versuchen und das Interface wieder herausnehmen sobald es gelingt.
@@ -46,7 +46,7 @@ Umsetzung:
 
 ### RM05 Nearest-Node Webinterface
 
-*Status: In Progress*  
+*Status: Finished*  
 *Target: 0.4*
 
 Es sollte möglich sein jederzeit den nächstgelegenden Knoten zu erreichen und dort eine Statusseite zu sehen. Von dort sollten auch andere Knoten in der Nachbarschaft erreicht werden können.
@@ -69,14 +69,14 @@ Sobald RM01, RM02 und RM06 umgesetzt sind, sollte der Configmode entfernt werden
 
 ### RM08 Alfred
 
-*Status: In Progress*  
+*Status: Finished*  
 *Target: 0.4*
 
 Alfred kann die Meshvisualisierung übernehmen und zusätzlich Informationen über die Knoten (z.B. Hostname, Firmwareversion, GPS Koordinaten) sammeln.
 
 ### RM09 GPS Koordinaten im Configmode
 
-*Status: In Progress*  
+*Status: Finished*  
 *Target: 0.4*
 
 Wenn der Benutzer die GPS Koordinaten im Knoten direkt einträgt, könnten wir auf die Knotenliste im Wiki vollständig verzichten. 
@@ -87,13 +87,7 @@ Benötigt RM08.
 
 ### RM10 Expertenmodus im Configmode
 
-*Status: Idee*  
+*Status: Finished*  
 *Target: 0.4*
 
 Configmode in normal und Expertenmodus unterteilen.
-
-# Alte Roadmap
-
-### Außerdem
-
- * Distributions unabhängige Lübeck Freifunk Pakete? Sodass man auf einem beliebigen Laptop mal eben schnell einen Lübeck Freifunk Knoten aufsetzen könne?
