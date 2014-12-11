@@ -2,11 +2,19 @@
 
 * **Status:** Kontaktaufnahme
 * **Verantwortlicher:** Volker, Theresa
-* **Ansprechpartner:** Stadt
+* **Ansprechpartner:** Hausmeisterin Frau Plitt
 
 ## Anschrift
 
     Schwartauer Allee 44 - 44a
+
+## Erste Besichtigung
+
+* **Datum:** 24.09.2014
+* **Westen:** Julius-Leber-Schule
+* **Osten:** Burgtor
+* **Norden:** ev. fluse100, aber nicht auf den Bildern zu erkennen
+* **Stromversorgung:** Steckdose vorhanden
 
 ## Nächste Schritte
 
