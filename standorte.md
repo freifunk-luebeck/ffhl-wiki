@@ -9,5 +9,5 @@
 | Buddenbrookhaus                                        | ?               |
 | Burgtor                                                | ?               |
 | DGB-Haus                                               | ?               |
-| Altenpflegeheim                                        | ?               |
+| [[Pflegezentrum Travemünder Allee|Standorte/pzta]]     | ?               |
 | Wasserkunst                                            | ?               |
