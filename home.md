@@ -11,30 +11,6 @@ Wenn du am Freifunknetz teilnehmen möchtest, so kostet dich ein Router lediglic
 Damit hast du deinen eigenen anonymen Freifunkknoten. Und das völlig legal! Du bist nicht für die Nutzung anderer Personen auf deinem Knoten / Router verantwortlich.
 
 Alle Fragen werden wir dir bestimmt auf dieser Seite nicht sofort und ausführlich beantworten können. 
-Wir treffen uns jeden Donnerstag im Rahmen des [[Chaostreffs Lübeck|http://ccchl.de]] in der [[Röhre|http://www.kjhroehre-luebeck.de/]], dem Kinder- & Jugendkulturhaus in der Geraden Querstraße 2.
-
- 
-## AKTUELL: 
-
-### Firmware Gluon
-
-Die neu-implementierte Firmware des Freifunk, [[Gluon]], ist als stabile Version erschienen. Sie kann bereits heute mit automatischen Updates stabil betrieben werden.
-
-### Firmware 0.3.2.2 
-Die vormals stabile 0.3.2.2 Version der Firmware funktioniert zwar noch, sollte aber nach und nach durch die performantere [[Gluon]] Neuimplementierung ersetzt werden.
-
-### Radioauftritt
-Wir hatten glücklicherweise die Möglichkeit für eine Radio-Sendung im [[OKL|http://www.okluebeck.de/]] machen zu können.
-Hier befindet sich eine Aufnahme der Sendung:
- 
-<audio controls="controls">
-  <source src="http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.opus"/>
-  <source src="http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.ogg"/>
-  <source src="http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.mp3" />
-  Your browser does not support the audio tag.
-</audio>
-
-Alternativ kannst du das Interview auch als [MP3 herunterladen](http://metameute.de/~freifunk/media/2012-09-13%20Interview%20OKL.mp3).
 
 ### Vorkonfigurierte Knoten
 Wir haben wieder eine begrenzte Anzahl fertig konfigurierter Router. Wenn du dich am Lübecker Freifunk beteiligen möchtest, kannst du gerne ein Gerät für einmalig ab 20 € von uns erwerben. Mail uns bitte einfach kurz an :-)
@@ -55,7 +31,7 @@ In Timmendorfer Strand ist schon seit längerem ein Freifunk Knoten. Seit Mitte 
 
 ## Kontakt
 
-Mail: freifunk.luebeck@asta.uni-luebeck.de
+Mail: info@luebeck.freifunk.net
 
 Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [Mailing-Liste](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck); Mailingliste für Firmware-Entwicklung unter [freifunk.luebeck-devel AT asta.uni-luebeck.de](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck-devel)
 
@@ -63,14 +39,10 @@ Persönlich: Im Rahmen des [[Chaostreffs Lübeck|http://ccchl.de]] treffen wir u
 
 Twitter: Freifunk Lübeck [@Twitter](http://twitter.com/freifunkluebeck)
 
-Blog: [[http://blog.metameute.de/]]
-
 Redmine/Issue Tracker: [[https://projects.universe-factory.net/projects/ffhl]]
-
-Telefon: meute@&zwj;sip.ffhl (meute@&zwj;10.130.0.12) oder 0451/30504399 und dann 63883#
 
 Internet Relay Chat (IRC): [#ffhl](irc://irc.hackint.eu/ffhl) im [Hackint](http://hackint.eu/)
 
 ## Wiki
 Alle können mithelfen dieses Wiki zu erweitern. Lest dazu die [[Hilfe]].<br />
-Auf Grund der Spamangriffe in der letzte Zeit wurde das anonyme Editieren aus dem Internet vorrübergehend deaktiviert.
+Auf Grund der Spamangriffe in der letzten Zeit wurde das anonyme Editieren aus dem Internet vorrübergehend deaktiviert.
