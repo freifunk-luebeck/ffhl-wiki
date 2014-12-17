@@ -42,7 +42,6 @@
    * [[Netzwerk]]
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
      * [[Mesh-VPN]]
-     * [[bird]]
      * [[Gatewaykonfiguration|gatewayconfig]]
    * [[Firmware]]
      * [[Download|https://luebeck.freifunk.net/mitmachen.html]]
