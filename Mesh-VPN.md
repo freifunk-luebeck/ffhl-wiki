@@ -27,7 +27,3 @@ weiterer Knoten geschieht mittels Ethernet Paketen des Typs 0x4305.
 
 Alle anderen Ports dürfen (oder sollten sogar!) gesperrt werden, um einen Zugriff aufs eigene Netzwerk völlig auszuschließen.
 Die Firmware der Knoten trennt die Netzwerke selber schon voneinander. Dazu werden mehrere virtuelle Netzwerkbrücken innerhalb des Knotens angelegt. Eine enthält alle Interfaces, auf denen Freifunk-Nutzdaten, (das Client WLAN mit der ESSID `luebeck.freifunk.net`, das VPN und die gelben LAN Ports das Knotens). Ein Routing zwischen dieser Brücke und dem WAN Port wird durch mehrere Mechanismen ausgeschlossen.
-
-## Verschlüsselung
-
-Als Cipher werden wahlweise xsalsa20-poly1305 oder aes128-gcm eingesetzt. xsalsa20-poly1305 eignet sich besonders für Prozessoren ohne spezielle Kryptobeschleunigung, also für die normalen Freifunkknoten.
