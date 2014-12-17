@@ -60,6 +60,5 @@
      * NanoBridge M2
    * [[fastd Schlüsselverwaltung|fastd-schlusselverwaltung]]
  * [[Probleme]]
- * [[Zeitplan|zeitplan]]
  * Ideensammlung
    * [[IPv6-only Mesh]]
