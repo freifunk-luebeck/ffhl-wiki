@@ -60,7 +60,6 @@
      * [[Unifi AP Familie|Firmware:UnifiAP]]
      * NanoBridge M2
    * [[fastd Schlüsselverwaltung|fastd-schlusselverwaltung]]
-   * [[fastd Durchsatz|fastd-throughput]]
  * [[Probleme]]
  * [[Zeitplan|zeitplan]]
  * Ideensammlung
