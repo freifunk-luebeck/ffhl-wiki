@@ -43,7 +43,6 @@
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
      * [[Mesh-VPN]]
      * [[bird]]
-     * [[Knotenkonfiguration]]
      * [[Gatewaykonfiguration|gatewayconfig]]
    * [[Firmware]]
      * [[Download|https://luebeck.freifunk.net/mitmachen.html]]
