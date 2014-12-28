@@ -66,7 +66,7 @@ Hierfür genügt folgendes Kommando auf der Kommandozeile unter Linux:
 telnet 192.168.1.1
 ```
 
-Um dauerhafte Änderungen am System durchführen zu können, muss zunächst ein Overlay-Dateisystem gemountet werden.
+Um die eingestellte Konfigration anzuschauen mit `uci show` und um dauerhafte Änderungen am System durchführen zu können, muss zunächst ein Overlay-Dateisystem gemountet werden.
 ```
 mount_root
 ``` 
