@@ -3,7 +3,7 @@
 Die Kardinalpunkte (n, s, o, w) meshen derzeit nicht und bieten nur Clients den Zugriff an (Kanal 11, txpower 8 dBm).
 Die übrigen vier Knoten meshen auf Kanal 1 und lassen keine Clients herein.
 
-| Namε        | MAC               | IPv6                 | Hardware       | Kabelfarbe |
+| Name        | MAC               | IPv6                 | Hardware       | Kabelfarbe |
 |-------------|-------------------|----------------------|----------------|------------|
 | jls-nsm2-n  | 24:a4:3c:9a:57:d7 | :26a4:3cff:fe9a:57d7 | Nanostation M2 | schwarz    |
 | jls-nsm2-no | 24:a4:3c:9a:57:a8 | :26a4:3cff:fe9a:57a8 | Nanostation M2 | blau       |
