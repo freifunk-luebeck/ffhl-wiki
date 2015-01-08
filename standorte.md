@@ -7,7 +7,7 @@
 | [[Friedrich-List-Schule (Wirtschaft)|Standorte/fls-w]] | Kontaktaufnahme |
 | Brauberger                                             | ?               |
 | Buddenbrookhaus                                        | ?               |
-| Burgtor                                                | ?               |
+| [[Burgtor|Standorte/jzbt]]                             | Teilinstalliert |
 | DGB-Haus                                               | ?               |
 | [[Pflegezentrum Travemünder Allee|Standorte/pzta]]     | ?               |
 | Wasserkunst                                            | ?               |
