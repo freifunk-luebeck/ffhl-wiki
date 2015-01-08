@@ -1,6 +1,12 @@
 # Freifunk Lübeck Subnetz
 
+## Autonomes System
+
+AS201173 (früher AS65052)
+
 ## IPv6
+
+Wir haben jetzt zusätzlich das Prefix `2001:67c:2d50::/48`. Mittelfristig wollen wir dorthin migrieren.
 
 Für IPv6 wird der Prefix `2001:bf7:110::/44` verwendet.
 
