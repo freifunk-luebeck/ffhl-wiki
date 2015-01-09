@@ -125,6 +125,7 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.68  | Fluse100Cam                   |                |
 |  10.130.0.69  | burgtor-monitor               |                |
 |  10.130.0.72  | Fluse-IP-Stromleiste          |                |
+|  10.130.0.73  | Gally                         | gally.ffhl     |
 |  10.130.0.100 | zafer                         |                |
 |  10.130.0.101 | zafer-g1                      | zafer-g1.ffhl  |
 |  10.130.0.102 | zafer-g2                      |                |
