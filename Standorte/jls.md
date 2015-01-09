@@ -13,3 +13,5 @@ Die übrigen vier Knoten meshen auf Kanal 1 und lassen keine Clients herein.
 | jls-nsm2-sw | 24:a4:3c:9a:58:25 | :26a4:3cff:fe9a:5825 | Nanostation M2 | weiß       |
 | jls-nsm2-w  | 24:a4:3c:9a:57:d5 | :26a4:3cff:fe9a:57d5 | Nanostation M2 | pink       |
 | jls-nsm2-nw | 24:a4:3c:9a:57:d6 | :26a4:3cff:fe9a:57d6 | Nanostation M2 | lila       |
+
+Bilder: https://files.metameute.de/d/ef6d41e142/
