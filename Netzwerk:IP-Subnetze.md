@@ -86,7 +86,7 @@ Netmask: 255.255.240.0 (/20)
 |   10.130.0.5  | reserviert                    | reserviert     |
 |   10.130.0.6  | reserviert                    | reserviert     |
 |   10.130.0.7  | reserviert                    | reserviert     |
-|   10.130.0.8  | Avahi: krtek.local            | krtek.ffhl     |
+|   10.130.0.8  | krtek                         | krtek.ffhl     |
 |   10.130.0.9  | srv01                         | srv01.ffhl     |
 |  10.130.0.11  | DerDerwish                    |                |
 |  10.130.0.12  | stmarien (vm auf krtek)       | stmarien.ffhl  |
@@ -112,10 +112,6 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.35  | Silber1                       |                |
 |  10.130.0.36  | nutch                         | nutch.ffhl     |
 |  10.130.0.37  | bo                            |                |
-|  10.130.0.38  | Paul-Nook2012                 |                |
-|  10.130.0.39  | fritz (nbsp)                  |                |
-|  10.130.0.40  | nbsp beamer                   |                |
-|  10.130.0.41  | nbsp schloss                  |                |
 |  10.130.0.42  | NasBox                        | nasbox.ffhl    |
 |  10.130.0.43  | nbsp routing VM               |                |
 |  10.130.0.64  | magu Server                   | cic.ffhl       |
