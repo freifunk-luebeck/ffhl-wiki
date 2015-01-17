@@ -14,7 +14,6 @@ Für IPv6 wird der Prefix `2001:bf7:110::/44` verwendet.
 |-------------------------------------------------|------------------|
 | 2001:bf7:110::/64 (fdef:ffc0:3dd7::/64)         | mesh             |
 | 2001:bf7:110:10::/64 (fdef:ffc0:3dd7:10::/64)   | Client-VPN       |
-| 2001:bf7:11f:f000::/52                          | Tests (Nils)     |
 
 Geräte mit statischer Adresse 10.130.a.b sollten die IPv6-Adresse
 ``2001:bf7:110::0.0.a.b/64`` zugeteilt bekommen.
