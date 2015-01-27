@@ -1,3 +1,5 @@
+* Das Projekt ist beendet / kann archiviert werden
+
 * Bestandsaufnahme
 * Anforderungen
 ** Firmware
