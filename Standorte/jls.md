@@ -14,4 +14,18 @@ Die übrigen vier Knoten meshen auf Kanal 1 und lassen keine Clients herein.
 | jls-nsm2-w  | 24:a4:3c:9a:57:d5 | :26a4:3cff:fe9a:57d5 | Nanostation M2 | pink       |
 | jls-nsm2-nw | 24:a4:3c:9a:57:d6 | :26a4:3cff:fe9a:57d6 | Nanostation M2 | lila       |
 
+### PoE Switch
+
+Außerdem meshen die acht NanoStations über ihren WAN-Port (br-wan) über einen PoE Switch miteinander:Ubiquiti ToughSwitch POE Pro 8-Port
+
+Der PoE-Switch ist wie folgt von einer NanoStation aus erreichbar:
+
+ * IP: 192.168.1.20
+ * User: ubnt
+ * Authentifizierung: SSH-Schlüssel
+
+Einzelne Ports können wie folgt vom Switch aus gepowercycled werden:
+
+ * $ poe 1 0; sleep 5; poe 1 24
+
 Bilder: https://files.metameute.de/d/ef6d41e142/
