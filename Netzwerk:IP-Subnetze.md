@@ -6,38 +6,29 @@ AS201173 (früher AS65052)
 
 ## IPv6
 
-Wir haben jetzt zusätzlich das Prefix `2001:67c:2d50::/48`. Mittelfristig wollen wir dorthin migrieren.
-
-Für IPv6 wird der Prefix `2001:bf7:110::/44` verwendet.
-
-| Prefix                                          | Verwendung       |
-|-------------------------------------------------|------------------|
-| 2001:bf7:110::/64 (fdef:ffc0:3dd7::/64)         | mesh             |
-| 2001:bf7:110:10::/64 (fdef:ffc0:3dd7:10::/64)   | Client-VPN       |
+Für IPv6 verwenden wir das Prefix `2001:67c:2d50::/48` und das ULA `fdef:ffc0:3dd7::/48`.
 
 Geräte mit statischer Adresse 10.130.a.b sollten die IPv6-Adresse
-``2001:bf7:110::0.0.a.b/64`` zugeteilt bekommen.
+``2001:67c:2d50::0.0.a.b/64`` zugeteilt bekommen.
 
-### ULA
+Das Prefix `2001:bf7:110::/44` ist uns noch zugeteilt, wird zur Zeit jedoch nicht verwendet.
 
-Wir möchten das ULA `fdef:ffc0:3dd7::/48` mittelfristig nicht mehr verwenden
-und auf das öffentliche Prefix umstellen.
+### Subnetze
+
+| Infix (aaaa:bbbb:cccc:XXXY::/60) | Beschreibung |
+|----------------------------------|--------------|
+| :0000:                           | mesh         |
+| :001Y:                           | ClientVPN    |
+| :002Y:                           | tux-Net      |
+| :003Y:                           | (frei)       |
+
+Das 'Y' ist dabei variabel.
 
 ### Ideen zur Unterteilung des Präfixes
 
 * Wir könnten aus dem ersten /48 je /60 für alle Subnetze, die sich aus Gatewaysicht hinter dem Mesh befinden, aufsteigend verwenden.
 * Solche Subnetze wären z.B. die Meute, der nbsp, Heimnetze und das Mesh selber. Dabei wären 65536 Subnetze möglich.
 * Wir könnten weitere /48 für außerhalb des Meshes geroutete Netze verwenden (erstmal wohl unwahrscheinlich).
-
-### Subnetze
-
-| Infix (aaaa:bbbb:cccc:XXXY::/60) | Beschreibung |
-|----------------------------------|--------------|
-| :001Y:                           | ClientVPN    |
-| :002Y:                           | tux-Net      |
-| :003Y:                           | (frei)       |
-
-Das 'Y' ist dabei variabel.
 
 ## IPv4
 
