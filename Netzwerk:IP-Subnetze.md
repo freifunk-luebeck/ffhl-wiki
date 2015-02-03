@@ -38,6 +38,15 @@ Für den Lübecker Raum ist das folgende Subnetz reserviert:
 
 Dabei wird für das eigentliche Mesh bisher `10.130.0.0/20` genutzt.
 
+### IPv4 Exit über FF Rheinland
+
+Wir verwenden `185.66.193.32/29`.
+
+| IP            | Host       |
+|---------------|------------|
+| 185.66.193.32 | burgtor    |
+| 185.66.193.33 | holstentor |
+
 ## Internet-Gateways
 
 Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[Gateway-Server aktivieren|http://www.open-mesh.org/wiki/batman-adv/Gateways]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
