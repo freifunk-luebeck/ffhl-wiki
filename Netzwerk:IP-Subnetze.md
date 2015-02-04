@@ -46,6 +46,8 @@ Wir verwenden `185.66.193.32/29`.
 |---------------|------------|
 | 185.66.193.32 | burgtor    |
 | 185.66.193.33 | holstentor |
+| 185.66.193.34 | muehlentor |
+| 185.66.193.35 | huextertor |
 
 ## Internet-Gateways
 
