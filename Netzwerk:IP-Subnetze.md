@@ -15,12 +15,13 @@ Das Prefix `2001:bf7:110::/44` ist uns noch zugeteilt, wird zur Zeit jedoch nich
 
 ### Subnetze
 
-| Infix (aaaa:bbbb:cccc:XXXY::/60) | Beschreibung |
+| Infix (aaaa:bbbb:cccc:0XXY::/60) | Beschreibung |
 |----------------------------------|--------------|
 | :0000:                           | mesh         |
 | :001Y:                           | ClientVPN    |
 | :002Y:                           | tux-Net      |
-| :003Y:                           | (frei)       |
+| :003Y:                           | draic-Net    |
+| :004Y:                           | (frei)       |
 
 Das 'Y' ist dabei variabel.
 
@@ -42,12 +43,12 @@ Dabei wird für das eigentliche Mesh bisher `10.130.0.0/20` genutzt.
 
 Wir verwenden `185.66.193.32/29`.
 
-| IP            | Host       |
-|---------------|------------|
-| 185.66.193.32 | burgtor    |
-| 185.66.193.33 | holstentor |
-| 185.66.193.34 | muehlentor |
-| 185.66.193.35 | huextertor |
+| IP            | Host       | Status  |
+|---------------|------------|---------|
+| 185.66.193.32 | burgtor    | aktiv   |
+| 185.66.193.33 | holstentor | aktiv   |
+| 185.66.193.34 | muehlentor | -       |
+| 185.66.193.35 | huextertor | -       |
 
 ## Internet-Gateways
 
