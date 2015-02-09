@@ -15,13 +15,14 @@ Das Prefix `2001:bf7:110::/44` ist uns noch zugeteilt, wird zur Zeit jedoch nich
 
 ### Subnetze
 
-| Infix (aaaa:bbbb:cccc:0XXY::/60) | Beschreibung |
-|----------------------------------|--------------|
-| :0000:                           | mesh         |
-| :001Y:                           | ClientVPN    |
-| :002Y:                           | tux-Net      |
-| :003Y:                           | draic-Net    |
-| :004Y:                           | (frei)       |
+| Infix (aaaa:bbbb:cccc:0XXY::/60) | Beschreibung          |
+|----------------------------------|-----------------------|
+| :0000:                           | mesh                  |
+| :0001:                           | 464XLAT (Testbetrieb) |
+| :001Y:                           | ClientVPN             |
+| :002Y:                           | tux-Net               |
+| :003Y:                           | draic-Net             |
+| :004Y:                           | (frei)                |
 
 Das 'Y' ist dabei variabel.
 
