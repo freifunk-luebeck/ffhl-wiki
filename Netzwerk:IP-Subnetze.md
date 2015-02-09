@@ -141,7 +141,9 @@ Netmask: 255.255.240.0 (/20)
 
 ## Andere reservierte Subnetze
 
-Vergabe von 10.130.127.0 abwärts, alles ab 10.130.128.0 muss frei bleiben!
+Vergabe von 10.130.127.0 abwärts, alles ab 10.130.128.0 muss frei bleiben
+
+`10.130.128.0/17` wird zum Testen von 464XLAT von Nils verwendet (2015-02-09).
 
 Die Reservierung eines solchen Netzes sollte mit anderen Freifunkern abgesprochen werden.
 
