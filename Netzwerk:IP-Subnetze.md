@@ -141,16 +141,21 @@ Netmask: 255.255.240.0 (/20)
 
 ## Andere reservierte Subnetze
 
-Vergabe von 10.130.127.0 abwärts, alles ab 10.130.128.0 muss frei bleiben
-
-`10.130.128.0/17` wird zum Testen von 464XLAT von Nils verwendet (2015-02-09).
-
 Die Reservierung eines solchen Netzes sollte mit anderen Freifunkern abgesprochen werden.
 
 | Subnetz         | IP Bereich | Beschreibung            |
 |-----------------|------------|-------------------------|
 | 10.130.16.0/24  | 1..254     |Client-VPN auf Burgtor   |
 | 10.130.17.0/24  | 1..254     |L2TP-Client-VPN auf Chip |
+
+## Heimnetze 10.130.64.0/18
+
+Vergabe von 10.130.127.0 abwärts bis 10.130.64.0.
+Alles ab 10.130.128.0 muss frei bleiben
+
+| Subnetz         | IP Bereich | Beschreibung            |
+|-----------------|------------|-------------------------|
+| 10.130.114.0/26 | 1..63      |draic-Net                |
 | 10.130.115.0/27 | 1..30      |tux-Net                  |
 | 10.130.116.0/27 | 1..30      |Dennis' Netz             |
 | 10.130.117.0/27 | 1..30      |mkms Netz                |
@@ -164,8 +169,6 @@ Die Reservierung eines solchen Netzes sollte mit anderen Freifunkern abgesproche
 | 10.130.125.0/27 | 1..30      |Netz von 7jM             |
 | 10.130.126.0/27 | 1..30      |Netz von Laeila & jix    |
 | 10.130.127.0/27 | 1..30      |Jamalakas Netz           |
-
-
 
 ## 10.130.16.0/24
 
