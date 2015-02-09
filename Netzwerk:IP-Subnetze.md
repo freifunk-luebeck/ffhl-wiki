@@ -83,7 +83,7 @@ Netmask: 255.255.240.0 (/20)
 |---------------|-------------------------------|----------------|-------|
 |   10.130.0.0  | reserviert                    | reserviert     |
 |   10.130.0.1  | Magische next-node-Adresse    | node.ffhl      |
-|   10.130.0.2  | reserviert                    | reserviert     |
+|   10.130.0.2  | 464XLAT ICMP Quelle           | reserviert     |
 |   10.130.0.3  | reserviert                    | reserviert     |
 |   10.130.0.4  | reserviert                    | reserviert     |
 |   10.130.0.5  | reserviert                    | reserviert     |
