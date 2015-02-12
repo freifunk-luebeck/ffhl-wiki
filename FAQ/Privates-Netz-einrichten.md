@@ -32,6 +32,7 @@ Diese können mittels `opkg update` gefolgt von `opkg install bird6 tayga odhcpd
 - tayga konfigurieren
 - bird6 konfigurieren
 - dns?
+- firewall für dns?
 
 ## /etc/config/network
 
