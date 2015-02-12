@@ -28,6 +28,7 @@ Diese können mittels `opkg update` gefolgt von `opkg install bird6 tayga odhcpd
 ## Konfiguration
 
 - ggf. ripng erlauben
+- ggf. tayga script patchen
 - br-lan anlegen
 - firewall anpassen?
 - tayga konfigurieren
