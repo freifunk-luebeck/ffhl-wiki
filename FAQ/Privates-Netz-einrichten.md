@@ -1,7 +1,6 @@
 # Privates Netz einrichten
 
-## Diese Anleitung ist noch nicht für Gluon geeignet!
-## Diese Anleitung wird zur Zeit überarbeitet!
+## Diese Anleitung wird zur Zeit überarbeitet und funktioniert noch nicht!
 
 Was macht diese Anleitung? Was sind die angestrebten Setups?
 
