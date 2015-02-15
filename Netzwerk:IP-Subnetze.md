@@ -15,7 +15,7 @@ Das Prefix `2001:bf7:110::/44` ist uns noch zugeteilt, wird zur Zeit jedoch nich
 
 ### Subnetze
 
-Bitte erstmal nur das erste `/50/` verwenden!
+Bitte nur das erste `/52` verwenden!
 
 | Infix (aaaa:bbbb:cccc:0XXY::/60) | Beschreibung          |
 |----------------------------------|-----------------------|
