@@ -8,7 +8,6 @@ Was macht diese Anleitung? Was sind die angestrebten Setups?
 - **Szenario A2**: Wie **A1**. Zusätzlich privates WLAN gebridged.
 - **Szenario B**: Wie **A**, jedoch mit IPv4 Uplink über den WAN-Port.
 
-
 ## TODO
 
 - Subnetzreservierung dokumentieren
