@@ -29,7 +29,7 @@ Für ein privates Netz werden zusätzliche Pakete benötigt:
 - kmod-nat46
 - odhcpd
 
-Diese können mittels `opkg update` gefolgt von `opkg install bird6 kmod-nat64 odhcpd` installiert 
+Diese können mittels `opkg update` gefolgt von `opkg install bird6 kmod-nat46 odhcpd` installiert 
 werden.
 
 Außerdem muss die Datei `siit.sh` von https://gist.github.com/tcatm/3230254ae5da1a9f60d3 nach `/lib/netifd/proto/siit.sh` kopiert und ausführbar gemacht werden.
