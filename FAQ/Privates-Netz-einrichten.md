@@ -34,6 +34,8 @@ werden.
 
 Außerdem muss die Datei `siit.sh` von https://gist.github.com/tcatm/3230254ae5da1a9f60d3 nach `/lib/netifd/proto/siit.sh` kopiert und ausführbar gemacht werden.
 
+Jetzt muss der Knoten einmal neugestartet werden!
+
 ## Konfiguration
 
 Zur Konfiguration einmal folgendes in die Shell einfügen und die Zeilen mit `<-- anpassen!` entsprechend abändern.
