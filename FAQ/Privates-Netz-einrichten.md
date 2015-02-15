@@ -34,8 +34,6 @@ werden.
 
 Außerdem muss die Datei `siit.sh` von https://gist.github.com/tcatm/3230254ae5da1a9f60d3 nach `/lib/netifd/proto/siit.sh` kopiert und ausführbar gemacht werden.
 
-Jetzt muss der Knoten einmal neugestartet werden!
-
 ## Konfiguration
 
 Zur Konfiguration einmal folgendes in die Shell einfügen und die Zeilen mit `<-- anpassen!` entsprechend abändern.
@@ -48,9 +46,10 @@ Zur Konfiguration einmal folgendes in die Shell einfügen und die Zeilen mit `<-
     uci set network.nat64.ip6addr=fe80::1
     uci set network.nat64.ip6prefix=2001:67c:2d50:1::/96
     uci set network.nat64.proto=siit
+
+    uci set network.wan_default=route
     uci set network.wan_default.interface=nat64
     uci set network.wan_default.netmask=0.0.0.0
-    uci set network.wan_default=route
     uci set network.wan_default.target=0.0.0.0
 
     uci set network.client.ifname=bat0
@@ -64,7 +63,7 @@ Zur Konfiguration einmal folgendes in die Shell einfügen und die Zeilen mit `<-
 
     uci set network.lan.ip6prefix=2001:67c:2d50:0xx0::/60  <-- anpassen!
     uci set network.lan.ipaddr=10.130.yy.1                 <-- anpassen!
-    uci set network.lan.netmask=255.255.255.224
+    uci set network.lan.netmask=255.255.255.224            <-- ggf. anpassen
     
     uci commit
 
