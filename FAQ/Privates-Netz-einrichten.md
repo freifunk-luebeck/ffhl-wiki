@@ -12,6 +12,7 @@ Was macht diese Anleitung? Was sind die angestrebten Setups?
 
 - Subnetzreservierung dokumentieren
 - privates WLAN
+- default route über WAN
 
 ## Vorbereitung im Wiki
 
