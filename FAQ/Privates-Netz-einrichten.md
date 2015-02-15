@@ -8,6 +8,12 @@ Was macht diese Anleitung? Was sind die angestrebten Setups?
 - **Szenario A2**: Wie **A1**. Zusätzlich privates WLAN gebridged.
 - **Szenario B**: Wie **A**, jedoch mit IPv4 Uplink über den WAN-Port.
 
+
+## TODO
+
+- Subnetzreservierung dokumentieren
+- privates WLAN
+
 ## Vorbereitung im Wiki
 
 [[Netzwerk:IP Subnetze]]
@@ -20,74 +26,47 @@ Was macht diese Anleitung? Was sind die angestrebten Setups?
 Für ein privates Netz werden zusätzliche Pakete benötigt: 
 
 - bird6
-- tayga (oder kmod-nat46, dann fehlt aber noch netifd script)
+- kmod-nat46
 - odhcpd
 
-Diese können mittels `opkg update` gefolgt von `opkg install bird6 tayga odhcpd` installiert werden.
+Diese können mittels `opkg update` gefolgt von `opkg install bird6 kmod-nat64 odhcpd` installiert 
+werden.
+
+Außerdem muss die Datei `siit.sh` von https://gist.github.com/tcatm/3230254ae5da1a9f60d3 nach `/lib/netifd/proto/siit.sh` kopiert und ausführbar gemacht werden.
 
 ## Konfiguration
 
-- ggf. ripng erlauben
-- ggf. tayga script patchen
-- br-lan anlegen
-- firewall anpassen?
-- tayga konfigurieren
-- bird6 konfigurieren
-- dns?
-- firewall für dns?
+Zur Konfiguration einmal folgendes in die Shell einfügen und die Zeilen mit `<-- anpassen!` entsprechend abändern.
 
-## /etc/config/network
+    uci set dhcp.lan.dhcpv6=disabled
+    uci set dhcp.lan.ra=server
+    uci set firewall.client.forward=ACCEPT
+    uci add_list firewall.client.network=lan
+    uci add_list firewall.client.network=nat64
 
-- eth0.1 mit einem Editor der Wahl in der Datei `/etc/config/network` aus `client` rausnehmen
-- `client` die reservierte IP zuweisen
+    uci set network.nat64=interface
+    uci set network.nat64.ip6addr=fe80::1
+    uci set network.nat64.ip6prefix=2001:67c:2d50:1::/96
+    uci set network.nat64.proto=siit
+    uci set network.wan_default.interface=nat64
+    uci set network.wan_default.netmask=0.0.0.0
+    uci set network.wan_default=route
+    uci set network.wan_default.target=0.0.0.0
 
-        config interface 'client'
-        ...
-            option proto 'static'
-            option ipaddr '10.130.0.120' <-- anpassen!
-            option netmask '255.255.240.0'
+    uci set network.client.ifname=bat0
+
+    uci set network.lan=interface
+    uci set network.lan.ip6assign=64
+    uci set network.lan.proto=static
+    uci set network.lan.type=bridge
+    uci set network.lan.ifname=$(cat /lib/gluon/core/sysconfig/lan_ifname)
+    uci set network.lan.igmp_snooping=0
+
+    uci set network.lan.ip6prefix=2001:67c:2d50:0xx0::/60  <-- anpassen!
+    uci set network.lan.ipaddr=10.130.yy.1                 <-- anpassen!
+    uci set network.lan.netmask=255.255.255.224
     
-- neues Interface `privat` erstellen
-
-
-        config interface 'privat'     
-            option ifname 'eth0.1'
-            option type 'bridge'      
-            option proto 'static'
-            option ip6addr 'fdef:ffc0:3dd7:78::1/64' <-- anpassen!
-            option ipaddr '10.130.120.1'  <-- anpassen!
-            option netmask '255.255.255.224'
-
-## /etc/config/firewall editieren
-
-In config defaults und zone client jeweils `forward ACCEPT` einstellen.
-
-In der Zone wan:
-
-    option forward ACCEPT
-    option masq 1
-    option masq_src '10.130.120.0/27' <-- anpassen!
-
-## /etc/config/dhcp
-
-    config dhcp privat                                              
-        option interface privat
-        option start 10
-        option limit 30
-        option dhcp_option 'privat,6,10.130.10.1,10.130.12.1'
-
-## /etc/config/radvd
-Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
-
-    config interface                     
-        option interface       'privat'
-        option AdvSendAdvert   1
-
-    config prefix
-        option interface     'privat'
-        option AdvOnLink     1
-        option AdvAutonomous 1
-        option AdvRouterAddr 0
+    uci commit
 
 ## /etc/bird6.conf
 Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
@@ -95,8 +74,8 @@ Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
     router id 1.1.1.1;
     
     protocol static {
-      route 2001:67c:2d50:0xx0::/60 reject;
-      route 2001:67c:2d50:0001::10.130.yy.0/123 via "siit-nat64";
+      route 2001:67c:2d50:0xx0::/60 reject;                       <-- anpassen!
+      route 2001:67c:2d50:0001::10.130.yy.0/123 via "siit-nat64"; <-- anpassen!
       # /123 = /96 + /27
     }
 
@@ -118,12 +97,10 @@ Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
 
 ## Initscripte aktivieren
 
-    /etc/init.d/dnsmasq enable
-    /etc/init.d/radvd enable
-    /etc/init.d/bird4 enable
     /etc/init.d/bird6 enable
 
 ## Port Forwarding (optional)
+
 Wenn auf dem nun im privaten Netz hängenden Computer ein Dienst läuft, der aus dem Internet erreichbar sein soll, so muss eine entsprechende Portweiterleitung sowohl im DSL-Router als auch im Freifunk-Knoten konfiguriert werden. Die Anleitung zur Konfiguration des Freifunk-Knotens kann hier gefunden werden:
 http://wiki.openwrt.org/doc/howto/port.forwarding
 
