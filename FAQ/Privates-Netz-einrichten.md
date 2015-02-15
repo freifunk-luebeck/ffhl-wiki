@@ -20,7 +20,7 @@ Was macht diese Anleitung? Was sind die angestrebten Setups?
 Für ein privates Netz werden zusätzliche Pakete benötigt: 
 
 - bird6
-- tayga
+- tayga (oder kmod-nat46, dann fehlt aber noch netifd script)
 - odhcpd
 
 Diese können mittels `opkg update` gefolgt von `opkg install bird6 tayga odhcpd` installiert werden.
