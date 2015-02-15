@@ -95,8 +95,8 @@ Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
     router id 1.1.1.1;
     
     protocol static {
-      route 2001:67c:2d50:xxx0::/60 reject;
-      route 2001:67c:2d50:1::10.130.yy.0/123 via "tayga-nat64";
+      route 2001:67c:2d50:0xx0::/60 reject;
+      route 2001:67c:2d50:0001::10.130.yy.0/123 via "siit-nat64";
       # /123 = /96 + /27
     }
 
