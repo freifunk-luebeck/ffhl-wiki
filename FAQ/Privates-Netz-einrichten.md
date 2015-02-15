@@ -38,8 +38,6 @@ Außerdem muss die Datei `siit.sh` von https://gist.github.com/tcatm/3230254ae5d
 
 Zur Konfiguration einmal folgendes in die Shell einfügen und die Zeilen mit `<-- anpassen!` entsprechend abändern.
 
-    uci set dhcp.lan.dhcpv6=disabled
-    uci set dhcp.lan.ra=server
     uci set firewall.client.forward=ACCEPT
     uci add_list firewall.client.network=lan
     uci add_list firewall.client.network=nat64
