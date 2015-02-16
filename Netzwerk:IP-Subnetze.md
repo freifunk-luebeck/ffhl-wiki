@@ -12,7 +12,7 @@ Das Prefix `2001:bf7:110::/44` ist uns noch zugeteilt, wird zur Zeit jedoch nich
 
 ### Subnetze
 
-Bitte nur das erste `/52` verwenden!
+Bitte nur das erste `/52` verwenden! 
 
 | Infix (aaaa:bbbb:cccc:0XXY::/60) | Beschreibung          |
 |----------------------------------|-----------------------|
@@ -54,13 +54,13 @@ Wir verwenden `185.66.193.32/29`.
 
 Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[Gateway-Server aktivieren|http://www.open-mesh.org/wiki/batman-adv/Gateways]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
 
-| Name       | Gateway IP    | Gateway MAC | batman-adv originator MAC | DHCP(Range)         | batman-adv Version | Status  |
-|------------|---------------|-------------|---------------------|------|----------------------|---------------------------|--------------------|---------|
-| kaisertor  | 10.130.6.1  |                   |                   | 10.130.6.0/23  |           | Planung   |
-| huextertor | 10.130.8.1  | 6e:e4:d2:8a:3b:63 | d2:d0:93:63:f7:da | 10.130.8.0/23  | 2013.2.0+ | im Aufbau |
-| muehlentor | 10.130.10.1 | de:ad:ca:fe:46:1d | de:ad:be:ef:46:1d | 10.130.10.0/23 | 2013.2.0+ | aktiv     |
-| holstentor | 10.130.12.1 | 52:54:00:0c:bb:eb | 8e:3d:c2:10:10:28 | 10.130.12.0.23 | 2013.2.0+ | aktiv     |
-| burgtor    | 10.130.14.1 | 52:54:00:ee:5c:d5 | 52:54:00:f3:62:d9 | 10.130.14.0/23 | 2013.1.0  | aktiv     |
+| Name       | Gateway IP  | Gateway MAC       | batman-adv MAC    | DHCP(Range)    | Status    |
+|------------|-------------|-------------------|-------------------|----------------|-----------|
+| kaisertor  | 10.130.6.1  |                   |                   | 10.130.6.0/23  | Planung   |
+| huextertor | 10.130.8.1  | 6e:e4:d2:8a:3b:63 | d2:d0:93:63:f7:da | 10.130.8.0/23  | aktiv     |
+| muehlentor | 10.130.10.1 | de:ad:ca:fe:46:1d | de:ad:be:ef:46:1d | 10.130.10.0/23 | aktiv     |
+| holstentor | 10.130.12.1 | 52:54:00:0c:bb:eb | 8e:3d:c2:10:10:28 | 10.130.12.0.23 | aktiv     |
+| burgtor    | 10.130.14.1 | 52:54:00:ee:5c:d5 | 52:54:00:f3:62:d9 | 10.130.14.0/23 | aktiv     |
 
 ## Reservierte Subnetze des Mesh-Netzes
 
@@ -69,8 +69,6 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 | 10.130.0.0/24 |     1...255 | zur statischen Konfiguration frei zur Verfügung (siehe unten)          |
 | 10.130.3.0/24 |     0...255 | temporäre IPs. Einfach verwenden und bei Kollision eine andere nehmen. |
 
-Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange uns nicht die /24 ausgehen. Ist das /27 voll, kann man dann problemlos auf ein /26 oder /25 aufstocken, sodass keine übermäßige Fragmentierung der Adress-Bereiche entsteht.
-
 ## Reservierte, statische Mesh-IP-Adressen
 
 Einzelne Adressen kann jeder selbst für sich reservieren. Es ist zu empfehlen, einmal per Ping zu testen, ob eine Adresse wirklich frei ist.
@@ -78,8 +76,8 @@ Einzelne Adressen kann jeder selbst für sich reservieren. Es ist zu empfehlen, 
 Mögliche Adressen: 10.130.0.1 bis 10.130.0.255
 Netmask: 255.255.240.0 (/20)
 
-| IP-Adresse    | Notizen                       | Hostname       | Owner |
-|---------------|-------------------------------|----------------|-------|
+| IP-Adresse    | Notizen                       | Hostname       |
+|---------------|-------------------------------|----------------|
 |   10.130.0.0  | reserviert                    | reserviert     |
 |   10.130.0.1  | Magische next-node-Adresse    | node.ffhl      |
 |   10.130.0.2  | 464XLAT ICMP Quelle           | reserviert     |
@@ -142,15 +140,17 @@ Netmask: 255.255.240.0 (/20)
 
 Die Reservierung eines solchen Netzes sollte mit anderen Freifunkern abgesprochen werden.
 
-| Subnetz         | IP Bereich | Beschreibung            |
-|-----------------|------------|-------------------------|
-| 10.130.16.0/24  | 1..254     |Client-VPN auf Burgtor   |
-| 10.130.17.0/24  | 1..254     |L2TP-Client-VPN auf Chip |
+| Subnetz         | IP Bereich | Beschreibung             |
+|-----------------|------------|--------------------------|
+| 10.130.16.0/24  | 1..254     | ClientVPN auf burgtor    |
+| 10.130.17.0/24  | 1..254     | L2TP-Client-VPN auf Chip |
 
-## Heimnetze 10.130.64.0/18
+## Heimnetze: 10.130.64.0/18
 
 Vergabe von 10.130.127.0 abwärts bis 10.130.64.0.
 Alles ab 10.130.128.0 muss frei bleiben
+
+Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange uns nicht die /24 ausgehen. Ist das /27 voll, kann man dann problemlos auf ein /26 oder /25 aufstocken, sodass keine übermäßige Fragmentierung der Adress-Bereiche entsteht.
 
 | Subnetz         | IP Bereich | Beschreibung            |
 |-----------------|------------|-------------------------|
@@ -169,7 +169,7 @@ Alles ab 10.130.128.0 muss frei bleiben
 | 10.130.126.0/27 | 1..30      |Netz von Laeila & jix    |
 | 10.130.127.0/27 | 1..30      |Jamalakas Netz           |
 
-## 10.130.16.0/24
+## ClientVPN: 10.130.16.0/24
 
 Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
 
