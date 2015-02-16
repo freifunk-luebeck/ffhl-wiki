@@ -8,9 +8,6 @@ AS201173 (früher AS65052)
 
 Für IPv6 verwenden wir das Prefix `2001:67c:2d50::/48` und das ULA `fdef:ffc0:3dd7::/48`.
 
-Geräte mit statischer Adresse 10.130.a.b sollten die IPv6-Adresse
-``2001:67c:2d50::0.0.a.b/64`` zugeteilt bekommen.
-
 Das Prefix `2001:bf7:110::/44` ist uns noch zugeteilt, wird zur Zeit jedoch nicht verwendet.
 
 ### Subnetze
