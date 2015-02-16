@@ -34,13 +34,9 @@ werden.
 
 Außerdem muss die Datei `siit.sh` von https://gist.github.com/tcatm/3230254ae5da1a9f60d3 nach `/lib/netifd/proto/siit.sh` kopiert und ausführbar gemacht werden.
 
-Jetzt muss der Knoten einmal neugestartet werden!
-
 ## Konfiguration
 
 Zur Konfiguration einmal folgendes in die Shell einfügen und die Zeilen mit `<-- anpassen!` entsprechend abändern.
-
-    uci set dhcp.lan.dhcpv6=disabled
 
     uci set firewall.client.forward=ACCEPT
     uci add_list firewall.client.network=lan
@@ -101,6 +97,7 @@ Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
 ## Initscripte aktivieren
 
     /etc/init.d/bird6 enable
+    /etc/init.d/odhcpd enable
 
 ## Port Forwarding (optional)
 
