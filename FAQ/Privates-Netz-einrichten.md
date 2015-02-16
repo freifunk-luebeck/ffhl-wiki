@@ -19,8 +19,8 @@ Was macht diese Anleitung? Was sind die angestrebten Setups?
 
 [[Netzwerk:IP Subnetze]]
 
-- IPv6 Subnetz reservieren
-- IPv4 Subnetz reservieren
+- IPv6 Subnetz reservieren (ein /64)
+- IPv4 Subnetz reservieren (ein /27 mit 30 IPs)
 
 ## Benötigte Pakete
 
@@ -62,7 +62,7 @@ Zur Konfiguration einmal folgendes in die Shell einfügen und die Zeilen mit `<-
     uci set network.lan.ifname=$(cat /lib/gluon/core/sysconfig/lan_ifname)
     uci set network.lan.igmp_snooping=0
 
-    uci set network.lan.ip6prefix=2001:67c:2d50:0xx0::/60  <-- anpassen!
+    uci set network.lan.ip6prefix=2001:67c:2d50:0xxx::/64  <-- anpassen!
     uci set network.lan.ipaddr=10.130.yy.1                 <-- anpassen!
     uci set network.lan.netmask=255.255.255.224            <-- ggf. anpassen
     
@@ -74,7 +74,7 @@ Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
     router id 1.1.1.1;
     
     protocol static {
-      route 2001:67c:2d50:0xx0::/60 reject;                       <-- anpassen!
+      route 2001:67c:2d50:0xxx::/64 reject;                       <-- anpassen!
       route 2001:67c:2d50:0001::10.130.yy.0/123 via "siit-nat64"; <-- anpassen!
       # /123 = /96 + /27
     }
