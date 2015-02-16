@@ -1,14 +1,3 @@
-
-
-## Karte mit den aktiven Knoten im Raum Lübeck
-
-Diese Karten kannst du abrufen, wenn du direkt aus dem Internet auf dieser Seite bist oder dich im Freifunknetz befindest.
-
-* Aus dem Internet: [[http://luebeck.freifunk.net/map/geomap.html]]
-* Aus dem Freifunknetz: [[http://map.ffhl/geomap.html]]
-
-## Bereits vorhandene Knoten
-
 **Diese Liste wird nicht mehr ausgewertet und demnächst entfernt! Koordinaten können nun direkt im Configmode hinterlegt werden.**
 
 | Knotenname            | Betreiber           | Ort                              | Hinweise                                                                                                               | Router                              |   LFF Version | MAC               | GPS                                   |
