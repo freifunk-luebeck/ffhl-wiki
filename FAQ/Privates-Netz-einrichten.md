@@ -13,6 +13,7 @@ Was macht diese Anleitung? Was sind die angestrebten Setups?
 - Subnetzreservierung dokumentieren
 - privates WLAN
 - default route über WAN
+- MTU Probleme (ip-proto-1 fragments) debuggen
 
 ## Vorbereitung im Wiki
 
