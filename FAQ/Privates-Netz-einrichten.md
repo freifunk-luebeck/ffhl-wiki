@@ -11,7 +11,6 @@ Was macht diese Anleitung? Was sind die angestrebten Setups?
 ## TODO
 
 - Subnetzreservierung dokumentieren
-- privates WLAN
 - default route über WAN
 - MTU Probleme (ip-proto-1 fragments) debuggen
 
@@ -99,6 +98,19 @@ Die vorhandene Datei muss durch diese Eintragungen ersetzt werden.
 
     /etc/init.d/bird6 enable
     /etc/init.d/odhcpd enable
+    
+# Optional: WLAN hinzufügen
+
+    uci set wireless.private_radio0=wifi-iface
+    uci set wireless.private_radio0.device=radio0
+    uci set wireless.private_radio0.network=lan
+    uci set wireless.private_radio0.mode=ap
+    uci set wireless.private_radio0.encryption=psk2
+    uci set wireless.private_radio0.ssid=Privates Netz <-- anpassen!
+    uci set wireless.private_radio0.key=test1234       <-- anpassen!
+    uci commit
+
+Bei Geräten mit zwei WLAN-Bändern (2,4Ghz und 5Ghz) müssen die gleichen Befehle nochmal mit `radio1` statt `radio0` wiederholt werden.
 
 ## Port Forwarding (optional)
 
