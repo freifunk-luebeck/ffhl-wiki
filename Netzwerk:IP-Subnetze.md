@@ -135,15 +135,6 @@ Netmask: 255.255.240.0 (/20)
 |  10.130.0.123 | zenforyens raspberry          |                |
 |  10.130.0.132 | FreeWayLan (StatServer)       | freeway.ffhl   |
 
-## Andere reservierte Subnetze
-
-Die Reservierung eines solchen Netzes sollte mit anderen Freifunkern abgesprochen werden.
-
-| Subnetz         | IP Bereich | Beschreibung             |
-|-----------------|------------|--------------------------|
-| 10.130.16.0/24  | 1..254     | ClientVPN auf burgtor    |
-| 10.130.17.0/24  | 1..254     | L2TP-Client-VPN auf Chip |
-
 ## Heimnetze: 10.130.64.0/18
 
 Vergabe von 10.130.127.0 abwärts bis 10.130.64.0.
