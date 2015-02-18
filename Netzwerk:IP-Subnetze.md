@@ -50,17 +50,14 @@ Wir verwenden `185.66.193.32/29`.
 | 185.66.193.34 | muehlentor | -       |
 | 185.66.193.35 | huextertor | -       |
 
-## Internet-Gateways
+## Gateways
 
-Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und diesen per DHCP bekannt macht, sollte zum einen in seinem batman-adv den [[Gateway-Server aktivieren|http://www.open-mesh.org/wiki/batman-adv/Gateways]]. Und sich zum anderen ein unbenutzes /24 Subnetz aus 10.130.0.0/20 aussuchen (jedoch trotzdem /20 Subnetzmasken an die DHCP Clients schicken).
-
-| Name       | Gateway IP  | Gateway MAC       | batman-adv MAC    | DHCP(Range)    | Status    |
-|------------|-------------|-------------------|-------------------|----------------|-----------|
-| kaisertor  | 10.130.6.1  |                   |                   | 10.130.6.0/23  | Planung   |
-| huextertor | 10.130.8.1  | 6e:e4:d2:8a:3b:63 | d2:d0:93:63:f7:da | 10.130.8.0/23  | aktiv     |
-| muehlentor | 10.130.10.1 | de:ad:ca:fe:46:1d | de:ad:be:ef:46:1d | 10.130.10.0/23 | aktiv     |
-| holstentor | 10.130.12.1 | 52:54:00:0c:bb:eb | 8e:3d:c2:10:10:28 | 10.130.12.0.23 | aktiv     |
-| burgtor    | 10.130.14.1 | 52:54:00:ee:5c:d5 | 52:54:00:f3:62:d9 | 10.130.14.0/23 | aktiv     |
+| Name       | Gateway IP   | Gateway MAC       | batman-adv MAC    | DHCP Start   | DHCP Ende     | Status    |
+|------------|--------------|-------------------|-------------------|--------------|---------------|-----------|
+| huextertor | 10.130.0.252 | 6e:e4:d2:8a:3b:63 | d2:d0:93:63:f7:da |   10.130.1.0 |  10.130.4.188 | aktiv     |
+| holstentor | 10.130.0.253 | 52:54:00:0c:bb:eb | 8e:3d:c2:10:10:28 | 10.130.4.191 |  10.130.8.126 | aktiv     |
+| muehlentor | 10.130.0.254 | de:ad:ca:fe:46:1d | de:ad:be:ef:46:1d | 10.130.8.127 |  10.130.12.62 | aktiv     |
+| burgtor    | 10.130.0.255 | 52:54:00:ee:5c:d5 | 52:54:00:f3:62:d9 | 10.130.12.63 | 10.130.15.255 | aktiv     |
 
 ## Reservierte Subnetze des Mesh-Netzes
 
@@ -72,68 +69,69 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 
 Einzelne Adressen kann jeder selbst für sich reservieren. Es ist zu empfehlen, einmal per Ping zu testen, ob eine Adresse wirklich frei ist.
 
-Mögliche Adressen: 10.130.0.1 bis 10.130.0.255
+Mögliche Adressen: 10.130.0.1 bis 10.130.0.239
 Netmask: 255.255.240.0 (/20)
 
-| IP-Adresse    | Notizen                       | Hostname       |
-|---------------|-------------------------------|----------------|
-|   10.130.0.0  | reserviert                    | reserviert     |
-|   10.130.0.1  | Magische next-node-Adresse    | node.ffhl      |
-|   10.130.0.2  | 464XLAT ICMP Quelle           | reserviert     |
-|   10.130.0.3  | reserviert                    | reserviert     |
-|   10.130.0.4  | reserviert                    | reserviert     |
-|   10.130.0.5  | reserviert                    | reserviert     |
-|   10.130.0.6  | reserviert                    | reserviert     |
-|   10.130.0.7  | reserviert                    | reserviert     |
-|   10.130.0.8  | krtek                         | krtek.ffhl     |
-|   10.130.0.9  | srv01                         | srv01.ffhl     |
-|  10.130.0.11  | DerDerwish                    |                |
-|  10.130.0.12  | stmarien (vm auf krtek)       | stmarien.ffhl  |
-|  10.130.0.13  | 7jM                           | serverbox      |
-|  10.130.0.15  | staegidien (vm auf krtek)     | staegidien.ffhl|
-|  10.130.0.16  | Avahi: bluedog.local          |                |
-|  10.130.0.17  | greendog                      | greendog.ffhl  |
-|  10.130.0.18  | meuteblog                     | meuteblog.ffhl |
-|  10.130.0.19  | server                        |                |
-|  10.130.0.20  | Jamalaka                      | silvan         |
-|  10.130.0.21  | NeoRaider (WG)                | confusion      |
-|  10.130.0.22  | Jamalaka                      | techem         |
-|  10.130.0.23  | Laeila & jix                  | kyubey         |
-|  10.130.0.26  | duckie & xidd                 | Rapture        |
-|  10.130.0.27  | 7jM                           | StrahlenKiste  |
-|  10.130.0.28  | SIP Proxy                     | proxy.sip.ffhl |
-|  10.130.0.29  | namshub  [node] {magu}        | namshub.ffhl   |
-|  10.130.0.30  | enki [node] {magu}            | enki.ffhl      |
-|  10.130.0.31  | innana [node] {magu}          | innana.ffhl    |
-|  10.130.0.32  | opz [x21] {magu}              | opz.ffhl       |
-|  10.130.0.33  | me {magu}                     | me.ffhl        |
-|  10.130.0.34  | alfred                        |                |
-|  10.130.0.35  | Silber1                       |                |
-|  10.130.0.36  | nutch                         | nutch.ffhl     |
-|  10.130.0.37  | bo                            |                |
-|  10.130.0.42  | NasBox                        | nasbox.ffhl    |
-|  10.130.0.43  | nbsp routing VM               |                |
-|  10.130.0.64  | magu Server                   | cic.ffhl       |
-|  10.130.0.65  | johnyb                        |                |
-|  10.130.0.66  | muehlentor-monitor            |                |
-|  10.130.0.67  | holstentor-monitor            |                |
-|  10.130.0.68  | Fluse100Cam                   |                |
-|  10.130.0.69  | burgtor-monitor               |                |
-|  10.130.0.72  | Fluse-IP-Stromleiste          |                |
-|  10.130.0.100 | zafer                         |                |
-|  10.130.0.101 | zafer-g1                      | zafer-g1.ffhl  |
-|  10.130.0.102 | zafer-g2                      |                |
-|  10.130.0.103 | zafer-g3                      |                |
-|  10.130.0.104 | zafer-g4                      |                |
-|  10.130.0.105 | zafer-rpi                     |                |
-|  10.130.0.106 | zafer-rpc1                    |                |
-|  10.130.0.107 | zafer-rpc2                    |                |
-|  10.130.0.116 | Dennis                        |                |
-|  10.130.0.117 | mkms node                     |                |
-|  10.130.0.118 | zenforyens node               |                |
-|  10.130.0.120 | passe0815                     |                |
-|  10.130.0.123 | zenforyens raspberry          |                |
-|  10.130.0.132 | FreeWayLan (StatServer)       | freeway.ffhl   |
+| IP-Adresse      | Notizen                       | Hostname       |
+|-----------------|-------------------------------|----------------|
+|     10.130.0.0  | reserviert                    | reserviert     |
+|     10.130.0.1  | Magische next-node-Adresse    | node.ffhl      |
+|     10.130.0.2  | 464XLAT ICMP Quelle           | reserviert     |
+|     10.130.0.3  | reserviert                    | reserviert     |
+|     10.130.0.4  | reserviert                    | reserviert     |
+|     10.130.0.5  | reserviert                    | reserviert     |
+|     10.130.0.6  | reserviert                    | reserviert     |
+|     10.130.0.7  | reserviert                    | reserviert     |
+|     10.130.0.8  | krtek                         | krtek.ffhl     |
+|     10.130.0.9  | srv01                         | srv01.ffhl     |
+|    10.130.0.11  | DerDerwish                    |                |
+|    10.130.0.12  | stmarien (vm auf krtek)       | stmarien.ffhl  |
+|    10.130.0.13  | 7jM                           | serverbox      |
+|    10.130.0.15  | staegidien (vm auf krtek)     | staegidien.ffhl|
+|    10.130.0.16  | Avahi: bluedog.local          |                |
+|    10.130.0.17  | greendog                      | greendog.ffhl  |
+|    10.130.0.18  | meuteblog                     | meuteblog.ffhl |
+|    10.130.0.19  | server                        |                |
+|    10.130.0.20  | Jamalaka                      | silvan         |
+|    10.130.0.21  | NeoRaider (WG)                | confusion      |
+|    10.130.0.22  | Jamalaka                      | techem         |
+|    10.130.0.23  | Laeila & jix                  | kyubey         |
+|    10.130.0.26  | duckie & xidd                 | Rapture        |
+|    10.130.0.27  | 7jM                           | StrahlenKiste  |
+|    10.130.0.28  | SIP Proxy                     | proxy.sip.ffhl |
+|    10.130.0.29  | namshub  [node] {magu}        | namshub.ffhl   |
+|    10.130.0.30  | enki [node] {magu}            | enki.ffhl      |
+|    10.130.0.31  | innana [node] {magu}          | innana.ffhl    |
+|    10.130.0.32  | opz [x21] {magu}              | opz.ffhl       |
+|    10.130.0.33  | me {magu}                     | me.ffhl        |
+|    10.130.0.34  | alfred                        |                |
+|    10.130.0.35  | Silber1                       |                |
+|    10.130.0.36  | nutch                         | nutch.ffhl     |
+|    10.130.0.37  | bo                            |                |
+|    10.130.0.42  | NasBox                        | nasbox.ffhl    |
+|    10.130.0.43  | nbsp routing VM               |                |
+|    10.130.0.64  | magu Server                   | cic.ffhl       |
+|    10.130.0.65  | johnyb                        |                |
+|    10.130.0.66  | muehlentor-monitor            |                |
+|    10.130.0.67  | holstentor-monitor            |                |
+|    10.130.0.68  | Fluse100Cam                   |                |
+|    10.130.0.69  | burgtor-monitor               |                |
+|    10.130.0.72  | Fluse-IP-Stromleiste          |                |
+|    10.130.0.100 | zafer                         |                |
+|    10.130.0.101 | zafer-g1                      | zafer-g1.ffhl  |
+|    10.130.0.102 | zafer-g2                      |                |
+|    10.130.0.103 | zafer-g3                      |                |
+|    10.130.0.104 | zafer-g4                      |                |
+|    10.130.0.105 | zafer-rpi                     |                |
+|    10.130.0.106 | zafer-rpc1                    |                |
+|    10.130.0.107 | zafer-rpc2                    |                |
+|    10.130.0.116 | Dennis                        |                |
+|    10.130.0.117 | mkms node                     |                |
+|    10.130.0.118 | zenforyens node               |                |
+|    10.130.0.120 | passe0815                     |                |
+|    10.130.0.123 | zenforyens raspberry          |                |
+|    10.130.0.132 | FreeWayLan (StatServer)       | freeway.ffhl   |
+| ab 10.130.0.240 | reserviert für Gateways     |                |
 
 ## Heimnetze: 10.130.64.0/18
 
