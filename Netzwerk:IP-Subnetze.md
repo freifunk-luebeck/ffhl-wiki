@@ -67,7 +67,7 @@ Jeder der selber einen Internet-Gateway zur Verfügung stellen möchte, und dies
 | Subnetz       | IP Bereich  | Notizen                                                                |
 |---------------|-------------|------------------------------------------------------------------------|
 | 10.130.0.0/24 |     1...255 | zur statischen Konfiguration frei zur Verfügung (siehe unten)          |
-| 10.130.3.0/24 |     0...255 | temporäre IPs. Einfach verwenden und bei Kollision eine andere nehmen. |
+| 10.130.1.0/24 |     0...255 | temporäre IPs. Einfach verwenden und bei Kollision eine andere nehmen. |
 
 ## Reservierte, statische Mesh-IP-Adressen
 
