@@ -43,6 +43,7 @@
      * [[IP-Subnetze|Netzwerk:IP-Subnetze]]
      * [[Mesh-VPN]]
      * [[Gatewaykonfiguration|gatewayconfig]]
+     * [[BGP Tunnel|netzwerk-gateway-tunnel]]
    * [[Firmware]]
      * [[Download|https://luebeck.freifunk.net/mitmachen.html]]
      * [[Changelog|Firmware:Changelog]]
