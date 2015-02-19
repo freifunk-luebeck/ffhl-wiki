@@ -99,9 +99,9 @@ Netmask: 255.255.240.0 (/20)
 |    10.130.0.17  | greendog                      | greendog.ffhl  |
 |    10.130.0.18  | meuteblog                     | meuteblog.ffhl |
 |    10.130.0.19  | server                        |                |
-|    10.130.0.20  | Jamalaka                      | silvan         |
+|    10.130.0.20  | Jamalaka                      | tobi           |
 |    10.130.0.21  | NeoRaider (WG)                | confusion      |
-|    10.130.0.22  | Jamalaka                      | techem         |
+|    10.130.0.22  |                               |                |
 |    10.130.0.23  | Laeila & jix                  | kyubey         |
 |    10.130.0.26  | duckie & xidd                 | Rapture        |
 |    10.130.0.27  | 7jM                           | StrahlenKiste  |
@@ -162,7 +162,7 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 | 10.130.124.0/27 | 1..30      |Netz von duckie & xidd   |
 | 10.130.125.0/27 | 1..30      |Netz von 7jM             |
 | 10.130.126.0/27 | 1..30      |Netz von Laeila & jix    |
-| 10.130.127.0/27 | 1..30      |Jamalakas Netz           |
+| 10.130.127.0/27 | 1..30      |                         |
 
 ## ClientVPN: 10.130.16.0/24
 
