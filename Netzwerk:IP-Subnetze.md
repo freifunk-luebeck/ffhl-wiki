@@ -98,7 +98,7 @@ Netmask: 255.255.240.0 (/20)
 |    10.130.0.17  | greendog                      | greendog.ffhl  |
 |    10.130.0.18  | meuteblog                     | meuteblog.ffhl |
 |    10.130.0.19  | server                        |                |
-|    10.130.0.20  | Jamalaka                      | tobi           |
+|    10.130.0.20  |                               |                |
 |    10.130.0.21  | NeoRaider (WG)                | confusion      |
 |    10.130.0.22  |                               |                |
 |    10.130.0.23  | Laeila & jix                  | kyubey         |
