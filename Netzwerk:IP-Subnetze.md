@@ -27,10 +27,10 @@ Das 'Y' ist dabei variabel.
 
 ### Services Prefix 2001:67c:2d50:0001::/64
 
-| Prefix                        | Verwendung                |
-|-------------------------------|---------------------------|
-| 2001:67c:2d50:0001::/96       | 464XLAT (Testbetrieb)     |
-| 2001:67c:2d50:0001:0:1:2:3/95 | Anycast-DNS (Testbetrieb) |
+| Prefix                         | Verwendung                |
+|--------------------------------|---------------------------|
+| 2001:67c:2d50:0001::/96        | 464XLAT (Testbetrieb)     |
+| 2001:67c:2d50:0001:1:1:1:1/128 | Anycast-DNS (Testbetrieb) |
 
 ### Ideen zur Unterteilung des Präfixes
 
