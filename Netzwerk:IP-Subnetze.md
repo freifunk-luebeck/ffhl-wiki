@@ -17,13 +17,20 @@ Bitte nur das erste `/52` verwenden!
 | Infix (aaaa:bbbb:cccc:0XXY::/60) | Beschreibung          |
 |----------------------------------|-----------------------|
 | :0000:                           | mesh                  |
-| :0001:                           | 464XLAT (Testbetrieb) |
+| :0001:                           | Services              |
 | :001Y:                           | ClientVPN             |
 | :002Y:                           | tux-Net               |
 | :003Y:                           | draic-Net             |
 | :004Y:                           | (frei)                |
 
 Das 'Y' ist dabei variabel.
+
+### Services Prefix 2001:67c:2d50:0001::/64
+
+| Prefix                        | Verwendung                |
+|-------------------------------|---------------------------|
+| 2001:67c:2d50:0001::/96       | 464XLAT (Testbetrieb)     |
+| 2001:67c:2d50:0001:0:1:2:3/95 | Anycast-DNS (Testbetrieb) |
 
 ### Ideen zur Unterteilung des Präfixes
 
