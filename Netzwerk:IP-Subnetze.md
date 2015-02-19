@@ -30,7 +30,6 @@ Das 'Y' ist dabei variabel.
 | Prefix                         | Verwendung                |
 |--------------------------------|---------------------------|
 | 2001:67c:2d50:0001::/96        | 464XLAT (Testbetrieb)     |
-| 2001:67c:2d50:0001:1:1:1:1/128 | Anycast-DNS (Testbetrieb) |
 
 ### Ideen zur Unterteilung des Präfixes
 
@@ -147,22 +146,28 @@ Alles ab 10.130.128.0 muss frei bleiben
 
 Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange uns nicht die /24 ausgehen. Ist das /27 voll, kann man dann problemlos auf ein /26 oder /25 aufstocken, sodass keine übermäßige Fragmentierung der Adress-Bereiche entsteht.
 
-| Subnetz         | IP Bereich | Beschreibung            |
-|-----------------|------------|-------------------------|
-| 10.130.114.0/26 | 1..63      |draic-Net                |
-| 10.130.115.0/27 | 1..30      |tux-Net                  |
-| 10.130.116.0/27 | 1..30      |Dennis' Netz             |
-| 10.130.117.0/27 | 1..30      |mkms Netz                |
-| 10.130.118.0/27 | 1..30      |zenforyens Netz          |
-| 10.130.119.0/27 | 1..30      |MHintz                   |
-| 10.130.120.0/27 | 1..30      |Netz von Passe0815       |
-| 10.130.121.0/27 | 1..30      |bo                       |
-| 10.130.122.0/27 | 1..30      |Magu Network             |
-| 10.130.123.0/24 | 1..254     |Meutekeller              |
-| 10.130.124.0/27 | 1..30      |Netz von duckie & xidd   |
-| 10.130.125.0/27 | 1..30      |Netz von 7jM             |
-| 10.130.126.0/27 | 1..30      |Netz von Laeila & jix    |
-| 10.130.127.0/27 | 1..30      |                         |
+| Subnetz           | IP Bereich | Beschreibung            |
+|-------------------|------------|-------------------------|
+| 10.130.114.0/26   | 1..63      | draic-Net               |
+| 10.130.115.0/27   | 1..30      | tux-Net                 |
+| 10.130.116.0/27   | 1..30      | Dennis' Netz            |
+| 10.130.117.0/27   | 1..30      | mkms Netz               |
+| 10.130.118.0/27   | 1..30      | zenforyens Netz         |
+| 10.130.119.0/27   | 1..30      | MHintz                  |
+| 10.130.120.0/27   | 1..30      | Netz von Passe0815      |
+| 10.130.121.0/27   | 1..30      | bo                      |
+| 10.130.122.0/27   | 1..30      | Magu Network            |
+| 10.130.123.0/24   | 1..254     | Meutekeller             |
+| 10.130.124.0/27   | 1..30      | Netz von duckie & xidd  |
+| 10.130.125.0/27   | 1..30      | Netz von 7jM            |
+| 10.130.126.0/27   | 1..30      | Netz von Laeila & jix   |
+| 10.130.127.224/27 | 224..255   | Management              |
+
+## Management 10.130.127.224/27
+
+| IP                | Verwendung  |
+|-------------------|-------------|
+| 10.130.127.224/32 | Anycast DNS |
 
 ## ClientVPN: 10.130.16.0/24
 
