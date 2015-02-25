@@ -13,6 +13,7 @@ Bilder: http://metameute.de/~tux/Freifunk/bilder/burgtor/
 
 # ToDos
 
+* Internet-Uplink für jzbt-uap-02
 * jzbt-uap-05 im Hausaufgabenraum installieren
 * jzbt-nsm2-02 im Fenster im Computer-Raum installieren
  * 1x 3m Flachbandkabel besorgen
