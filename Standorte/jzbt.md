@@ -28,3 +28,4 @@ Bilder: http://metameute.de/~tux/Freifunk/bilder/burgtor/
  * Mesh-on-WAN mit VLAN-Tag auf allen FF-Knoten konfigurieren
 * NanoStation M5 im Dachboden Richtung jls installieren (später)
  * jls-{n,o,s,w} durch NSM5 ersetzen?
+* Weitere NSM2 (loco?) für Richtung Große Burgstraße (Richtung Süden) besorgen?
