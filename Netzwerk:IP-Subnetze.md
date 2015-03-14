@@ -18,7 +18,7 @@ Bitte nur das erste `/52` verwenden!
 |----------------------------------|-----------------------|
 | :0000:                           | mesh                  |
 | :0001:                           | Services              |
-| :001Y:                           | ClientVPN             |
+| :001Y:                           | ClientVPN (inaktiv)   |
 | :002Y:                           | tux-Net               |
 | :003Y:                           | draic-Net             |
 | :004Y:                           | (frei)                |
@@ -168,24 +168,3 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 | IP                | Verwendung  |
 |-------------------|-------------|
 | 10.130.127.224/32 | Anycast DNS |
-
-## ClientVPN: 10.130.16.0/24
-
-Diese Adressen werden im Client-VPN genutzt und von NeoRaider verwaltet.
-
-| IP-Adresse   | Notizen                        | Hostname        |
-|--------------|--------------------------------|-----------------|
-| 10.130.16.1  |                                | Burgtor         |
-| 10.130.16.2  | Pascals Server                 | chip.ffhl       |
-| 10.130.16.3  | DerDerwishs Server             | derderwish.ffhl |
-| 10.130.16.4  | DerDerwishs Server (sekundär)  |                 |
-| 10.130.16.6  |                                |                 |
-| 10.130.16.7  |                                |                 |
-| 10.130.16.10 | magu                           |                 |
-| 10.130.16.11 | zenforyen                      |                 |
-| 10.130.16.17 | Eichi                          |                 |
-| 10.130.16.18 | berik /ampache testuser pw 1234| hinkelstein.ffhl|
-| 10.130.16.19 | mkm                            |                 |
-| 10.130.16.20 | tux                            |                 |
-| 10.130.16.21 | zafer                          |                 |
-| 10.130.16.22 | san                            |                 |
