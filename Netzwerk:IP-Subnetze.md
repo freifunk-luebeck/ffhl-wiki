@@ -100,7 +100,6 @@ Netmask: 255.255.240.0 (/20)
 |    10.130.0.19  | server                        |                |
 |    10.130.0.20  | GW Monitoring -Test- Stefan   | prtg.ffhl      |
 |    10.130.0.21  | NeoRaider (WG)                | confusion      |
-|    10.130.0.22  |                               |                |
 |    10.130.0.23  | Laeila & jix                  | kyubey         |
 |    10.130.0.26  | duckie & xidd                 | Rapture        |
 |    10.130.0.27  | 7jM                           | StrahlenKiste  |
@@ -118,10 +117,7 @@ Netmask: 255.255.240.0 (/20)
 |    10.130.0.43  | nbsp routing VM               |                |
 |    10.130.0.64  | magu Server                   | cic.ffhl       |
 |    10.130.0.65  | johnyb                        |                |
-|    10.130.0.66  | muehlentor-monitor            |                |
-|    10.130.0.67  | holstentor-monitor            |                |
 |    10.130.0.68  | Fluse100Cam                   |                |
-|    10.130.0.69  | burgtor-monitor               |                |
 |    10.130.0.72  | Fluse-IP-Stromleiste          |                |
 |    10.130.0.100 | zafer                         |                |
 |    10.130.0.101 | zafer-g1                      | zafer-g1.ffhl  |
