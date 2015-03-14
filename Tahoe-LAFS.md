@@ -1,5 +1,7 @@
 # Tahoe-LAFS
 
+**Dieses Projekt wird aktuell nicht weiter betrieben.**
+
 ## Idee
 Tahoe-LAFS stellt ein verteiltes, zuverlässiges und verschlüsseltes Dateisystem bereit.
 
