@@ -161,6 +161,6 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 
 ## Management 10.130.127.224/27
 
-| IP                | Verwendung  |
-|-------------------|-------------|
-| 10.130.127.224/32 | Anycast DNS |
+| IP                | Verwendung      |
+|-------------------|-----------------|
+| 10.130.127.224/32 | [[Anycast DNS]] |
