@@ -29,7 +29,8 @@ Das 'Y' ist dabei variabel.
 
 | Prefix                         | Verwendung                |
 |--------------------------------|---------------------------|
-| 2001:67c:2d50:0001::/96        | 464XLAT (Testbetrieb)     |
+| 2001:67c:2d50:1::/96           | 464XLAT (Testbetrieb)     |
+| 2001:67c:2d50:1::a82:7f00/123  | Management Prefix         |
 
 ### Ideen zur Unterteilung des Präfixes
 
@@ -159,8 +160,8 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 | 10.130.126.0/27   | 1..30      | Netz von Laeila & jix   |
 | 10.130.127.224/27 | 224..255   | Management              |
 
-## Management 10.130.127.224/27
+## Management 10.130.127.224/27 / 2001:67c:2d50:1::a82:7f00/123
 
-| IP                | Verwendung      |
-|-------------------|-----------------|
-| 10.130.127.224/32 | [[Anycast DNS]] |
+| IP4               | IP6                           | Verwendung      |
+|-------------------|-------------------------------|-----------------|
+| 10.130.127.224/32 | 2001:67c:2d50:1::a82:7fe0/128 | [[Anycast DNS]] |
