@@ -101,7 +101,6 @@ Netmask: 255.255.240.0 (/20)
 |    10.130.0.19  | server                        |                |
 |    10.130.0.20  | GW Monitoring -Test- Stefan   | prtg.ffhl      |
 |    10.130.0.21  | NeoRaider (WG)                | confusion      |
-|    10.130.0.23  | Laeila & jix                  | kyubey         |
 |    10.130.0.26  | duckie & xidd                 | Rapture        |
 |    10.130.0.27  | 7jM                           | StrahlenKiste  |
 |    10.130.0.28  | SIP Proxy                     | proxy.sip.ffhl |
@@ -157,7 +156,6 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 | 10.130.123.0/24   | 1..254     | Meutekeller             |
 | 10.130.124.0/27   | 1..30      | Netz von duckie & xidd  |
 | 10.130.125.0/27   | 1..30      | Netz von 7jM            |
-| 10.130.126.0/27   | 1..30      | Netz von Laeila & jix   |
 | 10.130.127.224/27 | 224..255   | Management              |
 
 ## Management 10.130.127.224/27 / 2001:67c:2d50:1::a82:7f00/123
