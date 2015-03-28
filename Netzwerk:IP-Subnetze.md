@@ -120,13 +120,6 @@ Netmask: 255.255.240.0 (/20)
 |    10.130.0.68  | Fluse100Cam                   |                |
 |    10.130.0.72  | Fluse-IP-Stromleiste          |                |
 |    10.130.0.100 | zafer                         |                |
-|    10.130.0.101 | zafer-g1                      | zafer-g1.ffhl  |
-|    10.130.0.102 | zafer-g2                      |                |
-|    10.130.0.103 | zafer-g3                      |                |
-|    10.130.0.104 | zafer-g4                      |                |
-|    10.130.0.105 | zafer-rpi                     |                |
-|    10.130.0.106 | zafer-rpc1                    |                |
-|    10.130.0.107 | zafer-rpc2                    |                |
 |    10.130.0.116 | Dennis                        |                |
 |    10.130.0.117 | mkms node                     |                |
 |    10.130.0.118 | zenforyens node               |                |
