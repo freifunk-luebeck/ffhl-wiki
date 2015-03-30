@@ -18,7 +18,7 @@ Anpassungen sind nur in **/etc/config/network** notwendig.
 
 
 ## Router A: 
-Ein Port muss von VLAN1 in VLAN2 wechseln.
+Ein Port muss von VLAN1 in ein neues VLAN wechseln. Hier nennen wir es VLAN3.
 Wir wollen ja schließlich auf LAN1 (Port 2) auch batman-adv sprechen. 
 ### Vorher:
     config switch_vlan  
@@ -41,32 +41,17 @@ Wir wollen ja schließlich auf LAN1 (Port 2) auch batman-adv sprechen.
     config switch_vlan  
             option device 'eth0'  
             option vlan '2'  
-            option ports '0t 1 2'  
+            option ports '0t 1'  
 
+    config switch_vlan
+            option device 'eth0'
+            option vlan '3'
+            option ports '0t 2'
+  
+    config interface 'mesh_lan'
+            option ifname 'eth0.3'
+            option mesh 'bat0'
+            option proto 'batadv'
 
-## Router A und Router B
-Desweiteren muss WAN angepasst werden. Router A braucht noch einen Alias damit weiterhin der VPN-Tunnel funktioniert.
-
-### Vorher
-    config interface 'wan'  
-            option ifname 'eth0.2'  
-            option proto 'dhcp'  
-            option type 'bridge'  
-            option accept_ra '0'  
-            option auto '1'  
-            option macaddr '66:70:02:aa:aa:aa'  
-
-### Nach Anpassung
-    config interface 'wan'   
-            option ifname 'eth0.2'  
-            option proto 'batadv'  
-            option type 'bridge'  
-            option accept_ra '0'  
-            option macaddr '66:70:02:aa:aa:aa'  
-            option mesh 'bat0'  
-       
-    config alias  
-            option interface 'wan'  
-            option proto 'dhcp'  
-
-Die Alias-Sektion wird nur in **Router A** benötigt. In **Router B** kann man Sie einfach weglassen.
+## Router B
+Es wird im configmode einfach Mesh on WAN aktiviert.
