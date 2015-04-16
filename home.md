@@ -31,17 +31,24 @@ In Timmendorfer Strand ist schon seit längerem ein Freifunk Knoten. Seit Mitte 
 
 ## Kontakt
 
-Mail: info@luebeck.freifunk.net
+__E-Mail__<br>
+info@luebeck.freifunk.net
 
-Mailingliste: freifunk.luebeck AT asta.uni-luebeck.de über unsere [Mailing-Liste](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck); Mailingliste für Firmware-Entwicklung unter [freifunk.luebeck-devel AT asta.uni-luebeck.de](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck-devel)
+__Mailinglisten__<br>
+Diskussionen und allg. Infos: [freifunk.luebeck AT asta.uni-luebeck.de](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck)<br>
+Firmware-Entwicklung: [freifunk.luebeck-devel AT asta.uni-luebeck.de](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck-devel)
 
-Persönlich: Im Rahmen des [[Chaostreffs Lübeck|http://ccchl.de]] treffen wir uns wöchentlich in der [[Röhre|http://www.kjhroehre-luebeck.de/]], dem Kinder- & Jugendkulturhaus in der Geraden Querstraße 2. Du kannst gern unverbindlich vorbeischauen.
+__Persönlich__<br>
+Jeden Mittwoch ab etwa 18:00 ist jemand von uns in den Vereinsräumen des Chaotikum e.V. namens [Nbsp](http://chaotikum.org/hackerspace:nbsp) zugegen. Du bist herzlich eingeladen unverbindlich vorbei zu schauen.
 
-Twitter: Freifunk Lübeck [@Twitter](http://twitter.com/freifunkluebeck)
+__Twitter__<br>
+[@freifunkluebeck](http://twitter.com/freifunkluebeck)
 
-Redmine/Issue Tracker: [[https://projects.universe-factory.net/projects/ffhl]]
+__Redmine/ Issue Tracker__<br>
+https://projects.universe-factory.net/projects/ffhl
 
-Internet Relay Chat (IRC): [#ffhl](irc://irc.hackint.eu/ffhl) im [Hackint](http://hackint.eu/)
+__Internet Relay Chat (IRC)__<br>
+[#ffhl](irc://irc.hackint.eu/ffhl) im [Hackint](http://hackint.eu/)
 
 ## Wiki
 Alle können mithelfen dieses Wiki zu erweitern. Lest dazu die [[Hilfe]].<br />
