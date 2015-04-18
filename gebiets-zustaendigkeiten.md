@@ -8,8 +8,8 @@ Konkret heißt das z.B.:
 * Travemünde: FFHL
 * ...
 
-Ausnahmen
+__Ausnahmen__
 * Stockelsdorf: FFHL
 
-Laufende Migrationen
+__Laufende Migrationen__
 * Bad Schwartau: FFHL → FFOH
