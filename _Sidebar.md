@@ -34,6 +34,7 @@
      * [[NetHack]]
      * [[Minetest]]
  * Benachbarte Freifunk-Initiativen
+   * [[Gebiets-Zuständigkeiten|gebiets-zustaendigkeiten]]
    * [[Ostholstein]]
    * [[Lauenburg/Mölln|Moelln]]
      * [[Aktive Knoten|Moelln:Knoten]]
