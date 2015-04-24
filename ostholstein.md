@@ -9,11 +9,15 @@ Der Schwerpunkt beim Ausbau liegt zunächst in Timmendorfer Strand, dort dem Ort
 
 ### Das Nicht-Anfassbare
 
-Die Lübecker Freifunker entwickeln und pflegen für uns die auf den WLAN Routern laufende Software ("[[Firmware|firmware]]")  und betreiben die vier Server, über die die Datenpakete ins Internet gelangen ("[[Gateway|gateway]]") sowie dieses Wiki. Unsere ostholsteiner Initiative betreibt schon einen eigenen solchen Gateway, und auch eine Firmware ist bereits verfügbar (http://ostholstein.freifunk.net/firmware). Vor dem Betrieb des zweiten Gateways möchten wir jedoch nicht mehr als einen Probebetrieb etablieren. Alle unsere Server werden betrieben von dem Verein Freifunk Ostholstein. Wir sind gemeinnützig und auf dem üblichen Weg zur Anerkennung - bislang noch beim Amtsgericht.
+Die Lübecker Freifunker entwickeln die Firmware, unterstützten uns bei den
+notwendigen Anpassungen und dem Aufbau der Server-Infrastruktur, über die die Datenpakete ins Internet gelangen ("[[Gateway|gateway]]"). Und weil dieses
+Wiki so schön ist, nutzen wir dieses Wiki auch mit.
+Alle unsere Server werden betrieben von dem Verein Freifunk Ostholstein e.V. .
+Wir sind gemeinnützig und auf dem üblichen Weg zur Anerkennung.
 
 ### Anfassbar
 
-Es sind derzeit 8-12 Knoten in Niendorf auf Abruf für eine Installation bereit. Die Installation von http://ostholstein.freifunk.net macht regelmäßige Fortschritte, so dass wir hoffen, die vielen bereits installierten Knoten bald mit einer ostholsteiner Firmware überspielen zu können. Unser Engagement hinsichtlich einer Erweiterung ist etwas gebremst bis wir mit den Ecken und Kanten des neuen Aufbaus vertraut sind. Aber weder wird es ein "zu dicht"  der Knoten alsbald geben noch lassen wir irgendwelche Interessierte im Regen stehen - wer diese Seite gefunden hat und mitmachen möchte, der ist bei uns jetzt schon richtig. Bitte sprechen Sie uns an. Der Eintrag für eine grafische Repräsentation in diese [Knotenkarte](http://luebeck.freifunk.net/map/geomap.html) ist optional aber sehr hilfreich und zeigt die bereits jetzt gute Verbreitung am südlichsten Strand Ostholsteins.
+Es sind derzeit 92 Knoten in Ostholstein installiert. Niendorf auf Abruf für eine Installation bereit. Die Installation von http://ostholstein.freifunk.net macht regelmäßige Fortschritte, so dass wir hoffen, die vielen bereits installierten Knoten bald mit einer ostholsteiner Firmware überspielen zu können. Unser Engagement hinsichtlich einer Erweiterung ist etwas gebremst bis wir mit den Ecken und Kanten des neuen Aufbaus vertraut sind. Aber weder wird es ein "zu dicht"  der Knoten alsbald geben noch lassen wir irgendwelche Interessierte im Regen stehen - wer diese Seite gefunden hat und mitmachen möchte, der ist bei uns jetzt schon richtig. Bitte sprechen Sie uns an. Der Eintrag für eine grafische Repräsentation in diese [Knotenkarte](http://ostholstein.freifunk.net/map/geomap.html) ist optional aber sehr hilfreich und zeigt die bereits jetzt gute Verbreitung am südlichsten Strand Ostholsteins.
 
 ## Kontakt
 
