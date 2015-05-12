@@ -4,12 +4,15 @@ Bis es eine bessere Lösung gibt, dokumentieren wir hier unsere Absprachen mit d
 
 __Allgemein gilt: Wir orientieren uns an den Grenzen der Landkreise.__<br>
 Konkret heißt das z.B.:
+
 * Lübeck: FFHL
 * Travemünde: FFHL
 * ...
 
 __Ausnahmen__
+
 * Stockelsdorf: FFHL
 
 __Laufende Migrationen__
+
 * Bad Schwartau: FFHL → FFOH
