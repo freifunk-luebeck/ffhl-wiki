@@ -15,7 +15,7 @@ Wie man in den Failsafemode kommt, ist im Abschnitt [[Benutzung#Failsafemode|Ben
 
 ### Den SSH-Server starten
 Da dieser Modus nur die notwendigsten Dienste bietet, ist der SSH-Server manuell zu starten.
-Dies geschieht mit `/etc/init.d/dropbear start`.
+Dies geschieht mit `/etc/init.d/dropbear start`. (Vorher `mount_root` nicht vergessen.)
 Danach kann der Knoten wie gewohnt per SSH oder SCP erreicht werden.
 
 ### Ein neues Image flashen
@@ -25,3 +25,11 @@ Dabei kann mit der Option `-n` die Config überschrieben werden.
 
 Das Flashen bitte nicht abbrechen oder den Knoten während des Vorgangs vom Strom trennen.
 Sonst kann es dazu führen, dass das Gerät unbrauchbar wird.
+
+Achtung bei der Originalfirmware von TP-Link, da muss ggf. vorher noch der Bootloader vom Image entfernt werden:
+
+```
+dd if=with-bl.bin of=without-bl.bin skip=257 bs=512
+```
+
+(Siehe auch [OpenWRT-Wiki](http://wiki.openwrt.org/toh/tp-link/tl-wdr3600#back_to_stock_firmware))
