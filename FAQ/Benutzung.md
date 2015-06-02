@@ -55,10 +55,11 @@ Danach muss der eigene Computer mit einem Netzwerkkabel am blauen WAN-Port (beim
 
 Bei manchen Routern kommt man nur in den Failsafemode durch extrem schnelles intervall-drücken der QSS-Taste direkt nach dem Einschalten.
 
-Da im Failsafemode kein DHCP zur Verfügung steht, muss man seine Netzwerkkarte manuell Konfigurieren:
+Da im Failsafemode kein DHCP zur Verfügung steht, muss man seine Netzwerkkarte manuell Konfigurieren im IP-Bereich: 192.168.1.0/24, z.B.:
 ```
-IP-Bereich: 192.168.1.0/24
+ip addr add 192.168.1.2/24 dev eth0
 ```
+(Diese IP wird spätestens nach einem Neustart zurückgesetzt)
 
 Im Failsafemode wird Telnet benutzt, um Zugang zur Kommandozeile des Knotens zu erhalten.
 Hierfür genügt folgendes Kommando auf der Kommandozeile unter Linux:
