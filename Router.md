@@ -8,10 +8,10 @@ Wir empfehlen den Einsatz von Geräten von TP-Link
  
 da wir mit diesen gute Erfahrungen gemacht haben. Etwas weniger schnell, aber mit excellenten Reichweiten und höchst verlässlich sind auch die Geräte von Ubiquity:
  * [[Nanostation loco M2|Hardware/NSLM2kit]]
- * Bullet M2
- * NanoStation M2
- * Unifi AP
- * Unifi AP LR
+ * [[Bullet M2|Firmware:Bullet_M]]
+ * [[NanoStation M2|Firmware:Nanostation]]
+ * [[Unifi AP|Firmware:UnifiAP]]
+ * [[Unifi AP LR|Firmware:UnifiAP]]
  * NanoBridge M2
 
 Für die oben genannten Geräte stehen fertige Images auf der [[Mitmach-Seite|https://luebeck.freifunk.net/mitmachen.html]] bereit.
