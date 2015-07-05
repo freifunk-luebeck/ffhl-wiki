@@ -83,7 +83,7 @@ Netmask: 255.255.240.0 (/20)
 |-----------------|-------------------------------|----------------|
 |     10.130.0.0  | reserviert                    | reserviert     |
 |     10.130.0.1  | Magische next-node-Adresse    | node.ffhl      |
-|     10.130.0.2  | 464XLAT ICMP Quelle           | reserviert     |
+|     10.130.0.2  | reserviert                    | reserviert     |
 |     10.130.0.3  | reserviert                    | reserviert     |
 |     10.130.0.4  | reserviert                    | reserviert     |
 |     10.130.0.5  | reserviert                    | reserviert     |
@@ -157,3 +157,4 @@ Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren, solange
 | IP4               | IP6                           | Verwendung      |
 |-------------------|-------------------------------|-----------------|
 | 10.130.127.224/32 | 2001:67c:2d50:1::a82:7fe0/128 | [[Anycast DNS]] |
+| 10.130.127.225/32 | 2001:67c:2d50:1::a82:7fe1/128 | Tayga / NAT64   |
