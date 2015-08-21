@@ -21,7 +21,8 @@ Bitte nur das erste `/52` verwenden!
 | :001Y:                           | ClientVPN (inaktiv)   |
 | :002Y:                           | tux-Net               |
 | :003Y:                           | draic-Net             |
-| :004Y:                           | (frei)                |
+| :004Y:                           | Babel-Test            |
+| :005Y:                           | (frei)                |
 
 Das 'Y' ist dabei variabel.
 
