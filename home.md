@@ -12,11 +12,6 @@ Damit hast du deinen eigenen anonymen Freifunkknoten. Und das völlig legal! Du 
 
 Alle Fragen werden wir dir bestimmt auf dieser Seite nicht sofort und ausführlich beantworten können. 
 
-### Vorkonfigurierte Knoten
-Wir haben wieder eine begrenzte Anzahl fertig konfigurierter Router. Wenn du dich am Lübecker Freifunk beteiligen möchtest, kannst du gerne ein Gerät für einmalig ab 20 € von uns erwerben. Mail uns bitte einfach kurz an :-)
-
-Besonders interessant für Gastronomiebetriebe und Hotels: Mit dem Freifunkrouter können die Gäste frei im Netz surfen, ohne dass der Betreiber sich durch die mißbräuchliche Nutzung des Internets von einem Gast haftbar macht (Störerhaftung).
-
 ## Benachbarte Freifunk-Kreise
 
 Die Lübecker Freifunker freuen sich nicht nur über ein Mitmachen in der Hansestadt. Wir freuen uns auch über jeden, der den Freifunk-Gedanken mit nach Hause nimmt. Hier stehen wir mit Rat und Tat zur Seite - und im Falle unserer direkten Nachbarn helfen wir gar mit unserer Server Infrastruktur bis die neuen Initiativen eine kritische Größe erreicht haben.
