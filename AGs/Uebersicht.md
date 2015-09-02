@@ -3,7 +3,7 @@
 Baut und pflegt die Netzwerk- und Firmwareinfrastruktur.
 * [[Codebase|https://git.metameute.de/lff/]]
 * [[Redmine tracking|https://projects.universe-factory.net/projects]]
-* [[Freifunk für Geflüchtete in Lübeck]]
+* [[freifunk fur gefluchtete in lubeck]]
 
 ## AG Schlüsseldienst
 Hilft beim Eintragen der per Mailingliste gemeldeten fastd-Schlüssel.
