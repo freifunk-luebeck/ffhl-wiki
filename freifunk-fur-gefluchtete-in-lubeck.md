@@ -12,6 +12,3 @@ Mittwochs im Blauen Engel beim <a href="https://www.facebook.com/cafewelcome?fre
 
 ### Andere Freifunkwikis mit solchen Projekten
 * <a href="https://ffmuc.net/wiki/p/Freifunk_f%C3%BCr_Asylbewerberunterk%C3%BCnfte"> München </a>
-
-### Refugee Emancipation
-* <a href="http://support.refugeesemancipation.com/">CCC Refugee Emancipation</a>
