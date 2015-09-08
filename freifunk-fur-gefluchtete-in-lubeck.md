@@ -14,6 +14,7 @@ Mittwochs im Blauen Engel beim <a href="https://www.facebook.com/cafewelcome?fre
 ### Was man erwähnen/weitergeben kann um Leute zu überzeugen
 * Das <a href="https://forum.freifunk.net/t/lba-des-drk-westfalen-lippe-empfiehlt-die-zusammenarbeit-im-einsatz-fluechtlingshilfe/7527"> DRK Westfalen-Lippe </a> emfiehlt Freifunk für Flüchtlingsunterkünfte.
 * Es gibt ein Heft vom mabb, davon könnte man mal einige duzend bestellen
+
 ### Andere Freifunkwikis mit solchen Projekten
 * <a href="https://ffmuc.net/wiki/p/Freifunk_f%C3%BCr_Asylbewerberunterk%C3%BCnfte"> München </a>
 
