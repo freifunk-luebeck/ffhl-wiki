@@ -14,12 +14,16 @@ Mittwochs im Blauen Engel beim <a href="https://www.facebook.com/cafewelcome?fre
 * <a href="http://www.luebeck.de/aktuelles/presse/pressedienst/view/150591R/">Luebeck.de: Zwei Turnhallen für die Unterbringung von Flüchtlingen</a>
 
 #### Konkrete Unterkünfte
-# Am Wall: Kontakt mit der Diakonie aufgenommen
-# Steinrader Weg: Habe indirekt Kontakt zu einem Knoten-Betreiber in der Nähe, der mal schauen wird, ob er es bis zur Brockensammlung schaft. Die Brockensammlung würde sonst es wohl auch selber machen.
-# Sporthalle der Gewerbeschule Nahrung und Gastronomie in der Schildstraße: Das ist ein einer Schule, und eigentlich sollte man da Router druf kriegen. Umgeben von Wohnungen, da findet man sicher wen für den Uplink
-# Sporthalle der Baltic-Schule in der Briggstraße: Keine Ahung, ist Freifunk-Technisch betrachtet im nirgendwo.
-* 
-* Volksfestplatz: Schwierig. Kein Uplink in der Nähe. Ansprechpartner ist hier auch evtl das Land, da es eine EAE ist.
+* Am Wall: Kontakt mit der Diakonie aufgenommen
+* Steinrader Weg: Habe indirekt Kontakt zu einem Knoten-Betreiber in der Nähe, der mal schauen wird, ob er es bis zur Brockensammlung schaft. Die Brockensammlung würde sonst es wohl auch selber machen.
+* Sporthalle der Gewerbeschule Nahrung und Gastronomie in der Schildstraße <a href="http://www.luebeck.de/aktuelles/presse/pressedienst/view/150591R/">(Luebeck.de)</a>: Das ist ein einer Schule, und eigentlich sollte man da Router druf kriegen. Umgeben von Wohnungen, da findet man sicher wen für den Uplink
+* Sporthalle der Baltic-Schule in der Briggstraße <a href="http://www.luebeck.de/aktuelles/presse/pressedienst/view/150591R/">(Luebeck.de)</a>: Keine Ahung, ist Freifunk-Technisch betrachtet im nirgendwo.
+* Andersenring (Moisling): Weiß nicht genau wo. Man bräuchte sicher nen Uplink. Sehr nah dran ist der Freifunkknoten Rot-Weiß-Moislingen, evtl. kann man die gewinnen das zu adminsitrieren.
+* August Bebel Straße (Moislingen): Entweder wie oben, oder das Stadtteilbüro Moislingen
+* Brailerweg: Weit und breit kein Freifunk.
+* Brandenbaumer Landstraße: Die Landstraße ist lang, keine Ahnung wo.
+* ...
+* Volksfestplatz <a href="http://www.hl-live.de/aktuell/textstart.php?id=101297">hl live</a>: Schwierig. Kein Uplink in der Nähe. Ansprechpartner ist hier auch evtl das Land, da es eine EAE ist.
 
 ### Was man erwähnen/weitergeben kann um Leute zu überzeugen
 * Das <a href="https://forum.freifunk.net/t/lba-des-drk-westfalen-lippe-empfiehlt-die-zusammenarbeit-im-einsatz-fluechtlingshilfe/7527"> DRK Westfalen-Lippe </a> emfiehlt Freifunk für Flüchtlingsunterkünfte.
