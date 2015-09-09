@@ -10,6 +10,7 @@ Mittwochs im Blauen Engel beim <a href="https://www.facebook.com/cafewelcome?fre
   * <a href="http://www.gemeindediakonie-luebeck.de/obdach-asyl/bereichsleitung-und-ehrenamtskoordination.html"> Bereichsleitung</a>
   * <a href="http://www.gemeindediakonie-luebeck.de/obdach-asyl/wohnanlagen-fuer-asylsuchende.html">Liste der Standorte mit Telefonnummern der Ansprechpartner</a>
 * <a href="http://luebeck.de/bewohner/buergerservice/lvw/leistungen/index.html?lid=5381">Seite der Stadt Lübeck zur Hilfe für Asylsuchende</a>
+* <a href="http://www.luebeck.de/aktuelles/presse/pressedienst/view/150591R/">Luebeck.de: Zwei Turnhallen für die Unterbringung von Flüchtlingen</a>
 
 ### Was man erwähnen/weitergeben kann um Leute zu überzeugen
 * Das <a href="https://forum.freifunk.net/t/lba-des-drk-westfalen-lippe-empfiehlt-die-zusammenarbeit-im-einsatz-fluechtlingshilfe/7527"> DRK Westfalen-Lippe </a> emfiehlt Freifunk für Flüchtlingsunterkünfte.
