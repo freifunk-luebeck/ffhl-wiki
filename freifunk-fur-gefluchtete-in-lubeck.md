@@ -25,6 +25,19 @@ Mittwochs im Blauen Engel beim <a href="https://www.facebook.com/cafewelcome?fre
 * Braunstraße (Innenstadt): Sollte machbar sein, allerdings wenig in der Nähe. nbsp ist aber nahe dran... Leider ne Kirche im Weg.
 * Fischergrube: Gibt es auch noch keine Knoten. Schdae. Klinkenputzen angesagt.
 * Dornstraße: Lange Straße... keine Knoten nahe bei.
+* Fliederstraße
+* Heiligen-Geist-Kamp
+* Heiweg
+* Immengarten
+* Kiwittredder
+* Klipperstr
+* Luisenhof
+* Marliring / Knud-Rasmussen-Str.
+* Ratzeburger Allee (oder ist das die selbe wie darüber)
+* Rübenkoppel
+* Schlesienring
+* Ziegelstr 
+* Evtl weitere....
 
 Zuletzt noch die EAE:
 
