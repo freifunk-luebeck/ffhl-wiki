@@ -1,7 +1,7 @@
 ### Was ist dies
 Dies ist die Wikiseite zu Koordination für "Freifunk für Geflüchtete in Lübeck". 
 
-Karte aktuel laufender Freifunk Knoten
+<a href="https://map.luebeck.freifunk.net/">Karte aktuel laufender Freifunk Knoten</a>
 ### Treffen
 Mittwochs im Blauen Engel beim <a href="https://www.facebook.com/cafewelcome?fref=ts"> Cafe Welcome</a>
 
@@ -22,7 +22,12 @@ Mittwochs im Blauen Engel beim <a href="https://www.facebook.com/cafewelcome?fre
 * August Bebel Straße (Moislingen): Entweder wie oben, oder das Stadtteilbüro Moislingen
 * Brailerweg: Weit und breit kein Freifunk.
 * Brandenbaumer Landstraße: Die Landstraße ist lang, keine Ahnung wo.
-* ...
+* Braunstraße (Innenstadt): Sollte machbar sein, allerdings wenig in der Nähe. nbsp ist aber nahe dran... Leider ne Kirche im Weg.
+* Fischergrube: Gibt es auch noch keine Knoten. Schdae. Klinkenputzen angesagt.
+* Dornstraße: Lange Straße... keine Knoten nahe bei.
+
+Zuletzt noch die EAE:
+
 * Volksfestplatz <a href="http://www.hl-live.de/aktuell/textstart.php?id=101297">hl live</a>: Schwierig. Kein Uplink in der Nähe. Ansprechpartner ist hier auch evtl das Land, da es eine EAE ist.
 
 ### Was man erwähnen/weitergeben kann um Leute zu überzeugen
