@@ -26,7 +26,7 @@ Mittwochs im Blauen Engel beim <a href="https://www.facebook.com/cafewelcome?fre
 * Fischergrube: Gibt es auch noch keine Knoten. Schdae. Klinkenputzen angesagt.
 * Dornstraße: Lange Straße... keine Knoten nahe bei.
 * Fliederstraße
-* Heiligen-Geist-Kamp
+* Heiligen-Geist-Kamp: 4 Wohnungen, 20 Personen (http://www.ln-online.de/Lokales/Luebeck/Zwei-neue-Asylunterkuenfte-in-Luebeck)
 * Heiweg
 * Immengarten
 * Kiwittredder
