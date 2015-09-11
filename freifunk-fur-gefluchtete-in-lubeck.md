@@ -20,12 +20,12 @@ Mittwochs im Blauen Engel beim <a href="https://www.facebook.com/cafewelcome?fre
 * Sporthalle der Baltic-Schule in der Briggstraße <a href="http://www.luebeck.de/aktuelles/presse/pressedienst/view/150591R/">(Luebeck.de)</a>: Keine Ahung, ist Freifunk-Technisch betrachtet im nirgendwo.
 * Andersenring (Moisling): Weiß nicht genau wo. Man bräuchte sicher nen Uplink. Sehr nah dran ist der Freifunkknoten Rot-Weiß-Moislingen, evtl. kann man die gewinnen das zu adminsitrieren.
 * August Bebel Straße (Moislingen): Entweder wie oben, oder das Stadtteilbüro Moislingen
+* Jochen Klepper Haus in der Fliederstraße 7 (Mosilingen) Siehe: <a href="http://www.vorwerker-diakonie.de/presse/alle-neuigkeiten/detailansicht/news/detail/News/ehemalige-pflegeeinrichtung-wird-fluechtlingsunterkunft/?kontrast=0&cHash=19f0e763e5a83ee9afeb28e41fd86994">hl live</a>.
 * Brailerweg: Weit und breit kein Freifunk.
 * Brandenbaumer Landstraße: Die Landstraße ist lang, keine Ahnung wo.
 * Braunstraße (Innenstadt): Sollte machbar sein, allerdings wenig in der Nähe. nbsp ist aber nahe dran... Leider ne Kirche im Weg.
 * Fischergrube: Gibt es auch noch keine Knoten. Schdae. Klinkenputzen angesagt.
 * Dornstraße: Lange Straße... keine Knoten nahe bei.
-* Fliederstraße
 * Heiligen-Geist-Kamp: 4 Wohnungen, 20 Personen (http://www.ln-online.de/Lokales/Luebeck/Zwei-neue-Asylunterkuenfte-in-Luebeck)
 * Heiweg
 * Immengarten
