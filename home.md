@@ -31,11 +31,8 @@ info@luebeck.freifunk.net
 
 __Mailinglisten__<br>
 Diskussionen und allg. Infos: talk@luebeck.freifunk.net<br>
-Firmware-Entwicklung: gluon@luebeck.freifunk.net
-
-__Mailingliste__<br>
-Allgemeine Fragen: [freifunk.luebeck AT asta.uni-luebeck.de](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck)
-Maschinenraum: [maschinenraum@luebeck.freifunk.net](mailto:maschinenraum-help@luebeck.freifunk.net)
+Firmware-Entwicklung: gluon@luebeck.freifunk.net<br>
+Gateways \& Infrastruktur: maschinenraum@luebeck.freifunk.net
 
 __Persönlich__<br>
 Jeden Mittwoch ab etwa 18:00 ist jemand von uns in den Vereinsräumen des Chaotikum e.V. namens [Nbsp](http://chaotikum.org/hackerspace:nbsp) zugegen. Du bist herzlich eingeladen unverbindlich vorbei zu schauen.
