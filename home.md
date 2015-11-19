@@ -30,8 +30,8 @@ __E-Mail__<br>
 info@luebeck.freifunk.net
 
 __Mailinglisten__<br>
-Diskussionen und allg. Infos: [freifunk.luebeck AT asta.uni-luebeck.de](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck)<br>
-Firmware-Entwicklung: [freifunk.luebeck-devel AT asta.uni-luebeck.de](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck-devel)
+Diskussionen und allg. Infos: talk@luebeck.freifunk.net<br>
+Firmware-Entwicklung: gluon@luebeck.freifunk.net
 
 __Mailingliste__<br>
 Allgemeine Fragen: [freifunk.luebeck AT asta.uni-luebeck.de](http://lists.asta.uni-luebeck.de/mailman/listinfo/freifunk.luebeck)
