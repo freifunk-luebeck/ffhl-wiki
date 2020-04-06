@@ -6,12 +6,12 @@ variables:
 
 test:
   script:
-  - rm -rf resource public
+  - rm -rvf resources public
   - hugo
 
 pages:
   script:
-  - rm -rf resource public
+  - rm -rvf resources public
   - hugo
   artifacts:
     paths:
