@@ -13,9 +13,9 @@ test:
 pages:
   script:
   - hugo
-  artifacts:
-    paths:
-    - public
+    #  artifacts:
+    #paths:
+    #- public
   only:
   - master
 
