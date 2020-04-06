@@ -6,16 +6,18 @@ variables:
 
 test:
   script:
+  - rm -rf resource public
   - hugo
   except:
   - master
 
 pages:
   script:
+  - rm -rf resource public
   - hugo
-    #  artifacts:
-    #paths:
-    #- public
+  artifacts:
+    paths:
+    - public
   only:
   - master
 
