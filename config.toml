@@ -1,4 +1,4 @@
-baseURL = "http://cuechan.gitlab.com/ffhl-wiki-hugo/"
+baseURL = "http://cuechan.gitlab.com/ffhl-wiki-hugo2/"
 languageCode = "en-us"
 title = "FFHL Wiki"
 theme = "hugo-book"
