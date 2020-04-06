@@ -8,8 +8,6 @@ test:
   script:
   - rm -rf resource public
   - hugo
-  except:
-  - master
 
 pages:
   script:
