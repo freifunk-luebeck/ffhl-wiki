@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://cuechan.gitlab.com/ffhl-wiki-hugo/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "FFHL Wiki"
 theme = "hugo-book"
