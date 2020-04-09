@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://wiki2.luebeck.freifunk.net"
 languageCode = "en-us"
 title = "FFHL Wiki"
 theme = "hugo-book"
