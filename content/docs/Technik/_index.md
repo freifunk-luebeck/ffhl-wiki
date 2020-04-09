@@ -1,5 +1,5 @@
 ---
-title: "Technik kram"
+title: "Technik Kram"
 ---
 
-Hier findest du sachen zur Technik im Freifunk
+Hier findest du Infos zur Technik im Freifunknetz
