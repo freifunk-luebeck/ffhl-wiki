@@ -1,7 +1,5 @@
 # FAQ - Knoten-Benutzung
 
-## Inhaltsübersicht
-[[_TOC_]]
 
 ## VPN Verbindung bricht von alleine ab. Neustart hilft.
 
@@ -70,7 +68,7 @@ telnet 192.168.1.1
 Um die eingestellte Konfigration anzuschauen mit `uci show` und um dauerhafte Änderungen am System durchführen zu können, muss zunächst ein Overlay-Dateisystem gemountet werden.
 ```
 mount_root
-``` 
+```
 
 Passwort und SSH-Key für den entfernten Zugang zum Knoten kann im ConfigMode oder mit dem Kommando geändert werden:
 ```
