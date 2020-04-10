@@ -19,24 +19,24 @@ jedoch nicht verwendet.
 
 Bitte nur das erste `/52` verwenden!
 
-  Infix (aaaa:bbbb:cccc:0XXY::/60)   Beschreibung
-  ---------------------------------- ---------------------
-  :0000:                             mesh
-  :0001:                             Services
-  :001Y:                             ClientVPN (inaktiv)
-  :002Y:                             tux-Net
-  :003Y:                             draic-Net
-  :004Y:                             Babel-Test
-  :005Y:                             (frei)
+| Infix (aaaa:bbbb:cccc:0XXY::/60) | Beschreibung        |
+|----------------------------------|---------------------|
+| :0000:                           | mesh                |
+| :0001:                           | Services            |
+| :001Y:                           | ClientVPN (inaktiv) |
+| :002Y:                           | tux-Net             |
+| :003Y:                           | draic-Net           |
+| :004Y:                           | Babel-Test          |
+| :005Y:                           | (frei)              |
 
 Das 'Y' ist dabei variabel.
 
 ### Services Prefix 2001:67c:2d50:0001::/64
 
-  Prefix                          Verwendung
-  ------------------------------- -----------------------
-  2001:67c:2d50:1::/96            464XLAT (Testbetrieb)
-  2001:67c:2d50:1::a82:7f00/123   Management Prefix
+| Prefix                        | Verwendung            |
+|-------------------------------|-----------------------|
+| 2001:67c:2d50:1::/96          | 464XLAT (Testbetrieb) |
+| 2001:67c:2d50:1::a82:7f00/123 | Management Prefix     |
 
 ### Ideen zur Unterteilung des Präfixes
 
@@ -52,9 +52,10 @@ IPv4
 
 Für den Lübecker Raum ist das folgende Subnetz reserviert:
 
-    10.130.0.0/16
+`10.130.0.0/16`
 
 Dabei wird für das eigentliche Mesh bisher `10.130.0.0/20` genutzt.
+Dies wird sich mit dem Umstieg von Batadv14 auf Batadv15 aendern. (siehe [Gateways]({{< relref "#gateways" >}}) )
 
 ### IPv4 Exit über FF Rheinland
 
@@ -86,7 +87,7 @@ Reservierte Subnetze des Mesh-Netzes
 
 | Subnetz       | IP Range | Notizen                                         |
 |---------------|----------|-------------------------------------------------|
-| 10.130.0.0/24 | 1...25   | zur statischen Konfiguration frei zur Verfügung |
+| 10.130.0.0/24 | 1...255  | zur statischen Konfiguration frei zur Verfügung |
 
 
 Reservierte, statische Mesh-IP-Adressen
@@ -102,7 +103,7 @@ Mögliche Adressen:
 
 
 {{< hint warning >}}
-TODO: Addressen anpingen, user kontaktieren, aus Liste entfernen
+TODO: alte, nicht mehr verwendete Adressen entfernen (anpingen, kontaktieren, entfernen)
 {{< /hint >}}
 
 
@@ -194,7 +195,7 @@ Management 10.130.127.224/27 / 2001:67c:2d50:1::a82:7f00/123
 
 | IP4               | IP6                           | Verwendung                                           |
 |-------------------|-------------------------------|------------------------------------------------------|
-| 10.130.127.224/32 | 2001:67c:2d50:1::a82:7fe0/128 | [Anycast DNS](Anycast_DNS "wikilink")                |
+| 10.130.127.224/32 | 2001:67c:2d50:1::a82:7fe0/128 | Anycast DNS                                          |
 | 10.130.127.225/32 | 2001:67c:2d50:1::a82:7fe1/128 | Tayga / NAT64 (wird mit update auf v13 abgeschaltet) |
 
 [Category:Technische Details](Category:Technische_Details "wikilink")

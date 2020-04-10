@@ -2,4 +2,25 @@
 title: "Technik Kram"
 ---
 
-Hier findest du Infos zur Technik im Freifunknetz
+# Netzwerk
+
+Prinzipiell besteht das Freifunk Lübeck Mesh Netzwerk aus verschiedenen Schichten. Zum einen gibt es natürlich die WLAN-Router, die über die Luft ein WLAN Mesh-Netzwerk aufbauen und hier die Datenpakete weiterleiten.
+
+Zum zweiten gibt es verschiedene Knoten, die kleine Wolken in Lübeck durch einen verschlüsselten Tunnel über das Internet miteinander verbinden. Wer einen schnellen Internetzugang hat, kann somit gerne seine eigene kleine Wolke bei sich zu Hause starten. Die Internetleitung wird hierbei ''nicht'' als Ausgang für andere Mesh-Nutzer ins Internet benutzt. Siehe auch: [[Mesh-VPN]].
+
+Zum dritten gibt es verschiedene Knoten im Mesh-Netzwerk die ihre Internetleitung nicht nur für den VPN-Tunnel zur Verfügung, sondern auch anderen Benutzern direkt als Ausgang ins Internet, als sogenannter Internet-Gateway. Hierzu sollte man sich aber zuvor über die rechtlichen Konsequenzen informieren. (die Gesetzeslage ist hierbei leider auch nach dem BGH-Gerichtsurteil immernoch unklar... siehe auch: [[hier|http://freifunkstattangst.de/2010/06/17/das-wlan-urteil-des-bgh-und-seine-auswirkungen-auf-offene-netze/]] und [[hier|http://www.elektrischer-reporter.de/labor/video/235/]]) Jeder ist für seinen Knoten prinzipiell selbst verantwortlich.
+
+[[Netzwerk:IP-Subnetze]]
+
+## Architektur
+
+Bisher fahren wir die [[Komplettes-Briding|http://kbu.freifunk.net/index.php/Netzwerk-Konfiguration#Komplettes_Bridging]] Strategie. Das heißt für jedes Gerät im Mesh-Netzwerk scheint alles nur wie ein großer Switch zu sein, alles ist virtuell nur einen einzigen Hop entfernt.
+
+## DNS
+
+Wir haben für unser Netz die TLD ffhl ausgewählt. Auf burgtor und holstentor läuft ein bind und die Zonefiles liegen vorerst auf https://github.com/MetaMeute/ffhl-dns
+
+Bei Änderungswünschen könnt ihr entweder Pull-Requests erstellen oder direkt tcatm@ccchl.de anmailen. In naher Zukunft wird es hoffentlich ein dezentrales System zur Verwaltung der Domains geben.
+
+## Peerings
+Infos zu den [[Peerings]] hält die entsprechende Seite bereit.

@@ -1,1 +1,3 @@
-Doku/wiki
+---
+title: Freifunk Luebeck Wiki
+---

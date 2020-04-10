@@ -3,7 +3,7 @@ Die folgenden FAQs sind verfügbar, aber richten sich teils auch an fortgeschrit
 
 
 * [Benutzung]( {{< relref "/Benutzung" >}} )
-* [Rettung eines defekten Knotens]( {{< relref "Benutzung" >}} )
+* [Rettung eines defekten Knotens]( {{< relref "knoten-retten" >}} )
 * [Die Philosophie des Projektes]({{< relref "philosophie" >}})
 * [Einrichtung eines zusätzlichen privaten Netzwerkes]({{< relref "Privates-Netz-einrichten" >}})
 * [Erkärung grundlegender technischer Entscheidungen]({{< relref "Technisches" >}})
