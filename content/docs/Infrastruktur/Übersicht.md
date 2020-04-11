@@ -9,7 +9,7 @@ Diese Seite soll für uns einen kleinen Überblick geben. Dinge, die wir benutze
 | Name       | Hostname                                     | wer verwaltet den?                                               | Kommentar                                                             |
 |------------|----------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------|
 | srv01      | srv01.luebeck.freifunk.net                   | linus, neoraider, magu, kaspar, nils, wupo, paul, wonka, philipp |                                                                       |
-| srv02      | srv02.luebeck.freifunk.net (mesh only, ipv6) | linus, paul, wonka                                               |                                                                       |
+| srv02      | srv02.luebeck.freifunk.net (mesh only, ipv6) | linus, paul, wonka, philipp                                      |                                                                       |
 | hostentor  | holstentor.mesh.ffhl.chaotikum.org           | kaspar, neoraider, linus, l (?), paul, wonka                     |                                                                       |
 | muehlentor | holstentor.mesh.ffhl.chaotikum.org           | neoraider, linus, kaspar, l (?), paul, wonka                     |                                                                       |
 | kaisertor  | kaisertor.mesh.ffhl.chaotikum.org            | linus, yuna, paul, wonka, philipp                                | Ist noch nicht als Gateway aktiv                                      |

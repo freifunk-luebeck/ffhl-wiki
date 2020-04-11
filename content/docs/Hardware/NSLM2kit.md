@@ -4,7 +4,7 @@ title: Nanostation Loco M2 Kit
 
 # Nanostation loco M2 Kit
 
-![Kit outdoor](nslm2kit.jpg)
+![Kit outdoor](/nslm2kit.jpg)
 
 Das Nanostation loco M2 Kit besteht aus:
 
@@ -19,4 +19,4 @@ Netzwerkkabel ist die Stromversorgung durchs Fenster einfach möglich.
 
 Die Firma yBit vertreibt das Kit für 60 Euro. Kontakt: http://ybit.eu
 
-![Kit indoor](nslm2kit-innen.jpg)
+![Kit indoor](/nslm2kit-innen.jpg)
