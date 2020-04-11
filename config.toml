@@ -11,18 +11,4 @@ BookLogo = "/logo.svg"
 BookSection = "docs"
 BookComments = true
 BookPortableLinks = true
-
-[[menu.after]]
-  name = "Gitlab"
-  url = "https://gitlab.com/freifunk-luebeck"
-  weight = 10
-
-[[menu.after]]
-  name = "Karte"
-  url = "https://map2.luebeck.freifunk.net/"
-  weight = 20
-
-[[menu.after]]
-  name = "Statistik"
-  url = "https://luebeck.freifunk.net/statistik"
-  weight = 30
+BookMenuBundle = "/menu"
