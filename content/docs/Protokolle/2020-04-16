@@ -1,0 +1,70 @@
+# Freifunk-Treffen 2020-04-16 
+
+im Freifunk-Mumble: mumble.freifunk.net Raum GeschlosseneRunde1
+
+
+## Stand der Dinge
+
+### Gateways
+
+Holstentor, Mühlentor noch auf Arch-Linux.
+Paul arbeitet dadran die zwei neuen Gateways Huextertor, Kaisertor zu konfigurieren.
+
+
+### Wiki / Gitlab / andere Tools
+
+Wechsel von Github auf Gitlab: gitlab.com/freifunk-luebeck/
+
+Wiederbelebung des Wikis: wiki2.luebeck.freifunk.net/
+Umschalten des DNS Eintrags. koennen wir das jetzt schon machen? Ich würde nachher noch ein bisschen Kram hinzufügen, dann spricht eig nichts dagegen
+
+#### Statistiken
+Prometheus macht wohl Probleme, vielleicht irgendwann wechseln?
+Eventuell kann [ffhl-stats](https://gitlab.com/freifunk-luebeck/ffhl-stats) da helfen und man kann die Daten nach influxdb oder aehnliches schreiben
+
+### Firmware
+
+v0.12-1
+Muss noch signiert werden. Bisher keine Antwort von Zafer.
+
+### Was tun mit Spendengeld? Wieviel? (Stand 31.03.2020: 490,99 €)
+
+Hardware?
+
+### Hardwareempfehlungen
+
+https://darmstadt.freifunk.net/mitmachen/unterstuetzte-geraete/
+wird ergänzt GLI.net (diverse) AVM, weitere
+
+## Fluse berichtet von FF-Nodes
+
+- fluse-boot-shop, offline wegen kein Strom
+- fluse100 offline (nach update auf 0.12-1?), Dachinstallation die fluse mal von Hand neustarten will
+- Cafe-Czudaj-2 offline vmtl wg corona
+- Königspassage offline durch Umbau, Stadt baut eigenes freies wlan
+- hotel-stadt-lübeck hat neue Besitzer, Knoten werden abgebaut
+- Konstinstr. Tagungszentrum offline??
+
+## Ideen
+
+- Drehbrücke kann einen Anschluss bekommen. Dachinstallation in Planung um den neuen Platz, MediaDocks auszuleuchten. Evtl Mesh mit fluse100
+  Strandsalon?
+- Marquardstraße in Planung hohes Dach, Meshverbindung möglich
+- Bunker Schwartauer Allee
+- In Kontakt mit St. Petri Kirche treten?
+- Hardware im Chaotikum inventarisieren
+- THW Freifunk?
+- Bulletm2 auf Pergamentbachergag Dach installiert, funktioniert aber nicht
+- Fablab Freifunk auf dem Dach/Raeumen.
+- Walli
+
+
+Fluse kann vielleicht eine Führung auf der JLS organisieren.
+After Corona, Fluse anhauen
+
+### deprecated router
+
+Node Betreiber anschreiben
+Neue Router gegen Vorkasse bestellen
+Alte Router einsammeln und für Lötworkshop / Upcycle verwenden (Ram, Rom mod)
+
