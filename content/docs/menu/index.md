@@ -15,7 +15,6 @@ headless: true
   - [Konsole](https://wiki.freifunk.net/Konsole)
 - [Hardware]({{< relref "/docs/Hardware" >}})
   - [Leihgeräte]({{< relref "/docs/Hardware/Leihgeräte" >}})
-  - [4MB/32MB Deprecation]({{< relref "/docs/Hardware/Deprecated" >}})
 - [Protokolle]({{< relref "/docs/Protokolle" >}})
 - [FAQ]({{< relref "/docs/FAQ" >}})
 - [Hilfe]({{< relref "/docs/hilfe" >}})
