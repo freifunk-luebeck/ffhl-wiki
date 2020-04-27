@@ -42,7 +42,3 @@ _Fazit:_ Wäre schön, müsste aber noch viel entwickelt werden, auch konzeptuel
 
 Außerdem gab es hier auch mal einige Überlegungen mit FF-KBU (insb. Jan) und FFHL: http://kbu.freifunk.net/index.php?title=FSM-Dynamisches-Bridging
 
-
-## „Falsche“ URL im SSL-Zertifikat für https://luebeck.freifunk.net/
-Die im SSL-Zertifikat eingetragene URL von der Seite `https://luebeck.freifunk.net/` ist nicht wie zu erwarten `luebeck.freifunk.net` sondern `krtek.metameute.de`. Dies führt dazu, dass Browser das Zertifikat nicht automatisch akzeptieren.<br>
-Es ist im Augenblick leider nicht möglich ein Zertifikat mit passender URL zu generieren. Eine gute Lösung wäre die DNS-Zone `*.luebeck.freifunk.net` an die Lübecker Freifunk Community zu delegieren. Anschließend könnte diese einen MX-Record für `luebeck.freifunk.net` einrichten, so dass sie Zertifikate für `*.luebeck.freifunk.net` von der CA ihrer Wahl signiert bekommt. Es gab, bezüglich der Delegation der `luebeck.freifunk.net`-Zone, in der Vergangenheit Gespräche, doch blieben diese bisher ohne Ergebnis. Als CA setzen wir derzeit CAcert ein, und dort ist eine technische Vorraussetzung, um ein Zertifikat signiert zu bekommen, eben dieser besagte MX-Record.
