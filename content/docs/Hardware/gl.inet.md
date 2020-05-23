@@ -3,7 +3,7 @@
 Gl.inet stellt ein paar sehr interessante Geraete her, die alle bereits mit OpenWrt kommen.
 
 
-## MT330N v.2
+## MT300N v.2
 Viel kleiner als man denkt. Super handlich.
 
 {{< tabs "uniqueid" >}}
