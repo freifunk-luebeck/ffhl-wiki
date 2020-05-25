@@ -22,7 +22,7 @@ Diese Seite soll für uns einen kleinen Überblick geben. Dinge, die wir benutze
 |------------|--------------------------------|--------------------------------------------------------------------------------------------------|
 | gitolite   | srv01                          | neoraider, nils, linus, paul, philipp                                                            |
 | fastd-keys | git@srv01                      | neoraider, nils, mkm, jamalaka, frank, magu, tjorven, linus, fluse, eichi, kaspar, sasette, paul |
-| webiste    | webiste@srv01                  | neoraider, nils, mkm, magu, linus, pascal, jix, paul                                             |
+| webiste    | webiste@srv01                  | neoraider, nils, mkm, magu, linus, pascal, jix, paul, philipp                                    |
 | grafana    | luebeck.freifunk.net/statistik | paul, linus, philipp                                                                             |
 
 
