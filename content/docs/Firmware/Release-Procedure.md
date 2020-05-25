@@ -5,11 +5,12 @@ Example for a 0.10 release based on Gluon v2018.2
 ### 0. Pre-Build
 
 * Add (or update) "Gluon release version <-> firmware/site release version" to [README.md](https://github.com/freifunk-luebeck/site-ffhl/blob/master/README.md) in the site repository master branch:
-  * ``0.10: v2018.2``
+* ``0.10: v2018.2``
 
 ### 1. Build
 
-<pre><code>$ VERSION=0.10-1
+```
+$ VERSION=0.10-1
 $ GLUON_VERSION=v2018.2
 
 $ git clone https://github.com/freifunk-gluon/gluon.git
@@ -18,11 +19,12 @@ $ git checkout $GLUON_VERSION
 $ git clone https://github.com/freifunk-luebeck/site-ffhl.git site
 
 $ make update
-$ for target in ar71xx-generic ar71xx-tiny ar71xx-nand brcm2708-bcm2708 brcm2708-bcm2709 mpc85xx-generic ramips-mt7621 sunxi-cortexa7 x86-generic x86-geode x86-64; do echo "Building: $target"; make GLUON_TARGET="$target" clean; make GLUON_RELEASE=$VERSION GLUON_BRANCH=stable GLUON_TARGET="$target" -j $(nproc); done
+$ for target in ar71xx-generic ar71xx-tiny ar71xx-nand brcm2708-bcm2708 brcm2708-bcm2709 ipq40xx mpc85xx-generic mpc85xx-p1020 ramips-mt7620 ramips-mt7621 ramips-mt76x8 ramips-rt305x sunxi-cortexa7 x86-generic x86-geode x86-64; do echo "Building: $target"; make GLUON_TARGET="$target" clean; make GLUON_RELEASE=$VERSION GLUON_BRANCH=stable GLUON_TARGET="$target" -j $(nproc); done
 
 $ make manifest GLUON_BRANCH=beta GLUON_RELEASE=$VERSION GLUON_PRIORITY=0
 $ make manifest GLUON_BRANCH=stable GLUON_RELEASE=$VERSION GLUON_PRIORITY=7
-</code></pre>
+
+```
 
 Visually check that output/images/* and the contents of output/images/sysupgrade/{stable,beta}.manifest looks fine.
 
@@ -32,22 +34,25 @@ Then copy output/images to ``srv01.luebeck.freifunk.net:/var/lib/ffhl-firmware/a
 
 First, manually download and flash a few images to a few devices to check that the overall build process went fine. If the devices boot fine, then:
 
-<pre><code>$ cd site
+```
+$ cd site
 $ git tag v0.10-1 master
 $ git push origin v0.10-1
 $ git push 
 $ cd ..
 $ ./contrib/sign.sh ~/your-autoupdate-key.priv ./output/images/sysupgrade/beta.manifest
-</code></pre>
+```
 
 The sign.sh call needs to be redone by each signer to reach the minimum amount of valid signatures needed for the autoupdater to start. Then:
 
 * Update the beta.manifest on the server with the new, added signatures below the "---" in the local copy of the beta.manifest.
 * On srv01.luebeck.freifunk.net call:
-<pre><code>$ cd /var/lib/ffhl-firmware/autoupdates/
+
+```
+$ cd /var/lib/ffhl-firmware/autoupdates/
 $ rm beta
 $ ln -s 0.10-1 beta
-</code></pre>
+```
 
 Then check for about 2 weeks that nodes with the beta branch selected in their autoupdater updated and run fine. Make sure to have at least one device of the more popular ones on a beta branch.
 
@@ -68,23 +73,26 @@ First update the "DATE" parameter in your local copy of the stable.manifest to a
 
 To sign the stable release do the following in your local copy:
 
-<pre><code>$ cd site
+```
+$ cd site
 $ git tag v0.10 master
 $ git push origin v0.10
 $ git push 
 $ cd ..
 $ ./contrib/sign.sh ~/your-autoupdate-key.priv ./output/images/sysupgrade/stable.manifest
-</code></pre>
+```
 
 The sign.sh call needs to be redone by each signer to reach the minimum amount of valid signatures needed for the autoupdater to start. Then:
 
 * Update the DATE in the stable.manifest on the server with the new start time.
 * Update the stable.manifest on the server with the new, added signatures below the "---" in the local copy of the stable.manifest.
 * On srv01.luebeck.freifunk.net call:
-<pre><code>$ cd /var/lib/ffhl-firmware/autoupdates/
+
+```
+$ cd /var/lib/ffhl-firmware/autoupdates/
 $ ln -s 0.10-1 0.10
 $ ln -s 0.10-1 stable
-</code></pre>
+```
 
 *Pre-stable-rollout checklist:*
 
@@ -105,9 +113,11 @@ Then prior the stable update start date, inform passengers: Inform about schedul
   * Monitor mailing lists for passenger feedback
 
 In case of any issues occurring, on srv01.luebeck.freifunk.net abort via:
-<pre><code>$ cd /var/lib/ffhl-firmware/autoupdates/
+
+```
+$ cd /var/lib/ffhl-firmware/autoupdates/
 $ rm 0.10
-</code></pre>
+```
 
 *Post-stable-rollout checklist:*
 
