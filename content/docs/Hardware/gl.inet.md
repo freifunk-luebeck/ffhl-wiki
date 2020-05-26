@@ -10,7 +10,8 @@ Viel kleiner als man denkt. Super handlich.
 {{< tab "Größenvergleich" >}}
 ![glinet mt300](/gl.inet_mt300n_radieschen.jpg)
 {{< /tab >}}
-{{< tab "Powerbank" >}}
+{{< tab "Powermango" >}}
 ![glinet mt300](/gl.inet_mt300n_powerbank_2.JPG)
+Mit einer 20Ah Powerbank und durchgehend ~3 Meshverbindungen, hält die Mango knapp 60 Stunden durch.
 {{< /tab >}}
 {{< /tabs >}}
