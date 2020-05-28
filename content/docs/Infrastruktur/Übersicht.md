@@ -15,7 +15,9 @@ Diese Seite soll für uns einen kleinen Überblick geben. Dinge, die wir benutze
 | kaisertor  | kaisertor.mesh.ffhl.chaotikum.org            | linus, yuna, paul, wonka, philipp                                | Ist noch nicht als Gateway aktiv                                      |
 | huextertor | huextertor.mesh.ffhl.chaotikum.org           | linus, zafer, paul, philipp                                      | Ist noch nicht als Gateway aktiv                                      |
 | builder    | builder.luebeck.freifunk.net (mesh only)     | paul, philipp, Linus                                             | Da soll bald ein builder drauf laufen der uns die images builden kann |
-
+| blueberry  | blueberry.luebeck.freifunk.net (mesh only)   | paul, phiilipp, linus                                            | im nbsp                                                               |
+| strawberry | strawberry.luebeck.freifunk.net (mesh only)  | paul, phiilipp, linus                                            | im nbsp                                                               |
+ 
 
 ## Dienste
 | Name       | wo laeuft das?                 | wer verwaltet das?                                                                               |
