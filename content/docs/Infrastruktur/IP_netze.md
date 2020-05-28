@@ -117,78 +117,19 @@ TODO: alte, nicht mehr verwendete Adressen entfernen (anpingen, kontaktieren, en
 | 10.130.0.5                  | reserviert                  | reserviert      |
 | 10.130.0.6                  | reserviert                  | reserviert      |
 | 10.130.0.7                  | reserviert                  | reserviert      |
-| 10.130.0.8                  | krtek                       | krtek.ffhl      |
+| 10.130.0.8                  | reserviert                  | reserviert      |
 | 10.130.0.9                  | srv01                       | srv01.ffhl      |
 | 10.130.0.10                 | srv02                       |                 |
-| 10.130.0.11                 | DerDerwish                  |                 |
-| 10.130.0.12                 | stmarien (vm auf krtek)     | stmarien.ffhl   |
-| 10.130.0.13                 | 7jM                         | serverbox       |
-| 10.130.0.15                 | staegidien (vm auf krtek)   | staegidien.ffhl |
-| 10.130.0.16                 | Avahi: bluedog.local        |                 |
-| 10.130.0.17                 | greendog                    | greendog.ffhl   |
-| 10.130.0.18                 | meuteblog                   | meuteblog.ffhl  |
-| 10.130.0.19                 | server                      |                 |
-| 10.130.0.20                 | GW Monitoring -Test- Stefan | prtg.ffhl       |
-| 10.130.0.21                 | NeoRaider (WG)              | confusion       |
-| 10.130.0.26                 | duckie & xidd               | Rapture         |
-| 10.130.0.27                 | 7jM                         | StrahlenKiste   |
-| 10.130.0.28                 | SIP Proxy                   | proxy.sip.ffhl  |
-| 10.130.0.29                 | namshub \[node\] {magu}     | namshub.ffhl    |
-| 10.130.0.30                 | enki \[node\] {magu}        | enki.ffhl       |
-| 10.130.0.31                 | innana \[node\] {magu}      | innana.ffhl     |
-| 10.130.0.32                 | opz \[x21\] {magu}          | opz.ffhl        |
-| 10.130.0.33                 | me {magu}                   | me.ffhl         |
 | 10.130.0.34                 | alfred                      |                 |
-| 10.130.0.35                 | Silber1                     |                 |
-| 10.130.0.36                 | nutch                       | nutch.ffhl      |
-| 10.130.0.37                 | bo                          |                 |
-| 10.130.0.39                 | nm-alix                     | nm-alix.ffhl    |
-| 10.130.0.42                 | NasBox                      | nasbox.ffhl     |
-| 10.130.0.43                 | nbsp routing VM             |                 |
-| 10.130.0.64                 | magu Server                 | cic.ffhl        |
-| 10.130.0.65                 | johnyb                      |                 |
 | 10.130.0.68                 | Fluse100Cam                 |                 |
 | 10.130.0.72                 | Fluse-IP-Stromleiste        |                 |
 | 10.130.0.98                 | tortilla                    |                 |
 | 10.130.0.99                 | ffhl-builder                |                 |
 | 10.130.0.100                | Paul's Server               |                 |
-| 10.130.0.116                | Dennis                      |                 |
-| 10.130.0.117                | mkms node                   |                 |
-| 10.130.0.118                | zenforyens node             |                 |
-| 10.130.0.120                | passe0815                   |                 |
-| 10.130.0.123                | zenforyens raspberry        |                 |
-| 10.130.0.132                | FreeWayLan (StatServer)     | freeway.ffhl    |
+| 10.130.0.101                | blueberry                   |                 |
+| 10.130.0.102                | strawberry                  |                 |
 | 10.130.0.240 - 10.130.0.255 | reserviert für Gateways     |                 |
 
-
-
-
-Heimnetze: 10.130.64.0/18
--------------------------
-
-Vergabe von 10.130.127.0 abwärts bis 10.130.64.0. Alles ab 10.130.128.0
-muss frei bleiben
-
-Es ist zu empfehlen, erstmal ein /27 am Anfang eines /24 zu reservieren,
-solange uns nicht die /24 ausgehen. Ist das /27 voll, kann man dann
-problemlos auf ein /26 oder /25 aufstocken, sodass keine übermäßige
-Fragmentierung der Adress-Bereiche entsteht.
-
-| Subnetz           | IP Bereich | Beschreibung           |
-|-------------------|------------|------------------------|
-| 10.130.114.0/26   | 1..63      | draic-Net              |
-| 10.130.115.0/27   | 1..30      | tux-Net                |
-| 10.130.116.0/27   | 1..30      | Dennis' Netz           |
-| 10.130.117.0/27   | 1..30      | mkms Netz              |
-| 10.130.118.0/27   | 1..30      | zenforyens Netz        |
-| 10.130.119.0/27   | 1..30      | MHintz                 |
-| 10.130.120.0/27   | 1..30      | Netz von Passe0815     |
-| 10.130.121.0/27   | 1..30      | bo                     |
-| 10.130.122.0/27   | 1..30      | Magu Network           |
-| 10.130.123.0/24   | 1..254     | Meutekeller            |
-| 10.130.124.0/27   | 1..30      | Netz von duckie & xidd |
-| 10.130.125.0/27   | 1..30      | Netz von 7jM           |
-| 10.130.127.224/27 | 224..255   | Management             |
 
 Management 10.130.127.224/27 / 2001:67c:2d50:1::a82:7f00/123
 ------------------------------------------------------------
