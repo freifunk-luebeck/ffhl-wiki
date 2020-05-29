@@ -119,15 +119,15 @@ TODO: alte, nicht mehr verwendete Adressen entfernen (anpingen, kontaktieren, en
 | 10.130.0.7                  | reserviert                  | reserviert      |
 | 10.130.0.8                  | reserviert                  | reserviert      |
 | 10.130.0.9                  | srv01                       | srv01.ffhl      |
-| 10.130.0.10                 | srv02                       |                 |
+| 10.130.0.10                 | srv02                       | srv02.ffhl      |
 | 10.130.0.34                 | alfred                      |                 |
 | 10.130.0.68                 | Fluse100Cam                 |                 |
 | 10.130.0.72                 | Fluse-IP-Stromleiste        |                 |
 | 10.130.0.98                 | tortilla                    |                 |
 | 10.130.0.99                 | ffhl-builder                |                 |
 | 10.130.0.100                | Paul's Server               |                 |
-| 10.130.0.101                | blueberry                   |                 |
-| 10.130.0.102                | strawberry                  |                 |
+| 10.130.0.101                | blueberry                   | blueberry.ffhl  |
+| 10.130.0.102                | strawberry                  | strawberry.ffhl |
 | 10.130.0.240 - 10.130.0.255 | reserviert für Gateways     |                 |
 
 
