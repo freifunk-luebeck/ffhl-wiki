@@ -1,0 +1,23 @@
+# srv02
+
+VM in chaotikums `case` server [s.h.](https://wiki.chaotikum.org/hackerspace:netz:hosts:case)
+
+## Migration srv01 -> srv02
+
+| Server    | IPs                     | Services             |
+|-----------|-------------------------|----------------------|
+| **srv01**     | 176.9.147.120/32        |                      |
+|           | 2a01:4f8:160:3067::3/64 | website              |
+|           |                         | firmware autoupdater |
+|           | 10.130.0.9/20           | packages opkg        |
+|           | 2001:67c:2d50::9/64     | fastd-keys           |
+|           |                         | map                  |
+|           |                         | ...?                 |
+| **srv02**     | 10.130.0.10/20          |                      |
+|           | 2a01:4f8:160:3067::4    | grafana              |
+|           |                         | map2                 |
+|           |                         | ...?                 |
+
+srv02 hat keine Public ipv4.
+Nach und nach Services umziehen, mit nginx auf srv01 als reverse-proxy überbrücken
+und abschließend die ipv4 srv02 geben?
