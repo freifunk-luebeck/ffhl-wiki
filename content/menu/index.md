@@ -6,6 +6,7 @@ headless: true
 - [Mitmachen]({{< relref "/docs/Mitmachen" >}})
 - [Infrastruktur]({{< relref "/docs/Infrastruktur" >}})
   - [Übersicht]({{< relref "/docs/Infrastruktur/Übersicht" >}})
+    - [srv02]({{< relref "/docs/Infrastruktur/srv02" >}})
   - [Gateways]({{< relref "/docs/Infrastruktur/Gateways" >}})
   - [IP-Netze]({{< relref "/docs/Infrastruktur/IP_netze" >}})
   - [Backbone]({{< relref "/docs/Infrastruktur/Backbone" >}})
