@@ -1,6 +1,6 @@
 # srv02
 
-VM in chaotikums `case` server [s.h.](https://wiki.chaotikum.org/hackerspace:netz:hosts:case)
+VM in chaotikums `gallifrey` server [s.h.](https://wiki.chaotikum.org/ag:infrastruktur:chaotikum:gallifrey)
 
 ## Migration srv01 -> srv02
 
@@ -24,3 +24,5 @@ VM in chaotikums `case` server [s.h.](https://wiki.chaotikum.org/hackerspace:net
 
 Nach und nach Services umziehen, mit nginx auf srv01 als reverse-proxy überbrücken
 und abschließend die ipv4 srv02 geben.
+
+srv02 ist auch schon im "neuen" (batadv15) Netz angebunden. ~paul
