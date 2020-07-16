@@ -31,3 +31,14 @@ weiterer Knoten geschieht mittels Ethernet Paketen des Typs 0x4305.
 
 Alle anderen Ports dürfen (oder sollten sogar!) gesperrt werden, um einen Zugriff aufs eigene Netzwerk völlig auszuschließen.
 Die Firmware der Knoten trennt die Netzwerke selber schon voneinander. Dazu werden mehrere virtuelle Netzwerkbrücken innerhalb des Knotens angelegt. Eine enthält alle Interfaces, auf denen Freifunk-Nutzdaten, (das Client WLAN mit der ESSID `luebeck.freifunk.net`, das VPN und die gelben LAN Ports das Knotens). Ein Routing zwischen dieser Brücke und dem WAN Port wird durch mehrere Mechanismen ausgeschlossen.
+
+# Key Management
+Die Keys werden in einem git-repo auf srv-01 oder srv-02 verwaltet. Beim hinzufügen der Keys muss folgendes berücksichtigt werden:
+
+- Das File-encoding __muss__ `us-ascii` oder `utf-8` sein.  (Mit `file -i <datei>` checken).
+- Der Dateinname darf keine Leerzeichen oder Sonderzeichen enthalten
+
+Ausserdem werden Keys, die über das Mesh bekannt gegeben werden (siehe [respondd](https://gluon.readthedocs.io/en/latest/features/monitoring.html#gluon-respondd) und [v2018.1 release notes](https://gluon.readthedocs.io/en/latest/releases/v2018.1.html#public-key-in-respondd-data-optional)) und noch nicht eingetragen sind, automatisch an keys@luebeck.freifunk.net geschickt.
+
+Der Plan ist eigentlich, dass die auch direkt automatisch hinzugefügt werden, aber das ist mir gerade noch zu heikel.
+
