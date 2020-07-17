@@ -17,7 +17,7 @@ Diese Seite soll für uns einen kleinen Überblick geben. Dinge, die wir benutze
 | builder    | builder.luebeck.freifunk.net (mesh only)     | paul, philipp, Linus                                             | Da soll bald ein builder drauf laufen der uns die images builden kann |
 | blueberry  | blueberry.luebeck.freifunk.net (mesh only)   | paul, phiilipp, linus                                            | im nbsp                                                               |
 | strawberry | strawberry.luebeck.freifunk.net (mesh only)  | paul, phiilipp, linus                                            | im nbsp                                                               |
- 
+
 
 ## Dienste
 | Name       | wo laeuft das?                 | wer verwaltet das?                                                                               |
@@ -30,6 +30,11 @@ Diese Seite soll für uns einen kleinen Überblick geben. Dinge, die wir benutze
 
 
 ## SSH-Keys
+{{< hint danger >}}
+__Achtung__: ed25519-keys funktionieren __nicht__ mit gluon/openwrt
+{{< /hint >}}
+
+Weiter Keyss sind auch im [Key-repo](https://git.luebeck.freifunk.net/FreifunkLuebeck/ssh-keys). (private)
 
 | Name    | Key                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
