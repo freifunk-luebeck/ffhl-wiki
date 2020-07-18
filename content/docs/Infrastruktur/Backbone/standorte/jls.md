@@ -29,3 +29,43 @@ Einzelne Ports können wie folgt vom Switch aus gepowercycled werden:
  * $ poe 1 0; sleep 5; poe 1 24
 
 Bilder: https://files.metameute.de/d/ef6d41e142/
+
+### Firmware-Update 
+
+Damit bei einem Firmware-Update die Konfiguration erhalten bleibt wurde folgendes Konfiguriert:
+
+#### AP-Knoten (N, O, S, W)
+
+`/etc/sysupgrade.conf`
+
+```
+/etc/sysupgrade.conf
+/lib/gluon/upgrade/997-ap_config
+```
+
+`/lib/gluon/upgrade/997-ap_config`
+
+```
+#!/bin/sh
+
+uci set wireless.mesh_radio0.disabled='1'
+uci set wireless.radio0.channel='5'
+```
+
+#### Mesh-Knoten (NW, NO, SO, SW)
+
+`/etc/sysupgrade.conf`
+
+```
+/etc/sysupgrade.conf
+/lib/gluon/upgrade/997-mesh_config
+```
+
+`/lib/gluon/upgrade/997-mesh_config`
+
+```
+#!/bin/sh
+uci set wireless.client_radio0.disabled='1'
+```
+
+mit `sysupgrade --list-backup` kann überprüft werden, ob die richtigen Dateien persistent sind.
