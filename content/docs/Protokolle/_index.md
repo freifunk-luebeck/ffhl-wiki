@@ -1,4 +1,8 @@
-# Protokolle unserer Orga-Treffen
+---
+title: "Protokolle unserer Orga-Treffen"
+bookCollapseSection: true
+weight: 90
+---
 
 - [2015-04-23]({{< relref "2015-04-23" >}})
 - [2015-07-16]({{< relref "2015-07-16" >}})

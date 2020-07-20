@@ -1,3 +1,8 @@
+---
+title: "Mitmachen"
+weight: 10
+---
+
 # Einstieg
 
 Alle Interessierten sollen diese Seiten bei den ersten Schritten in unserem Netzwerk helfen.

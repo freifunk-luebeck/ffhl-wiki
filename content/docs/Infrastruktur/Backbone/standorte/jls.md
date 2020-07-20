@@ -50,6 +50,7 @@ Damit bei einem Firmware-Update die Konfiguration erhalten bleibt wurde folgende
 
 uci set wireless.mesh_radio0.disabled='1'
 uci set wireless.radio0.channel='5'
+uci set wireless.radio0.txpower='8'
 ```
 
 #### Mesh-Knoten (NW, NO, SO, SW)

@@ -1,4 +1,9 @@
-# Firmware
+---
+title: Firmware
+bookCollapseSection: true
+weight: 30
+---
+
 
 Die Freifunk-Firmware Gluon basiert auf OpenWRT. OpenWRT ist eine Linux Distribution für hauptsächlich in Netzwerkumgebungen eingesetzte Embedded Systeme.
 

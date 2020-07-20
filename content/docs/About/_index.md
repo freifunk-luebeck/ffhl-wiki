@@ -1,3 +1,8 @@
+---
+title: "About"
+weight: 110
+---
+
 # About
 
 ## Aktuelle Situation

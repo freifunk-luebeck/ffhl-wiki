@@ -1,5 +1,7 @@
 ---
 title: Hardware
+bookCollapseSection: true
+weight: 50
 ---
 
 ## Router kaufen

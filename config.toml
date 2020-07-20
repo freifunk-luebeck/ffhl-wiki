@@ -1,5 +1,5 @@
 baseURL = "https://wiki2.luebeck.freifunk.net"
-languageCode = "en-us"
+languageCode = "de-de"
 title = "FFHL Wiki"
 theme = "hugo-book"
 
@@ -11,4 +11,4 @@ BookLogo = "/logo.svg"
 BookSection = "docs"
 BookComments = true
 BookPortableLinks = true
-BookMenuBundle = "/menu"
+#BookMenuBundle = "/menu"

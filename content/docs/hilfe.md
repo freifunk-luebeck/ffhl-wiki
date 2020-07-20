@@ -1,3 +1,8 @@
+---
+title: "Hilfe"
+weight: 200
+---
+
 # Hilfe zur Bearbeitung von Seiten hier im Wiki
 
 

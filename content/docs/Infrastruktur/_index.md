@@ -1,5 +1,7 @@
 ---
 title: "Infrastruktur"
+bookCollapseSection: true
+weight: 40
 ---
 
 # Infrastruktur
