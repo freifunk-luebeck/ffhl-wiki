@@ -2,6 +2,10 @@
 title: Nanostation Loco M2 Kit
 ---
 
+{{< hint danger >}}
+Nicht mehr Empfohlen, da deprecated wegen wenig RAM/ROM 
+{{< /hint >}}
+
 # Nanostation loco M2 Kit
 
 ![Kit outdoor](/nslm2kit.jpg)
