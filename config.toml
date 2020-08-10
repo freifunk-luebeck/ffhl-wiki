@@ -1,12 +1,12 @@
-baseURL = "https://wiki2.luebeck.freifunk.net"
+baseURL = "https://wiki.luebeck.freifunk.net"
 languageCode = "de-de"
 title = "FFHL Wiki"
 theme = "hugo-book"
 
 
 [params]
-BookRepo = "https://gitlab.com/freifunk-luebeck/ffhl-wiki"
-BookEditPath = "-/blob/master/content/"
+BookRepo = "https://git.luebeck.freifunk.net/FreifunkLuebeck/ffhl-wiki"
+BookEditPath = "_edit/master/content"
 BookLogo = "/logo.svg"
 BookSection = "docs"
 BookComments = true
