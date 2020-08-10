@@ -22,8 +22,8 @@
 |           | ffhl       | Paul                | TP-Link TL-WR1043N/ND v2                                              |
 |           | ffhl       | Till                | TP-Link TL-WR1043ND v1                                                |
 | Outdoor   |            |                     |                                                                       |
-|           | ffhl       | Paul                | Blechbüchse ( amd x86 outdoor router)                                 |
+|           | ffhl       | nbsp                | Blechbüchse ( amd x86 outdoor router)                                 |
 |           | ffhl (T_X) | nbsp                | 2x Ubiquiti Nanostation M XW                                          |
 |           | Paul       | Paul                | Ubiquiti Nanostation M XW                                             |
-|           | ffhl       | Paul                | MikroTik RBGroove52HPn (?)                                            |
+|           | ffhl       | nbsp                | MikroTik RBGroove52HPn (?)                                            |
 |           | Philipp    |                     | 2x [TP-Link CPE210](https://wiki.freifunk.net/TP-Link_CPE210)         |
