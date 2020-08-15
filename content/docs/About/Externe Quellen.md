@@ -24,4 +24,4 @@
 
 ## Media Feedback
 
- * Kurze Presentation von Linus auf [link](freie Radios|http://www.freie-radios.net/portal/content.php?id=28134) vom WCW09
+ * Kurze Presentation von Linus auf [freie Radios](http://www.freie-radios.net/portal/content.php?id=28134) vom WCW09
