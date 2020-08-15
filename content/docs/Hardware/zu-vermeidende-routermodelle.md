@@ -1,3 +1,7 @@
+---
+title: Zu vermeidende Routermodelle
+---
+
 # Zu vermeidende Geräte
 {{< hint danger >}}
 [__DO NOT BUY DEVICES WITH 4MB FLASH / 32MB RAM__](https://openwrt.org/supported_devices/432_warning)
