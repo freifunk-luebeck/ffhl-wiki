@@ -12,12 +12,13 @@ nötig.
 
 {{< hint warning >}}
 **Achtung!**
-Die rule ist nicht reboot persistent und muss nach einem neustart wieder hinzugefügt werden.
 
+Die rule ist nicht reboot persistent und muss nach einem neustart wieder hinzugefügt werden.
 Siehe [hier](https://github.com/freifunk-gluon/gluon/pull/2103)
 {{< /hint >}}
 
-`lib/gluon/ebtables/110-mcast-allow-respondd`:
+
+`/lib/gluon/ebtables/110-mcast-allow-respondd`:
 
 ```
 rule 'MULTICAST_OUT -p IPv6 --ip6-protocol udp --ip6-destination-port 1001 --ip6-dst ff02::2:1001 -j RETURN'

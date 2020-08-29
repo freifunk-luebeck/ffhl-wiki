@@ -1,3 +1,7 @@
+---
+title: srv02
+---
+
 # srv02
 
 VM in chaotikums `gallifrey` server [s.h. chaotikum wiki](https://wiki.chaotikum.org/ag:infrastruktur:chaotikum:gallifrey)
@@ -21,8 +25,16 @@ VM in chaotikums `gallifrey` server [s.h. chaotikum wiki](https://wiki.chaotikum
 |           |                                  | authoritive DNS (pdns) |                   | 53   | /var/lib/powerdns/zones                                             |
 
 - [x] ~~Nach und nach Services umziehen, mit nginx auf srv01 als reverse-proxy überbrücken und abschließend die ipv4 srv02 geben.~~ Done (Jul. 2020)
-- [ ] srv02 ans neue (batadv15) Netz anbinden.
+- [x] ~~srv02 ans neue (batadv15) Netz anbinden.~~ Done. (durch das migration-vpn zwischen holsten- und
+	kaisertor geschehen)
 
 
 ## srv01
-`srv01` macht im Moment nichts, außer eine fastd Verbindung ins Mesh für `srv02`. Interessant wäre es, srv01 durch ein gluon vm auszutauschen.
+~~`srv01` macht im Moment nichts, außer eine fastd Verbindung ins Mesh für `srv02`. Interessant wäre
+es, srv01 durch ein gluon vm auszutauschen.~~ Done.
+
+## gallifrey-gluon01
+[`gallifrey-gluon01`]({{< relref "gallifrey-gluon01" >}}) ist eine Gluon VM die den uplink ins ff-Netz für `srv02` macht.
+
+
+##
