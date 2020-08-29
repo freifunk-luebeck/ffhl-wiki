@@ -1,7 +1,7 @@
 # gallifrey-gluon01
 
 `gallifrey-gluon01` ist eine gluon VM auf dem dem Server `gallifrey`. Er macht den uplink ins
-Freifunk für srv02.
+Freifunk für [srv02]({{< relref "srv02" >}}).
 
 
 ## respondd ebtables rule
