@@ -22,4 +22,5 @@ Siehe [hier](https://github.com/freifunk-gluon/gluon/pull/2103)
 
 ```
 rule 'MULTICAST_OUT -p IPv6 --ip6-protocol udp --ip6-destination-port 1001 --ip6-dst ff02::2:1001 -j RETURN'
+rule 'MULTICAST_OUT -p IPv6 --ip6-protocol udp --ip6-destination-port 1001 --ip6-dst ff05::2:1001 -j RETURN'
 ```
