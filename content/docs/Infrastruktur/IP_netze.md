@@ -107,36 +107,35 @@ TODO: alte, nicht mehr verwendete Adressen entfernen (anpingen, kontaktieren, en
 {{< /hint >}}
 
 
-| IP-Adresse                  | Notizen                     | Hostname        |
-|-----------------------------|-----------------------------|-----------------|
-| 10.130.0.0 reserviert       | reserviert                  |                 |
-| 10.130.0.1                  | Magische next-node-Adresse  | node.ffhl       |
-| 10.130.0.2                  | reserviert                  | reserviert      |
-| 10.130.0.3                  | reserviert                  | reserviert      |
-| 10.130.0.4                  | reserviert                  | reserviert      |
-| 10.130.0.5                  | reserviert                  | reserviert      |
-| 10.130.0.6                  | reserviert                  | reserviert      |
-| 10.130.0.7                  | reserviert                  | reserviert      |
-| 10.130.0.8                  | reserviert                  | reserviert      |
-| 10.130.0.9                  | srv01                       | srv01.ffhl      |
-| 10.130.0.10                 | srv02                       | srv02.ffhl      |
-| 10.130.0.34                 | alfred                      |                 |
-| 10.130.0.68                 | Fluse100Cam                 |                 |
-| 10.130.0.72                 | Fluse-IP-Stromleiste        |                 |
-| 10.130.0.98                 | tortilla                    |                 |
-| 10.130.0.99                 | ffhl-builder                |                 |
-| 10.130.0.100                | Paul's Server               |                 |
-| 10.130.0.101                | blueberry                   | blueberry.ffhl  |
-| 10.130.0.102                | strawberry                  | strawberry.ffhl |
-| 10.130.0.240 - 10.130.0.255 | reserviert für Gateways     |                 |
+| IP-Adresse                  | Notizen                    | Hostname        |
+|-----------------------------|----------------------------|-----------------|
+| 10.130.0.0 reserviert       | reserviert                 |                 |
+| 10.130.0.1                  | Magische next-node-Adresse | node.ffhl       |
+| 10.130.0.2                  | reserviert                 | reserviert      |
+| 10.130.0.3                  | reserviert                 | reserviert      |
+| 10.130.0.4                  | reserviert                 | reserviert      |
+| 10.130.0.5                  | reserviert                 | reserviert      |
+| 10.130.0.6                  | reserviert                 | reserviert      |
+| 10.130.0.7                  | reserviert                 | reserviert      |
+| 10.130.0.8                  | reserviert                 | reserviert      |
+| 10.130.0.9                  | srv01                      | srv01.ffhl      |
+| 10.130.0.10                 | srv02                      | srv02.ffhl      |
+| 10.130.0.34                 | alfred                     |                 |
+| 10.130.0.68                 | Fluse100Cam                |                 |
+| 10.130.0.72                 | Fluse-IP-Stromleiste       |                 |
+| 10.130.0.98                 | tortilla                   |                 |
+| 10.130.0.99                 | ffhl-builder               |                 |
+| 10.130.0.100                | Paul's Server              |                 |
+| 10.130.0.101                | blueberry                  | blueberry.ffhl  |
+| 10.130.0.102                | strawberry                 | strawberry.ffhl |
+| 10.130.0.240 - 10.130.0.255 | reserviert für Gateways    |                 |
 
 
 Management 10.130.127.224/27 / 2001:67c:2d50:1::a82:7f00/123
 ------------------------------------------------------------
 
-| IP4               | IP6                           | Verwendung                                           |
-|-------------------|-------------------------------|------------------------------------------------------|
-| 10.130.127.224/32 | 2001:67c:2d50:1::a82:7fe0/128 | Anycast DNS                                          |
-| 10.130.127.225/32 | 2001:67c:2d50:1::a82:7fe1/128 | Tayga / NAT64 (wird mit update auf v13 abgeschaltet) |
+| IP4               | IP6                           | Verwendung  |
+|-------------------|-------------------------------|-------------|
+| 10.130.127.224/32 | 2001:67c:2d50:1::a82:7fe0/128 | Anycast DNS |
 
 [Category:Technische Details](Category:Technische_Details "wikilink")
