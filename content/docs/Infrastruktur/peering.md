@@ -3,6 +3,14 @@
 ## ffhl
 Noch nicht vorhanden aber bald.
 
+## Bird
+```
+show protocols
+birdc show route export he
+birdc show route export icvpn_weimar1
+birdc show symbols table
+```
+
 ## Transit über HE
 
 ```
