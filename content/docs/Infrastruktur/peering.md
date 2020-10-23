@@ -6,9 +6,10 @@ Noch nicht vorhanden aber bald.
 ## Bird
 ```
 show protocols
-birdc show route export he
-birdc show route export icvpn_weimar1
-birdc show symbols table
+show route export he
+show route export icvpn_weimar1
+show symbols table
+show route for 2001:67c:2d50::/48 table all
 ```
 
 ## Transit über HE
