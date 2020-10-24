@@ -3,6 +3,16 @@
 ## Übersicht
 
 ## Setup
+Die Gateways werden mit einem [ansible-playbook](https://git.luebeck.freifunk.net/FreifunkLuebeck/gateway-config) aufgesetzt.
+
+Connectivity testen:
+```
+ansible -m ping --inventory=hosts.yml all 
+```
+
+
+
+
 
 ### MAC Adress Schema
 MAC Adressen auf Gateways sollten nach einem festen Schema aufgebaut werden.
