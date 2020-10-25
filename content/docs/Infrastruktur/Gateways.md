@@ -10,7 +10,17 @@ Connectivity testen:
 ansible -m ping --inventory=hosts.yml all 
 ```
 
+ansible facts anzeigen:
+```
+ansible -m setup --inventory=hosts.yml all
+```
 
+### Bird
+Wenn die bird confg geändert wird kann sie auf alle gateways synchronisiert werden:
+```
+ansible-playbook playbook.yml -v --diff --tags bird
+```
+Damit werden die bird Instanzen auch neu gestartet.
 
 
 
