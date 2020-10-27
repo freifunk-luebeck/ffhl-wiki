@@ -7,12 +7,12 @@ Die Gateways werden mit einem [ansible-playbook](https://git.luebeck.freifunk.ne
 
 Connectivity testen:
 ```
-ansible -m ping --inventory=hosts.yml all 
+ansible -m ping all 
 ```
 
 ansible facts anzeigen:
 ```
-ansible -m setup --inventory=hosts.yml all
+ansible -m setup all
 ```
 
 ### Bird
