@@ -34,3 +34,25 @@ Key:
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIPD4cYtm3ar3FnN5xaCZyQ9fCS+y7yS7mRIgfrZ7srI gitmirror@ffhl-srv02
 ```
+
+
+
+# Gitea installation
+{{< hint warning >}}
+Das ist der Fall für version 1.13.0-rc1.
+Bug: https://github.com/go-gitea/gitea/issues/13057
+
+Wenn der Bug in firefox oder gitea gefixt ist, kann das hier auch wieder weg
+{{< /hint >}}
+Es gibt einen Bug mit fonts in firefox weswegen Buchstaben seeehr weit auseinander sind. Um das zu
+umgehen muss `index.css` gepatched werden:
+
+```bash
+mkdir -p /var/lib/gitea/custom/public/css
+cd /var/lib/gitea/custom/public/css
+
+# get normal css file
+wget git.ffhl.de/css/index.css
+# remove problematic font
+sed -i "s/Noto Color Emoji,//" index.css
+```
