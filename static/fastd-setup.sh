@@ -3,8 +3,7 @@
 
 DEST="./ffhl"
 SECRET=$(fastd --generate-key | awk '/Secret/ {print $2 }')
-# generate a random address and hope its not already used
-IPADDRESS="10.130.$(( 16 + $RANDOM % 15)).$(( 1 + $RANDOM % 254))"
+
 
 mkdir -p $DEST
 
@@ -34,9 +33,12 @@ EOF
 
 # ip setup script
 cat - > $DEST/fastd-up << EOF
-#!/bin/sh
+#!/bin/bash
 
-ip address add ${IPADDRESS}/16 dev \$INTERFACE
+# generate a random ip on each start
+IPADDRESS="10.130.\$(( 16 + \$RANDOM % 15)).\$(( 1 + \$RANDOM % 254))"
+
+ip address add \${IPADDRESS}/16 dev \$INTERFACE
 ip link set \$INTERFACE up
 EOF
 
@@ -46,6 +48,6 @@ echo "=========================================================="
 echo "!!!!! send this key to someone !!!!!"
 echo "run 'fastd --show-key -c $DEST/fastd.conf' to see it again"
 echo "you also want to move $DEST to /etc/fastd/"
-echo "   sudo mv $DEST to /etc/fastd/"
+echo "   sudo mv $DEST /etc/fastd/"
 echo
 fastd --show-key -c $DEST/fastd.conf
