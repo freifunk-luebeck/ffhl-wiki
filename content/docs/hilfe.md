@@ -4,11 +4,17 @@ weight: 200
 ---
 
 # Hilfe zur Bearbeitung von Seiten hier im Wiki
+Dieses Wiki ist mit [hugo](https://gohugo.io/) generiert. Die Quelldateien liegen im [Gitea](https://gitlab.com/freifunk-luebeck/ffhl-wiki)
 
+## Seite bearbeiten
+Zum bearbeiten einer Seite klicke auf der Seite ganz unten auf "Edit this page". Du wirst direkt zu
+der entsprechenden Datei im [Gitea]({{< relref "git#Gitea" >}}) weitergeleitet. Du musst angemeldet
+und Member des Freifunk-Teams sein, um die Seite direkt zu bearbeiten.
 
 ## Neue Seite
-Dieses Wiki ist mit [hugo](https://gohugo.io/) generiert und mit [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/) gehostet.
 Das Respository, in dem du Artikel auch bearbeiten kannst, findest du [hier](https://gitlab.com/freifunk-luebeck/ffhl-wiki).
+
+
 
 ## Seitenlayout
 Eine Seite im Wiki sollte immer mit einer Überschrift beginnen ('#').<br>
@@ -16,7 +22,10 @@ Alle weiteren Abschnitte dann mit h2 bzw h3 als Unterpunkten.<br>
 wenn man einen zusätzlichen Zeilenumbruch benötigt, kann man dies mit dem HTML-Tag br erreichen
 
 ## Interne Links
-andere Wiki-Seiten können einfach mit doppelten eckigen Klammern verlinkt werden (z.B. [[Home]])
+Andere Seiten im Wiki können über einen hugo Befehl automatisch verlinkt werden:
+
+[Gitea]({{&lt; relref &quot;git&quot; &gt;}}) wird zu `[Gitea]({{< relref "git" >}})` was dann
+zu [Gitea]({{< relref "git" >}}) wird.
 
 
 <br>
