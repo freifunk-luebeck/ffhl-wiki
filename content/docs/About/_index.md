@@ -1,5 +1,6 @@
 ---
 title: "About"
+bookCollapseSection: true
 weight: 110
 ---
 
