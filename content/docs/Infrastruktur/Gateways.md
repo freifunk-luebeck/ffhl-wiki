@@ -4,14 +4,14 @@
 
 Eine kurze Ubersicht, welche Ordner/Dateien was machen
 
-* ‘group vars/all.yml’: Hier sind Variable definiert, die für all Hosts gültig sind
+* `group vars/all.yml`: Hier sind Variable definiert, die für all Hosts gültig sind
 * `host_vars/<gateway>.yml`: spezifische Variablen für einen Host. Z.B. DHCP-Bereich. Außerdem sind hier Variablen,
 die für eine *Role* benutzt werden, defniniert.
-* ‘hosts.yml: eine Liste von Hosts. Hosts sind außerdem in einer Gruppe. Die Gruppe heißt i.d.R. ‘gateways`.
+* `hosts.yml`: eine Liste von Hosts. Hosts sind außerdem in einer Gruppe. Die Gruppe heißt i.d.R. ‘gateways`.
 Theoretisch können hier auch direkt Variablen für einen Host definiert werden. Das machen wir aber nicht. Wir
 definieren hier Variable für Gruppen.
-* ‘roles/*`: Hier liegen die Konfigurationen für die Roles. Die Role ‘base’ setzt für uns ein Gateway auf.
-* ‘playbook. yml*: die eigentliche Konfigurationsdatei. Hier steht, welche Hosts/Gruppen welche Rollen bekommen.
+* `roles/*`: Hier liegen die Konfigurationen für die Roles. Die Role ‘base’ setzt für uns ein Gateway auf.
+* `playbook. yml`: die eigentliche Konfigurationsdatei. Hier steht, welche Hosts/Gruppen welche Rollen bekommen.
 
 Ein paar nützliche Befehle:
 
