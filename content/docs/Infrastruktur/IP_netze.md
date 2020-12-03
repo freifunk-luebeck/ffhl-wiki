@@ -82,6 +82,19 @@ Gateways
 | huextertor       | 10.130.0.252 | de:ad:ca:fe:bb:aa | de:ad:ca:fe:bb:bb | 10.130.24.1  | 10.130.31.254 | geplant |
 
 
+DHCP-Ranges
+----------
+
+| Name       | CIDR           | DHCP Start  | DHCP Ende     | Status  |
+|------------|----------------|-------------|---------------|---------|
+| holstentor | 10.130.0.0/21  | 10.130.1.1  | 10.130.7.255  | geplant |
+| muehlentor | 10.130.8.0/21  | 10.130.8.1  | 10.130.15.255 | geplant |
+| kaisertor  | 10.130.16.0/21 | 10.130.16.1 | 10.130.23.255 | aktiv   |
+| huextertor | 10.130.24.0/21 | 10.130.24.1 | 10.130.31.255 | aktiv   |
+
+
+
+
 Reservierte Subnetze des Mesh-Netzes
 ------------------------------------
 
