@@ -143,6 +143,7 @@ TODO: alte, nicht mehr verwendete Adressen entfernen (anpingen, kontaktieren, en
 | 10.130.0.100                | Paul's Server              |                 |
 | 10.130.0.101                | blueberry                  | blueberry.ffhl  |
 | 10.130.0.102                | strawberry                 | strawberry.ffhl |
+| 10.130.0.103                | cranberry                  | cranberry.ffhl  |
 | 10.130.0.240 - 10.130.0.255 | reserviert für Gateways    |                 |
 
 
