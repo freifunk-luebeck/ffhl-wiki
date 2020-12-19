@@ -22,7 +22,7 @@ Postfach 12 64
 Lübeck
 Germany
 ```
-Im besten Fall sollte irgendwie markiert/erkennbar sein, das diese Dinge für Freifunk Lübeck sind.
+Im besten Fall sollte irgendwie markiert/erkennbar sein, dass diese Dinge für Freifunk Lübeck sind.
 
 
 
