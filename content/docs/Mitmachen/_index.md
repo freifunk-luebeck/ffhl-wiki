@@ -1,5 +1,6 @@
 ---
 title: "Mitmachen"
+bookCollapseSection: true
 weight: 10
 ---
 
@@ -19,7 +20,7 @@ Nähere Informationen befinden sich auf dieser [Seite]({{< relref "/docs/Hardwar
 
 ## Server
 
-Auch ganze Server können eingebunden werden. Das ist besonders dann nützlich, wenn Inhalte wie Webseiten und Ähnliches eingebracht werden sollen. Da hier schon etwas umfangreicheres Wissen nötig ist, bietet sich ein persönlicher Besuch an. Dabei helfen wir gern. 
+Auch ganze Server können eingebunden werden. Das ist besonders dann nützlich, wenn Inhalte wie Webseiten und Ähnliches eingebracht werden sollen. Da hier schon etwas umfangreicheres Wissen nötig ist, bietet sich ein persönlicher Besuch an. Dabei helfen wir gern.
 
 ## Firmware-Entwicklung
 
