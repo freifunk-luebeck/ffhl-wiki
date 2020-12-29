@@ -73,22 +73,22 @@ Wir verwenden `185.66.193.32/29`.
 Gateways
 --------
 
-| Name             | Gateway IP   | Gateway           | batman-adv MAC    | DHCP Start   | DHCP Ende     | Status  |
-|------------------|--------------|-------------------|-------------------|--------------|---------------|---------|
-| huextertor (alt) | 10.130.0.252 | 6e:e4:d2:8a:3b:63 | d2:d0:93:63:f7:da | 10.130.1.0   | 10.130.4.188  |         |
-| holstentor       | 10.130.0.253 | 52:54:00:0c:bb:eb | d6:89:49:08:f6:9d | 10.130.4.191 | 10.130.8.126  | aktiv   |
-| muehlentor       | 10.130.0.254 | 2e:7a:10:ba:d1:c4 | 26:9c:57:9b:5c:b2 | 10.130.8.127 | 10.130.12.62  | aktiv   |
-| kaisertor        | 10.130.0.255 | de:ad:ca:fe:aa:aa | de:ad:ca:fe:aa:bb | 10.130.16.1  | 10.130.23.254 | geplant |
-| huextertor       | 10.130.0.252 | de:ad:ca:fe:bb:aa | de:ad:ca:fe:bb:bb | 10.130.24.1  | 10.130.31.254 | geplant |
+| Name       | Gateway IP   | Gateway           | batman-adv MAC    | DHCP Start  | DHCP Ende     | Status |
+|------------|--------------|-------------------|-------------------|-------------|---------------|--------|
+| kaisertor  | 10.130.0.255 | de:ad:ca:fe:aa:aa | de:ad:ca:fe:aa:bb | 10.130.16.1 | 10.130.23.254 | aktiv  |
+| huextertor | 10.130.0.252 | de:ad:ca:fe:bb:aa | de:ad:ca:fe:bb:bb | 10.130.24.1 | 10.130.31.254 | aktiv  |
+| holstentor | 10.130.0.253 | 52:54:00:0c:bb:eb | d6:89:49:08:f6:9d | 10.130.1.1  | 10.130.7.255  | aktiv  |
+| muehlentor | 10.130.0.254 | 2e:7a:10:ba:d1:c4 | 26:9c:57:9b:5c:b2 | 10.130.8.1  | 10.130.15.255 | aktiv  |
 
 
 DHCP-Ranges
 ----------
 
+Im Grunde bedient jeder Gateway ein /21. Eine Ausnahme ist dabei der GW, der das 10.130.0.0/24 abdecken würde. Dieser Bereich ist für die statische Adressierung der Infrastruktur reserviert und wird nicht an Clients im Netz vergeben.
 | Name       | CIDR           | DHCP Start  | DHCP Ende     | Status  |
 |------------|----------------|-------------|---------------|---------|
-| holstentor | 10.130.0.0/21  | 10.130.1.1  | 10.130.7.255  | geplant |
-| muehlentor | 10.130.8.0/21  | 10.130.8.1  | 10.130.15.255 | geplant |
+| holstentor | 10.130.0.0/21  | 10.130.1.1  | 10.130.7.255  | aktiv   |
+| muehlentor | 10.130.8.0/21  | 10.130.8.1  | 10.130.15.255 | aktiv   |
 | kaisertor  | 10.130.16.0/21 | 10.130.16.1 | 10.130.23.255 | aktiv   |
 | huextertor | 10.130.24.0/21 | 10.130.24.1 | 10.130.31.255 | aktiv   |
 
@@ -135,7 +135,6 @@ TODO: alte, nicht mehr verwendete Adressen entfernen (anpingen, kontaktieren, en
 | 10.130.0.10                 | srv02                      | srv02.ffhl      |
 | 10.130.0.11                 | Switch im nbsp             |                 |
 | 10.130.0.34                 | alfred                     |                 |
-| 10.130.0.42                 | ctf-vm                     |                 |
 | 10.130.0.68                 | Fluse100Cam                |                 |
 | 10.130.0.72                 | Fluse-IP-Stromleiste       |                 |
 | 10.130.0.98                 | tortilla                   |                 |
