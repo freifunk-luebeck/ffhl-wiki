@@ -16,7 +16,7 @@ definieren hier Variable für Gruppen.
 Ein paar nützliche Befehle:
 
 * `ansible-playbook playbook.yml --list-hosts`
-* `ansible-playbook playbook.yml --list-tags` 
+* `ansible-playbook playbook.yml --list-tags`
 * `ansible-playbook playbook.yml --list-tasks`
 * `ansible-playbook playbook.yml --list-tasks --tag powerdns`: zeigt alle tasks, die mit dem Tag powerdns versehen sind
 
@@ -25,13 +25,25 @@ Die Gateways werden mit einem [ansible-playbook](https://git.luebeck.freifunk.ne
 
 Connectivity testen:
 ```
-ansible -m ping all 
+ansible -m ping all
 ```
 
 ansible facts anzeigen:
 ```
 ansible -m setup all
 ```
+
+
+### Ansible Checklist
+0. Host ins invantar adden `hosts.yml`
+1. Fastd-keys generieren
+2. `host-vars/<gateway>` von einem anderen kopieren und Variablen anpassen (secret-keys mit `ansible-vault encrypt-string` verschlüsseln)
+3. gw-vpn peer-file erstellen. `roles/base/files/mesh-gwvpn/gateways/<gateway>`
+4. SSH-Key für `root` auf gateway erstellen und ins [fastd-key](https://git.luebeck.freifunk.net/FreifunkLuebeck/fastd-keys)-repo als "deploy-key" hinzufügen
+5. ansible scripts **NUR FÜR DEN NEUEN GATEWAY** laufen lassen. (am besten ein kleines eigenes playbook)
+	- vorher einmal `ansible -m ping all` und
+	- `ansible-playbook my-playbook.yml --check` (da kann was failen weil configs und pakete einfach noch nicht da. grob schauen ob das der Fall ist)
+6. reboot! (and check if everything is okay)
 
 ### Bird
 Wenn die bird confg geändert wird kann sie auf alle gateways synchronisiert werden:
