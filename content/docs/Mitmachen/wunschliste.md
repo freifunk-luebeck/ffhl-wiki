@@ -16,7 +16,7 @@ Wenn du uns etwas schenken möchtest, haben wir hier eine kleine Wunschliste mit
 | Ubiquiti Unifi Mesh        | ~80€  | [geizhals](https://geizhals.de/ubiquiti-unifi-ac-mesh-uap-ac-m-a1547488.html)                  |
 | Ubiquiti Unifi 6 Lite      | ~130€ | [geizhals](https://geizhals.de/ubiquiti-unifi-6-lite-u6-lite-eu-a2428301.html)                 |
 | Ubiquiti AC Mesh Pro       | ~160€ | [geizhals](https://geizhals.de/ubiquiti-unifi-ac-mesh-pro-uap-ac-m-pro-a1547497.html)          |
-| MikroTik Wireless Dish     | ~170€ | [geizhals](https://geizhals.de/mikrotik-routerboard-lhg-60-ghz-rblhgg-60adkit-a2086384.html)   |
+| MikroTik Wireless Dish     | ~240€ | [geizhals](https://geizhals.de/mikrotik-routerboard-lhg-60-ghz-rblhgg-60adkit-a2086384.html)   |
 | Odroid H2+                 | ~190€ | [geizhals](https://geizhals.de/hardkernel-odroid-h2-a2343275.html) |
 
 
