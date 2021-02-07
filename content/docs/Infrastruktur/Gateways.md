@@ -19,6 +19,7 @@ Ein paar nützliche Befehle:
 * `ansible-playbook playbook.yml --list-tags`
 * `ansible-playbook playbook.yml --list-tasks`
 * `ansible-playbook playbook.yml --list-tasks --tag powerdns`: zeigt alle tasks, die mit dem Tag powerdns versehen sind
+* `ansible-playbook --step playbook.yml --list-tasks`: wie im debugger durch die tasks steppen
 
 ## Setup
 Die Gateways werden mit einem [ansible-playbook](https://git.luebeck.freifunk.net/FreifunkLuebeck/gateway-config) aufgesetzt.
