@@ -1,0 +1,7 @@
+<ul>
+	{{ range .Page.RegularPages }}
+	<li>
+		<a href="{{.Permalink}}">{{.Date.Format "02.01.2006"}}</a>
+	</li>
+	{{ end }}
+</ul>
