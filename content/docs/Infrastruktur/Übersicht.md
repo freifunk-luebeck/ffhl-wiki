@@ -22,8 +22,8 @@ Diese Seite soll für uns einen kleinen Überblick geben. Dinge, die wir benutze
 
 ## DNS
 
-- ns1.luebeck.freifunk.net: srv02 (5.9.249.24, 2a01:4f8:172:1ba6:1::3)
-- ns2.luebeck.freifunk.net: huextertor (185.163.119.235, 2a03:4000:3b:53c:a4d4:5dff:fee7:d0e0)
+- **ns1.luebeck.freifunk.net**: srv02 (5.9.249.24, 2a01:4f8:172:1ba6:1::3)
+- **ns2.luebeck.freifunk.net**: huextertor (185.163.119.235, 2a03:4000:3b:53c:a4d4:5dff:fee7:d0e0)
 
 
 
