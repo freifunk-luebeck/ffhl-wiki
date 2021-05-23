@@ -10,16 +10,15 @@ Diese Seite soll für uns einen kleinen Überblick geben. Dinge, die wir benutze
 
 ## Server
 
-| Name           | Hostname                                     | wer verwaltet den?                                               | Kommentar                                                             |
-|----------------|----------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------|
-| [srv02](srv02) | srv02.luebeck.freifunk.net (mesh only, ipv6) | linus, paul, wonka, philipp                                      |                                                                       |
-| hostentor      | holstentor.mesh.ffhl.chaotikum.org           | kaspar, neoraider, linus, l (?), paul, wonka, philipp            |                                                                       |
-| muehlentor     | holstentor.mesh.ffhl.chaotikum.org           | neoraider, linus, kaspar, l (?), paul, wonka, phillip            |                                                                       |
-| kaisertor      | kaisertor.mesh.ffhl.chaotikum.org            | linus, yuna, paul, wonka, philipp                                | Ist noch nicht als Gateway aktiv                                      |
-| huextertor     | huextertor.mesh.ffhl.chaotikum.org           | linus, zafer, paul, philipp                                      | Ist noch nicht als Gateway aktiv                                      |
-| builder        | builder.luebeck.freifunk.net (mesh only)     | paul, philipp, Linus                                             | Da soll bald ein builder drauf laufen der uns die images builden kann |
-| blueberry      | blueberry.luebeck.freifunk.net (mesh only)   | paul, phiilipp, linus                                            | im nbsp                                                               |
-| strawberry     | strawberry.luebeck.freifunk.net (mesh only)  | paul, phiilipp, linus                                            | im nbsp                                                               |
+| Name           | Hostname                                     | wer verwaltet den?                                    | Kommentar |
+|----------------|----------------------------------------------|-------------------------------------------------------|-----------|
+| [srv02](srv02) | srv02.luebeck.freifunk.net (mesh only, ipv6) | linus, paul, wonka, philipp                           |           |
+| hostentor      | holstentor.mesh.ffhl.chaotikum.org           | kaspar, neoraider, linus, l (?), paul, wonka, philipp |           |
+| muehlentor     | holstentor.mesh.ffhl.chaotikum.org           | neoraider, linus, kaspar, l (?), paul, wonka, phillip |           |
+| kaisertor      | kaisertor.mesh.ffhl.chaotikum.org            | linus, yuna, paul, wonka, philipp                     |           |
+| huextertor     | huextertor.mesh.ffhl.chaotikum.org           | linus, zafer, paul, philipp                           |           |
+| blueberry      | blueberry.luebeck.freifunk.net (mesh only)   | paul, phiilipp, linus                                 | im nbsp   |
+| strawberry     | strawberry.luebeck.freifunk.net (mesh only)  | paul, phiilipp, linus                                 | im nbsp   |
 
 ## DNS
 
