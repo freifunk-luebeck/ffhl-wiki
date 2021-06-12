@@ -9,7 +9,7 @@
 |           | ffhl       | nbsp                | 2x Ubiquiti Tough Switch PoE                                  |
 | Server    |            |                     |                                                               |
 |           | ffhl       | nbsp                | Raspberry-Pi4 Kit, Blueberry                                  |
-|           | ffhl       | nbsp                | Raspberry-Pi4 Kit, Strawberry                                 |
+|           | ffhl       | Leo                 | Raspberry-Pi4 Kit, Strawberry                                 |
 | Indoor    |            |                     |                                                               |
 |           | ffhl       | paul                | (microrouter) GL.iNet USB-150                                 |
 |           | ffhl       | nbsp (in benutzung) | Tinybook (GL.iNet GL-AR750)                                   |
@@ -17,18 +17,19 @@
 |           | ffhl       | Paul                | Tinybook (GL.iNet GL-AR750)                                   |
 |           | ffhl       | Philipp             | Mango (gl-Inet mt300N v2)                                     |
 |           | ffhl       | Paul                | Mango (gl-Inet mt300N v2)                                     |
-|           | ffhl       | Till (Walli)        | Mango (gl-Inet mt300N v2)                                     |
-|           | ffhl       | nbsp                | Mango (gl-Inet mt300N v2)                                     |
+|           | ffhl       | Paul                | Mango (gl-Inet mt300N v2)                                     |
 |           | ffhl       | Paul                | TP-Link TL-WR1043N/ND v2                                      |
-|           | ffhl       | Till (Walli)        | TP-Link TL-WR1043ND v1                                        |
-|           | ffhl       | nbsp                | TP-Link TL-WR1043ND v1                                        |
+|           | ffhl       | Paul                | TP-Link TL-WR1043ND v1                                        |
 |           | ffhl       | Philipp             | 2x Unifi AP, zweckgebundene Spende für Flüchtlingsheim oä.    |
 |           | ffhl       | nbsp                | 3x D-Link⁣ DIR-50 ⁣                                             |
+|           | ffhl       | nbsp                | tp-link wdr3600                                               |
+|           | paul/ffhl  | Paul                | tp-link wdr3600                                               |
+|           | paul/ffhl  | Paul                | tp-link wdr3600                                               |
 | Outdoor   |            |                     |                                                               |
 |           | ffhl       | nbsp                | Blechbüchse ( amd x86 outdoor router)                         |
 |           | ffhl (T_X) | nbsp                | 2x Ubiquiti Nanostation M XW                                  |
 |           | Paul       | Paul                | Ubiquiti Nanostation M XW                                     |
-|           | ffhl       | nbsp                | MikroTik RBGroove52HPn                                        |
+|           | ffhl       | nbsp                | MikroTik RBGroove52HPn (nicht openwrt kompatibel)             |
 |           | Philipp    |                     | 2x [TP-Link CPE210](https://wiki.freifunk.net/TP-Link_CPE210) |
 
 ## Ausprobieren
