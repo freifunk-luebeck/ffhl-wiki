@@ -8,7 +8,8 @@ title: Zu vermeidende Routermodelle
 
 Jedes Betriebssystem benötigt:
 - genügend Flash-Speicher für die Firmware
-- ausreichend RAM um stabil zu laufen
+- ausreichend RAM 
+um stabil zu laufen
 
 Geräte mit weniger als 4MB Flash und 32MB RAM werden daher nicht mehr unterstützt
 
