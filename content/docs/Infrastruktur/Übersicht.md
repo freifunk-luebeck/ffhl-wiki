@@ -10,15 +10,16 @@ Diese Seite soll für uns einen kleinen Überblick geben. Dinge, die wir benutze
 
 ## Server
 
-| Name           | Hostname                                     | wer verwaltet den?                                    | Kommentar |
-|----------------|----------------------------------------------|-------------------------------------------------------|-----------|
-| [srv02](srv02) | srv02.luebeck.freifunk.net (mesh only, ipv6) | linus, paul, wonka, philipp                           |           |
-| hostentor      | holstentor.mesh.ffhl.chaotikum.org           | kaspar, neoraider, linus, l (?), paul, wonka, philipp |           |
-| muehlentor     | holstentor.mesh.ffhl.chaotikum.org           | neoraider, linus, kaspar, l (?), paul, wonka, phillip |           |
-| kaisertor      | kaisertor.mesh.ffhl.chaotikum.org            | linus, yuna, paul, wonka, philipp                     |           |
-| huextertor     | huextertor.mesh.ffhl.chaotikum.org           | linus, zafer, paul, philipp                           |           |
-| blueberry      | blueberry.luebeck.freifunk.net (mesh only)   | paul, phiilipp, linus                                 | im nbsp   |
-| strawberry     | strawberry.luebeck.freifunk.net (mesh only)  | paul, phiilipp, linus                                 | im nbsp   |
+| Name              | Domain                                      | wer verwaltet den?                | Host / Kontakt        |
+| ----------------- | ------------------------------------------- | --------------------------------- | --------------------- |
+| gallifrey-gluon01 | gallifrey-gluon01.nodes.ffhl                | linus, paul, philipp              | Gallifrey (chaotikum) |
+| [srv02](srv02)    | srv02.luebeck.freifunk.net                  | linus, paul, wonka, philipp       | Gallifrey (chaotikum) |
+| hostentor         | holstentor.mesh.ffhl.chaotikum.org          | linus, paul, philipp              | johnyb (hetzner)      |
+| muehlentor        | holstentor.mesh.ffhl.chaotikum.org          | linus, paul, philipp              | ffhh                  |
+| kaisertor         | kaisertor.mesh.ffhl.chaotikum.org           | linus, yuna, paul, wonka, philipp | ffhh                  |
+| huextertor        | huextertor.mesh.ffhl.chaotikum.org          | linus, zafer, paul, philipp       | ffoh (netcup)         |
+| blueberry         | blueberry.luebeck.freifunk.net (ipv6 only)  | paul, phiilipp, linus             | nbsp                  |
+| strawberry        | strawberry.luebeck.freifunk.net (ipv6 only) | paul, phiilipp, linus             | leo                   |
 
 ## DNS
 
