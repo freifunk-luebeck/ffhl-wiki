@@ -25,6 +25,8 @@
 |           | ffhl       | nbsp                | tp-link wdr3600                                               |
 |           | paul/ffhl  | Paul                | tp-link wdr3600                                               |
 |           | paul/ffhl  | Paul                | tp-link wdr3600                                               |
+|           | ffhl       | nbsp                | 46x Ubiquiti UniFi                                            |
+|           | ffhl       | nbsp                | 4x plasma Coud (versch. Modelle)                              |
 | Outdoor   |            |                     |                                                               |
 |           | ffhl       | nbsp                | Blechbüchse ( amd x86 outdoor router)                         |
 |           | ffhl (T_X) | nbsp                | 2x Ubiquiti Nanostation M XW                                  |
