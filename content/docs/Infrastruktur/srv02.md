@@ -4,14 +4,12 @@ title: srv02
 
 # srv02
 
-VM in chaotikums `gallifrey` server [s.h. chaotikum wiki](https://wiki.chaotikum.org/ag:infrastruktur:chaotikum:gallifrey)
+VM auf [`magrathea`](https://wiki.chaotikum.org/infrastruktur:server:magrathea).
 
 ## Migration srv01 -> srv02
 
 | Server    | IPs                              | Services               | domain            | Port | Pfad                                                                |
 |-----------|----------------------------------|------------------------|-------------------|------|---------------------------------------------------------------------|
-| **srv01** | 10.130.0.9/20                    |                        |                   |      |                                                                     |
-|           |                                  | fastd für srv02        |                   |      | `srv01:freifunk <=> srv02:enp7s0`                                   |
 | **srv02** | 10.130.0.10/20, 176.9.147.120/32 |                        |                   |      |                                                                     |
 |           | 2a01:4f8:160:3067::4             | grafana                | monitor.          | 3000 |                                                                     |
 |           |                                  | prometheus             |                   | 9090 |                                                                     |
@@ -24,17 +22,5 @@ VM in chaotikums `gallifrey` server [s.h. chaotikum wiki](https://wiki.chaotikum
 |           |                                  | website                |                   |      | /var/www/luebeck.freifunk.net                                       |
 |           |                                  | authoritive DNS (pdns) |                   | 53   | /var/lib/powerdns/zones                                             |
 
-- [x] ~~Nach und nach Services umziehen, mit nginx auf srv01 als reverse-proxy überbrücken und abschließend die ipv4 srv02 geben.~~ Done (Jul. 2020)
-- [x] ~~srv02 ans neue (batadv15) Netz anbinden.~~ Done. (durch das migration-vpn zwischen holsten- und
-	kaisertor geschehen)
-
-
-## srv01
-~~`srv01` macht im Moment nichts, außer eine fastd Verbindung ins Mesh für `srv02`. Interessant wäre
-es, srv01 durch ein gluon vm auszutauschen.~~ Done.
-
 ## gallifrey-gluon01
-[`gallifrey-gluon01`]({{< relref "gallifrey-gluon01" >}}) ist eine Gluon VM die den uplink ins ff-Netz für `srv02` macht.
-
-
-##
+[`chaotikum-ffhl02`]({{< relref "chaotikum-ffhl02" >}}) ist eine VM die den uplink ins ff-Netz für `srv02` macht.
