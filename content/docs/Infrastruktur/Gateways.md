@@ -36,7 +36,7 @@ ansible -m setup all
 
 
 ### Ansible Checklist
-0. Host ins invantar adden `hosts.yml`
+0. Host ins Inventar adden `hosts.yml`
 1. Fastd-keys generieren
 2. `host-vars/<gateway>` von einem anderen kopieren und Variablen anpassen (secret-keys mit `ansible-vault encrypt-string` verschlüsseln)
 3. gw-vpn peer-file erstellen. `roles/base/files/mesh-gwvpn/gateways/<gateway>`
