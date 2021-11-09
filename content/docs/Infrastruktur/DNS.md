@@ -6,12 +6,12 @@ title: DNS
 Wir haben folgende domains:
 * ffhl.de.
 * luebeck.freifunk.net.
+* *.ffhl (nur freifunkintern)
 
+Auf [srv02]({{< relref "srv02" >}}) und den Gateways({{< relref "Gateways" >}}) läuft ein [PowerDNS](https://www.powerdns.com/index.html) authoritive Server.
+Zusätzlich läuft auf den Gateways nur für unsere Subnetze erreichbar ein PowerDNS-Recursor. Da beides eigenständige Programme sind, bindet ein `dnsdist` auf port 53 und entscheidet was wo aufgelöst wird (sh. `/etc/dnsdist/dnsdist.conf`).
 
-Auf [srv02]({{< relref "srv02" >}}) läuft ein [PowerDNS](https://www.powerdns.com/index.html)
-authoritive dns-server und auf den Gateways jeweils nur ein recursor.
-Bei PowerDNS sind der recursor und der authoritive server verschiedenen Programme.
-
-Wir haben uns dafür entschieden, weil powerdns einfacher zu konfigurieren und simpler zu warten ist.
+Die Zonefiles liegen im [ffhl-dns repo](https://git.luebeck.freifunk.net/FreifunkLuebeck/ffhl-dns) und werden mit dem `dns-update.timer` regelmäßig gepullt.
 
 Auf `srv02` liegen die zonefiles in `/var/lib/powerdns/zones`.
+Auf den Gateways liegen die zonefiles in `/var/local/ffhl-dns/`.

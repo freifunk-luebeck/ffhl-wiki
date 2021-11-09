@@ -4,23 +4,23 @@ title: srv02
 
 # srv02
 
-VM auf [`magrathea`](https://wiki.chaotikum.org/infrastruktur:server:magrathea).
+VM auf chaotikums `magrathea` [s.h. chaotikum wiki](https://wiki.chaotikum.org/infrastruktur:server:magrathea)
 
-## Migration srv01 -> srv02
-
-| Server    | IPs                              | Services               | domain            | Port | Pfad                                                                |
-|-----------|----------------------------------|------------------------|-------------------|------|---------------------------------------------------------------------|
-| **srv02** | 10.130.0.10/20, 176.9.147.120/32 |                        |                   |      |                                                                     |
-|           | 2a01:4f8:160:3067::4             | grafana                | monitor.          | 3000 |                                                                     |
-|           |                                  | prometheus             |                   | 9090 |                                                                     |
-|           |                                  | map                    | map.              |      | /var/www/hopglass                                                   |
-|           |                                  | hopglass server        |                   | 4000 | ~hopglass/hopglass-server                                           |
-|           |                                  | packages opkg          | firmware.         |      | /var/www/firmware                                                   |
-|           |                                  | firmware-selector      | firmware.*/wizard |      | /var/www/firmware-selector                                          |
-|           |                                  | gitea                  | git.              | 3001 | /home/git                                                           |
-|           |                                  | fastd-keys             |                   |      | [repo](https://git.luebeck.freifunk.net/FreifunkLuebeck/fastd-keys) |
-|           |                                  | website                |                   |      | /var/www/luebeck.freifunk.net                                       |
-|           |                                  | authoritive DNS (pdns) |                   | 53   | /var/lib/powerdns/zones                                             |
+| Server    | IPs                              | Services          | domain             | Port | Pfad                                                        |
+| --------- | -------------------------------- | ----------------- | ------------------ | ---- | ----------------------------------------------------------- |
+| **srv02** | 10.130.0.10/20, 176.9.147.120/32 |                   |                    |      |                                                             |
+|           | 2a01:4f8:160:3067::4             | grafana           | monitor.           | 3000 |                                                             |
+|           |                                  | prometheus        |                    | 9090 |                                                             |
+|           |                                  | map               | map.               |      | /var/www/hopglass                                           |
+|           |                                  | hopglass server   |                    | 4000 | ~hopglass/hopglass-server                                   |
+|           |                                  | packages opkg     | firmware.          |      | /var/www/firmware                                           |
+|           |                                  | firmware-selector | firmware.\*/wizard |      | /var/www/firmware-selector                                  |
+|           |                                  | gitea             | git.               | 3001 | /home/git                                                   |
+|           |                                  | fastd-keys        |                    |      | https://git.luebeck.freifunk.net/FreifunkLuebeck/fastd-keys |
+|           |                                  | website           |                    |      | /var/www/luebeck.freifunk.net                               |
+|           |                                  | pdns, dnsdist     |                    | 53   | /var/lib/powerdns/zones                                     |
+|           |                                  | requstd           |                    |      |                                                             |
 
 ## gallifrey-gluon01
-[`chaotikum-ffhl02`]({{< relref "chaotikum-ffhl02" >}}) ist eine VM die den uplink ins ff-Netz für `srv02` macht.
+
+[`gallifrey-gluon01`]({{< relref "gallifrey-gluon01" >}}) ist eine Gluon VM die den uplink ins ff-Netz für `srv02` macht.

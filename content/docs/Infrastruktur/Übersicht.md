@@ -6,8 +6,6 @@ weight: 10
 
 Diese Seite soll für uns einen kleinen Überblick geben. Dinge, die wir benutzen und Zugang zu haben sollten hier eingetragen werden. Falls etwas zeitweilig nicht funktioniert, sollte das auch hier stehen. Im besten Fall mit einem Hinweis, warum das so ist. Auch wer auf gerade wo Zugang hat bzw. wen man dafuer kontaktieren muss, sollte hier stehen.
 
-
-
 ## Server
 
 | Name              | Domain                                      | wer verwaltet den?                | Host / Kontakt        |
@@ -19,35 +17,23 @@ Diese Seite soll für uns einen kleinen Überblick geben. Dinge, die wir benutze
 | kaisertor         | kaisertor.mesh.ffhl.chaotikum.org           | linus, yuna, paul, wonka, philipp | ffhh                  |
 | huextertor        | huextertor.mesh.ffhl.chaotikum.org          | linus, zafer, paul, philipp       | ffoh (netcup)         |
 | blueberry         | blueberry.luebeck.freifunk.net (ipv6 only)  | paul, phiilipp, linus             | nbsp                  |
-| strawberry        | strawberry.luebeck.freifunk.net (ipv6 only) | paul, phiilipp, linus             | leo                   |
+| strawberry        | strawberry.luebeck.freifunk.net (ipv6 only) | paul, phiilipp, linus             | philipp               |
 
 ## DNS
 
 - **ns1.luebeck.freifunk.net**: srv02 (5.9.249.24, 2a01:4f8:172:1ba6:1::3)
 - **ns2.luebeck.freifunk.net**: huextertor (185.163.119.235, 2a03:4000:3b:53c:a4d4:5dff:fee7:d0e0)
 
-
-
-
-## Dienste
-| Name       | wo laeuft das?                 | wer verwaltet das?                                                                               |
-|------------|--------------------------------|--------------------------------------------------------------------------------------------------|
-| gitolite   | srv01                          | neoraider, nils, linus, paul, philipp                                                            |
-| fastd-keys | git@srv01                      | neoraider, nils, mkm, jamalaka, frank, magu, tjorven, linus, fluse, eichi, kaspar, sasette, paul |
-| webiste    | webiste@srv01                  | neoraider, nils, mkm, magu, linus, pascal, jix, paul, philipp                                    |
-| grafana    | luebeck.freifunk.net/statistik | paul, linus, philipp                                                                             |
-
-
-
 ## SSH-Keys
+
 {{< hint danger >}}
-__Achtung__: ed25519-keys funktionieren __nicht__ mit gluon/openwrt
+**Achtung**: ed25519-keys funktionieren **nicht** mit gluon/openwrt
 {{< /hint >}}
 
 Weiter Keyss sind auch im [Key-repo](https://git.luebeck.freifunk.net/FreifunkLuebeck/ssh-keys). (private)
 
 | Name    | Key                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Paul    | `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMNci5346re/3QqOhjC9PW1Zo0MA47hMm2r1GcEvdgff paul@taco`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |         | `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFEE6VP2jNtotQHEdc+qyw9jHA8Z2Bj2BAwKyhH/SjRG paul@tapas`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |         | `ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCmb+l54Y5QMUGJCGu0zrigfFgMU9I5Feu55b2+wPYUR8Uuz11GCbmkmive7Avj8/UWfXTOnBuEBp3o6t9VcbIHa1Dt+cU3z+BxoFyge40fQVJ2GOAmprMQIuxBsw5+1REBBJrsmYXfabWisCh8Q213DyUeAjMwYIBtH+3M3NNA0S0oNB/x4S+N7bSxHrhb06PUpG51aOWvAWjhOc+us4NRwF63dGeIKGBED3On41WoDqH875sv4myP4T8s8XXpOiAM1xubLuNLzKa/uqy1IcSLakXQUOaRnKcgkSPS9VuZzOxrpUSUn34ryXTq9rEUNGMpteOpfhT+xQv0zh+ECng6NLEmDuCRJojh26cJLAqfj5IAhpDx4FYLIQIzZIBubOsfavyew4lbKwpBE1HfPXsimxrHWmYX+zSLxUFQki9ixM9+RAYe61CeDZS/iAcP5t8ojsVUtATRd2QpBBOjv55JFFln9jk9il7zjVn9NJSU5sphc6v19Kj8tYKGzJDxM2n5FWwkP19UdOvTaIMt8c904KCkKUXqCyox+2TJGonNyiZh+5wxnKACRSBSJMxD2LZywoX1BeZPz/H6+cLP30keZ8lmvAbHCArNcc896EECFM7kRL3r4kwxVn+X21NzNAnvHTeuKB6m8RCm9rOLwUb3EXs1MlMKBCv6q/JcimSGCQ== paul@taco` |
