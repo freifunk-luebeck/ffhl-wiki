@@ -4,5 +4,5 @@ IBM Server im Burgtor
 
 ## Network
 
-![network](srv03.png)
+![network](/srv03.png)
 
