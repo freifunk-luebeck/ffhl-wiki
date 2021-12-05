@@ -20,7 +20,3 @@ VM auf chaotikums `magrathea` [s.h. chaotikum wiki](https://wiki.chaotikum.org/i
 |           |                                  | website           |                    |      | /var/www/luebeck.freifunk.net                               |
 |           |                                  | pdns, dnsdist     |                    | 53   | /var/lib/powerdns/zones                                     |
 |           |                                  | requstd           |                    |      |                                                             |
-
-## gallifrey-gluon01
-
-[`gallifrey-gluon01`]({{< relref "gallifrey-gluon01" >}}) ist eine Gluon VM die den uplink ins ff-Netz für `srv02` macht.
