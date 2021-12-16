@@ -22,7 +22,7 @@ Ein paar nützliche Befehle:
 * `ansible-playbook --step playbook.yml`: wie im debugger durch die tasks steppen
 
 ## Setup
-Die Gateways werden mit einem [ansible-playbook](https://git.luebeck.freifunk.net/FreifunkLuebeck/gateway-config) aufgesetzt.
+Die Gateways werden mit einem [ansible-playbook](https://git.chaotikum.org/freifunk-luebeck/gateway-config) aufgesetzt.
 
 Connectivity testen:
 ```
@@ -40,7 +40,7 @@ ansible -m setup all
 1. Fastd-keys generieren
 2. `host-vars/<gateway>` von einem anderen kopieren und Variablen anpassen (secret-keys mit `ansible-vault encrypt-string` verschlüsseln)
 3. gw-vpn peer-file erstellen. `roles/base/files/mesh-gwvpn/gateways/<gateway>`
-4. SSH-Key für `root` auf gateway erstellen und ins [fastd-key](https://git.luebeck.freifunk.net/FreifunkLuebeck/fastd-keys)-repo als "deploy-key" hinzufügen
+4. SSH-Key für `root` auf gateway erstellen und ins [fastd-key](https://git.chaotikum.org/freifunk-luebeck/fastd-keys)-repo als "deploy-key" hinzufügen
 5. ansible scripts **NUR FÜR DEN NEUEN GATEWAY** laufen lassen. `ansible-playbook [...] -l <gw>`
 	- vorher einmal `ansible -m ping all` und
 	- `ansible-playbook my-playbook.yml --check` (da kann was failen weil configs und pakete einfach noch nicht da. grob schauen ob das der Fall ist)

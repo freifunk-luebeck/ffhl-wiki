@@ -5,7 +5,7 @@ theme = "hugo-book"
 
 
 [params]
-BookRepo = "https://git.luebeck.freifunk.net/FreifunkLuebeck/ffhl-wiki"
+BookRepo = "https://git.chaotikum.org/freifunk-luebeck/ffhl-wiki"
 BookEditPath = "_edit/master/content"
 BookLogo = "/logo.svg"
 BookSection = "docs"

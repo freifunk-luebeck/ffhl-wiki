@@ -33,7 +33,7 @@ Alle anderen Ports dürfen (oder sollten sogar!) gesperrt werden, um einen Zugri
 Die Firmware der Knoten trennt die Netzwerke selber schon voneinander. Dazu werden mehrere virtuelle Netzwerkbrücken innerhalb des Knotens angelegt. Eine enthält alle Interfaces, auf denen Freifunk-Nutzdaten, (das Client WLAN mit der ESSID `luebeck.freifunk.net`, das VPN und die gelben LAN Ports das Knotens). Ein Routing zwischen dieser Brücke und dem WAN Port wird durch mehrere Mechanismen ausgeschlossen.
 
 # Key Management
-Die Keys werden in einem [git-repo im Gitea](https://git.luebeck.freifunk.net/FreifunkLuebeck/fastd-keys) verwaltet. Aus Datenschutzgründen ist das Repo nur für Mitglieder des FreifunkLuebeck-Teams sichtbar.
+Die Keys werden in einem [git-repo im Gitea](https://git.chaotikum.org/freifunk-luebeck/fastd-keys) verwaltet. Aus Datenschutzgründen ist das Repo nur für Mitglieder des FreifunkLuebeck-Teams sichtbar.
 
 Beim hinzufügen eines Keys muss folgendes berücksichtigt werden:
 

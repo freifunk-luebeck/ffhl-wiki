@@ -15,8 +15,6 @@ VM auf chaotikums `magrathea` [s.h. chaotikum wiki](https://wiki.chaotikum.org/i
 |           |                                  | hopglass server   |                    | 4000 | ~hopglass/hopglass-server                                   |
 |           |                                  | packages opkg     | firmware.          |      | /var/www/firmware                                           |
 |           |                                  | firmware-selector | firmware.\*/wizard |      | /var/www/firmware-selector                                  |
-|           |                                  | gitea             | git.               | 3001 | /home/git                                                   |
-|           |                                  | fastd-keys        |                    |      | https://git.luebeck.freifunk.net/FreifunkLuebeck/fastd-keys |
 |           |                                  | website           |                    |      | /var/www/luebeck.freifunk.net                               |
 |           |                                  | pdns, dnsdist     |                    | 53   | /var/lib/powerdns/zones                                     |
 |           |                                  | requstd           |                    |      |                                                             |
