@@ -6,8 +6,6 @@ Autonomes System
 
 AS201173 (früher AS65052)
 
-IPv6
-----
 
 Für IPv6 verwenden wir das Prefix `2001:67c:2d50::/48` und das ULA
 `fdef:ffc0:3dd7::/48`.
@@ -15,28 +13,17 @@ Für IPv6 verwenden wir das Prefix `2001:67c:2d50::/48` und das ULA
 Das Prefix `2001:bf7:110::/44` ist uns noch zugeteilt, wird zur Zeit
 jedoch nicht verwendet.
 
-### Subnetze
+
+Subnetze
+--------
+
+### IPv6
 
 Bitte nur das erste `/52` verwenden!
 
-| Infix (aaaa:bbbb:cccc:0XXY::/60) | Beschreibung        |
-|----------------------------------|---------------------|
-| :0000:                           | mesh                |
-| :0001:                           | Services            |
-| :001Y:                           | ClientVPN (inaktiv) |
-| :002Y:                           | tux-Net             |
-| :003Y:                           | draic-Net           |
-| :004Y:                           | Babel-Test          |
-| :005Y:                           | (frei)              |
-
-Das 'Y' ist dabei variabel.
-
-### Services Prefix 2001:67c:2d50:0001::/64
-
-| Prefix                        | Verwendung            |
-|-------------------------------|-----------------------|
-| 2001:67c:2d50:1::/96          | 464XLAT (Testbetrieb) |
-| 2001:67c:2d50:1::a82:7f00/123 | Management Prefix     |
+| Infix (aaaa:bbbb:cccc:0XXY::/60) | Beschreibung |
+|----------------------------------|--------------|
+| `2001:67c:2d50::/64`             | mesh         |
 
 ### Ideen zur Unterteilung des Präfixes
 
@@ -47,50 +34,43 @@ Das 'Y' ist dabei variabel.
 -   Wir könnten weitere /48 für außerhalb des Meshes geroutete Netze
     verwenden (erstmal wohl unwahrscheinlich).
 
-IPv4
-----
+### IPv4
+
 
 Für den Lübecker Raum ist das folgende Subnetz reserviert:
 
 `10.130.0.0/16`
 
-Dabei wird für das eigentliche Mesh bisher `10.130.0.0/20` genutzt.
-Dies wird sich mit dem Umstieg von Batadv14 auf Batadv15 aendern. (siehe [Gateways]({{< relref "#gateways" >}}) )
 
 ### IPv4 Exit über FF Rheinland
+Im Moment nicht aktiv
 
-Wir verwenden `185.66.193.32/29`.
-
-
-| IP            | Host       | Status |
-|---------------|------------|--------|
-| 185.66.193.32 | burgtor    | -      |
-| 185.66.193.33 | holstentor | aktiv  |
-| 185.66.193.34 | muehlentor | -      |
-| 185.66.193.35 | huextertor | -      |
 
 
 Gateways
 --------
 
-| Name       | Gateway IP   | Gateway           | batman-adv MAC    | DHCP Start  | DHCP Ende     | Status |
-|------------|--------------|-------------------|-------------------|-------------|---------------|--------|
-| kaisertor  | 10.130.0.255 | de:ad:ca:fe:aa:aa | de:ad:ca:fe:aa:bb | 10.130.16.1 | 10.130.23.254 | aktiv  |
-| huextertor | 10.130.0.252 | de:ad:ca:fe:bb:aa | de:ad:ca:fe:bb:bb | 10.130.24.1 | 10.130.31.254 | aktiv  |
-| holstentor | 10.130.0.253 | 52:54:00:0c:bb:eb | d6:89:49:08:f6:9d | 10.130.1.1  | 10.130.7.255  | aktiv  |
-| muehlentor | 10.130.0.254 | 2e:7a:10:ba:d1:c4 | 26:9c:57:9b:5c:b2 | 10.130.8.1  | 10.130.15.255 | aktiv  |
+| Name       | IPv4           | IPv6                  | Base MAC Address   | Status |
+|------------|----------------|-----------------------|--------------------|--------|
+| kaisertor  | `10.130.0.255` | `2001:67c:2d50::aaaa` | `de:ad:ca:fe:aa:*` | aktiv  |
+| huextertor | `10.130.0.252` | `2001:67c:2d50::bbaa` | `de:ad:ca:fe:bb:*` | aktiv  |
+| holstentor | `10.130.0.253` | `2001:67c:2d50::ccaa` | `52:54:00:0c:bb:*` | aktiv  |
+| muehlentor | `10.130.0.254` | `2001:67c:2d50::ddaa` | `2e:7a:10:ba:d1:*` | aktiv  |
+| gw05       | `10.130.0.251` | `2001:67c:2d50::5:1`  | `de:ad:ca:fe:05:*` | aktiv  |
 
 
 DHCP-Ranges
 ----------
 
 Im Grunde bedient jeder Gateway ein /21. Eine Ausnahme ist dabei der GW, der das 10.130.0.0/24 abdecken würde. Dieser Bereich ist für die statische Adressierung der Infrastruktur reserviert und wird nicht an Clients im Netz vergeben.
-| CIDR           | DHCP Start  | DHCP Ende     | Gateway    | Status |
-|----------------|-------------|---------------|------------|--------|
-| 10.130.0.0/21  | 10.130.1.1  | 10.130.7.255  | holstentor | aktiv  |
-| 10.130.8.0/21  | 10.130.8.1  | 10.130.15.255 | muehlentor | aktiv  |
-| 10.130.16.0/21 | 10.130.16.1 | 10.130.23.255 | kaisertor  | aktiv  |
-| 10.130.24.0/21 | 10.130.24.1 | 10.130.31.255 | huextertor | aktiv  |
+| CIDR             | DHCP Start    | DHCP Ende       | Gateway    | Status |
+|------------------|---------------|-----------------|------------|--------|
+| `10.130.0.0/21`  | `10.130.1.1`  | `10.130.7.255`  | holstentor | aktiv  |
+| `10.130.8.0/21`  | `10.130.8.1`  | `10.130.15.255` | muehlentor | aktiv  |
+| `10.130.16.0/21` | `10.130.16.1` | `10.130.23.255` | kaisertor  | aktiv  |
+| `10.130.24.0/21` | `10.130.24.1` | `10.130.31.255` | huextertor | aktiv  |
+| `10.130.32.0/21` | `10.130.32.1` | `10.130.39.255` | gw05       | aktiv  |
+| `10.130.40.0/21` | `10.130.40.1` | `10.130.47.255` | none       | aktiv  |
 
 
 
@@ -110,7 +90,7 @@ Einzelne Adressen kann jeder selbst für sich reservieren. Es ist zu
 empfehlen, einmal per Ping zu testen, ob eine Adresse wirklich frei ist.
 
 Mögliche Adressen:
- * 10.130.0.1 - 10.130.0.239, Netmask: 255.255.240.0 (/20)
+ * 10.130.0.1 - 10.130.0.239, Netmask: 255.255.255.0 (/24)
 
 
 
@@ -131,15 +111,10 @@ TODO: alte, nicht mehr verwendete Adressen entfernen (anpingen, kontaktieren, en
 | 10.130.0.6                  | reserviert                 | reserviert      |
 | 10.130.0.7                  | reserviert                 | reserviert      |
 | 10.130.0.8                  | reserviert                 | reserviert      |
-| 10.130.0.9                  | srv01                      | srv01.ffhl      |
 | 10.130.0.10                 | srv02                      | srv02.ffhl      |
 | 10.130.0.11                 | Switch im nbsp             |                 |
-| 10.130.0.34                 | alfred                     |                 |
 | 10.130.0.68                 | Fluse100Cam                |                 |
 | 10.130.0.72                 | Fluse-IP-Stromleiste       |                 |
-| 10.130.0.98                 | tortilla                   |                 |
-| 10.130.0.99                 | ffhl-builder               |                 |
-| 10.130.0.100                | Paul's Server              |                 |
 | 10.130.0.101                | blueberry                  | blueberry.ffhl  |
 | 10.130.0.102                | strawberry                 | strawberry.ffhl |
 | 10.130.0.103                | cranberry                  | cranberry.ffhl  |
