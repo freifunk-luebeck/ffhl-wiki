@@ -85,12 +85,12 @@ DHCP-Ranges
 ----------
 
 Im Grunde bedient jeder Gateway ein /21. Eine Ausnahme ist dabei der GW, der das 10.130.0.0/24 abdecken würde. Dieser Bereich ist für die statische Adressierung der Infrastruktur reserviert und wird nicht an Clients im Netz vergeben.
-| Name       | CIDR           | DHCP Start  | DHCP Ende     | Status  |
-|------------|----------------|-------------|---------------|---------|
-| holstentor | 10.130.0.0/21  | 10.130.1.1  | 10.130.7.255  | aktiv   |
-| muehlentor | 10.130.8.0/21  | 10.130.8.1  | 10.130.15.255 | aktiv   |
-| kaisertor  | 10.130.16.0/21 | 10.130.16.1 | 10.130.23.255 | aktiv   |
-| huextertor | 10.130.24.0/21 | 10.130.24.1 | 10.130.31.255 | aktiv   |
+| CIDR           | DHCP Start  | DHCP Ende     | Gateway    | Status |
+|----------------|-------------|---------------|------------|--------|
+| 10.130.0.0/21  | 10.130.1.1  | 10.130.7.255  | holstentor | aktiv  |
+| 10.130.8.0/21  | 10.130.8.1  | 10.130.15.255 | muehlentor | aktiv  |
+| 10.130.16.0/21 | 10.130.16.1 | 10.130.23.255 | kaisertor  | aktiv  |
+| 10.130.24.0/21 | 10.130.24.1 | 10.130.31.255 | huextertor | aktiv  |
 
 
 
