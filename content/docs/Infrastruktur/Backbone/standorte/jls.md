@@ -1,3 +1,8 @@
+# Julius-Leber-Schule
+
+[![panorama](/jls_panorama.png)](/jls_panorama.png)
+
+
 ## Himmelsrichtungen
 
 Die Kardinalpunkte (n, s, o, w) meshen derzeit nicht und bieten nur Clients den Zugriff an (Kanal 11, txpower 8 dBm).
@@ -30,7 +35,7 @@ Einzelne Ports können wie folgt vom Switch aus gepowercycled werden:
 
 Bilder: https://files.metameute.de/d/ef6d41e142/
 
-### Firmware-Update 
+### Firmware-Update
 
 Damit bei einem Firmware-Update die Konfiguration erhalten bleibt wurde folgendes Konfiguriert:
 
