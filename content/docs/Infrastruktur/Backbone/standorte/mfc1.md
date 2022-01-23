@@ -7,7 +7,7 @@ MFC1
 
 Bilder
 ------
-Nord-Ost
+Ost
 [![pano_mfc1_no_small](/standorte/mfc1/pano_mfc1_o_small.jpeg)](/standorte/mfc1/pano_mfc1_o_small.jpeg)
 [![pano_no_200mm_small](/standorte/mfc1/pano_o_200mm_small.jpg)](/standorte/mfc1/pano_o_200mm_small.jpg)
 Nord-West
