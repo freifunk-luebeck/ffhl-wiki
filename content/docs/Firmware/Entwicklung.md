@@ -5,7 +5,7 @@
 
 Site-Config und gluon submodule clonen:  
 ```
-git clone --recurse-submodules git@git.luebeck.freifunk.net:FreifunkLuebeck/site-ffhl.git
+git clone --recurse-submodules git@git.chaotikum.org/freifunk-luebeck/site-ffhl.git
 ```
 
 ### Signing-Key generieren
