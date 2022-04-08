@@ -1,38 +1,41 @@
 # Inventar / Leihgeräte
 
-| Kategorie | Von        | An / Standort       | Geräte                                                        |
-|-----------|------------|---------------------|---------------------------------------------------------------|
-|           | ffhl       |                     | 2x RF-shields für ubiquiti M2/M5                              |
-|           | ffhl       | ffhl                | 2x ubnt window / wall mount kit                               |
-| Switch    |            |                     |                                                               |
-|           | ffhl       | nbsp                | TP-Link TL-SG108E                                             |
-|           | ffhl       | nbsp                | 2x Ubiquiti Tough Switch PoE                                  |
-| Server    |            |                     |                                                               |
-|           | ffhl       | nbsp                | Raspberry-Pi4 Kit, Blueberry                                  |
-|           | ffhl       | Leo                 | Raspberry-Pi4 Kit, Strawberry                                 |
-| Indoor    |            |                     |                                                               |
-|           | ffhl       | paul                | (microrouter) GL.iNet USB-150                                 |
-|           | ffhl       | nbsp (in benutzung) | Tinybook (GL.iNet GL-AR750)                                   |
-|           | ffhl       | Philipp             | Tinybook (GL.iNet GL-AR750)                                   |
-|           | ffhl       | Paul                | Tinybook (GL.iNet GL-AR750)                                   |
-|           | ffhl       | Philipp             | Mango (gl-Inet mt300N v2)                                     |
-|           | ffhl       | Paul                | Mango (gl-Inet mt300N v2)                                     |
-|           | ffhl       | Paul                | Mango (gl-Inet mt300N v2)                                     |
-|           | ffhl       | Paul                | TP-Link TL-WR1043N/ND v2                                      |
-|           | ffhl       | Paul                | TP-Link TL-WR1043ND v1                                        |
-|           | ffhl       | Philipp             | 2x Unifi AP, zweckgebundene Spende für Flüchtlingsheim oä.    |
-|           | ffhl       | nbsp                | 3x D-Link⁣ DIR-50 ⁣                                             |
-|           | ffhl       | nbsp                | tp-link wdr3600                                               |
-|           | paul/ffhl  | Paul                | tp-link wdr3600                                               |
-|           | paul/ffhl  | Paul                | tp-link wdr3600                                               |
-|           | ffhl       | nbsp                | 46x Ubiquiti UniFi                                            |
-|           | ffhl       | nbsp                | 4x plasma Coud (versch. Modelle)                              |
-| Outdoor   |            |                     |                                                               |
-|           | ffhl       | nbsp                | Blechbüchse ( amd x86 outdoor router)                         |
-|           | ffhl (T_X) | nbsp                | 2x Ubiquiti Nanostation M XW                                  |
-|           | Paul       | Paul                | Ubiquiti Nanostation M XW                                     |
-|           | ffhl       | nbsp                | MikroTik RBGroove52HPn (nicht openwrt kompatibel)             |
-|           | Philipp    |                     | 2x [TP-Link CPE210](https://wiki.freifunk.net/TP-Link_CPE210) |
+| Kategorie | Von        | An / Standort       | Geräte                                                                     |
+|-----------|------------|---------------------|----------------------------------------------------------------------------|
+|           | ffhl       |                     | 2x RF-shields für ubiquiti M2/M5                                           |
+|           | ffhl       | ffhl                | 2x ubnt window / wall mount kit                                            |
+| Switch    |            |                     |                                                                            |
+|           | ffhl       | nbsp                | TP-Link TL-SG108E                                                          |
+|           | ffhl       | nbsp                | Ubiquiti Tough Switch PoE                                                  |
+|           | ffhl       | walli/Till          | Ubiquiti Tough Switch PoE                                                  |
+| Server    |            |                     |                                                                            |
+|           | ffhl       | nbsp                | Raspberry-Pi4 Kit, Blueberry                                               |
+|           | ffhl       | Leo                 | Raspberry-Pi4 Kit, Strawberry                                              |
+| Indoor    |            |                     |                                                                            |
+|           | ffhl       | paul                | (microrouter) GL.iNet USB-150                                              |
+|           | ffhl       | nbsp (in benutzung) | Tinybook (GL.iNet GL-AR750)                                                |
+|           | ffhl       | Philipp             | Tinybook (GL.iNet GL-AR750)                                                |
+|           | ffhl       | Paul                | Tinybook (GL.iNet GL-AR750)                                                |
+|           | ffhl       | Philipp             | Mango (gl-Inet mt300N v2)                                                  |
+|           | ffhl       | Paul                | Mango (gl-Inet mt300N v2)                                                  |
+|           | ffhl       | Paul                | Mango (gl-Inet mt300N v2)                                                  |
+|           | ffhl       | Paul                | TP-Link TL-WR1043N/ND v2                                                   |
+|           | ffhl       | Paul                | TP-Link TL-WR1043ND v1                                                     |
+|           | ffhl       | Philipp             | 2x Unifi AP, zweckgebundene Spende für Flüchtlingsheim oä.                 |
+|           | ffhl       | nbsp                | 3x D-Link⁣ DIR-50 ⁣                                                          |
+|           | ffhl       | nbsp                | tp-link wdr3600                                                            |
+|           | paul/ffhl  | Paul                | tp-link wdr3600                                                            |
+|           | paul/ffhl  | Paul                | tp-link wdr3600                                                            |
+|           | ffhl       | nbsp                | 46x Ubiquiti UniFi                                                         |
+|           | ffhl       | nbsp                | 4x plasma Coud (versch. Modelle)                                           |
+| Outdoor   |            |                     |                                                                            |
+|           | ffhl       | nbsp                | Blechbüchse ( amd x86 outdoor router)                                      |
+|           | ffhl (T_X) | nbsp                | Ubiquiti Nanostation M XW                                                  |
+|           | ffhl (T_X) | walli/Till          | [Ubiquiti Nanostation M XW](http://[2001:67c:2d50:0:6a72:51ff:fe3a:ba63]/) |
+|           | Paul       | Paul                | Ubiquiti Nanostation M XW                                                  |
+|           | ffhl       | nbsp                | MikroTik RBGroove52HPn (nicht openwrt kompatibel)                          |
+|           | Philipp    |                     | 2x [TP-Link CPE210](https://wiki.freifunk.net/TP-Link_CPE210)              |
+|           | Till       | nbsp                | Ubiquiti UAP-AC-Mesh                                                           |
 
 ## Ausprobieren
 
