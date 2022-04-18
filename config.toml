@@ -6,7 +6,7 @@ theme = "hugo-book"
 
 [params]
 BookRepo = "https://git.chaotikum.org/freifunk-luebeck/wiki"
-BookEditPath = "/-/content/master/"
+BookEditPath = "/-/blob/master/"
 BookLogo = "/logo.svg"
 BookSection = "docs"
 BookComments = true
