@@ -1,6 +1,9 @@
 # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
 image: debian:sid-slim
 
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
 before_script:
   - apt update
   - apt -y install hugo
