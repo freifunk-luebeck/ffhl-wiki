@@ -10,7 +10,7 @@ bookToc: false
 |                 |                                    |                                   |                                        |                                    |
 | Kontakt:        | FFHH                               | FFHH                              | FFOH (netcup)                          | johnyb (hetzner)                   |
 | Ip:             |                                    |                                   |                                        |                                    |
-| Ip/external/v4: | `193.96.224.242`                   | 193.96.224.228                    | 185.163.119.235                        | 5.9.153.153                        |
+| Ip/external/v4: | `193.96.224.242`                   | `193.96.224.228`                  | `185.163.119.235`                      | `5.9.153.153`                      |
 | Ip/external/v6: | `2a03:2267:ffff:a00::ff41`         | `2a03:2267:ffff:c00::d`           | `2a03:4000:3b:53c:a4d4:5dff:fee7:d0e0` | `2a01:4f8:190:4190::3007:1`        |
 | Domain:         |                                    |                                   |                                        |                                    |
 | Domain/external | muehlentor.mesh.ffhl.chaotikum.org | kaisertor.mesh.ffhl.chaotikum.org | huextertor.mesh.ffhl.chaotikum.org     | holstentor.mesh.ffhl.chaotikum.org |
