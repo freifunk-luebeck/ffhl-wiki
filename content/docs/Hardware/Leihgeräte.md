@@ -27,15 +27,16 @@
 |           | paul/ffhl  | Paul                | tp-link wdr3600                                                            |
 |           | paul/ffhl  | Paul                | tp-link wdr3600                                                            |
 |           | ffhl       | nbsp                | 46x Ubiquiti UniFi                                                         |
-|           | ffhl       | nbsp                | 4x plasma Coud (versch. Modelle)                                           |
 | Outdoor   |            |                     |                                                                            |
 |           | ffhl       | nbsp                | Blechbüchse ( amd x86 outdoor router)                                      |
 |           | ffhl (T_X) | nbsp                | Ubiquiti Nanostation M XW                                                  |
-|           | ffhl (T_X) | walli/Till          | [Ubiquiti Nanostation M XW](http://[2001:67c:2d50:0:6a72:51ff:fe3a:ba63]/) |
+|           | ffhl (T_X) | walli/Till          | [Ubiquiti Nanostation M XW](https://map.luebeck.freifunk.net/#!v:m;n:6872513aba63) |
 |           | Paul       | Paul                | Ubiquiti Nanostation M XW                                                  |
 |           | ffhl       | nbsp                | MikroTik RBGroove52HPn (nicht openwrt kompatibel)                          |
 |           | Philipp    |                     | 2x [TP-Link CPE210](https://wiki.freifunk.net/TP-Link_CPE210)              |
-|           | Till       | nbsp                | Ubiquiti UAP-AC-Mesh                                                           |
+|           | Till       | nbsp                | Ubiquiti UAP-AC-Mesh                                                       |
+|           | ffhl       | nbsp                | 4x plasma Coud (versch. Modelle)                                           |
+|           | ffhl       | walli/Till          | 2x plasma Coud PA 300                                                      |
 
 ## Ausprobieren
 
