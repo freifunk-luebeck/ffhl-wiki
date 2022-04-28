@@ -41,3 +41,12 @@ __Gitlab__
 __Internet Relay Chat (IRC)__
 
 `#ffhl` im im [Riot](https://matrix.to/#/!abaEXDFMmCWEivMGJF:matrix.org?via=matrix.org&via=matrix.eclabs.de&via=toppoint.de), [freenode](https://webchat.freenode.net/#ffhl) oder im [Hackint](irc://irc.hackint.eu/ffhl) 
+
+
+__Impressum & Datenschutz__
+
+[Impressum](https://luebeck.freifunk.net/impressum.html)
+[Datenschutz](https://chaotikum.org/datenschutzerk/)
+
+
+
