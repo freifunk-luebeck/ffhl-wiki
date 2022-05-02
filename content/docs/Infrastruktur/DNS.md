@@ -3,15 +3,43 @@ title: DNS
 ---
 
 # DNS
+
+## Domains
 Wir haben folgende domains:
-* ffhl.de.
-* luebeck.freifunk.net.
-* *.ffhl (nur freifunkintern)
+- `ffhl.de.`
+- `luebeck.freifunk.net.`
 
-Auf [srv02]({{< relref "srv02" >}}) und den Gateways({{< relref "Gateways" >}}) läuft ein [PowerDNS](https://www.powerdns.com/index.html) authoritive Server.
-Zusätzlich läuft auf den Gateways nur für unsere Subnetze erreichbar ein PowerDNS-Recursor. Da beides eigenständige Programme sind, bindet ein `dnsdist` auf port 53 und entscheidet was wo aufgelöst wird (sh. `/etc/dnsdist/dnsdist.conf`).
 
-Die Zonefiles liegen im [ffhl-dns repo](https://git.chaotikum.org/freifunk-luebeck/ffhl-dns) und werden mit dem `dns-update.timer` regelmäßig gepullt.
+## Domain Einträge hinzufügen
 
-Auf `srv02` liegen die zonefiles in `/var/lib/powerdns/zones`.
-Auf den Gateways liegen die zonefiles in `/var/local/ffhl-dns/`.
+Alle Subdomains werden über ansible geupdatet. Die Subdomains für `ffhl.de` und `luebeck.freifunk.net` sind immer automatisch dieselben. In der Datei [`group_vars/dns-auth.yml`](https://git.chaotikum.org/freifunk-luebeck/gateway-config/-/blob/master/group_vars/dns-auth.yml) sind alle subdomains definiert. Um ein Update zu deployen muss das `dns.yml` Playbook ausgeführt werden:
+
+```
+ansible-playbook dns.yml
+```
+
+
+## Nameserver
+
+Es gibt 2 authoritive Nameserver:
+- `ns1.ffhl.de` / `ns1.luebeck.freifunk.net`: [srv02]({{< relref "srv02" >}})
+- `ns2.ffhl.de` / `ns2.luebeck.freifunk.net`: [huextertor]({{< relref "Gateways" >}})
+
+
+## Software
+
+Auf [srv02]({{< relref "srv02" >}}) und [huextertor]({{< relref "Gateways" >}}) läuft jeweils ein dnsdist, [pdns-recursor](https://www.powerdns.com/recursor.html) und bind9. DNSdist ist dabei für das "routing" der Anfragen zuständig. Die Config sieht wie folgt aus:
+
+1. `DNSdist`: Anfrage annehmen
+1. `DNSdist`: Anfrage auf eine unserer Domains?
+    1. {{< yes >}} Ja:
+        1. An bind weiterleiten
+        1. Fertig.
+    1. {{< no >}} Nein:
+        1. Aus unserem Subnetz?
+            1. {{< yes >}} Ja:
+                1. An pdns-recursor weitergeben und auflösen
+                1. Fertig
+            1. {{< no >}} Nein:
+                1. Anfrage verwerfen
+                1. Fertig
