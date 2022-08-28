@@ -5,7 +5,7 @@ bookToc: false
 
 # Gateways
 
-|                 | muhlentor                          | kaisertor                         | huextertor                             | holstentor                         |
+|                 | gw04 (muhlentor)                   | gw03 (kaisertor)                  | gw02 (huextertor)                      | holstentor                         |
 |-----------------|------------------------------------|-----------------------------------|----------------------------------------|------------------------------------|
 |                 |                                    |                                   |                                        |                                    |
 | Kontakt:        | FFHH                               | FFHH                              | FFOH (netcup)                          | johnyb (hetzner)                   |
