@@ -1,3 +1,8 @@
+---
+title: "Backbone"
+bookCollapseSection: true
+---
+
 # Backbone-Ausbau Freifunk Lübeck (VERALTET)
 
 Dieses Dokument versucht ein Konzept für den Ausbau eines Freifunk
@@ -133,9 +138,9 @@ TBD - keine DSL Anschlüsse\!
 | Buddenbrookhaus                    | ?  fluse152                        |
 | [Burgtor](standorte/jzbt)          | Teilinstalliert			  |
 | DGB-Haus                           | fertig? offline (corona?)          |
-| [Fluse100](standorte/fluse100)     | offline, braucht neustart          | 
+| [Fluse100](standorte/fluse100)     | offline, braucht neustart          |
 | [Friedrich-List-Schule (Wirtschaft)](standorte/fls) | ? |
 | [Julius-Leber-Schule](standorte/jls) | Fertiggestellt |
 | [Pflegezentrum Travemünder Allee](standorte/pzta) | ? |
-| [Thomas-Mann-Schule](standorte/tms)| ? | 
+| [Thomas-Mann-Schule](standorte/tms)| ? |
 | Wasserkunst                        | ? |
