@@ -168,6 +168,10 @@ uci commit wireless
 uci set dhcp.lan.ignore='1'
 uci commit dhcp
 
+uci set uhttpd.main.listen_http='127.0.0.1:80'
+uci set uhttpd.main.listen_https='127.0.0.1:443'
+uci commit uhttpd
+
 cat <<EOF > /etc/dropbear/authorized_keys
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCmb+l54Y5QMUGJCGu0zrigfFgMU9I5Feu55b2+wPYUR8Uuz11GCbmkmive7Avj8/UWfXTOnBuEBp3o6t9VcbIHa1Dt+cU3z+BxoFyge40fQVJ2GOAmprMQIuxBsw5+1REBBJrsmYXfabWisCh8Q213DyUeAjMwYIBtH+3M3NNA0S0oNB/x4S+N7bSxHrhb06PUpG51aOWvAWjhOc+us4NRwF63dGeIKGBED3On41WoDqH875sv4myP4T8s8XXpOiAM1xubLuNLzKa/uqy1IcSLakXQUOaRnKcgkSPS9VuZzOxrpUSUn34ryXTq9rEUNGMpteOpfhT+xQv0zh+ECng6NLEmDuCRJojh26cJLAqfj5IAhpDx4FYLIQIzZIBubOsfavyew4lbKwpBE1HfPXsimxrHWmYX+zSLxUFQki9ixM9+RAYe61CeDZS/iAcP5t8ojsVUtATRd2QpBBOjv55JFFln9jk9il7zjVn9NJSU5sphc6v19Kj8tYKGzJDxM2n5FWwkP19UdOvTaIMt8c904KCkKUXqCyox+2TJGonNyiZh+5wxnKACRSBSJMxD2LZywoX1BeZPz/H6+cLP30keZ8lmvAbHCArNcc896EECFM7kRL3r4kwxVn+X21NzNAnvHTeuKB6m8RCm9rOLwUb3EXs1MlMKBCv6q/JcimSGCQ==
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFNacZ7VZHJeVMowN9f/Gx6qWwy9tlFp+It3gB7hyJk1/eG0Y8TbcgQQfTdRktZu0BTecfs+e8Wuc/nTIJWbsZwpi8jGBQLMy48fKlaxUawUgri3KPwnhI9Np9vqHoezYJRD3V+sjvLOFE30y30Bh0kjMkM1zvGZeyAGLePwlanvLvJWAqIip2zMSKy3ygQEOCAU2Z2ULh16hQO9IfKE4XUxOAnMnLebMyE6CzHcjqEBbHfq4TENoqz9IpC7zThWdhQs39ACvYpLyvTgPTQzWPgmNmP3mTX0n4wwD7ri9xlR/R61tZjww2boHLPO5LoO6L90Lf0qIV1PAEK56lXUI7 yksflip@yksflip
@@ -214,11 +218,11 @@ uci commit dropbear
       |  |  |                     |  |  |  |  |  |  |
       jls-cpe510-no [VLAN12,      jls-eap225-n|  |  | < [VLAN2, untagged]
          |  |        untagged]       |  |  |  |  |  |
-         jls-cpe510-so [VLAN13,      jls-eap225-o|  |    < [VLAN3, untagged]
+         jls-cpe510-so [VLAN13,      jls-eap225-o|  |    < [VLAN2, untagged]
             |           untagged]       |  |  |  |  |
-            jls-cpe510-nw [LAN14,       jls-eap225-s|       < [VLAN4, untagged]
+            jls-cpe510-nw [LAN14,       jls-eap225-s|       < [VLAN2, untagged]
                            untagged        |  |  |  |
-                                           jls-eap225-w        < [VLAN5, untagged]
+                                           jls-eap225-w        < [VLAN2, untagged]
                                               |  |  |
                                               jls-wap60-o         < [VLAN6, untagged]
                                                  |  | < [integ. eth: VLAN2/3/4/5/12/13/14, tagged]
@@ -237,3 +241,44 @@ uci commit dropbear
 * CPE510s / WAP60:
   * client isolation auf dem WLAN AP interface an ->
     meshing/routing über jls-pi4 erzwingen
+
+Neue Pi4 /etc/config/gluon:
+
+```
+config core 'core'
+        option domain 'default'
+
+config interface 'iface_single'
+        option name '/single'
+        list role 'uplink'
+
+config interface 'iface_vlan2'
+        option name 'eth0.2'
+        list role 'mesh'
+
+config interface 'iface_vlan6'
+        option name 'eth0.6'
+        list role 'mesh'
+
+config interface 'iface_vlan12'
+        option name 'eth0.12'
+        list role 'mesh'
+
+config interface 'iface_vlan13'
+        option name 'eth0.13'
+        list role 'mesh'
+
+config interface 'iface_vlan14'
+        option name 'eth0.14'
+        list role 'mesh'
+
+config wireless 'wireless'
+        option outdoor '0'
+        option preserve_channels '0'
+
+config mesh_vpn 'mesh_vpn'
+        option enabled '0'
+        option limit_ingress '3000'
+        option limit_enabled '0'
+        option limit_egress '200'
+```
