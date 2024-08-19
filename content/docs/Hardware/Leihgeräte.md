@@ -1,49 +1,53 @@
 # Inventar / Leihgeräte
 
-| Kategorie | Von        | An / Standort       | Geräte                                                                     |
-|-----------|------------|---------------------|----------------------------------------------------------------------------|
-|           | ffhl       |                     | 2x RF-shields für ubiquiti M2/M5                                           |
-|           | ffhl       | ffhl                | 2x ubnt window / wall mount kit                                            |
-| Switch    |            |                     |                                                                            |
-|           | ffhl       | nbsp                | TP-Link TL-SG108E                                                          |
-|           | ffhl       | nbsp                | Ubiquiti Tough Switch PoE                                                  |
-|           | ffhl       | walli/Till          | Ubiquiti Tough Switch PoE                                                  |
-| Server    |            |                     |                                                                            |
-|           | ffhl       | nbsp                | Raspberry-Pi4 Kit, Blueberry                                               |
-|           | ffhl       | Leo                 | Raspberry-Pi4 Kit, Strawberry                                              |
-| Indoor    |            |                     |                                                                            |
-|           | ffhl       | paul                | (microrouter) GL.iNet USB-150                                              |
-|           | ffhl       | nbsp (in benutzung) | Tinybook (GL.iNet GL-AR750)                                                |
-|           | ffhl       | Philipp             | Tinybook (GL.iNet GL-AR750)                                                |
-|           | ffhl       | Paul                | Tinybook (GL.iNet GL-AR750)                                                |
-|           | ffhl       | Philipp             | Mango (gl-Inet mt300N v2)                                                  |
-|           | ffhl       | Paul                | Mango (gl-Inet mt300N v2)                                                  |
-|           | ffhl       | Paul                | Mango (gl-Inet mt300N v2)                                                  |
-|           | ffhl       | Paul                | TP-Link TL-WR1043N/ND v2                                                   |
-|           | ffhl       | Paul                | TP-Link TL-WR1043ND v1                                                     |
-|           | ffhl       | Philipp             | 2x Unifi AP, zweckgebundene Spende für Flüchtlingsheim oä.                 |
-|           | ffhl       | nbsp                | 3x D-Link⁣ DIR-50 ⁣                                                          |
-|           | ffhl       | nbsp                | tp-link wdr3600                                                            |
-|           | paul/ffhl  | Paul                | tp-link wdr3600                                                            |
-|           | paul/ffhl  | Paul                | tp-link wdr3600                                                            |
-|           | ffhl       | nbsp                | 46x Ubiquiti UniFi                                                         |
-| Outdoor   |            |                     |                                                                            |
-|           | ffhl       | nbsp                | Blechbüchse ( amd x86 outdoor router)                                      |
-|           | ffhl (T_X) | nbsp                | Ubiquiti Nanostation M XW                                                  |
-|           | ffhl (T_X) | walli/Till          | [Ubiquiti Nanostation M XW](https://map.luebeck.freifunk.net/#!v:m;n:6872513aba63) |
-|           | Paul       | Paul                | Ubiquiti Nanostation M XW                                                  |
-|           | ffhl       | nbsp                | MikroTik RBGroove52HPn (nicht openwrt kompatibel)                          |
-|           | Philipp    |                     | 2x [TP-Link CPE210](https://wiki.freifunk.net/TP-Link_CPE210)              |
-|           | Till       | nbsp                | Ubiquiti UAP-AC-Mesh                                                       |
-|           | ffhl       | nbsp                | 4x plasma Coud (versch. Modelle)                                           |
-|           | ffhl       | walli/Till          | 2x plasma Coud PA 300                                                      |
-
-## Ausprobieren
-
-- ubiquiti ls-sr71 lite, laut openwrt wiki gleich wie m2 loco, per tftp aber invalid image
-- diverse pci netzwerkarten
-
-## Defekt?
-
-- 1x Unifi AP, leuchtet dauerhaft orange, lässt sich nicht per tfpt mit einer neueren version debricken. Vielleicht nochmal mit nem Image < v3.x probieren, gibts aber nicht mehr auf der seite von ubiquiti
-- 2x tp-link nanostation loco m2
+  | Kategorie   | Von           | An / Standort | Geräte                                                | Inventarnr. |
+  | ----------- | ------------- | ------------- | ----------------------------------------------------- | ----------- |
+  | **Switch**  | FFHL, cuechan | nbsp          | Cisco SG200-08P 8-port Gigabit PoE Smart Switch       | ffhl.sw.000 |
+  |             | FFHL, cuechan | nbsp          | Cisco GS300-10PP 10-port Gigabit PoE + Managed Switch | ffhl.sw.001 |
+  |             | FFHL, cuechan | nbsp          | Cisco GS300-10PP 10-port Gigabit PoE + Managed Switch | ffhl.sw.002 |
+  |             | FFHL, cuechan | nbsp          | Cisco GS300-10PP 10-port Gigabit PoE + Managed Switch | ffhl.sw.003 |
+  |             | FFHL, cuechan | nbsp          | Cisco GS300-10PP 10-port Gigabit PoE + Managed Switch | ffhl.sw.004 |
+  |             | FFHL, cuechan | nbsp          | Cisco GS300-10PP 10-port Gigabit PoE + Managed Switch | ffhl.sw.005 |
+  |             | FFHL          | yksflip       | TP-Link TL-SG1008D 8-Port Gigabit Desktop Switch      | ffhl.sw.006 |
+  |             | FFHL          | nbsp          | TP-Link TL-SF1005P 5-Port 10/100 4-Port PoE+          | ffhl.sw.007 |
+  |             | FFHL          | nbsp          | TP-Link TL-SG1008E 8-Port Gigabit Easy Smart Switch   | ffhl.sw.008 |
+  |             | FFHL, t_x     | nbsp          | Mikrotik Routerboard PowerBox Prox                    | ffhl.sw.009 |
+  |             |               |               | Ubiquiti Tough Switch PoE                             | defekt?!    |
+  |             |               |               | Ubiquiti Tough Switch PoE                             | defekt?!    |
+  | **Outdoor** |               |               |                                                       |             |
+  |             |               |               |                                                       |             |
+  |             | FFHL          | nbsp          | CPE210                                                |             |
+  |             | FFHL          | nbsp          | CPE210                                                |             |
+  |             | FFHL          | nbsp          | CPE210                                                |             |
+  | **Indoor**  |               |               |                                                       |             |
+  |             | FFHL          | ykslip        | Unifi AP AC Pro                                       | ffhl.000    |
+  |             | FFHL          | nbsp          | Unifi AP AC Pro                                       | ffhl.001    |
+  |             | FFHL          | nbsp          | Unifi AP AC Pro                                       | ffhl.002    |
+  |             | FFHL          | nbsp          | Unifi AP AC Pro                                       | ffhl.003    |
+  |             | FFHL          | nbsp          | Unifi AP AC Pro                                       | ffhl.004    |
+  |             | FFHL          | nbsp          | Unifi AP AC Pro                                       | ffhl.005    |
+  |             | FFHL          | nbsp          | Unifi AP AC Pro                                       | ffhl.006    |
+  |             | FFHL          | nbsp          | Unifi AP AC Lite                                      | ffhl.007    |
+  |             | FFHL          | nbsp          | Unifi AP AC Lite                                      | ffhl.008    |
+  |             | FFHL          | nbsp          | Unifi AP AC Lite                                      | ffhl.009    |
+  |             | FFHL          | ykslip        | Fritzbox 4040                                         | ffhl.010    |
+  |             | FFHL          | nbsp          | GL.iNet GL-AR750                                      | ffhl.011    |
+  |             | FFHL          | nbsp          | GL.iNet GL-AR750                                      | ffhl.012    |
+  |             | FFHL          | ykslip        | GL.iNet GL-AR750                                      | ffhl.013    |
+  |             | FFHL          | nbsp          | GL.iNet GL-MT300N-V2                                  | ffhl.014    |
+  |             | FFHL          | cuechan       | GL.iNet GL-MT300N-V2                                  | ffhl.015    |
+  |             | FFHL          | cuechan       | GL.iNet GL-MT300N-V2                                  | ffhl.016    |
+  |             | t_x           | ykslip        | GL.Inet GL-XE300C6                                    | ffhl.017    |
+  |             | yksflip       | ykslip        | GL.iNet GL-X750                                       | ffhl.018    |
+  |             | ffhl          | paul          | (microrouter) GL.iNet USB-150                         |             |
+  |             | ffhl          | nbsp          | 4x plasma Coud (versch. Modelle)                      |             |
+  |             | ffhl          | walli/Till    | 2x plasma Coud PA 300                                 |             |
+  |             | ffhl          | nbsp          | 46x(?) Ubiquiti UniFi                                 |             |
+  | **Server**  |               |               |                                                       |             |
+  |             | ffhl          | JLS           | Raspberry-Pi4 Kit, Blueberry                          |             |
+  |             | ffhl          | Leo           | Raspberry-Pi4 Kit, Strawberry                         |             |
+  |             |               |               |                                                       |             |
+  |             |               |               |                                                       |             |
+  | **Zubehör** |               |               |                                                       |             |
+  |             | ffhl          | nbsp          | 2x RF-shields für ubiquiti M2/M5                      |             |
+  |             | ffhl          | nbsp          | 2x ubnt window / wall mount kit                       |             |
