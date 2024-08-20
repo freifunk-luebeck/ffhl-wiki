@@ -1,18 +1,22 @@
 ---
-title: Dachstandort Julius-Leber-Schule
+title: JLS Julius-Leber-Schule
 ---
 
 # Dachstandort Julius-Leber-Schule
 
+[![panorama](/jls_panorama.png)](/jls_panorama.png)
+
+
+
 ```
             N
-       
+
   CPE510   EAP  CPE510
 
 W   EAP   JLS    EAP   O
 
     WAP   EAP   CPE510
-         
+
            S
 
  N: EAP225
@@ -23,7 +27,7 @@ SO: CPE510 -> Burgtor
 SW: WAP60 -> Fluse 100
  W: EAP225 + UMA-D
 NW: CPE510 -> Feuerwehr /  Krempelsdorfer Alle
- 
+
 ```
 
 | Hostname          | Modell                    | LAN IP             | Firmware                 |
@@ -87,6 +91,9 @@ NW: CPE510 -> Feuerwehr /  Krempelsdorfer Alle
 * Isolate Stations: off (for now)
 * IP: 192.168.0.13
 
+{{< hint warning >}}
+**Diese Rictfunkstrecke ist noch nicht eingerichtet!**
+{{< /hint >}}
 * connected to: Fluse100 with Mikrotik LHG 60G
   * Hostname: fluse100-lhg60-w
   * Firmware: MikroTik RouterOS 7.11.2
