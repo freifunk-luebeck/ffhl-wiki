@@ -1,19 +1,26 @@
 # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
-image: debian:sid-slim
+image: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo:latest"
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
+  HUGO_ENV: production
 
-before_script:
-  - apt update
-  - apt -y install hugo
+# before_script:
+#   - apt update
+#   - apt -y install hugo
+test:
+  stage: test
+  rules:
+    - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
+  script:
+    - hugo
 
 pages:
-  script:
-  - rm -rvf resources public
-  - hugo
-  artifacts:
-    paths:
-    - public
+  stage: deploy
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+  script:
+    - hugo
+  artifacts:
+    paths:
+      - public
