@@ -1,7 +1,7 @@
 Freifunk Lübeck Subnetz
 =======================
 
-Autonomes System
+Autonomous System
 ----------------
 
 AS201173 (früher AS65052)
@@ -19,13 +19,22 @@ Subnetze
 
 ### IPv6
 
-Bitte nur das erste `/52` verwenden!
+`2001:67c:2d50::/48`
 
-| Infix (aaaa:bbbb:cccc:0XXY::/60) | Beschreibung |
-|----------------------------------|--------------|
-| `2001:67c:2d50::/64`             | mesh         |
+| Netz                                     | Beschreibung     |
+| ---------------------------------------- | ---------------- |
+| `2001:67c:2d50:0000:/64`                 | ffhl-client Netz |
+| `2001:67c:2d50:0000:0001:0000:0000:0001` |                  |
 
-### Ideen zur Unterteilung des Präfixes
+
+- `2001:67c:2d50::/48`
+  - `2001:067c:2d50::/64`
+  - `2001:067c:2d50:0100:/56`
+  - `2001:067c:2d50:ff00:/48`
+  - `2001:067c:2d50:ff00:/48`
+
+
+#### Ideen zur Unterteilung des Präfixes
 
 -   Wir könnten aus dem ersten /48 je /60 für alle Subnetze, die sich
     aus Gatewaysicht hinter dem Mesh befinden, aufsteigend verwenden.
@@ -34,8 +43,9 @@ Bitte nur das erste `/52` verwenden!
 -   Wir könnten weitere /48 für außerhalb des Meshes geroutete Netze
     verwenden (erstmal wohl unwahrscheinlich).
 
-### IPv4
 
+
+### IPv4
 
 Für den Lübecker Raum ist das folgende Subnetz reserviert:
 
@@ -51,7 +61,7 @@ Gateways
 --------
 
 | Name       | IPv4           | IPv6                  | Base MAC Address   | Status |
-|------------|----------------|-----------------------|--------------------|--------|
+| ---------- | -------------- | --------------------- | ------------------ | ------ |
 | kaisertor  | `10.130.0.255` | `2001:67c:2d50::aaaa` | `de:ad:ca:fe:aa:*` | aktiv  |
 | huextertor | `10.130.0.252` | `2001:67c:2d50::bbaa` | `de:ad:ca:fe:bb:*` | aktiv  |
 | holstentor | `10.130.0.253` | `2001:67c:2d50::ccaa` | `52:54:00:0c:bb:*` | aktiv  |
@@ -64,7 +74,7 @@ DHCP-Ranges
 
 Im Grunde bedient jeder Gateway ein /21. Eine Ausnahme ist dabei der GW, der das 10.130.0.0/24 abdecken würde. Dieser Bereich ist für die statische Adressierung der Infrastruktur reserviert und wird nicht an Clients im Netz vergeben.
 | CIDR             | DHCP Start    | DHCP Ende       | Gateway    | Status |
-|------------------|---------------|-----------------|------------|--------|
+| ---------------- | ------------- | --------------- | ---------- | ------ |
 | `10.130.0.0/21`  | `10.130.1.1`  | `10.130.7.255`  | holstentor | aktiv  |
 | `10.130.8.0/21`  | `10.130.8.1`  | `10.130.15.255` | muehlentor | aktiv  |
 | `10.130.16.0/21` | `10.130.16.1` | `10.130.23.255` | kaisertor  | aktiv  |
@@ -79,7 +89,7 @@ Reservierte Subnetze des Mesh-Netzes
 ------------------------------------
 
 | Subnetz       | IP Range | Notizen                                         |
-|---------------|----------|-------------------------------------------------|
+| ------------- | -------- | ----------------------------------------------- |
 | 10.130.0.0/24 | 1...255  | zur statischen Konfiguration frei zur Verfügung |
 
 
@@ -101,7 +111,7 @@ TODO: alte, nicht mehr verwendete Adressen entfernen (anpingen, kontaktieren, en
 
 
 | IP-Adresse                  | Notizen                    | Hostname        |
-|-----------------------------|----------------------------|-----------------|
+| --------------------------- | -------------------------- | --------------- |
 | 10.130.0.0 reserviert       | reserviert                 |                 |
 | 10.130.0.1                  | Magische next-node-Adresse | node.ffhl       |
 | 10.130.0.2                  | reserviert                 | reserviert      |
@@ -126,7 +136,7 @@ Management 10.130.127.224/27 / 2001:67c:2d50:1::a82:7f00/123
 ------------------------------------------------------------
 
 | IP4               | IP6                           | Verwendung  |
-|-------------------|-------------------------------|-------------|
+| ----------------- | ----------------------------- | ----------- |
 | 10.130.127.224/32 | 2001:67c:2d50:1::a82:7fe0/128 | Anycast DNS |
 
 [Category:Technische Details](Category:Technische_Details "wikilink")

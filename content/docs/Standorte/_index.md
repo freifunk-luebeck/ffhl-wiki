@@ -1,6 +1,7 @@
 ---
-title: "Backbone"
+title: "Standorte"
 bookCollapseSection: true
+weight: 45
 ---
 
 # Backbone-Ausbau Freifunk Lübeck (VERALTET)

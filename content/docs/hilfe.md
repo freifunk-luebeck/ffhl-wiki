@@ -17,8 +17,8 @@ und Member des Freifunk-Teams sein, um die Seite direkt zu bearbeiten.
 Andere Seiten im Wiki können über einen hugo Befehl automatisch verlinkt werden:
 
 
-[Gitea]({{&lt; relref &quot;git&quot; &gt;}}) wird zu `[Gitea]({{< relref "git" >}})` was dann
-zu [Gitea]({{< relref "git" >}}) wird.
+[Gitea]({{&lt; relref &quot;git&quot; &gt;}}) wird zu `[Gitea]({{< relref "/" >}})` was dann
+zu [Gitea]({{< relref "/" >}}) wird.
 
 
 <br>
