@@ -3,11 +3,11 @@
 
 ## Kontakt
 
-__E-Mail__
+**Email**
 
 info@luebeck.freifunk.net
 
-__Mailinglisten__
+**Mailinglisten**
 
 Diskussionen und allg. Infos: talk@luebeck.freifunk.net
 
@@ -15,29 +15,24 @@ Firmware-Entwicklung: gluon@luebeck.freifunk.net
 
 Gateways \& Infrastruktur: maschinenraum@luebeck.freifunk.net
 
-__Persönlich__
 
-jeden 3. Donnerstag im Monat um 19 Uhr
+**Treffen**
 
-nbsp / [Chaotikum e.V.](http://www.chaotikum.org/)
-Fackenburger Allee 11
-23554 Lübeck
+Infos zu unseren regelmäßigen Treffen findest du auf unserer [Website](https://luebeck.freifunk.net/treffen)
 
-Hinweis: Auf der [Statusseite](http://status.nobreakspace.org/) kannst du erfahren ob der &nbsp; gerade geöffnet hat.
+**~~Twitter~~ Mastodon**
 
-__Twitter__
+[@freifunkluebeck](https://chaos.social/@ffhl)
 
-[@freifunkluebeck](http://twitter.com/freifunkluebeck)
+**Gitlab**
 
-__Gitlab__
+[Freifunk Lübeck im chaotikum gitlab](https://git.chaotikum.org/freifunk-luebeck)
 
-[freifunk-luebeck](https://gitlab.com/freifunk-luebeck)
-
-__Matrix__
+**Matrix**
 
 [Matrix](https://matrix.to/#/#freifunk-luebeck:matrix.org),
 
-__Impressum & Datenschutz__
+**Impressum & Datenschutz**
 
 [Impressum](https://luebeck.freifunk.net/impressum.html)
 [Datenschutz](https://chaotikum.org/datenschutzerk/)
