@@ -124,6 +124,7 @@ TODO: alte, nicht mehr verwendete Adressen entfernen (anpingen, kontaktieren, en
 | 10.130.0.10                 | srv02                      | srv02.ffhl      |
 | 10.130.0.11                 | srv03                      | srv03           |
 | 10.130.0.12                 | Switch MFC1                | sw01-mfc1       |
+| 10.130.0.15                 | ffnord-monitoring          | monitoring.freifunknord.de |
 | 10.130.0.68                 | Fluse100Cam                |                 |
 | 10.130.0.72                 | Fluse-IP-Stromleiste       |                 |
 | 10.130.0.101                | blueberry                  | blueberry.ffhl  |
