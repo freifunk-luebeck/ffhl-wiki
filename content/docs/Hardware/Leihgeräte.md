@@ -8,7 +8,7 @@
   |             | FFHL, cuechan | nbsp          | Cisco GS300-10PP 10-port Gigabit PoE + Managed Switch | ffhl.sw.003 |
   |             | FFHL, cuechan | nbsp          | Cisco GS300-10PP 10-port Gigabit PoE + Managed Switch | ffhl.sw.004 |
   |             | FFHL, cuechan | nbsp          | Cisco GS300-10PP 10-port Gigabit PoE + Managed Switch | ffhl.sw.005 |
-  |             | FFHL          | yksflip       | TP-Link TL-SG1008D 8-Port Gigabit Desktop Switch      | ffhl.sw.006 |
+  |             | FFHL          | nbsp          | TP-Link TL-SG1008D 8-Port Gigabit Desktop Switch      | ffhl.sw.006 |
   |             | FFHL          | nbsp          | TP-Link TL-SF1005P 5-Port 10/100 4-Port PoE+          | ffhl.sw.007 |
   |             | FFHL          | nbsp          | TP-Link TL-SG1008E 8-Port Gigabit Easy Smart Switch   | ffhl.sw.008 |
   |             | FFHL, t_x     | nbsp          | Mikrotik Routerboard PowerBox Prox                    | ffhl.sw.009 |
@@ -20,7 +20,7 @@
   |             | FFHL          | nbsp          | CPE210                                                |             |
   |             | FFHL          | nbsp          | CPE210                                                |             |
   | **Indoor**  |               |               |                                                       |             |
-  |             | FFHL          | ykslip        | Unifi AP AC Pro                                       | ffhl.000    |
+  |             | FFHL          | nbsp          | Unifi AP AC Pro                                       | ffhl.000    |
   |             | FFHL          | nbsp          | Unifi AP AC Pro                                       | ffhl.001    |
   |             | FFHL          | nbsp          | Unifi AP AC Pro                                       | ffhl.002    |
   |             | FFHL          | nbsp          | Unifi AP AC Pro                                       | ffhl.003    |
@@ -30,7 +30,7 @@
   |             | FFHL          | nbsp          | Unifi AP AC Lite                                      | ffhl.007    |
   |             | FFHL          | nbsp          | Unifi AP AC Lite                                      | ffhl.008    |
   |             | FFHL          | nbsp          | Unifi AP AC Lite                                      | ffhl.009    |
-  |             | FFHL          | ykslip        | Fritzbox 4040                                         | ffhl.010    |
+  |             | FFHL          | nbsp          | Fritzbox 4040                                         | ffhl.010    |
   |             | FFHL          | nbsp          | GL.iNet GL-AR750                                      | ffhl.011    |
   |             | FFHL          | nbsp          | GL.iNet GL-AR750                                      | ffhl.012    |
   |             | FFHL          | ykslip        | GL.iNet GL-AR750                                      | ffhl.013    |
@@ -38,7 +38,7 @@
   |             | FFHL          | cuechan       | GL.iNet GL-MT300N-V2                                  | ffhl.015    |
   |             | FFHL          | cuechan       | GL.iNet GL-MT300N-V2                                  | ffhl.016    |
   |             | t_x           | ykslip        | GL.Inet GL-XE300C6                                    | ffhl.017    |
-  |             | yksflip       | ykslip        | GL.iNet GL-X750                                       | ffhl.018    |
+  |             | yksflip       | nbsp          | GL.iNet GL-X750                                       | ffhl.018    |
   |             | ffhl          | paul          | (microrouter) GL.iNet USB-150                         |             |
   |             | ffhl          | nbsp          | 4x plasma Coud (versch. Modelle)                      |             |
   |             | ffhl          | walli/Till    | 2x plasma Coud PA 300                                 |             |
