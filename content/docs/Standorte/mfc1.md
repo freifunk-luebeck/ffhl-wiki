@@ -2,22 +2,23 @@
 title: mfc1
 ---
 
-MFC1
-====
+# MFC1
+
+## Hardware
+- 2x tpl-link eap225 outdoor v3 mit uma-d Sektor Antenn
+- 1x fujitsu S720 als offloader
+- 1x Cisco SGSG 200-08P als PoE Switch
+
 
 ## VLANs
-
 - `1`: default (ffhl-client)
 - `2`: ffhl-mesh (batman-adv)
 - `4`: uplink (mfc Netz)
 
-
 ## Switch
-
 Cisco SG 200-08P, erreichbar über [sw01-mfc1](http://10.130.0.12/nikola_main.html).
 
-
-**Ports:**
+### Ports
 
 - `g1`: [mfc1-eap-02](http://[2001:67c:2d50:0:b6b0:24ff:fe66:9f58]/) (vlan 2, untagged)
 - `g2`: [mfc1-eap-01](http://[2001:67c:2d50:0:9ea2:f4ff:fefd:c49e]/) (vlan 2, untagged)
@@ -29,12 +30,8 @@ Cisco SG 200-08P, erreichbar über [sw01-mfc1](http://10.130.0.12/nikola_main.ht
 - `g8`: Uplink (vlan 4, untagged)
 
 
-
-
-Bilder
-------
-
-![Instalationskasten mit switch und offloader](mfc1-kasten.jpg)
+## Bilder
+![Instalationskasten mit switch und offloader](/standorte/mfc1/mfc1-kasten.jpg)
 
 
 Ost
