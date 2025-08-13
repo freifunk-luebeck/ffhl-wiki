@@ -3,12 +3,15 @@ languageCode = "de-de"
 title = "FFHL Wiki"
 theme = "hugo-book"
 
+enableGitInfo = true
+
 
 [params]
+#           https://git.chaotikum.org/freifunk-luebeck/wiki/-/blob/master/content/docs/Ideen.md
 BookRepo = "https://git.chaotikum.org/freifunk-luebeck/wiki"
 BookEditPath = "/-/blob/master/"
 BookLogo = "/logo.svg"
-BookSection = "docs"
+BookSection = "*"
 BookComments = true
 BookPortableLinks = true
 #BookMenuBundle = "/menu"
