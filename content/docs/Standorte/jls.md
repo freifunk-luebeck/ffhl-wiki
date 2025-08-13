@@ -91,9 +91,9 @@ NW: CPE510 -> Feuerwehr /  Krempelsdorfer Alle
 * Isolate Stations: off (for now)
 * IP: 192.168.0.13
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Diese Rictfunkstrecke ist noch nicht eingerichtet!**
-{{< /hint >}}
+{{% /hint %}}
 * connected to: Fluse100 with Mikrotik LHG 60G
   * Hostname: fluse100-lhg60-w
   * Firmware: MikroTik RouterOS 7.11.2

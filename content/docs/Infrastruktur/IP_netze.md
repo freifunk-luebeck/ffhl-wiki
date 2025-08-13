@@ -105,9 +105,9 @@ Mögliche Adressen:
 
 
 
-{{< hint warning >}}
+{{% hint warning %}}
 TODO: alte, nicht mehr verwendete Adressen entfernen (anpingen, kontaktieren, entfernen)
-{{< /hint >}}
+{{% /hint %}}
 
 
 | IP-Adresse                  | Notizen                    | Hostname        |

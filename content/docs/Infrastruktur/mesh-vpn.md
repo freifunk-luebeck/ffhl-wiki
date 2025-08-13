@@ -42,11 +42,10 @@ Beim hinzufügen eines Keys muss folgendes berücksichtigt werden:
 
 
 ## respondd key publishing
-{{< hint warning >}}
+{{% hint warning %}}
 Dies ist noch nicht umgesetz. (stand Aug. 2020)
-{{< /hint >}}
+{{% /hint %}}
 
 Ausserdem werden Keys, die über das Mesh bekannt gegeben werden (siehe [respondd](https://gluon.readthedocs.io/en/latest/features/monitoring.html#gluon-respondd) und [v2018.1 release notes](https://gluon.readthedocs.io/en/latest/releases/v2018.1.html#public-key-in-respondd-data-optional)) und noch nicht eingetragen sind, automatisch an keys@luebeck.freifunk.net geschickt.
 
 Der Plan ist eigentlich, dass die auch direkt automatisch hinzugefügt werden, aber das ist mir gerade noch zu heikel.
-

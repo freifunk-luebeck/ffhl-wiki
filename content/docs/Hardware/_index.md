@@ -27,7 +27,8 @@ Das heißt, wir haben bei allen Geräten keine Bedenken für mindestens die
 nächsten 5 Jahre.
 
 {{< tabs "uniqueid" >}}
-{{< tab "Indoor" >}}
+
+{{% tab "Indoor" %}}
 
 Unsere gängigen Empfehlungen für den Betrieb moderner Hardware im
 
@@ -49,8 +50,8 @@ Unsere gängigen Empfehlungen für den Betrieb moderner Hardware im
 | Neupreis         | [€ 60-70](https://geizhals.de/netgear-wi-fi-range-extender-ex6150-ex6150-100pes-a1232062.html)                     | [€ 70](https://geizhals.de/avm-fritz-box-4040-20002763-a1501050.html)     | [€ 80](https://geizhals.de/ubiquiti-unifi-ap-ac-lite-uap-ac-lite-a1325765.html) | [€ 80-90](https://geizhals.de/gl-inet-gl-b1300-a1812653.html)                                                      |
 | Installation via | [Webinterface](https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=970f1914be3f299fb302ca74a214589397000858) | [FTP](https://fritz-tools.readthedocs.io/de/latest/flashing/general.html) | [SSH](https://forum.darmstadt.freifunk.net/t/unifi-ap-erstinstallation/790)     | [Webinterface](https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=04d3308b6248ef21a6f0bc3378b342906c2d2865) |
 
-{{< /tab >}}
-{{< tab "Outdoor" >}}
+{{% /tab %}}
+{{% tab "Outdoor" %}}
 
 Für eine brauchbare Außenabdeckung muss ein Router Wind und Wetter
 trotzen können, diese Geräte sind darauf hinreichend vorbereitet.
@@ -75,8 +76,8 @@ trotzen können, diese Geräte sind darauf hinreichend vorbereitet.
 | USB              | ✗                                                                           |
 | Neupreis         | [€ 87](https://geizhals.de/ubiquiti-unifi-ac-mesh-uap-ac-m-a1547488.html)   |
 | Installation via | [SSH](https://forum.darmstadt.freifunk.net/t/unifi-ap-erstinstallation/790) |
-{{< /tab >}}
-{{< tab "Erschwinglich" >}}
+{{% /tab %}}
+{{% tab "Erschwinglich" %}}
 
 Geräte welche teilweise nur auf dem Gebrauchtmarkt zu akzeptablen
 Preisen verfügbar sind. Sie sind zwar technologisch überholt, es sind
@@ -102,7 +103,7 @@ uns jedoch keine weiteren Unzulänglichkeiten bekannt.
 | Neupreis         | ✗                                                                         | ✗                                                                           | [€ 59](https://geizhals.de/avm-fritz-wlan-repeater-450e-20002589-a1065058.html) | [€ 37](https://geizhals.de/netgear-r6120-r6120-100pes-a1624501.html)        | [€ 45](https://geizhals.de/avm-fritz-box-4020-20002713-a1244179.html)     | [€ 23](https://geizhals.de/gl-inet-mt300n-gl-mt300n-v2-a1662301.html)       |
 | Gebrauchtpreis   | max. € 20                                                                 | max. € 25                                                                   | max. € 30                                                                       | max. € 35                                                                   | max. € 30                                                                 | ~ €23                                                                       |
 | Installation via | [FTP](https://fritz-tools.readthedocs.io/de/latest/flashing/general.html) | [Webinterface](https://darmstadt.freifunk.net/mitmachen/router-einrichten/) | [FTP](https://fritz-tools.readthedocs.io/de/latest/flashing/general.html)       | [Webinterface](https://darmstadt.freifunk.net/mitmachen/router-einrichten/) | [FTP](https://fritz-tools.readthedocs.io/de/latest/flashing/general.html) | [Webinterface](https://darmstadt.freifunk.net/mitmachen/router-einrichten/) |
-{{< /tab >}}
+{{% /tab %}}
 {{< /tabs >}}
 
 

@@ -26,9 +26,9 @@ Diese Seite soll für uns einen kleinen Überblick geben. Dinge, die wir benutze
 
 ## SSH-Keys
 
-{{< hint danger >}}
+{{% hint danger %}}
 **Achtung**: ed25519-keys funktionieren **nicht** mit gluon/openwrt
-{{< /hint >}}
+{{% /hint %}}
 
 Weiter Keyss sind auch im [Key-repo](https://git.chaotikum.org/freifunk-luebeck/ssh-keys). (private)
 

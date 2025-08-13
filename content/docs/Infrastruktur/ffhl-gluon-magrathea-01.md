@@ -13,12 +13,12 @@ Damit srv02 respondd requests rausschicken kann, die nicht von gluon geblockt we
 nötig.
 
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Achtung!**
 
 Die rule ist nicht reboot persistent und muss nach einem neustart wieder hinzugefügt werden.
 Siehe [hier](https://github.com/freifunk-gluon/gluon/pull/2103)
-{{< /hint >}}
+{{% /hint %}}
 
 
 `/lib/gluon/ebtables/110-mcast-allow-respondd`:

@@ -7,7 +7,7 @@ draft: true
 ## Freifunk-Firmware Flashen
 
 Im Folgenden findest Du eine Anleitung wie Du deinen Router zu einem Freifunk-Router verwandeln kannst.
-Wir versuchen zu den meisten aktuellen Modellen Anleitungen bereitzustellen und diese aktuell zu halten. Solltest du an einem Schritt Probleme haben, frag gerne um Hilfe (per [email](mailto:info@luebeck.freifunk.net) oder im [matrix-chat #ffhl:matrix.org](https://matrix.to/#/!abaEXDFMmCWEivMGJF:matrix.org?via=matrix.org&via=matrix.eclabs.de&via=toppoint.de)) oder komm zu einem unserer nächsten [Treffen](https://luebeck.freifunk.net/treffen.html) und bring den Router gleich mit! 
+Wir versuchen zu den meisten aktuellen Modellen Anleitungen bereitzustellen und diese aktuell zu halten. Solltest du an einem Schritt Probleme haben, frag gerne um Hilfe (per [email](mailto:info@luebeck.freifunk.net) oder im [matrix-chat #ffhl:matrix.org](https://matrix.to/#/!abaEXDFMmCWEivMGJF:matrix.org?via=matrix.org&via=matrix.eclabs.de&via=toppoint.de)) oder komm zu einem unserer nächsten [Treffen](https://luebeck.freifunk.net/treffen.html) und bring den Router gleich mit!
 
 ### Firmware herunterladen
 
@@ -21,7 +21,7 @@ Um den Router mit der Firmware zu flashen, gibt es je nach Hardware unterschiedl
 Die allermeisten lassen sich über ein Webinterface, manche per SSH und andere nur per sftp flashen.
 
 {{< tabs "uniqueid" >}}
-{{< tab "Webinterface / Gl.iNet" >}} 
+{{% tab "Webinterface / Gl.iNet" %}}
 
 1. Verbinde dich mit dem Router per Lan-Kabel an eine der Client-Buchsen des Routers (meistens Gelb).
 2. Öffne das Webinterface des Routers (häufig http://192.168.0.1, http://192.168.1.1, http://192.168.178.1)
@@ -32,33 +32,33 @@ Die allermeisten lassen sich über ein Webinterface, manche per SSH und andere n
 
 TODO Bilder
 
-{{< /tab >}}
-{{< tab "Webinterface / Netgear EX6150" >}} 
+{{% /tab %}}
+{{% tab "Webinterface / Netgear EX6150" %}}
 
 https://freifunk-ingolstadt.de/eigener-freifunk-hotspot/anleitung/installationsanleitung-fuer-netgear-wi-fi-range-extender-ex6150-v2/
 
-{{< /tab >}}
+{{% /tab %}}
 
-{{< tab "FritzTool / SSH - AVM Fritzbox 4040" >}} 
+{{% tab "FritzTool / SSH - AVM Fritzbox 4040" %}}
 
 https://fritz-tools.readthedocs.io/de/latest/
 https://wiki.bremen.freifunk.net/Anleitungen/Firmware/Flashen-FritzBox-4040
 
-{{< /tab >}}
-{{< tab "TP-LINK Archer" >}} 
+{{% /tab %}}
+{{% tab "TP-LINK Archer" %}}
 
 https://www.youtube.com/watch?v=l9dopd0AtBY
 
-{{< /tab >}}
-{{< tab "Ubiquiti " >}} 
+{{% /tab %}}
+{{% tab "Ubiquiti " %}}
 
 Unifi AC: https://wiki.freifunk.net/Ubiquiti_Unifi_AC/Flash-Anleitung
 M-Serie: https://wiki.freifunk.net/Ubiquiti_M-Serie/Flash-Anleitung
 
-{{< /tab >}}
+{{% /tab %}}
 {{< /tabs >}}
 
-Du solltest nun ein Wlan mit dem Namen _"luebeck.freifunk.net"_ empfangen. Nach kurzer Zeit sollte der neue Knoten auch auf der [Karte](https://map.luebeck.freifunk.net/) auftauchen. 
+Du solltest nun ein Wlan mit dem Namen _"luebeck.freifunk.net"_ empfangen. Nach kurzer Zeit sollte der neue Knoten auch auf der [Karte](https://map.luebeck.freifunk.net/) auftauchen.
 
 
 
