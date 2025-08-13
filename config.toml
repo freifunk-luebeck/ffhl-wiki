@@ -2,7 +2,6 @@ baseURL = "https://wiki.luebeck.freifunk.net"
 languageCode = "de-de"
 title = "FFHL Wiki"
 theme = "hugo-book"
-
 enableGitInfo = true
 
 
@@ -11,7 +10,7 @@ enableGitInfo = true
 BookRepo = "https://git.chaotikum.org/freifunk-luebeck/wiki"
 BookEditPath = "/-/blob/master/"
 BookLogo = "/logo.svg"
-BookSection = "*"
+BookSection = "docs/"
 BookComments = true
 BookPortableLinks = true
 #BookMenuBundle = "/menu"
