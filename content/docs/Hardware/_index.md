@@ -86,26 +86,26 @@ Geräte welche teilweise nur auf dem Gebrauchtmarkt zu akzeptablen
 Preisen verfügbar sind. Sie sind zwar technologisch überholt, es sind
 uns jedoch keine weiteren Unzulänglichkeiten bekannt.
 
-| Abbildung        | ![TP-Link WDR3600](/hardware/wr1043nd.svg)                                  | ![TP-Link WDR4300 (v1) ](/hardware/TL-WDR4300.svg)                              | ![Netgear R6120](/hardware/netgear-r6120.svg)                               |
-|------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Hersteller       | TP-Link                                                                     | TP-Link                                                                         | Netgear                                                                     |
-| Modell           | TL-WDR3600                                                                  | TL-WDR4300                                                                      | R6120                                                                       |
-|                  | v1                                                                          |                                                                                 |                                                                             |
-| Stromversorgung  | Netzteil                                                                    | Netzteil                                                                        | Netzteil                                                                    |
-| CPU              | 1x560 MHz                                                                   | 1x560 MHz                                                                       | 1x580 MHz                                                                   |
-|                  | MIPS                                                                        | MIPS 74Kc                                                                       | MIPS 74Kc                                                                   |
-| RAM              | 128 MB                                                                      | 128 MB                                                                          | 64 MB                                                                       |
-| Flash            | 8 MB                                                                        | 8 MB                                                                            | 16 MB                                                                       |
-| Wi-Fi Standard   | Wi-Fi 5                                                                     | Wi-Fi 5                                                                         | Wi-Fi 5                                                                     |
-|                  | 802.11 b/g/n, a/n                                                           | 802.11b/g/n, a/c                                                                | 802.11ac (Wave 1)                                                           |
-| Frequenzbänder   | 2.4 GHz, 5GHz                                                               | 2.4 GHz, 5GHz                                                                   | 2.4 GHz / 5 GHz                                                             |
-| WLAN-Datenrate,  |                                                                             | 450 (2.4 GHz)                                                                   | 300 (2.4 GHz)                                                               |
-| bis zu (MBit/s)  |                                                                             |                                                                                 | 866 (5 GHz)                                                                 |
-| USB              | 2x 2.0                                                                      | ✗                                                                               | 1x USB2.0                                                                   |
-|                  |                                                                             |                                                                                 |                                                                             |
-| Neupreis         | ✗                                                                           | [€ 59](https://geizhals.de/avm-fritz-wlan-repeater-450e-20002589-a1065058.html) | [€ 37](https://geizhals.de/netgear-r6120-r6120-100pes-a1624501.html)        |
-| Gebrauchtpreis   | max. € 25                                                                   | max. € 30                                                                       | max. € 35                                                                   |
-| Installation via | [Webinterface](https://darmstadt.freifunk.net/mitmachen/router-einrichten/) | [FTP](https://fritz-tools.readthedocs.io/de/latest/flashing/general.html)       | [Webinterface](https://darmstadt.freifunk.net/mitmachen/router-einrichten/) |
+| Abbildung        | ![Netgear R6120](/hardware/netgear-r6120.svg)                               |
+|------------------|-----------------------------------------------------------------------------|
+| Hersteller       | Netgear                                                                     |
+| Modell           | R6120                                                                       |
+|                  |                                                                             |
+| Stromversorgung  | Netzteil                                                                    |
+| CPU              | 1x580 MHz                                                                   |
+|                  | MIPS 74Kc                                                                   |
+| RAM              | 64 MB                                                                       |
+| Flash            | 16 MB                                                                       |
+| Wi-Fi Standard   | Wi-Fi 5                                                                     |
+|                  | 802.11ac (Wave 1)                                                           |
+| Frequenzbänder   | 2.4 GHz / 5 GHz                                                             |
+| WLAN-Datenrate,  | 300 (2.4 GHz)                                                               |
+| bis zu (MBit/s)  | 866 (5 GHz)                                                                 |
+| USB              | 1x USB2.0                                                                   |
+|                  |                                                                             |
+| Neupreis         | ✗                                                                           |
+| Gebrauchtpreis   | max. € 25                                                                   |
+| Installation via | [Webinterface](https://darmstadt.freifunk.net/mitmachen/router-einrichten/) |
 {{% /tab %}}
 {{< /tabs >}}
 
